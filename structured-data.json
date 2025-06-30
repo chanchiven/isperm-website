@@ -1,0 +1,97 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://isperm.com/#organization",
+      "name": "iSperm - Pendox",
+      "url": "https://isperm.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://isperm.com/images/logo.png"
+      },
+      "description": "Leading provider of fully automated CASA systems for semen analysis and sperm analysis. Fully automated veterinary semen analyzer for animal reproduction and diagnostics.",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "2F, Block B, Shenchengtou & Zhongcheng Life Science Park, Pingshan District",
+        "addressLocality": "Shenzhen",
+        "addressRegion": "Guangdong",
+        "addressCountry": "CN"
+      },
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+86-150-19226217",
+        "email": "market@isperm.com",
+        "contactType": "customer service"
+      }
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://isperm.com/#website",
+      "url": "https://isperm.com",
+      "name": "iSperm - Fully Automated CASA System",
+      "description": "Leading provider of fully automated CASA systems for semen analysis and sperm analysis",
+      "publisher": {
+        "@id": "https://isperm.com/#organization"
+      },
+      "potentialAction": [
+        {
+          "@type": "SearchAction",
+          "target": "https://isperm.com/search?q={search_term_string}",
+          "query-input": "required name=search_term_string"
+        }
+      ]
+    },
+    {
+      "@type": "Product",
+      "@id": "https://isperm.com/products/SQA-6100vet.html#product",
+      "name": "SQA-6100vet Fully Automated Veterinary Semen Analyzer",
+      "description": "AI powered fully automated CASA system for veterinary semen analysis",
+      "url": "https://isperm.com/products/SQA-6100vet.html",
+      "image": "https://isperm.com/images/SQA-6100vet.jpg",
+      "brand": {
+        "@type": "Brand",
+        "name": "Pendox"
+      },
+      "category": "Semen Analysis",
+      "offers": {
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "seller": {
+          "@id": "https://isperm.com/#organization"
+        }
+      }
+    },
+    {
+      "@type": "Product",
+      "@id": "https://isperm.com/products/FragScope.html#product",
+      "name": "FragScope, Sperm DNA Fragmentation Test Kit",
+      "description": "Sperm DNA fragmentation test kit, sperm chromatin dispersion(SCD) assay",
+      "url": "https://isperm.com/products/FragScope.html",
+      "image": "https://isperm.com/images/FragScope.jpg",
+      "brand": {
+        "@type": "Brand",
+        "name": "Pendox"
+      },
+      "category": "Semen Analysis",
+      "offers": {
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "seller": {
+          "@id": "https://isperm.com/#organization"
+        }
+      }
+    },
+    {
+      "@type": "Service",
+      "@id": "https://isperm.com/#service",
+      "name": "Fully Automated CASA System Solutions",
+      "description": "Comprehensive semen analysis solutions including fully automated CASA systems, sperm DNA fragmentation, and Sperm morphology staining, Sperm MAR test",
+      "provider": {
+        "@id": "https://isperm.com/#organization"
+      },
+      "serviceType": "Semen Analysis",
+      "areaServed": "Worldwide"
+    }
+  ]
+} 
