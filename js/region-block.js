@@ -57,14 +57,14 @@
                         font-size: 2.5rem;
                         font-weight: 300;
                         color: #fff;
-                    ">⚠️ Access Restricted</h1>
+                    ">⚠️ 404</h1>
                     
                     <p style="
                         font-size: 1.2rem;
                         line-height: 1.6;
                         margin: 0 0 30px 0;
                         opacity: 0.9;
-                    ">We're sorry, but this website is not available in your current region.</p>
+                    ">We're sorry, but this website is not available.</p>
                     
                     <div style="
                         background: rgba(255, 255, 255, 0.2);
@@ -73,7 +73,7 @@
                         margin: 20px 0;
                     ">
                         <p style="margin: 0; font-size: 0.9rem; opacity: 0.8;">
-                            If you believe this is an error, please contact our support team.
+                            If you believe this is an error, please contact your internet supplier.
                         </p>
                     </div>
                     
@@ -99,7 +99,7 @@
                     font-size: 0.8rem;
                     opacity: 0.6;
                 ">
-                    <p>iSperm - SQA-6100vet Veterinary CASA System</p>
+                    <p>404</p>
                 </div>
             </div>
         `;
@@ -218,3 +218,4 @@
     window.regionBlockConfig = config;
     
 })();
+
