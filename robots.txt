@@ -1,0 +1,19 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://isperm.com/sitemap.xml
+
+# Allow all pages to be crawled
+Allow: /index.html
+Allow: /products.html
+Allow: /about.html
+Allow: /contact.html
+Allow: /products/
+Allow: /css/
+Allow: /js/
+Allow: /images/
+
+# Disallow admin or private areas (if any)
+Disallow: /admin/
+Disallow: /private/ 

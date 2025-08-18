@@ -1,0 +1,166 @@
+<!-- 简化的地区访问控制代码 -->
+<!-- 可以直接添加到您的HTML页面的 <head> 部分 -->
+
+<script>
+// 地区访问控制 - 简化版本
+(function() {
+    'use strict';
+    
+    // 配置
+    const BLOCKED_COUNTRIES = ['CN']; // 被阻止的国家代码
+    const API_ENDPOINT = 'https://ipapi.co/json/';
+    const TIMEOUT = 5000;
+    
+    // 显示访问被阻止页面
+    function showAccessDenied() {
+        // 保存原始内容
+        if (!window.originalBodyContent) {
+            window.originalBodyContent = document.body.innerHTML;
+        }
+        
+        // 创建阻止页面
+        const blockPage = `
+            <div style="
+                text-align: center; 
+                padding: 50px 20px; 
+                font-family: 'Microsoft YaHei', Arial, sans-serif;
+                background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+                color: white;
+                min-height: 100vh;
+                display: flex;
+                flex-direction: column;
+                justify-content: center;
+                align-items: center;
+            ">
+                <div style="
+                    background: rgba(255, 255, 255, 0.1);
+                    padding: 40px;
+                    border-radius: 15px;
+                    backdrop-filter: blur(10px);
+                    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);
+                    max-width: 500px;
+                    width: 90%;
+                ">
+                    <h1 style="margin: 0 0 20px 0; font-size: 2.5rem; font-weight: 300;">
+                        ⚠️ Access Restricted
+                    </h1>
+                    
+                    <p style="font-size: 1.2rem; line-height: 1.6; margin: 0 0 30px 0; opacity: 0.9;">
+                        We're sorry, but this website is not available in your current region.
+                    </p>
+                    
+                    <div style="background: rgba(255, 255, 255, 0.2); padding: 20px; border-radius: 10px; margin: 20px 0;">
+                        <p style="margin: 0; font-size: 0.9rem; opacity: 0.8;">
+                            If you believe this is an error, please contact our support team.
+                        </p>
+                    </div>
+                    
+                    <button onclick="window.history.back()" style="
+                        background: rgba(255, 255, 255, 0.2);
+                        border: 2px solid rgba(255, 255, 255, 0.3);
+                        color: white;
+                        padding: 12px 24px;
+                        border-radius: 25px;
+                        cursor: pointer;
+                        font-size: 1rem;
+                        transition: all 0.3s ease;
+                    " onmouseover="this.style.background='rgba(255,255,255,0.3)'" 
+                       onmouseout="this.style.background='rgba(255,255,255,0.2)'">
+                        ← Go Back
+                    </button>
+                </div>
+                
+                <div style="margin-top: 40px; font-size: 0.8rem; opacity: 0.6;">
+                    <p>iSperm - SQA-6100vet Veterinary CASA System</p>
+                </div>
+            </div>
+        `;
+        
+        // 替换页面内容
+        document.body.innerHTML = blockPage;
+        document.body.style.overflow = 'hidden';
+        document.body.setAttribute('data-access-blocked', 'true');
+    }
+    
+    // 检测地理位置
+    async function detectLocation() {
+        try {
+            // 设置超时
+            const controller = new AbortController();
+            const timeoutId = setTimeout(() => controller.abort(), TIMEOUT);
+            
+            const response = await fetch(API_ENDPOINT, {
+                signal: controller.signal,
+                headers: { 'Accept': 'application/json' }
+            });
+            
+            clearTimeout(timeoutId);
+            
+            if (!response.ok) {
+                throw new Error(`HTTP error! status: ${response.status}`);
+            }
+            
+            const data = await response.json();
+            
+            // 检查是否在被阻止的国家列表中
+            if (data.country_code && BLOCKED_COUNTRIES.includes(data.country_code)) {
+                console.log(`Access blocked for country: ${data.country_code}`);
+                showAccessDenied();
+                return;
+            }
+            
+            console.log(`Access allowed for country: ${data.country_code}`);
+            
+        } catch (error) {
+            console.log('Location detection failed:', error.message);
+            
+            // 如果检测失败，可以选择阻止或允许访问
+            // 这里选择阻止访问以确保安全
+            showAccessDenied();
+        }
+    }
+    
+    // 备用检测方法（基于时区）
+    function fallbackDetection() {
+        try {
+            const timezone = Intl.DateTimeFormat().resolvedOptions().timeZone;
+            
+            // 检查是否是中国时区
+            if (timezone.includes('Asia/Shanghai') || timezone.includes('Asia/Urumqi')) {
+                console.log('Access blocked based on timezone detection');
+                showAccessDenied();
+                return;
+            }
+            
+            console.log('Access allowed based on timezone detection');
+            
+        } catch (error) {
+            console.log('Fallback detection failed:', error.message);
+            // 如果备用检测也失败，阻止访问
+            showAccessDenied();
+        }
+    }
+    
+    // 初始化
+    function init() {
+        // 检查是否已经被阻止
+        if (document.body.getAttribute('data-access-blocked') === 'true') {
+            return;
+        }
+        
+        // 尝试主要检测方法
+        detectLocation().catch(() => {
+            // 如果主要方法失败，使用备用方法
+            fallbackDetection();
+        });
+    }
+    
+    // 页面加载完成后初始化
+    if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', init);
+    } else {
+        init();
+    }
+    
+})();
+</script>
