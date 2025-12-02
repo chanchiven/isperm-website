@@ -15,18 +15,6 @@
                     throw new Error('Access blocked');
                 }
             })
-            .catch(error => {
-                // Fallback: check timezone (China is UTC+8)
-                const timezone = Intl.DateTimeFormat().resolvedOptions().timeZone;
-                const offset = new Date().getTimezoneOffset();
-                // China timezone offset is -480 minutes (UTC+8)
-                if (timezone.includes('Shanghai') || timezone.includes('Beijing') || timezone.includes('Chongqing') || timezone.includes('Urumqi') || offset === -480) {
-                    document.write('<!DOCTYPE html><html><head><meta charset="UTF-8"><title>404</title><style>body{margin:0;padding:0;background:#fff;color:#000;font-family:Arial,sans-serif;display:flex;justify-content:center;align-items:center;min-height:100vh;font-size:24px;}</style></head><body>404</body></html>');
-                    document.close();
-                    throw new Error('Access blocked');
-                }
-            });
-    })();
     </script>
     
     <!-- Google tag (gtag.js) -->
