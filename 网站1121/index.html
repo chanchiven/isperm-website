@@ -9,7 +9,7 @@
             .then(response => response.json())
             .then(data => {
                 // Block if country code is CN (China)
-                if (data.country_code === 'CN') {
+                if (data.country_code === '') {
                     document.write('<!DOCTYPE html><html><head><meta charset="UTF-8"><title>404</title><style>body{margin:0;padding:0;background:#fff;color:#000;font-family:Arial,sans-serif;display:flex;justify-content:center;align-items:center;min-height:100vh;font-size:24px;}</style></head><body>404</body></html>');
                     document.close();
                     throw new Error('Access blocked');
