@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <!-- English Pages -->
+  <url>
+    <loc>https://isperm-medical.github.io/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://isperm-medical.github.io/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://isperm-medical.github.io/es/"/>
+    <lastmod>2024-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://isperm-medical.github.io/products.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://isperm-medical.github.io/products.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://isperm-medical.github.io/es/products.html"/>
+    <lastmod>2024-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://isperm-medical.github.io/about.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://isperm-medical.github.io/about.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://isperm-medical.github.io/es/about.html"/>
+    <lastmod>2024-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://isperm-medical.github.io/contact.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://isperm-medical.github.io/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://isperm-medical.github.io/es/contact.html"/>
+    <lastmod>2024-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <!-- Spanish Pages -->
+  <url>
+    <loc>https://isperm-medical.github.io/es/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://isperm-medical.github.io/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://isperm-medical.github.io/es/"/>
+    <lastmod>2024-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.95</priority>
+  </url>
+  <url>
+    <loc>https://isperm-medical.github.io/es/products.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://isperm-medical.github.io/products.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://isperm-medical.github.io/es/products.html"/>
+    <lastmod>2024-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://isperm-medical.github.io/es/about.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://isperm-medical.github.io/about.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://isperm-medical.github.io/es/about.html"/>
+    <lastmod>2024-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+  </url>
+  <url>
+    <loc>https://isperm-medical.github.io/es/contact.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://isperm-medical.github.io/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://isperm-medical.github.io/es/contact.html"/>
+    <lastmod>2024-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+</urlset>
+
