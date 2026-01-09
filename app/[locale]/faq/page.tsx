@@ -10,14 +10,35 @@ export async function generateMetadata({
 }: {
   params: Promise<{locale: string}>;
 }): Promise<Metadata> {
-  const {locale} = await params;
-  const t = await getTranslations({locale, namespace: 'faq'});
+  try {
+    if (!params) {
+      return {
+        title: 'Knowledge Hub | iSperm Medical',
+        description: 'Comprehensive CASA system FAQs and guides.',
+      };
+    }
+    const resolvedParams = await params;
+    if (!resolvedParams || !resolvedParams.locale) {
+      return {
+        title: 'Knowledge Hub | iSperm Medical',
+        description: 'Comprehensive CASA system FAQs and guides.',
+      };
+    }
+    const {locale} = resolvedParams;
+    const t = await getTranslations({locale, namespace: 'faq'});
 
-  return {
-    title: t('meta.title'),
-    description: t('meta.description'),
-    alternates: generateHreflangAlternates('/faq'),
-  };
+    return {
+      title: t('meta.title'),
+      description: t('meta.description'),
+      alternates: generateHreflangAlternates('/faq'),
+    };
+  } catch (error) {
+    console.error('Error in faq generateMetadata:', error);
+    return {
+      title: 'Knowledge Hub | iSperm Medical',
+      description: 'Comprehensive CASA system FAQs and guides.',
+    };
+  }
 }
 
 export default async function FAQPage({
@@ -25,9 +46,17 @@ export default async function FAQPage({
 }: {
   params: Promise<{locale: string}>;
 }) {
-  const {locale} = await params;
-  setRequestLocale(locale);
-  const t = await getTranslations({locale, namespace: 'faq'});
+  try {
+    if (!params) {
+      throw new Error('Params is undefined in FAQPage');
+    }
+    const resolvedParams = await params;
+    if (!resolvedParams || !resolvedParams.locale) {
+      throw new Error('Resolved params is invalid in FAQPage');
+    }
+    const {locale} = resolvedParams;
+    setRequestLocale(locale);
+    const t = await getTranslations({locale, namespace: 'faq'});
   // Get English translations for fallback
   const tEn = await getTranslations({locale: 'en', namespace: 'faq'});
 
@@ -279,5 +308,14 @@ export default async function FAQPage({
       </footer>
     </div>
   );
+  } catch (error) {
+    console.error('Error in FAQPage:', error);
+    // 返回一个基本的错误页面
+    return (
+      <div>
+        <p>Error loading page. Please try again later.</p>
+      </div>
+    );
+  }
 }
 

@@ -9,14 +9,35 @@ export async function generateMetadata({
 }: {
   params: Promise<{locale: string}>;
 }): Promise<Metadata> {
-  const {locale} = await params;
-  const t = await getTranslations({locale, namespace: 'about'});
+  try {
+    if (!params) {
+      return {
+        title: 'About Us | iSperm Medical',
+        description: 'Learn about iSperm Medical and our CASA systems.',
+      };
+    }
+    const resolvedParams = await params;
+    if (!resolvedParams || !resolvedParams.locale) {
+      return {
+        title: 'About Us | iSperm Medical',
+        description: 'Learn about iSperm Medical and our CASA systems.',
+      };
+    }
+    const {locale} = resolvedParams;
+    const t = await getTranslations({locale, namespace: 'about'});
 
-  return {
-    title: t('meta.title'),
-    description: t('meta.description'),
-    alternates: generateHreflangAlternates('/about'),
-  };
+    return {
+      title: t('meta.title'),
+      description: t('meta.description'),
+      alternates: generateHreflangAlternates('/about'),
+    };
+  } catch (error) {
+    console.error('Error in about generateMetadata:', error);
+    return {
+      title: 'About Us | iSperm Medical',
+      description: 'Learn about iSperm Medical and our CASA systems.',
+    };
+  }
 }
 
 export default async function AboutPage({
@@ -24,9 +45,17 @@ export default async function AboutPage({
 }: {
   params: Promise<{locale: string}>;
 }) {
-  const {locale} = await params;
-  setRequestLocale(locale);
-  const t = await getTranslations({locale, namespace: 'about'});
+  try {
+    if (!params) {
+      throw new Error('Params is undefined in AboutPage');
+    }
+    const resolvedParams = await params;
+    if (!resolvedParams || !resolvedParams.locale) {
+      throw new Error('Resolved params is invalid in AboutPage');
+    }
+    const {locale} = resolvedParams;
+    setRequestLocale(locale);
+    const t = await getTranslations({locale, namespace: 'about'});
 
   return (
     <div>
@@ -184,5 +213,14 @@ export default async function AboutPage({
       </footer>
     </div>
   );
+  } catch (error) {
+    console.error('Error in AboutPage:', error);
+    // 返回一个基本的错误页面
+    return (
+      <div>
+        <p>Error loading page. Please try again later.</p>
+      </div>
+    );
+  }
 }
 
