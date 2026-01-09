@@ -40,13 +40,6 @@ export async function generateMetadata({
       description: 'Advanced CASA system for human semen analysis.',
     };
   }
-} catch (error) {
-    console.error('Error in nexus-dx1 generateMetadata:', error);
-    return {
-      title: 'Nexus Dx1 | iSperm Medical',
-      description: 'Advanced CASA system for human semen analysis.',
-    };
-  }
 }
 
 export default async function NexusDx1Page({
