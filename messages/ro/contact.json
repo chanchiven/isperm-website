@@ -1,0 +1,69 @@
+{
+  "meta": {
+    "title": "Contact iSperm Medical | Suport Sistem CASA",
+    "description": "Contactează producătorul de top de sisteme CASA și analizoare de spermă. Obține suport pentru analizoare de morfologie a spermatozoizilor conforme cu ediția a 6-a WHO."
+  },
+  "nav": {
+    "home": "Acasă",
+    "products": "Produse",
+    "about": "Despre Noi",
+    "knowledgeHub": "Centru de Cunoștințe",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Contactează Specialiștii iSperm Medical",
+    "subtitle": "Pentru soluții clinice sau parteneriate globale de distribuție, echipa noastră este gata să ajute"
+  },
+  "actionCards": {
+    "partner": {
+      "title": "Devino Partener Global",
+      "description": "Alătură-te rețelei noastre mondiale și adu tehnologia CASA avansată pe piața ta.",
+      "emailSubject": "Devino Partener Global"
+    },
+    "consultation": {
+      "title": "Obține Consultație Profesională",
+      "description": "Ghidare expertă pentru nevoile tale clinice sau de cercetare în sănătatea reproductivă.",
+      "emailSubject": "Cerere de Consultație Profesională"
+    },
+    "button": "Trimite Email Echipei Noastre"
+  },
+  "form": {
+    "emailTitle": "Email de Contact",
+    "responsePromise": "Promitem să răspundem în 24 de ore.",
+    "name": "Nume",
+    "company": "Companie",
+    "email": "Email",
+    "productInterest": "Interes Produs",
+    "selectProduct": "Selectează o categorie de produs",
+    "humanProducts": "Produse umane",
+    "animalProducts": "Produse animale",
+    "message": "Mesaj",
+    "submitButton": "Trimite Mesaj",
+    "submitting": "Se trimite...",
+    "successMessage": "Mulțumim! Mesajul tău a fost trimis cu succes. Vom răspunde în 24 de ore.",
+    "errorMessage": "Ne pare rău, a apărut o eroare la trimiterea mesajului tău. Te rugăm să încerci din nou sau să ne contactezi direct la market@isperm.com",
+    "errors": {
+      "nameRequired": "Numele este obligatoriu",
+      "emailRequired": "Email-ul este obligatoriu",
+      "emailInvalid": "Te rugăm să introduci o adresă de email validă"
+    }
+  },
+  "trust": {
+    "globalSupport": "Suport Global",
+    "response24h": "Răspuns 24h"
+  },
+  "contact": {
+    "fullAddress": "2F, Block B, Shenchengtou & Zhongcheng Life Science Park, Pingshan District, Shenzhen, Guangdong, China"
+  },
+  "footer": {
+    "company": "iSperm Medical",
+    "description": "iSperm Medical Ltd. este angajat să ofere soluții tehnologice de ultimă generație în analiza spermei.",
+    "quickLinks": "Linkuri Rapide",
+    "contact": "Contact",
+    "email": "Email:",
+    "address": "Adresă:",
+    "fullAddress": "2F, Block B, Shenchengtou & Zhongcheng Life Science Park, Pingshan District, Shenzhen, Guangdong, China",
+    "rights": "© 2024 iSperm Medical Ltd. Toate drepturile rezervate."
+  }
+}
+

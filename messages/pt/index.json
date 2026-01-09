@@ -1,0 +1,75 @@
+{
+  "meta": {
+    "title": "Sistema CASA e Analisador de Espermatozoides | iSperm Medical",
+    "description": "Sistemas CASA totalmente automatizados e analisadores de morfologia espermática para uso humano e veterinário. Conformes com a 6ª edição da OMS. Fabricante líder de analisadores de sêmen."
+  },
+  "nav": {
+    "home": "Início",
+    "products": "Produtos",
+    "about": "Sobre Nós",
+    "knowledgeHub": "Centro de Conhecimento",
+    "contact": "Contato"
+  },
+  "hero": {
+    "title": "Revolucionando a Análise de Sêmen",
+    "subtitle": "Pioneirando o Futuro da Automação CASA",
+    "description": "Sistemas CASA totalmente automatizados para análise de sêmen humano e veterinário",
+    "exploreProducts": "Explorar Produtos",
+    "learnMore": "Ler Nossa História"
+  },
+  "about": {
+    "title": "Sobre a iSperm Medical",
+    "tagline": "Pioneirando o Futuro do Diagnóstico Reprodutivo",
+    "description": "Desde 2010, a iSperm Medical está na vanguarda da pesquisa em análise de sêmen. Como primeira empresa a introduzir sistemas CASA totalmente automatizados no mercado chinês, dedicamo-nos a transformar o diagnóstico de fertilidade através de precisão e tecnologia.",
+    "description2": "Desde nossas soluções clínicas inovadoras até nosso SQA-6100vet líder da indústria, combinamos algoritmos impulsionados por IA com microfluídica para oferecer precisão de nível laboratorial a profissionais em todo o mundo.",
+    "ourStory": "Nossa História",
+    "heroImage": {
+      "alt": "iSperm Medical - Fabricante líder de sistemas CASA e analisadores de qualidade do esperma para diagnóstico reprodutivo"
+    }
+  },
+  "features": {
+    "title": "Inovação Científica",
+    "subtitle": "Pioneirando o Futuro do Diagnóstico Reprodutivo",
+    "automated": {
+      "title": "Fluxo de Trabalho Padronizado",
+      "description": "Alcance automação de processo completo desde o carregamento até o relatório. Nossos sistemas eliminam viés subjetivo, garantindo consistência clínica e maximizando a produtividade do laboratório."
+    },
+    "aiPowered": {
+      "title": "Reconhecimento Inteligente por IA",
+      "description": "Impulsionado por algoritmos de IA dinâmica gaussiana, o iSperm oferece rastreamento morfológico e cinemático de alta precisão, identificando anomalias sutis com precisão diagnóstica sem precedentes.",
+      "compliance": "Conforme com os Padrões da 6ª Edição da OMS"
+    },
+    "standalone": {
+      "title": "Versatilidade Integrada",
+      "description": "Uma arquitetura tudo-em-um de grau clínico com palco térmico integrado e tela sensível ao toque intuitiva. Projetada para desempenho perfeito tanto em laboratórios de alto nível quanto em ambientes de campo exigentes."
+    },
+    "comprehensive": {
+      "title": "Análises Avançadas",
+      "description": "Parâmetros diagnósticos de espectro completo, incluindo concentração, motilidade multiclasse e morfologia da 6ª edição da OMS, fornecendo um perfil completo da saúde reprodutiva."
+    }
+  },
+  "timeline": {
+    "title": "Nossa Jornada",
+    "subtitle": "Um Legado de Inovação",
+    "2010": "Estabelecida com foco em pesquisa CASA pioneira na China.",
+    "2016": "Desenvolvido o primeiro sistema CASA de uso doméstico da China, trazendo diagnósticos avançados para o nível do consumidor.",
+    "2017": "Lançado o primeiro sistema CASA profissional totalmente automatizado na China.",
+    "today": "Nossa série CASA principal (Nexus Dx1 / SQA-6100vet) serve como a escolha confiável para avaliação reprodutiva automatizada em todo o mundo."
+  },
+  "footer": {
+    "company": "iSperm Medical",
+    "description": "A iSperm Medical Ltd. está comprometida em oferecer soluções tecnológicas de ponta em análise de sêmen.",
+    "quickLinks": "Links Rápidos",
+    "contact": "Contato",
+    "email": "E-mail:",
+    "address": "Endereço:",
+    "fullAddress": "2º andar, Bloco B, Parque de Ciências da Vida Shenchengtou & Zhongcheng, Distrito de Pingshan, Shenzhen, Guangdong, China",
+    "rights": "© 2024 iSperm Medical Ltd. Todos os direitos reservados."
+  },
+  "notFound": {
+    "title": "Página não encontrada",
+    "description": "A página que você está procurando não existe ou foi movida.",
+    "backToHome": "Voltar ao início",
+    "statusCode": "404"
+  }
+}

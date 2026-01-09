@@ -1,0 +1,522 @@
+{
+  "about.json": {
+    "ar": {
+      "missing_keys": [],
+      "placeholder_issues": [],
+      "html_tag_issues": [],
+      "file_exists": true
+    },
+    "bg": {
+      "missing_keys": [],
+      "placeholder_issues": [],
+      "html_tag_issues": [],
+      "file_exists": true
+    },
+    "de": {
+      "missing_keys": [],
+      "placeholder_issues": [],
+      "html_tag_issues": [],
+      "file_exists": true
+    },
+    "es": {
+      "missing_keys": [],
+      "placeholder_issues": [],
+      "html_tag_issues": [],
+      "file_exists": true
+    },
+    "fr": {
+      "missing_keys": [],
+      "placeholder_issues": [],
+      "html_tag_issues": [],
+      "file_exists": true
+    },
+    "id": {
+      "missing_keys": [],
+      "placeholder_issues": [],
+      "html_tag_issues": [],
+      "file_exists": true
+    },
+    "it": {
+      "missing_keys": [],
+      "placeholder_issues": [],
+      "html_tag_issues": [],
+      "file_exists": true
+    },
+    "ja": {
+      "missing_keys": [],
+      "placeholder_issues": [],
+      "html_tag_issues": [],
+      "file_exists": true
+    },
+    "ko": {
+      "missing_keys": [],
+      "placeholder_issues": [],
+      "html_tag_issues": [],
+      "file_exists": true
+    },
+    "nl": {
+      "missing_keys": [],
+      "placeholder_issues": [],
+      "html_tag_issues": [],
+      "file_exists": true
+    },
+    "pl": {
+      "missing_keys": [],
+      "placeholder_issues": [],
+      "html_tag_issues": [],
+      "file_exists": true
+    },
+    "pt": {
+      "missing_keys": [],
+      "placeholder_issues": [],
+      "html_tag_issues": [],
+      "file_exists": true
+    },
+    "ro": {
+      "missing_keys": [],
+      "placeholder_issues": [],
+      "html_tag_issues": [],
+      "file_exists": true
+    },
+    "ru": {
+      "missing_keys": [],
+      "placeholder_issues": [],
+      "html_tag_issues": [],
+      "file_exists": true
+    },
+    "tr": {
+      "missing_keys": [],
+      "placeholder_issues": [],
+      "html_tag_issues": [],
+      "file_exists": true
+    },
+    "uk": {
+      "missing_keys": [],
+      "placeholder_issues": [],
+      "html_tag_issues": [],
+      "file_exists": true
+    },
+    "vi": {
+      "missing_keys": [],
+      "placeholder_issues": [],
+      "html_tag_issues": [],
+      "file_exists": true
+    }
+  },
+  "contact.json": {
+    "ar": {
+      "missing_keys": [],
+      "placeholder_issues": [],
+      "html_tag_issues": [],
+      "file_exists": true
+    },
+    "bg": {
+      "missing_keys": [],
+      "placeholder_issues": [],
+      "html_tag_issues": [],
+      "file_exists": true
+    },
+    "de": {
+      "missing_keys": [],
+      "placeholder_issues": [],
+      "html_tag_issues": [],
+      "file_exists": true
+    },
+    "es": {
+      "missing_keys": [],
+      "placeholder_issues": [],
+      "html_tag_issues": [],
+      "file_exists": true
+    },
+    "fr": {
+      "missing_keys": [],
+      "placeholder_issues": [],
+      "html_tag_issues": [],
+      "file_exists": true
+    },
+    "id": {
+      "missing_keys": [],
+      "placeholder_issues": [],
+      "html_tag_issues": [],
+      "file_exists": true
+    },
+    "it": {
+      "missing_keys": [],
+      "placeholder_issues": [],
+      "html_tag_issues": [],
+      "file_exists": true
+    },
+    "ja": {
+      "missing_keys": [],
+      "placeholder_issues": [],
+      "html_tag_issues": [],
+      "file_exists": true
+    },
+    "ko": {
+      "missing_keys": [],
+      "placeholder_issues": [],
+      "html_tag_issues": [],
+      "file_exists": true
+    },
+    "nl": {
+      "missing_keys": [],
+      "placeholder_issues": [],
+      "html_tag_issues": [],
+      "file_exists": true
+    },
+    "pl": {
+      "missing_keys": [],
+      "placeholder_issues": [],
+      "html_tag_issues": [],
+      "file_exists": true
+    },
+    "pt": {
+      "missing_keys": [],
+      "placeholder_issues": [],
+      "html_tag_issues": [],
+      "file_exists": true
+    },
+    "ro": {
+      "missing_keys": [],
+      "placeholder_issues": [],
+      "html_tag_issues": [],
+      "file_exists": true
+    },
+    "ru": {
+      "missing_keys": [],
+      "placeholder_issues": [],
+      "html_tag_issues": [],
+      "file_exists": true
+    },
+    "tr": {
+      "missing_keys": [],
+      "placeholder_issues": [],
+      "html_tag_issues": [],
+      "file_exists": true
+    },
+    "uk": {
+      "missing_keys": [],
+      "placeholder_issues": [],
+      "html_tag_issues": [],
+      "file_exists": true
+    },
+    "vi": {
+      "missing_keys": [],
+      "placeholder_issues": [],
+      "html_tag_issues": [],
+      "file_exists": true
+    }
+  },
+  "faq.json": {
+    "ar": {
+      "missing_keys": [],
+      "placeholder_issues": [],
+      "html_tag_issues": [],
+      "file_exists": true
+    },
+    "bg": {
+      "missing_keys": [],
+      "placeholder_issues": [],
+      "html_tag_issues": [],
+      "file_exists": true
+    },
+    "de": {
+      "missing_keys": [],
+      "placeholder_issues": [],
+      "html_tag_issues": [],
+      "file_exists": true
+    },
+    "es": {
+      "missing_keys": [],
+      "placeholder_issues": [],
+      "html_tag_issues": [],
+      "file_exists": true
+    },
+    "fr": {
+      "missing_keys": [],
+      "placeholder_issues": [],
+      "html_tag_issues": [],
+      "file_exists": true
+    },
+    "id": {
+      "missing_keys": [],
+      "placeholder_issues": [],
+      "html_tag_issues": [],
+      "file_exists": true
+    },
+    "it": {
+      "missing_keys": [],
+      "placeholder_issues": [],
+      "html_tag_issues": [],
+      "file_exists": true
+    },
+    "ja": {
+      "missing_keys": [],
+      "placeholder_issues": [],
+      "html_tag_issues": [],
+      "file_exists": true
+    },
+    "ko": {
+      "missing_keys": [],
+      "placeholder_issues": [],
+      "html_tag_issues": [],
+      "file_exists": true
+    },
+    "nl": {
+      "missing_keys": [],
+      "placeholder_issues": [],
+      "html_tag_issues": [],
+      "file_exists": true
+    },
+    "pl": {
+      "missing_keys": [],
+      "placeholder_issues": [],
+      "html_tag_issues": [],
+      "file_exists": true
+    },
+    "pt": {
+      "missing_keys": [],
+      "placeholder_issues": [],
+      "html_tag_issues": [],
+      "file_exists": true
+    },
+    "ro": {
+      "missing_keys": [],
+      "placeholder_issues": [],
+      "html_tag_issues": [],
+      "file_exists": true
+    },
+    "ru": {
+      "missing_keys": [],
+      "placeholder_issues": [],
+      "html_tag_issues": [],
+      "file_exists": true
+    },
+    "tr": {
+      "missing_keys": [],
+      "placeholder_issues": [],
+      "html_tag_issues": [],
+      "file_exists": true
+    },
+    "uk": {
+      "missing_keys": [],
+      "placeholder_issues": [],
+      "html_tag_issues": [],
+      "file_exists": true
+    },
+    "vi": {
+      "missing_keys": [],
+      "placeholder_issues": [],
+      "html_tag_issues": [],
+      "file_exists": true
+    }
+  },
+  "index.json": {
+    "ar": {
+      "missing_keys": [],
+      "placeholder_issues": [],
+      "html_tag_issues": [],
+      "file_exists": true
+    },
+    "bg": {
+      "missing_keys": [],
+      "placeholder_issues": [],
+      "html_tag_issues": [],
+      "file_exists": true
+    },
+    "de": {
+      "missing_keys": [],
+      "placeholder_issues": [],
+      "html_tag_issues": [],
+      "file_exists": true
+    },
+    "es": {
+      "missing_keys": [],
+      "placeholder_issues": [],
+      "html_tag_issues": [],
+      "file_exists": true
+    },
+    "fr": {
+      "missing_keys": [],
+      "placeholder_issues": [],
+      "html_tag_issues": [],
+      "file_exists": true
+    },
+    "id": {
+      "missing_keys": [],
+      "placeholder_issues": [],
+      "html_tag_issues": [],
+      "file_exists": true
+    },
+    "it": {
+      "missing_keys": [],
+      "placeholder_issues": [],
+      "html_tag_issues": [],
+      "file_exists": true
+    },
+    "ja": {
+      "missing_keys": [],
+      "placeholder_issues": [],
+      "html_tag_issues": [],
+      "file_exists": true
+    },
+    "ko": {
+      "missing_keys": [],
+      "placeholder_issues": [],
+      "html_tag_issues": [],
+      "file_exists": true
+    },
+    "nl": {
+      "missing_keys": [],
+      "placeholder_issues": [],
+      "html_tag_issues": [],
+      "file_exists": true
+    },
+    "pl": {
+      "missing_keys": [],
+      "placeholder_issues": [],
+      "html_tag_issues": [],
+      "file_exists": true
+    },
+    "pt": {
+      "missing_keys": [],
+      "placeholder_issues": [],
+      "html_tag_issues": [],
+      "file_exists": true
+    },
+    "ro": {
+      "missing_keys": [],
+      "placeholder_issues": [],
+      "html_tag_issues": [],
+      "file_exists": true
+    },
+    "ru": {
+      "missing_keys": [],
+      "placeholder_issues": [],
+      "html_tag_issues": [],
+      "file_exists": true
+    },
+    "tr": {
+      "missing_keys": [],
+      "placeholder_issues": [],
+      "html_tag_issues": [],
+      "file_exists": true
+    },
+    "uk": {
+      "missing_keys": [],
+      "placeholder_issues": [],
+      "html_tag_issues": [],
+      "file_exists": true
+    },
+    "vi": {
+      "missing_keys": [],
+      "placeholder_issues": [],
+      "html_tag_issues": [],
+      "file_exists": true
+    }
+  },
+  "products.json": {
+    "ar": {
+      "missing_keys": [],
+      "placeholder_issues": [],
+      "html_tag_issues": [],
+      "file_exists": true
+    },
+    "bg": {
+      "missing_keys": [],
+      "placeholder_issues": [],
+      "html_tag_issues": [],
+      "file_exists": true
+    },
+    "de": {
+      "missing_keys": [],
+      "placeholder_issues": [],
+      "html_tag_issues": [],
+      "file_exists": true
+    },
+    "es": {
+      "missing_keys": [],
+      "placeholder_issues": [],
+      "html_tag_issues": [],
+      "file_exists": true
+    },
+    "fr": {
+      "missing_keys": [],
+      "placeholder_issues": [],
+      "html_tag_issues": [],
+      "file_exists": true
+    },
+    "id": {
+      "missing_keys": [],
+      "placeholder_issues": [],
+      "html_tag_issues": [],
+      "file_exists": true
+    },
+    "it": {
+      "missing_keys": [],
+      "placeholder_issues": [],
+      "html_tag_issues": [],
+      "file_exists": true
+    },
+    "ja": {
+      "missing_keys": [],
+      "placeholder_issues": [],
+      "html_tag_issues": [],
+      "file_exists": true
+    },
+    "ko": {
+      "missing_keys": [],
+      "placeholder_issues": [],
+      "html_tag_issues": [],
+      "file_exists": true
+    },
+    "nl": {
+      "missing_keys": [],
+      "placeholder_issues": [],
+      "html_tag_issues": [],
+      "file_exists": true
+    },
+    "pl": {
+      "missing_keys": [],
+      "placeholder_issues": [],
+      "html_tag_issues": [],
+      "file_exists": true
+    },
+    "pt": {
+      "missing_keys": [],
+      "placeholder_issues": [],
+      "html_tag_issues": [],
+      "file_exists": true
+    },
+    "ro": {
+      "missing_keys": [],
+      "placeholder_issues": [],
+      "html_tag_issues": [],
+      "file_exists": true
+    },
+    "ru": {
+      "missing_keys": [],
+      "placeholder_issues": [],
+      "html_tag_issues": [],
+      "file_exists": true
+    },
+    "tr": {
+      "missing_keys": [],
+      "placeholder_issues": [],
+      "html_tag_issues": [],
+      "file_exists": true
+    },
+    "uk": {
+      "missing_keys": [],
+      "placeholder_issues": [],
+      "html_tag_issues": [],
+      "file_exists": true
+    },
+    "vi": {
+      "missing_keys": [],
+      "placeholder_issues": [],
+      "html_tag_issues": [],
+      "file_exists": true
+    }
+  }
+}

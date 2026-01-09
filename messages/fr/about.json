@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "title": "À propos d'iSperm Medical | Fabricant de Systèmes CASA",
+    "description": "Fabricant leader de systèmes CASA et d'analyseurs de sperme. Analyseurs de morphologie du sperme conformes à la 6e édition de l'OMS pour usage humain et vétérinaire depuis 2010."
+  },
+  "nav": {
+    "home": "Accueil",
+    "products": "Produits",
+    "about": "À propos",
+    "knowledgeHub": "Centre de Connaissances",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Qui Nous Sommes",
+    "subtitle": "Leader de la Norme Mondiale en Technologie CASA"
+  },
+  "description": {
+    "text": "iSperm Medical est un innovateur mondial dédié aux diagnostics de reproduction avancés, efficaces et accessibles. En combinant des algorithmes alimentés par l'IA avec la microfluidique, nous offrons une précision de niveau laboratoire aux professionnels du monde entier. Notre mission est de redéfinir l'évaluation de la reproduction grâce à la technologie de système CASA entièrement automatisé et d'analyseur de qualité du sperme."
+  },
+  "founder": {
+    "title": "Fondateur et Développeur en Chef",
+    "name": "Benjamin Zhuang",
+    "education": {
+      "title": "Formation",
+      "item1": "B.Eng. en Mécatronique, Université d'Aéronautique et d'Astronautique de Nanjing",
+      "item2": "M.Eng. en Ingénierie Biomédicale (Microfluidique), UNSW, Australie"
+    },
+    "career": {
+      "title": "Carrière",
+      "item1": "Travail initial dans la fabrication aéronautique et la gravure micro/nano",
+      "item2": "Rejoint Mindray, développé le premier analyseur d'hématologie 5 parties de Chine",
+      "item3": "Dirigé la R&D en microfluidique dans une entreprise de puces affiliée à l'Académie des Sciences de Chine"
+    },
+    "entrepreneurship": {
+      "title": "Entrepreneuriat",
+      "item1": "Fondé Create&Care (2016), axé sur l'industrialisation des puces microfluidiques",
+      "item2": "Lancé Bemaner(SQA-900), un analyseur de sperme IA portable (prix iF & Red Dot) ; 100K+ utilisateurs ; validé par NUL (PMC7714652)",
+      "item3": "Étendu la technologie aux soins primaires, diagnostics à domicile et usage vétérinaire"
+    },
+    "achievements": {
+      "title": "Réalisations",
+      "item1": "Expert du Plan National \"10 000 Talents\" ; Talent de Haut Niveau de Shenzhen",
+      "item2": "Prix : Prix d'Or de l'Innovation Jeunesse de Chine, Prix d'Innovation des Dispositifs Médicaux",
+      "item3": "30+ brevets mondiaux ; surnommé \"Inventeur des Puces Microfluidiques au Niveau Cellulaire\""
+    }
+  },
+  "showcase": {
+    "title": "Notre Équipe et Événements",
+    "subtitle": "Présentations professionnelles et expositions mettant en valeur nos systèmes CASA innovants",
+    "images": {
+      "image1": {
+        "alt": "Équipe iSperm Medical présentant le système CASA entièrement automatisé et l'analyseur de qualité du sperme lors d'une exposition"
+      },
+      "image2": {
+        "alt": "Professionnels iSperm Medical discutant de l'analyseur de sperme vétérinaire et des solutions d'élevage animal"
+      },
+      "image3": {
+        "alt": "Équipe et événements iSperm Medical présentant la technologie CASA et les solutions de santé reproductive"
+      },
+      "image4": {
+        "alt": "Présentations et expositions de l'équipe iSperm Medical mettant en vedette des systèmes automatisés d'analyse de sperme"
+      },
+      "image5": {
+        "alt": "Événements et équipe iSperm Medical présentant des systèmes CASA innovants et des analyseurs de qualité du sperme"
+      }
+    }
+  },
+  "footer": {
+    "company": "iSperm Medical",
+    "description": "iSperm Medical Ltd. s'engage à fournir des solutions technologiques de pointe en analyse du sperme.",
+    "quickLinks": "Liens Rapides",
+    "contact": "Contact",
+    "email": "Email :",
+    "address": "Adresse :",
+    "fullAddress": "2F, Bloc B, Parc des Sciences de la Vie Shenchengtou & Zhongcheng, District de Pingshan, Shenzhen, Guangdong, Chine",
+    "rights": "© 2024 iSperm Medical Ltd. Tous droits réservés."
+  }
+}

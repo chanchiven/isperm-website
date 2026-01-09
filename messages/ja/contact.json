@@ -1,0 +1,69 @@
+{
+  "meta": {
+    "title": "iSperm Medicalにお問い合わせ | CASAシステムサポート",
+    "description": "CASAシステム & 精液分析装置のリーディングメーカーにお問い合わせください。WHO第6版準拠の精子形態分析装置のサポートを受けることができます。"
+  },
+  "nav": {
+    "home": "ホーム",
+    "products": "製品",
+    "about": "会社概要",
+    "knowledgeHub": "ナレッジハブ",
+    "contact": "お問い合わせ"
+  },
+  "hero": {
+    "title": "iSperm Medical専門家にお問い合わせ",
+    "subtitle": "臨床ソリューションまたはグローバル流通パートナーシップについて、当社チームがサポートいたします"
+  },
+  "actionCards": {
+    "partner": {
+      "title": "グローバルパートナーになる",
+      "description": "世界中のネットワークに参加し、高度なCASA技術をあなたの市場にもたらしてください。",
+      "emailSubject": "グローバルパートナーになる"
+    },
+    "consultation": {
+      "title": "プロフェッショナルコンサルテーションを受ける",
+      "description": "生殖健康における臨床または研究ニーズに関する専門家のガイダンス。",
+      "emailSubject": "プロフェッショナルコンサルテーションのリクエスト"
+    },
+    "button": "チームにメールする"
+  },
+  "form": {
+    "emailTitle": "お問い合わせメール",
+    "responsePromise": "24時間以内に返信することをお約束します。",
+    "name": "お名前",
+    "company": "会社名",
+    "email": "メールアドレス",
+    "productInterest": "製品への関心",
+    "selectProduct": "製品カテゴリーを選択",
+    "humanProducts": "ヒト用製品",
+    "animalProducts": "動物用製品",
+    "message": "メッセージ",
+    "submitButton": "メッセージを送信",
+    "submitting": "送信中...",
+    "successMessage": "ありがとうございます！メッセージが正常に送信されました。24時間以内に返信いたします。",
+    "errorMessage": "申し訳ございませんが、メッセージの送信にエラーが発生しました。再度お試しいただくか、market@isperm.comに直接お問い合わせください。",
+    "errors": {
+      "nameRequired": "名前は必須です",
+      "emailRequired": "メールアドレスは必須です",
+      "emailInvalid": "有効なメールアドレスを入力してください"
+    }
+  },
+  "trust": {
+    "globalSupport": "グローバルサポート",
+    "response24h": "24時間対応"
+  },
+  "contact": {
+    "fullAddress": "中国広東省深圳市坪山区深城投&中城生命科学園B棟2階"
+  },
+  "footer": {
+    "company": "iSperm Medical",
+    "description": "iSperm Medical Ltd.は、精液分析における最先端技術ソリューションの提供に取り組んでいます。",
+    "quickLinks": "クイックリンク",
+    "contact": "お問い合わせ",
+    "email": "メール：",
+    "address": "住所：",
+    "fullAddress": "2F, Block B, Shenchengtou & Zhongcheng Life Science Park, Pingshan District, Shenzhen, Guangdong, China",
+    "rights": "© 2024 iSperm Medical Ltd. 全著作権所有。"
+  }
+}
+

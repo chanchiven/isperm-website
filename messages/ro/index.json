@@ -1,0 +1,75 @@
+{
+  "meta": {
+    "title": "Sistem CASA și Analizor de Spermă | iSperm Medical",
+    "description": "Sisteme CASA complet automate și analizoare de morfologie a spermei pentru uz uman și veterinar. Conform ediției a 6-a WHO. Producător de top de analizoare de spermă."
+  },
+  "nav": {
+    "home": "Acasă",
+    "products": "Produse",
+    "about": "Despre Noi",
+    "knowledgeHub": "Centru de Cunoștințe",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Revoluționând Analiza Spermei",
+    "subtitle": "Pionierat Viitorul Automatizării CASA",
+    "description": "Sisteme CASA complet automate pentru analiza spermei umane și veterinare",
+    "exploreProducts": "Explorează Produsele",
+    "learnMore": "Citește Povestea Noastră"
+  },
+  "about": {
+    "title": "Despre iSperm Medical",
+    "tagline": "Pionierat Viitorul Diagnosticului Reproductiv",
+    "description": "Din 2010, iSperm Medical este în fruntea cercetării analizei spermei. Ca prima companie care a introdus sisteme CASA complet automate pe piața chineză, suntem dedicați transformării diagnosticului de fertilitate prin precizie și tehnologie.",
+    "description2": "De la soluțiile noastre clinice revoluționare la SQA-6100vet, lider în industrie, combinăm algoritmi bazate pe AI cu microfluidica pentru a oferi precizie de nivel de laborator profesioniștilor din întreaga lume.",
+    "ourStory": "Povestea Noastră",
+    "heroImage": {
+      "alt": "iSperm Medical - Producător de top al sistemelor CASA și analizatoarelor de calitate a spermei pentru diagnosticul reproductiv"
+    }
+  },
+  "features": {
+    "title": "Inovație Științifică",
+    "subtitle": "Pionierat Viitorul Diagnosticului Reproductiv",
+    "automated": {
+      "title": "Flux de Lucru Standardizat",
+      "description": "Realizează automatizare completă de la încărcare la raportare. Sistemele noastre elimină părtinirea subiectivă, asigurând consistență clinică și maximizând productivitatea laboratorului."
+    },
+    "aiPowered": {
+      "title": "Recunoaștere AI Inteligentă",
+      "description": "Alimentat de algoritmi AI dinamici Gaussian, iSperm oferă urmărire morfologică și cinematică de înaltă precizie, identificând anomalii subtile cu o acuratețe diagnostică fără precedent.",
+      "compliance": "Conform Standardelor Ediției a 6-a WHO"
+    },
+    "standalone": {
+      "title": "Versatilitate Integrată",
+      "description": "O arhitectură all-in-one de nivel clinic, cu plată termică integrată și ecran tactil intuitiv. Proiectat pentru performanță fără probleme atât în laboratoare de top, cât și în medii de teren solicitante."
+    },
+    "comprehensive": {
+      "title": "Analiză Avansată",
+      "description": "Parametri diagnostici de spectru complet, inclusiv concentrație, motilitate multi-clasă și morfologie ediție a 6-a WHO, oferind un profil complet al sănătății reproductive."
+    }
+  },
+  "timeline": {
+    "title": "Călătoria Noastră",
+    "subtitle": "O Moștenire de Inovație",
+    "2010": "Înființat cu focus pe cercetare CASA pionierat în China.",
+    "2016": "Dezvoltat primul sistem CASA pentru uz casnic din China, aducând diagnostic avansat la nivel de consumator.",
+    "2017": "Lansat primul sistem CASA profesional complet automat din China.",
+    "today": "Seria noastră CASA de top (Nexus Dx1 / SQA-6100vet) servește ca alegerea de încredere pentru evaluarea reproductivă automatizată în întreaga lume."
+  },
+  "footer": {
+    "company": "iSperm Medical",
+    "description": "iSperm Medical Ltd. este angajat să ofere soluții tehnologice de ultimă generație în analiza spermei.",
+    "quickLinks": "Linkuri Rapide",
+    "contact": "Contact",
+    "email": "Email:",
+    "address": "Adresă:",
+    "fullAddress": "2F, Block B, Shenchengtou & Zhongcheng Life Science Park, Pingshan District, Shenzhen, Guangdong, China",
+    "rights": "© 2024 iSperm Medical Ltd. Toate drepturile rezervate."
+  },
+  "notFound": {
+    "title": "Pagina nu a fost găsită",
+    "description": "Pagina pe care o căutați nu există sau a fost mutată.",
+    "backToHome": "Înapoi la pagina principală",
+    "statusCode": "404"
+  }
+}

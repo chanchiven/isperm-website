@@ -1,0 +1,27 @@
+MSQA-100 Portable CASA Semen Analyzer
+The MSQA-100 is a portable, home-use Computer-Assisted Sperm Analysis (CASA) system designed for fast, accurate, and user-friendly semen evaluation. By combining microfluidic technology, precision manufacturing, and AI-driven image analysis, the MSQA-100 delivers laboratory-level performance in a compact and accessible format.
+Key Technologies & Features
+Microfluidic Slide 
+The proprietary microfluidic slide creates a 7 μm fixed observation chamber when two layers are assembled. This fixed-depth design eliminates the need for manual focusing and ensures consistent, reproducible results.
+Universal Smartphone & Tablet Compatibility
+Compatible with almost all mainstream smartphone and tablet rear cameras, enabling flexible and low-cost imaging without dedicated microscopes.
+Built-in Temperature Control
+Integrated thermal module maintains samples at 37°C during analysis, preserving sperm motility and ensuring physiologically accurate results.
+Ultra-Microfluidic Polymer Biochip
+Cloud-Based AI Analysis
+Powered by a cloud server Gaussian dynamic image intelligent algorithm for accurate and automated data processing.
+Automatic Focus Microscopic Vision System
+Fully Automated Analysis
+Minimal user operation, suitable for both professional and home settings.
+Measured Parameters
+Sperm concentration
+Total sperm count
+Total motility
+Progressive motility
+Non-progressive motility
+Immotile sperm
+Straight-line velocity (VSL)
+Percentage of straight-line motile sperm
+Curvilinear velocity (VCL) and other motion parameters
+Physical Specifications
+Dimensions: 174.8 × 113.5 × 50.5 mm

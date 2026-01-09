@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "title": "Kontakt z iSperm Medical | Wsparcie Systemów CASA",
+    "description": "Skontaktuj się z wiodącym producentem systemów CASA i analizatorów nasienia. Uzyskaj wsparcie dla analizatorów morfologii plemników zgodnych z 6. wydaniem WHO."
+  },
+  "nav": {
+    "home": "Strona główna",
+    "products": "Produkty",
+    "about": "O nas",
+    "knowledgeHub": "Centrum wiedzy",
+    "contact": "Kontakt"
+  },
+  "hero": {
+    "title": "Skontaktuj się ze Specjalistami iSperm Medical",
+    "subtitle": "W przypadku rozwiązań klinicznych lub globalnych partnerstw dystrybucyjnych, nasz zespół jest gotowy do pomocy"
+  },
+  "actionCards": {
+    "partner": {
+      "title": "Zostań Globalnym Partnerem",
+      "description": "Dołącz do naszej światowej sieci i wprowadź zaawansowaną technologię CASA na swój rynek.",
+      "emailSubject": "Zostań Globalnym Partnerem"
+    },
+    "consultation": {
+      "title": "Uzyskaj Profesjonalną Konsultację",
+      "description": "Eksperckie wskazówki dotyczące Twoich potrzeb klinicznych lub badawczych w zakresie zdrowia reprodukcyjnego.",
+      "emailSubject": "Prośba o Profesjonalną Konsultację"
+    },
+    "button": "Wyślij E-mail do Naszego Zespołu"
+  },
+  "form": {
+    "emailTitle": "E-mail Kontaktowy",
+    "responsePromise": "Obiecujemy odpowiedzieć w ciągu 24 godzin.",
+    "name": "Imię",
+    "company": "Firma",
+    "email": "E-mail",
+    "productInterest": "Zainteresowanie Produktem",
+    "selectProduct": "Wybierz kategorię produktu",
+    "humanProducts": "Produkty dla ludzi",
+    "animalProducts": "Produkty dla zwierząt",
+    "message": "Wiadomość",
+    "submitButton": "Wyślij Wiadomość",
+    "submitting": "Wysyłanie...",
+    "successMessage": "Dziękujemy! Twoja wiadomość została wysłana pomyślnie. Odpowiemy w ciągu 24 godzin.",
+    "errorMessage": "Przepraszamy, wystąpił błąd podczas wysyłania wiadomości. Spróbuj ponownie lub skontaktuj się z nami bezpośrednio pod adresem market@isperm.com",
+    "errors": {
+      "nameRequired": "Imię jest wymagane",
+      "emailRequired": "E-mail jest wymagany",
+      "emailInvalid": "Proszę podać prawidłowy adres e-mail"
+    }
+  },
+  "trust": {
+    "globalSupport": "Globalne Wsparcie",
+    "response24h": "Odpowiedź w 24h"
+  },
+  "contact": {
+    "fullAddress": "2F, Blok B, Shenchengtou & Zhongcheng Life Science Park, Dzielnica Pingshan, Shenzhen, Guangdong, Chiny"
+  },
+  "footer": {
+    "company": "iSperm Medical",
+    "description": "iSperm Medical Ltd. jest zaangażowana w dostarczanie najnowocześniejszych rozwiązań technologicznych w analizie nasienia.",
+    "quickLinks": "Szybkie linki",
+    "contact": "Kontakt",
+    "email": "E-mail:",
+    "address": "Adres:",
+    "fullAddress": "2F, Block B, Shenchengtou & Zhongcheng Life Science Park, Pingshan District, Shenzhen, Guangdong, China",
+    "rights": "© 2024 iSperm Medical Ltd. Wszelkie prawa zastrzeżone."
+  }
+}
+
+
+
+
+
+
+
+
+

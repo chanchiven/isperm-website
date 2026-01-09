@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "title": "iSperm Medical 소개 | CASA 시스템 제조업체",
+    "description": "선도적인 CASA 시스템 및 정액 분석기 제조업체. 2010년부터 인간 및 수의용 WHO 6판 준수 정자 형태 분석기."
+  },
+  "nav": {
+    "home": "홈",
+    "products": "제품",
+    "about": "회사 소개",
+    "knowledgeHub": "지식 허브",
+    "contact": "문의하기"
+  },
+  "hero": {
+    "title": "우리는 누구인가",
+    "subtitle": "CASA 기술의 글로벌 표준을 선도"
+  },
+  "description": {
+    "text": "iSperm Medical은 고급, 효율적이며 접근 가능한 생식 진단에 전념하는 글로벌 혁신 기업입니다. AI 기반 알고리즘과 미세유체공학을 결합하여 전 세계 전문가들에게 실험실 수준의 정밀도를 제공합니다. 우리의 사명은 완전 자동화 CASA 시스템 및 정자 품질 분석기 기술을 통해 생식 평가를 재정의하는 것입니다."
+  },
+  "founder": {
+    "title": "창립자 및 수석 개발자",
+    "name": "Benjamin Zhuang",
+    "education": {
+      "title": "학력",
+      "item1": "기계전자공학 학사, 난징 항공항천대학교",
+      "item2": "생체의공학 석사 (미세유체공학), 호주 UNSW"
+    },
+    "career": {
+      "title": "경력",
+      "item1": "항공 제조 및 미세/나노 에칭 분야 초기 업무",
+      "item2": "Mindray 합류, 중국 최초 5분류 혈액 분석기 개발",
+      "item3": "중국과학원 소속 칩 회사에서 미세유체공학 R&D 주도"
+    },
+    "entrepreneurship": {
+      "title": "창업",
+      "item1": "Create&Care 설립 (2016), 미세유체 칩 산업화에 집중",
+      "item2": "휴대용 AI 정액 분석기 Bemaner(SQA-900) 출시 (iF 및 레드닷 어워드 수상); 10만 명 이상 사용자; NUL 검증 (PMC7714652)",
+      "item3": "기술을 1차 진료, 가정 진단 및 수의용으로 확장"
+    },
+    "achievements": {
+      "title": "성과",
+      "item1": "국가 \"만인계획\" 전문가; 심천 고급 인재",
+      "item2": "수상: 중국 청년 혁신 금상, 의료기기 혁신상",
+      "item3": "30개 이상의 글로벌 특허; \"세포 수준 미세유체 칩의 발명가\"로 불림"
+    }
+  },
+  "showcase": {
+    "title": "우리 팀 및 이벤트",
+    "subtitle": "혁신적인 CASA 시스템을 선보이는 전문 프레젠테이션 및 전시회",
+    "images": {
+      "image1": {
+        "alt": "전시회에서 완전 자동화 CASA 시스템 및 정자 품질 분석기를 선보이는 iSperm Medical 팀"
+      },
+      "image2": {
+        "alt": "수의학 정액 분석기 및 동물 번식 솔루션을 논의하는 iSperm Medical 전문가들"
+      },
+      "image3": {
+        "alt": "CASA 기술 및 생식 건강 솔루션을 선보이는 iSperm Medical 팀 및 이벤트"
+      },
+      "image4": {
+        "alt": "자동화된 정액 분석 시스템을 특징으로 하는 iSperm Medical 팀 프레젠테이션 및 전시회"
+      },
+      "image5": {
+        "alt": "혁신적인 CASA 시스템 및 정자 품질 분석기를 선보이는 iSperm Medical 이벤트 및 팀"
+      }
+    }
+  },
+  "footer": {
+    "company": "iSperm Medical",
+    "description": "iSperm Medical Ltd.는 정액 분석 분야의 최첨단 기술 솔루션을 제공하는 데 전념하고 있습니다.",
+    "quickLinks": "빠른 링크",
+    "contact": "연락처",
+    "email": "이메일:",
+    "address": "주소:",
+    "fullAddress": "중국 광동성 심천시 핑산구 신성투 & 중성 생명과학 파크 B동 2층",
+    "rights": "© 2024 iSperm Medical Ltd. 모든 권리 보유."
+  }
+}

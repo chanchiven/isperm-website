@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "title": "Hakkımızda | iSperm Medical | CASA Sistem Üreticisi",
+    "description": "Önde gelen CASA sistemi ve semen analizörü üreticisi. İnsan ve veteriner kullanımı için WHO 6. baskı uyumlu sperm morfoloji analizörleri 2010'dan beri."
+  },
+  "nav": {
+    "home": "Ana Sayfa",
+    "products": "Ürünler",
+    "about": "Hakkımızda",
+    "knowledgeHub": "Bilgi Merkezi",
+    "contact": "İletişim"
+  },
+  "hero": {
+    "title": "Biz Kimiz",
+    "subtitle": "CASA Teknolojisinde Küresel Standarda Öncülük"
+  },
+  "description": {
+    "text": "iSperm Medical, gelişmiş, verimli ve erişilebilir üreme tanılarına adanmış küresel bir yenilikçidir. Yapay zeka destekli algoritmaları mikroakışkanlarla birleştirerek, dünya çapındaki profesyonellere laboratuvar kalitesinde hassasiyet sunuyoruz. Misyonumuz, tam otomatik CASA sistemi ve sperm kalite analizörü teknolojisi aracılığıyla üreme değerlendirmesini yeniden tanımlamaktır."
+  },
+  "founder": {
+    "title": "Kurucu ve Baş Geliştirici",
+    "name": "Benjamin Zhuang",
+    "education": {
+      "title": "Eğitim",
+      "item1": "B.Eng. Mekatronik, Nanjing Univ. of Aeronautics & Astronautics",
+      "item2": "M.Eng. Biyomedikal Mühendisliği (Mikroakışkanlar), UNSW, Avustralya"
+    },
+    "career": {
+      "title": "Kariyer",
+      "item1": "Havacılık üretimi ve mikro/nano oyma alanında erken dönem çalışmalar",
+      "item2": "Mindray'a katıldı, Çin'in ilk 5 parametreli hematoloji analizörünü geliştirdi",
+      "item3": "CAS bağlı bir çip şirketinde mikroakışkan araştırma ve geliştirme yönetti"
+    },
+    "entrepreneurship": {
+      "title": "Girişimcilik",
+      "item1": "Create&Care'ı (2016) kurdu, mikroakışkan çip endüstriyelleştirmesine odaklandı",
+      "item2": "Bemaner(SQA-900)'ü piyasaya sürdü, taşınabilir yapay zeka semen analizörü (iF & Red Dot ödülü); 100K+ kullanıcı; NUL tarafından doğrulandı (PMC7714652)",
+      "item3": "Teknolojisini birincil bakım, ev tanısı ve veteriner kullanımına genişletti"
+    },
+    "achievements": {
+      "title": "Başarılar",
+      "item1": "Ulusal \"10.000 Yetenek Planı\" uzmanı; Shenzhen Yüksek Seviye Yetenek",
+      "item2": "Ödüller: China Youth Innovation Gold Award, Medical Device Innovation Award",
+      "item3": "30+ küresel patent; \"Hücresel Seviye Mikroakışkan Çiplerin Mucidi\" olarak anıldı"
+    }
+  },
+  "showcase": {
+    "title": "Ekibimiz ve Etkinlikler",
+    "subtitle": "Yenilikçi CASA sistemlerimizi sergileyen profesyonel sunumlar ve sergiler",
+    "images": {
+      "image1": {
+        "alt": "iSperm Medical ekibi sergide tam otomatik CASA sistemi ve sperm kalite analizörü sunuyor"
+      },
+      "image2": {
+        "alt": "iSperm Medical profesyonelleri veteriner semen analizörü ve hayvan yetiştirme çözümlerini tartışıyor"
+      },
+      "image3": {
+        "alt": "iSperm Medical ekibi ve etkinlikleri CASA teknolojisi ve üreme sağlığı çözümlerini sergiliyor"
+      },
+      "image4": {
+        "alt": "iSperm Medical ekibi otomatik semen analiz sistemleri içeren sunumlar ve sergiler düzenliyor"
+      },
+      "image5": {
+        "alt": "iSperm Medical etkinlikleri ve ekibi yenilikçi CASA sistemleri ve sperm kalite analizörlerini sergiliyor"
+      }
+    }
+  },
+  "footer": {
+    "company": "iSperm Medical",
+    "description": "iSperm Medical Ltd., semen analizinde en son teknoloji çözümler sunmaya kararlıdır.",
+    "quickLinks": "Hızlı Bağlantılar",
+    "contact": "İletişim",
+    "email": "E-posta:",
+    "address": "Adres:",
+    "fullAddress": "2F, Block B, Shenchengtou & Zhongcheng Life Science Park, Pingshan District, Shenzhen, Guangdong, China",
+    "rights": "© 2024 iSperm Medical Ltd. Tüm hakları saklıdır."
+  }
+}

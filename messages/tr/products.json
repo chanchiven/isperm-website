@@ -1,0 +1,364 @@
+{
+  "meta": {
+    "title": "CASA Sistemleri ve Semen Analizörleri | iSperm Medical",
+    "description": "İnsan ve veteriner kullanımı için CASA sistemlerimizi ve sperm morfoloji analizörlerimizi keşfedin. DSÖ 6. baskı uyumlu semen analizör çözümleri."
+  },
+  "nav": {
+    "home": "Ana Sayfa",
+    "products": "Ürünler",
+    "about": "Hakkımızda",
+    "knowledgeHub": "Bilgi Merkezi",
+    "contact": "İletişim"
+  },
+  "hero": {
+    "title": "Ürünlerimiz",
+    "subtitle": "Üreme Tıbbı için Profesyonel CASA Sistemleri"
+  },
+  "section": {
+    "title": "CASA Sisteminizi Seçin",
+    "subtitle": "Detaylı özellikler ve özellikleri görüntülemek için bir ürün seçin"
+  },
+  "products": {
+    "nexus": {
+      "name": "Nexus Dx1",
+      "tag": "İnsan",
+      "badge": "Profesyonel CASA Sistemi",
+      "heroSubtitle": "Tam Otomatik İnsan CASA Sistemi",
+      "subtitle": "Tam Otomatik İnsan CASA Sistemi",
+      "description": "Klinik ve laboratuvar kullanımı için tasarlanmış, gelişmiş AI algoritmaları ve kapsamlı parametre analizi özelliklerine sahip tam otomatik CASA sistemi.",
+      "feature1": "Tam otomatik analiz",
+      "feature2": "Dahili ısıtma aşaması",
+      "feature3": "PC iş istasyonu desteği",
+      "button": "Detayları Görüntüle",
+      "detail": {
+        "description": "İnsan semen değerlendirmesi için gelişmiş AI algoritmaları ve kapsamlı parametre analizi özelliklerine sahip, klinik ve laboratuvar kullanımı için tasarlanmış profesyonel CASA sistemi.",
+        "keyFeatures": {
+          "title": "Temel Özellikler",
+          "items": [
+            "Tam otomatik",
+            "Dokunmatik ekran",
+            "Dahili Isıtma Aşaması",
+            "Bağımsız hepsi bir arada sistem",
+            "Gelişmiş Gauss dinamik AI görüntü algoritması",
+            "Sayım odası: Geliştirilmiş/Kaplamalı 2 odalı, sabit derinlik 10μm",
+            "Özelleştirilebilir çoklu görüş alanı, görüş alanı başına 1500'e kadar sperm sayısı",
+            "Video oynatma desteği",
+            "Harici barkod okuyucu desteği",
+            "PC iş istasyonu"
+          ]
+        },
+        "analysisParameters": {
+          "title": "Analiz Parametreleri",
+          "groups": [
+            {
+              "title": "Konsantrasyon ve Motilite",
+              "items": [
+                "Toplam sperm sayısı",
+                "Hareketli sperm",
+                "Hareket etmeyen sperm",
+                "İlerleyici ve yavaş sperm",
+                "İlerleyici olmayan sperm"
+              ]
+            },
+            {
+              "title": "Kinematik",
+              "items": [
+                "DCL, DSL, DAP",
+                "VCL, VSL, VAP",
+                "ALH, MAD, BCF",
+                "LIN, WOB, STR"
+              ]
+            },
+            {
+              "title": "Morfoloji",
+              "items": [
+                "Normal ve Anormal sperm",
+                "Baş kusurları",
+                "DMR",
+                "Distal Damlacık",
+                "Proksimal Damlacık",
+                "Kuyruk kusurları",
+                "Sitoplazmik kalıntı",
+                "TZI, SDI"
+              ]
+            },
+            {
+              "title": "Ek",
+              "items": [
+                "Yuvarlak Hücreler"
+              ]
+            }
+          ]
+        },
+        "complianceStandards": {
+          "title": "Uyumluluk ve Standartlar",
+          "standards": [
+            {
+              "slug": "who-6th-edition-semen-analysis-standards",
+              "name": "WHO 6th",
+              "title": "DSÖ 6. Baskı Yönergeleri",
+              "description": "<strong>Nexus Dx1</strong>, <strong>DSÖ 6. Baskı</strong> yönergelerine tam uyumludur. Detaylı analizimizi okuyun."
+            },
+            {
+              "slug": "iso-23162-2021-laboratory-competence-guide",
+              "name": "ISO 23162",
+              "title": "ISO 23162 Yönergeleri",
+              "description": "<strong>Nexus Dx1</strong>, <strong>ISO 23162</strong> yönergelerine tam uyumludur. Detaylı analizimizi okuyun."
+            },
+            {
+              "slug": "eshre-guidelines-clinical-semen-examination",
+              "name": "ESHRE",
+              "title": "ESHRE Yönergeleri",
+              "description": "<strong>Nexus Dx1</strong>, <strong>ESHRE</strong> yönergelerine tam uyumludur. Detaylı analizimizi okuyun."
+            },
+            {
+              "slug": "asrm-male-infertility-evaluation-protocols",
+              "name": "ASRM",
+              "title": "ASRM Yönergeleri",
+              "description": "<strong>Nexus Dx1</strong>, <strong>ASRM</strong> yönergelerine tam uyumludur. Detaylı analizimizi okuyun."
+            }
+          ],
+          "learnMore": "Daha fazla bilgi →"
+        }
+      }
+    },
+    "msqa": {
+      "name": "MSQA-100",
+      "tag": "İnsan",
+      "badge": "Taşınabilir Ev Kullanımı CASA",
+      "heroSubtitle": "Taşınabilir Ev Kullanımı CASA Sistemi",
+      "subtitle": "Taşınabilir CASA Semen Analizörü",
+      "description": "Akıllı telefon uyumluluğuna sahip taşınabilir, ev kullanımı CASA sistemi, kompakt formatta laboratuvar seviyesi performans sunar.",
+      "feature1": "Akıllı telefon uyumlu",
+      "feature2": "Dahili sıcaklık kontrolü",
+      "feature3": "Bulut tabanlı AI analizi",
+      "button": "Detayları Görüntüle",
+      "detail": {
+        "description": "MSQA-100, hızlı, doğru ve kullanıcı dostu semen değerlendirmesi için tasarlanmış taşınabilir, ev kullanımı Bilgisayar Destekli Sperm Analizi (CASA) sistemidir. Mikroakışkan teknoloji, hassas üretim ve AI destekli görüntü analizini birleştirerek, MSQA-100 kompakt ve erişilebilir bir formatta laboratuvar seviyesi performans sunar.",
+        "keyTechnologies": {
+          "title": "Temel Teknolojiler ve Özellikler",
+          "items": [
+            {
+              "label": "Mikroakışkan Lam:",
+              "text": "Özel mikroakışkan lam, iki katman birleştirildiğinde 7 μm sabit gözlem odası oluşturur. Bu sabit derinlik tasarımı, manuel odaklama ihtiyacını ortadan kaldırır ve tutarlı, tekrarlanabilir sonuçlar sağlar."
+            },
+            {
+              "label": "Evrensel Akıllı Telefon ve Tablet Uyumluluğu:",
+              "text": "Neredeyse tüm ana akım akıllı telefon ve tablet arka kameralarıyla uyumlu, özel mikroskoplar olmadan esnek ve düşük maliyetli görüntüleme sağlar."
+            },
+            {
+              "label": "Dahili Sıcaklık Kontrolü:",
+              "text": "Entegre termal modül, analiz sırasında numuneleri 37°C'de tutar, sperm motilitesini korur ve fizyolojik olarak doğru sonuçlar sağlar."
+            },
+            {
+              "label": "Ultra-Mikroakışkan Polimer Biyoçip:",
+              "text": "Hassas numune işleme ve optimal akış özellikleri için gelişmiş mikroakışkan tasarım."
+            },
+            {
+              "label": "Bulut Tabanlı AI Analizi:",
+              "text": "Doğru ve otomatik veri işleme için bulut sunucu Gauss dinamik görüntü zeki algoritması ile desteklenir."
+            },
+            {
+              "label": "Otomatik Odak Mikroskobik Görüş Sistemi:",
+              "text": "Otomatik odaklama yetenekleri ile analiz için optimal görüntü kalitesi sağlar."
+            },
+            {
+              "label": "Tam Otomatik Analiz:",
+              "text": "Minimal kullanıcı işlemi, hem profesyonel hem de ev ortamları için uygundur."
+            }
+          ]
+        },
+        "measuredParameters": {
+          "title": "Ölçülen Parametreler",
+          "groups": [
+            {
+              "title": "Konsantrasyon ve Sayım",
+              "items": [
+                "Sperm konsantrasyonu",
+                "Toplam sperm sayısı"
+              ]
+            },
+            {
+              "title": "Motilite",
+              "items": [
+                "Toplam motilite",
+                "İlerleyici motilite",
+                "İlerleyici olmayan motilite",
+                "Hareket etmeyen sperm"
+              ]
+            },
+            {
+              "title": "Kinematik",
+              "items": [
+                "Düz çizgi hızı (VSL)",
+                "Düz çizgi hareketli sperm yüzdesi",
+                "Eğrisel hız (VCL)",
+                "Diğer hareket parametreleri"
+              ]
+            }
+          ]
+        },
+        "physicalSpecs": {
+          "title": "Fiziksel Özellikler",
+          "items": [
+            {
+              "label": "Boyutlar:",
+              "text": "174,8 × 113,5 × 50,5 mm"
+            },
+            {
+              "label": "Ağırlık:",
+              "text": "Hafif ve taşınabilir tasarım"
+            },
+            {
+              "label": "Güç:",
+              "text": "Saha kullanımı için pil ile çalışır"
+            }
+          ]
+        },
+        "applications": {
+          "title": "Uygulamalar",
+          "intro": "MSQA-100 şunlar için idealdir:",
+          "items": [
+            "Ev tabanlı doğurganlık izleme",
+            "Birincil bakım klinikleri",
+            "Saha testleri ve mobil sağlık birimleri",
+            "Araştırma ve eğitim kurumları",
+            "Telemedicine ve uzaktan tanı"
+          ]
+        }
+      }
+    },
+    "sqavet": {
+      "name": "SQA-6100vet",
+      "tag": "Veteriner",
+      "badge": "Veteriner CASA Sistemi",
+      "heroSubtitle": "Tam Otomatik Veteriner CASA Sistemi",
+      "subtitle": "Tam Otomatik Veteriner CASA Sistemi",
+      "description": "Hayvan üreme değerlendirmesi için devrim niteliğinde tam otomatik CASA sistemi, taşınabilir saha yetenekleri ile çoklu tür analizi desteği sunar.",
+      "feature1": "Çoklu tür desteği",
+      "feature2": "15 saniye analiz süresi",
+      "feature3": "Taşınabilir hepsi bir arada tasarım",
+      "button": "Detayları Görüntüle",
+      "detail": {
+        "description": "SQA-6100vet, veteriner üreme teknolojisinin zirvesini temsil eder. Bu devrim niteliğinde tam otomatik CASA sistemi, hayvan sperm parametre değerlendirmesinde eşsiz doğruluk ve tekrarlanabilirlik sunar, saha ve taşınabilir durumlarda büyük avantajları olan bağımsız hepsi bir arada sistem olarak çalışabilir ve daha kullanıcı dostu veri yönetimi için özel PC yazılımı ile de çalışabilir.",
+        "keyFeatures": {
+          "title": "Temel Özellikler",
+          "items": [
+            "Tam otomatik",
+            "Dokunmatik ekran",
+            "Dahili Isıtma Aşaması",
+            "Bağımsız hepsi bir arada sistem",
+            "Gelişmiş Gauss dinamik AI görüntü algoritması",
+            "Sayım odası: Geliştirilmiş/Kaplamalı 6 odalı, sabit derinlik 20μm",
+            "15 saniye kadar hızlı analiz süresi, seçilebilir çoklu görüş alanı",
+            "Video oynatma desteği",
+            "Harici barkod okuyucu desteği",
+            "PC iş istasyonu",
+            "Çoklu tür desteği"
+          ]
+        },
+        "analysisParameters": {
+          "title": "Analiz Parametreleri",
+          "groups": [
+            {
+              "title": "Konsantrasyon ve Motilite",
+              "items": [
+                "Toplam sperm sayısı",
+                "Hareketli sperm",
+                "Hareket etmeyen sperm",
+                "İlerleyici ve yavaş sperm",
+                "İlerleyici olmayan sperm"
+              ]
+            },
+            {
+              "title": "Kinematik",
+              "items": [
+                "DCL, DSL, DAP",
+                "VCL, VSL, VAP",
+                "ALH, MAD, BCF",
+                "LIN, WOB, STR"
+              ]
+            },
+            {
+              "title": "Morfoloji",
+              "items": [
+                "Normal ve Anormal sperm",
+                "Baş kusurları",
+                "DMR",
+                "Distal Damlacık",
+                "Proksimal Damlacık",
+                "Bükülmüş Kuyruk",
+                "Sarmal Kuyruk"
+              ]
+            },
+            {
+              "title": "Dozaj",
+              "items": [
+                "Uzatıcı süreleri, numune hacmi, sperm sayısı vb. esas alınarak doz sayısının otomatik hesaplanması"
+              ]
+            }
+          ]
+        },
+        "thermalIntegrity": {
+          "title": "Termal Bütünlük Avantajı",
+          "subtitle": "Dahili sıcaklık kontrolünün doğru CASA analizi için neden gerekli olduğu",
+          "intro": "Androloji dünyasında, \"Motilite Sıcaklıktır.\" SQA-6100vet, analiz boyunca numuneleri fizyolojik sıcaklıklarda (37°C) tutan dahili, gerçek zamanlı ısıtma aşamasına sahiptir. Bu kritik özellik, sperm motilitesinin yaşam benzeri koşullarda ölçülmesini sağlar ve soğuk şoktan kaynaklanan yanlış \"Yetersiz\" tanılarını önler.",
+          "challenge": {
+            "title": "Zorluk",
+            "text": "Hayvan spermleri sıcaklık değişikliklerine son derece duyarlıdır. Sadece 2-3°C'lik bir düşüş, anında motilite kaybına neden olabilir ve yanlış sonuçlara yol açabilir."
+          },
+          "solution": {
+            "title": "Çözüm",
+            "text": "SQA-6100vet'in entegre ısıtma aşaması, analiz boyunca sabit 37°C'yi korur ve hayvanın üreme kanalında olduğu gibi gerçek ilerleyici motiliteyi ortaya çıkarır."
+          }
+        },
+        "scientificStandards": {
+          "title": "Bilimsel Standartlara Uyumluluk",
+          "description": "SQA-6100vet, önde gelen veteriner androloji standartları ve yönergeleriyle uyumlu olacak şekilde tasarlanmıştır. Sistemimiz, çoklu türlerde üreme sağlığı muayenesi için oluşturulmuş protokollerle uyumluluğu destekler.",
+          "standards": [
+            {
+              "title": "Theriogenology Derneği (SFT)",
+              "text": "Boğa, Koç ve At Üreme Sağlığı Muayenesi (BSE/EBSE) için SFT yönergelerine uyumludur. Standartlaştırılmış değerlendirme protokollerini destekler."
+            },
+            {
+              "title": "Çoklu Tür Protokolleri",
+              "text": "Türe özgü algoritmalar, doğru parametre değerlendirmesi sağlar."
+            },
+            {
+              "title": "Saha ve Laboratuvar Kullanımı",
+              "text": "Taşınabilir tasarım, laboratuvar seviyesi hassasiyeti korurken yerinde BSE muayenelerine olanak tanır. Damızlık üreticileri ve veteriner klinikleri için idealdir."
+            },
+            {
+              "title": "Araştırma Doğrulaması",
+              "text": "Akran değerlendirmeli araştırma ile doğrulanmış ve dünya çapında akademik kurumlarda üreme araştırması ve klinik uygulama için kullanılan teknoloji."
+            }
+          ],
+          "footer": "Veteriner Standartlarını Keşfedin: Üreme sağlığı muayenesi standartları ve en iyi uygulamalar hakkında detaylı kılavuzlar için Bilgi Merkezimizi ziyaret edin."
+        }
+      }
+    },
+    "nexusMeta": {
+      "title": "Nexus Dx1 CASA Sistemi | DSÖ 6. Baskı | iSperm Medical",
+      "description": "Nexus Dx1 tam otomatik insan CASA sistemi. AI destekli sperm morfoloji analizi ile DSÖ 6. baskı uyumlu semen analizörü."
+    },
+    "msqaMeta": {
+      "title": "MSQA-100 Taşınabilir CASA Sistemi | iSperm Medical",
+      "description": "MSQA-100 taşınabilir ev kullanımı CASA sistemi. Sperm morfoloji analizi için bulut AI ile akıllı telefon uyumlu semen analizörü."
+    },
+    "sqavetMeta": {
+      "title": "SQA-6100vet Veteriner CASA Sistemi | iSperm Medical",
+      "description": "SQA-6100vet çoklu tür veteriner CASA sistemi. Boğa, koç, at ve diğer türler için otomatik semen analizörü. Saha için hazır tasarım."
+    }
+  },
+  "footer": {
+    "company": "iSperm Medical",
+    "description": "iSperm Medical Ltd., semen analizinde en son teknoloji çözümler sunmaya kararlıdır.",
+    "quickLinks": "Hızlı Bağlantılar",
+    "contact": "İletişim",
+    "email": "E-posta:",
+    "address": "Adres:",
+    "fullAddress": "2F, Block B, Shenchengtou & Zhongcheng Life Science Park, Pingshan District, Shenzhen, Guangdong, China",
+    "rights": "© 2024 iSperm Medical Ltd. Tüm hakları saklıdır."
+  }
+}
+

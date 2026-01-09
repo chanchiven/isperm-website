@@ -1,0 +1,363 @@
+{
+  "meta": {
+    "title": "CASA Systemen & Semen Analysatoren | iSperm Medical",
+    "description": "Ontdek onze CASA systemen en spermamorfologie analysatoren voor menselijk en veterinair gebruik. Semen analysator oplossingen die voldoen aan WHO 6e editie."
+  },
+  "nav": {
+    "home": "Home",
+    "products": "Producten",
+    "about": "Over Ons",
+    "knowledgeHub": "Kenniscentrum",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Onze Producten",
+    "subtitle": "Professionele CASA Systemen voor Reproductieve Geneeskunde"
+  },
+  "section": {
+    "title": "Selecteer Uw CASA Systeem",
+    "subtitle": "Selecteer een product om gedetailleerde specificaties en functies te bekijken"
+  },
+  "products": {
+    "nexus": {
+      "name": "Nexus Dx1",
+      "tag": "Menselijk",
+      "badge": "Professioneel CASA Systeem",
+      "heroSubtitle": "Volledig Geautomatiseerd Menselijk CASA Systeem",
+      "subtitle": "Volledig Geautomatiseerd Menselijk CASA Systeem",
+      "description": "Volledig geautomatiseerd CASA systeem ontworpen voor klinisch en laboratoriumgebruik, met geavanceerde AI-algoritmen en uitgebreide parameteranalyse.",
+      "feature1": "Volledig geautomatiseerde analyse",
+      "feature2": "Ingebouwde verwarmingsfase",
+      "feature3": "PC werkstation ondersteuning",
+      "button": "Details Bekijken",
+      "detail": {
+        "description": "Professioneel CASA systeem ontworpen voor klinisch en laboratoriumgebruik, met geavanceerde AI-algoritmen en uitgebreide parameteranalyse voor menselijke semen evaluatie.",
+        "keyFeatures": {
+          "title": "Belangrijkste Functies",
+          "items": [
+            "Volledig geautomatiseerd",
+            "Aanraakscherm",
+            "Ingebouwde Verwarmingsfase",
+            "Zelfstandig alles-in-één systeem",
+            "Geavanceerd Gaussisch dynamisch AI-beeldalgoritme",
+            "Telkamer: Verbeterde/Gecoate 2-kamer, vaste diepte 10μm",
+            "Aanpasbare meerdere gezichtsvelden, tot 1500 spermacellen per gezichtsveld",
+            "Ondersteunt video afspelen",
+            "Ondersteunt externe barcodescanner",
+            "PC werkstation"
+          ]
+        },
+        "analysisParameters": {
+          "title": "Analyse Parameters",
+          "groups": [
+            {
+              "title": "Concentratie en Motiliteit",
+              "items": [
+                "Totaal aantal spermacellen",
+                "Beweeglijke spermacellen",
+                "Onbeweeglijke spermacellen",
+                "Progressieve en langzame spermacellen",
+                "Niet-progressieve spermacellen"
+              ]
+            },
+            {
+              "title": "Kinematiek",
+              "items": [
+                "DCL, DSL, DAP",
+                "VCL, VSL, VAP",
+                "ALH, MAD, BCF",
+                "LIN, WOB, STR"
+              ]
+            },
+            {
+              "title": "Morfologie",
+              "items": [
+                "Normale en Abnormale spermacellen",
+                "Hoofddefecten",
+                "DMR",
+                "Distale Druppel",
+                "Proximale Druppel",
+                "Staartdefecten",
+                "Cytoplasmatisch residu",
+                "TZI, SDI"
+              ]
+            },
+            {
+              "title": "Aanvullend",
+              "items": [
+                "Ronde Cellen"
+              ]
+            }
+          ]
+        },
+        "complianceStandards": {
+          "title": "Naleving & Standaarden",
+          "standards": [
+            {
+              "slug": "who-6th-edition-semen-analysis-standards",
+              "name": "WHO 6th",
+              "title": "WHO 6e Editie Richtlijnen",
+              "description": "De <strong>Nexus Dx1</strong> voldoet volledig aan de richtlijnen van de <strong>WHO 6e Editie</strong>. Lees onze gedetailleerde analyse."
+            },
+            {
+              "slug": "iso-23162-2021-laboratory-competence-guide",
+              "name": "ISO 23162",
+              "title": "ISO 23162 Richtlijnen",
+              "description": "De <strong>Nexus Dx1</strong> voldoet volledig aan de <strong>ISO 23162</strong> richtlijnen. Lees onze gedetailleerde analyse."
+            },
+            {
+              "slug": "eshre-guidelines-clinical-semen-examination",
+              "name": "ESHRE",
+              "title": "ESHRE Richtlijnen",
+              "description": "De <strong>Nexus Dx1</strong> voldoet volledig aan de <strong>ESHRE</strong> richtlijnen. Lees onze gedetailleerde analyse."
+            },
+            {
+              "slug": "asrm-male-infertility-evaluation-protocols",
+              "name": "ASRM",
+              "title": "ASRM Richtlijnen",
+              "description": "De <strong>Nexus Dx1</strong> voldoet volledig aan de <strong>ASRM</strong> richtlijnen. Lees onze gedetailleerde analyse."
+            }
+          ],
+          "learnMore": "Meer informatie →"
+        }
+      }
+    },
+    "msqa": {
+      "name": "MSQA-100",
+      "tag": "Menselijk",
+      "badge": "Draagbaar Thuisgebruik CASA",
+      "heroSubtitle": "Draagbaar Thuisgebruik CASA Systeem",
+      "subtitle": "Draagbare CASA Semen Analysator",
+      "description": "Draagbaar CASA systeem voor thuisgebruik met smartphone compatibiliteit, dat laboratoriumniveau prestaties levert in compact formaat.",
+      "feature1": "Smartphone compatibel",
+      "feature2": "Ingebouwde temperatuurregeling",
+      "feature3": "Cloud-gebaseerde AI-analyse",
+      "button": "Details Bekijken",
+      "detail": {
+        "description": "De MSQA-100 is een draagbaar, thuisgebruik Computer-Assisted Sperm Analysis (CASA) systeem ontworpen voor snelle, accurate en gebruiksvriendelijke semen evaluatie. Door microfluïdische technologie, precisieproductie en AI-gedreven beeldanalyse te combineren, levert de MSQA-100 laboratoriumniveau prestaties in een compact en toegankelijk formaat.",
+        "keyTechnologies": {
+          "title": "Belangrijkste Technologieën & Functies",
+          "items": [
+            {
+              "label": "Microfluïdische Glijbaan:",
+              "text": "De gepatenteerde microfluïdische glijbaan creëert een 7 μm vaste observatiekamer wanneer twee lagen worden samengesteld. Dit vaste-diepte ontwerp elimineert de behoefte aan handmatige focus en zorgt voor consistente, reproduceerbare resultaten."
+            },
+            {
+              "label": "Universele Smartphone & Tablet Compatibiliteit:",
+              "text": "Compatibel met bijna alle mainstream smartphone en tablet achtercamera's, waardoor flexibele en goedkope beeldvorming mogelijk is zonder speciale microscopen."
+            },
+            {
+              "label": "Ingebouwde Temperatuurregeling:",
+              "text": "Geïntegreerde thermische module houdt monsters op 37°C tijdens analyse, behoudt spermamotiliteit en zorgt voor fysiologisch accurate resultaten."
+            },
+            {
+              "label": "Ultra-Microfluïdisch Polymeer Biochip:",
+              "text": "Geavanceerd microfluïdisch ontwerp voor nauwkeurige monsterbehandeling en optimale stroomkarakteristieken."
+            },
+            {
+              "label": "Cloud-Gebaseerde AI-Analyse:",
+              "text": "Aangedreven door een cloudserver Gaussisch dynamisch beeld intelligent algoritme voor accurate en geautomatiseerde gegevensverwerking."
+            },
+            {
+              "label": "Automatisch Focus Microscopisch Visiesysteem:",
+              "text": "Zorgt voor optimale beeldkwaliteit voor analyse met automatische focusmogelijkheden."
+            },
+            {
+              "label": "Volledig Geautomatiseerde Analyse:",
+              "text": "Minimale gebruikersbediening, geschikt voor zowel professionele als thuisomgevingen."
+            }
+          ]
+        },
+        "measuredParameters": {
+          "title": "Gemeten Parameters",
+          "groups": [
+            {
+              "title": "Concentratie & Telling",
+              "items": [
+                "Spermaconcentratie",
+                "Totaal aantal spermacellen"
+              ]
+            },
+            {
+              "title": "Motiliteit",
+              "items": [
+                "Totale motiliteit",
+                "Progressieve motiliteit",
+                "Niet-progressieve motiliteit",
+                "Onbeweeglijke spermacellen"
+              ]
+            },
+            {
+              "title": "Kinematiek",
+              "items": [
+                "Rechtlijnige snelheid (VSL)",
+                "Percentage rechtlijnige beweeglijke spermacellen",
+                "Kromlijnige snelheid (VCL)",
+                "Andere bewegingsparameters"
+              ]
+            }
+          ]
+        },
+        "physicalSpecs": {
+          "title": "Fysieke Specificaties",
+          "items": [
+            {
+              "label": "Afmetingen:",
+              "text": "174,8 × 113,5 × 50,5 mm"
+            },
+            {
+              "label": "Gewicht:",
+              "text": "Lichtgewicht en draagbaar ontwerp"
+            },
+            {
+              "label": "Voeding:",
+              "text": "Batterij-aangedreven voor veldgebruik"
+            }
+          ]
+        },
+        "applications": {
+          "title": "Toepassingen",
+          "intro": "De MSQA-100 is ideaal voor:",
+          "items": [
+            "Thuisgebaseerde vruchtbaarheidsmonitoring",
+            "Eerstelijns zorgklinieken",
+            "Veldtesten en mobiele gezondheidseenheden",
+            "Onderzoeks- en onderwijsinstellingen",
+            "Telemedicine en remote diagnostiek"
+          ]
+        }
+      }
+    },
+    "sqavet": {
+      "name": "SQA-6100vet",
+      "tag": "Veterinair",
+      "badge": "Veterinair CASA Systeem",
+      "heroSubtitle": "Volledig Geautomatiseerd Veterinair CASA Systeem",
+      "subtitle": "Volledig Geautomatiseerd Veterinair CASA Systeem",
+      "description": "Revolutionair volledig geautomatiseerd CASA systeem voor dierlijke reproductieve beoordeling, met ondersteuning voor multi-soort analyse met draagbare veldmogelijkheden.",
+      "feature1": "Multi-soort ondersteuning",
+      "feature2": "15 seconden analysetijd",
+      "feature3": "Draagbaar alles-in-één ontwerp",
+      "button": "Details Bekijken",
+      "detail": {
+        "description": "SQA-6100vet vertegenwoordigt het hoogtepunt van veterinaire reproductieve technologie. Dit revolutionaire volledig geautomatiseerde CASA systeem levert ongeëvenaarde nauwkeurigheid en reproduceerbaarheid in dierlijke spermaparameter evaluatie, het kan werken als een zelfstandig alles-in-één systeem dat grote voordelen heeft in veld- en draagbare situaties en kan ook werken met de toegewijde PC-software voor gebruiksvriendelijker gegevensbeheer.",
+        "keyFeatures": {
+          "title": "Belangrijkste Functies",
+          "items": [
+            "Volledig geautomatiseerd",
+            "Aanraakscherm",
+            "Ingebouwde Verwarmingsfase",
+            "Zelfstandig alles-in-één systeem",
+            "Geavanceerd Gaussisch dynamisch AI-beeldalgoritme",
+            "Telkamer: Verbeterde/Gecoate 6-kamer, vaste diepte 20μm",
+            "Zo snel als 15 seconden analysetijd, selecteerbare meerdere gezichtsvelden",
+            "Ondersteunt video afspelen",
+            "Ondersteunt externe barcodescanner",
+            "PC werkstation",
+            "Ondersteunt multi-soort"
+          ]
+        },
+        "analysisParameters": {
+          "title": "Analyse Parameters",
+          "groups": [
+            {
+              "title": "Concentratie en Motiliteit",
+              "items": [
+                "Totaal aantal spermacellen",
+                "Beweeglijke spermacellen",
+                "Onbeweeglijke spermacellen",
+                "Progressieve en langzame spermacellen",
+                "Niet-progressieve spermacellen"
+              ]
+            },
+            {
+              "title": "Kinematiek",
+              "items": [
+                "DCL, DSL, DAP",
+                "VCL, VSL, VAP",
+                "ALH, MAD, BCF",
+                "LIN, WOB, STR"
+              ]
+            },
+            {
+              "title": "Morfologie",
+              "items": [
+                "Normale en Abnormale spermacellen",
+                "Hoofddefecten",
+                "DMR",
+                "Distale Druppel",
+                "Proximale Druppel",
+                "Gebogen Staart",
+                "Opgerolde Staart"
+              ]
+            },
+            {
+              "title": "Dosering",
+              "items": [
+                "Automatisch berekenen van aantal doses op basis van verdunningsmiddel tijden, monstervolume, aantal spermacellen, etc."
+              ]
+            }
+          ]
+        },
+        "thermalIntegrity": {
+          "title": "Het Thermische Integriteitsvoordeel",
+          "subtitle": "Waarom ingebouwde temperatuurregeling essentieel is voor accurate CASA-analyse",
+          "intro": "In de wereld van andrologie is \"Motiliteit is Temperatuur.\" De SQA-6100vet heeft een interne, real-time verwarmingsfase die monsters op fysiologische temperaturen (37°C) houdt gedurende de analyse. Deze kritieke functie zorgt ervoor dat spermamotiliteit wordt gemeten onder levensechte omstandigheden, waardoor valse \"Onbevredigend\" diagnoses veroorzaakt door koude shock worden voorkomen.",
+          "challenge": {
+            "title": "De Uitdaging",
+            "text": "Dierlijke spermacellen zijn extreem gevoelig voor temperatuurveranderingen. Een daling van slechts 2-3°C kan onmiddellijk motiliteitsverlies veroorzaken, wat leidt tot onnauwkeurige resultaten."
+          },
+          "solution": {
+            "title": "De Oplossing",
+            "text": "De geïntegreerde verwarmingsfase van de SQA-6100vet handhaaft constante 37°C gedurende de analyse, waardoor echte progressieve motiliteit wordt onthuld zoals deze bestaat in het reproductieve kanaal van het dier."
+          }
+        },
+        "scientificStandards": {
+          "title": "Naleving van Wetenschappelijke Standaarden",
+          "description": "De SQA-6100vet is ontworpen om te voldoen aan toonaangevende veterinaire andrologiestandaarden en richtlijnen. Ons systeem ondersteunt naleving van gevestigde protocollen voor fokgeschiktheidsonderzoek over meerdere soorten.",
+          "standards": [
+            {
+              "title": "Society for Theriogenology (SFT)",
+              "text": "Voldoet aan SFT-richtlijnen voor Stier-, Ram- en Paarden Fokgeschiktheidsonderzoek (BSE/EBSE). Ondersteunt gestandaardiseerde evaluatieprotocollen."
+            },
+            {
+              "title": "Multi-Soort Protocollen",
+              "text": "Soortspecifieke algoritmen zorgen voor accurate parameter evaluatie."
+            },
+            {
+              "title": "Veld- & Laboratoriumgebruik",
+              "text": "Draagbaar ontwerp maakt BSE-onderzoeken ter plaatse mogelijk terwijl laboratoriumniveau precisie wordt behouden. Ideaal voor fokdierproducenten en veterinaire klinieken."
+            },
+            {
+              "title": "Onderzoeksvalidatie",
+              "text": "Technologie gevalideerd door peer-reviewed onderzoek en gebruikt in academische instellingen wereldwijd voor reproductief onderzoek en klinische praktijk."
+            }
+          ],
+          "footer": "Verken Veterinaire Standaarden: Bezoek ons Kenniscentrum voor gedetailleerde gidsen over fokgeschiktheidsonderzoek standaarden en beste praktijken."
+        }
+      }
+    },
+    "nexusMeta": {
+      "title": "Nexus Dx1 CASA Systeem | WHO 6e Editie | iSperm Medical",
+      "description": "Nexus Dx1 volledig geautomatiseerd menselijk CASA systeem. WHO 6e editie compatibele semen analysator met AI-gedreven spermamorfologie analyse."
+    },
+    "msqaMeta": {
+      "title": "MSQA-100 Draagbaar CASA Systeem | iSperm Medical",
+      "description": "MSQA-100 draagbaar thuisgebruik CASA systeem. Smartphone-compatibele semen analysator met cloud AI voor spermamorfologie analyse."
+    },
+    "sqavetMeta": {
+      "title": "SQA-6100vet Veterinair CASA Systeem | iSperm Medical",
+      "description": "SQA-6100vet multi-soort veterinair CASA systeem. Geautomatiseerde semen analysator voor stier, ram, paard en andere soorten. Veldklaar ontwerp."
+    }
+  },
+  "footer": {
+    "company": "iSperm Medical",
+    "description": "iSperm Medical Ltd. is toegewijd aan het leveren van geavanceerde technologische oplossingen in semen analyse.",
+    "quickLinks": "Snelle Links",
+    "contact": "Contact",
+    "email": "E-mail:",
+    "address": "Adres:",
+    "fullAddress": "2F, Block B, Shenchengtou & Zhongcheng Life Science Park, Pingshan District, Shenzhen, Guangdong, China",
+    "rights": "© 2024 iSperm Medical Ltd. Alle rechten voorbehouden."
+  }
+}

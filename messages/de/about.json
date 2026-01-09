@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "title": "Über iSperm Medical | CASA-System-Hersteller",
+    "description": "Führender Hersteller von CASA-Systemen & Samenanalysatoren. WHO 6. Auflage konforme Spermien-Morphologie-Analysatoren für den Human- und Veterinärbereich seit 2010."
+  },
+  "nav": {
+    "home": "Startseite",
+    "products": "Produkte",
+    "about": "Über uns",
+    "knowledgeHub": "Wissensdatenbank",
+    "contact": "Kontakt"
+  },
+  "hero": {
+    "title": "Wer wir sind",
+    "subtitle": "Führend im globalen Standard der CASA-Technologie"
+  },
+  "description": {
+    "text": "iSperm Medical ist ein globaler Innovator, der sich fortgeschrittenen, effizienten und zugänglichen Reproduktionsdiagnosen widmet. Durch die Kombination von KI-gestützten Algorithmen mit Mikrofluidik liefern wir Laborqualitäts-Präzision für Fachkräfte weltweit. Unsere Mission ist es, die Reproduktionsbewertung durch vollautomatische CASA-Systeme und Spermienqualitätsanalysator-Technologie neu zu definieren."
+  },
+  "founder": {
+    "title": "Gründer & Chefentwickler",
+    "name": "Benjamin Zhuang",
+    "education": {
+      "title": "Bildung",
+      "item1": "B.Eng. in Mechatronik, Nanjing Univ. of Aeronautics & Astronautics",
+      "item2": "M.Eng. in Biomedizintechnik (Mikrofluidik), UNSW, Australien"
+    },
+    "career": {
+      "title": "Karriere",
+      "item1": "Frühe Tätigkeit in der Luftfahrtproduktion und Mikro-/Nano-Ätzung",
+      "item2": "Beitritt zu Mindray, Entwicklung des ersten 5-Parameter-Hämatologie-Analysators Chinas",
+      "item3": "Leitung der Mikrofluidik-Forschung und -entwicklung bei einem CAS-affilierten Chip-Unternehmen"
+    },
+    "entrepreneurship": {
+      "title": "Unternehmertum",
+      "item1": "Gründung von Create&Care (2016), Fokus auf Mikrofluidik-Chip-Industrialisierung",
+      "item2": "Lancierung von Bemaner(SQA-900), einem tragbaren KI-Samenanalysator (iF & Red Dot Award); 100K+ Benutzer; validiert von NUL (PMC7714652)",
+      "item3": "Erweiterung der Technologie auf Primärversorgung, Heimdiagnostik und Veterinärbereich"
+    },
+    "achievements": {
+      "title": "Erfolge",
+      "item1": "Nationaler \"10.000 Talente Plan\" Experte; Shenzhen High-Level Talent",
+      "item2": "Auszeichnungen: China Youth Innovation Gold Award, Medical Device Innovation Award",
+      "item3": "30+ globale Patente; bezeichnet als \"Erfinder der zellulären Mikrofluidik-Chips\""
+    }
+  },
+  "showcase": {
+    "title": "Unser Team & Veranstaltungen",
+    "subtitle": "Professionelle Präsentationen und Ausstellungen unserer innovativen CASA-Systeme",
+    "images": {
+      "image1": {
+        "alt": "iSperm Medical Team präsentiert vollautomatisches CASA-System und Spermienqualitätsanalysator auf Ausstellung"
+      },
+      "image2": {
+        "alt": "iSperm Medical Fachkräfte diskutieren veterinären Samenanalysator und Tierzuchtlösungen"
+      },
+      "image3": {
+        "alt": "iSperm Medical Team und Veranstaltungen präsentieren CASA-Technologie und Lösungen für reproduktive Gesundheit"
+      },
+      "image4": {
+        "alt": "iSperm Medical Team-Präsentationen und Ausstellungen mit automatisierten Samenanalysesystemen"
+      },
+      "image5": {
+        "alt": "iSperm Medical Veranstaltungen und Team präsentieren innovative CASA-Systeme und Spermienqualitätsanalysatoren"
+      }
+    }
+  },
+  "footer": {
+    "company": "iSperm Medical",
+    "description": "iSperm Medical Ltd. ist verpflichtet, wegweisende Technologielösungen in der Samenanalyse zu liefern.",
+    "quickLinks": "Schnelllinks",
+    "contact": "Kontakt",
+    "email": "E-Mail:",
+    "address": "Adresse:",
+    "fullAddress": "2F, Block B, Shenchengtou & Zhongcheng Life Science Park, Pingshan District, Shenzhen, Guangdong, China",
+    "rights": "© 2024 iSperm Medical Ltd. Alle Rechte vorbehalten."
+  }
+}

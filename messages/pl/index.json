@@ -1,0 +1,75 @@
+{
+  "meta": {
+    "title": "System CASA i Analizator Spermy | iSperm Medical",
+    "description": "W pełni zautomatyzowane systemy CASA i analizatory morfologii plemników do zastosowań w medycynie ludzkiej i weterynaryjnej. Zgodne z 6. wydaniem WHO. Wiodący producent analizatorów nasienia."
+  },
+  "nav": {
+    "home": "Strona główna",
+    "products": "Produkty",
+    "about": "O nas",
+    "knowledgeHub": "Centrum wiedzy",
+    "contact": "Kontakt"
+  },
+  "hero": {
+    "title": "Rewolucja w Analizie Nasienia",
+    "subtitle": "Pionierzy Przyszłości Automatyzacji CASA",
+    "description": "W pełni zautomatyzowane systemy CASA do analizy nasienia ludzkiego i weterynaryjnego",
+    "exploreProducts": "Poznaj Produkty",
+    "learnMore": "Przeczytaj Naszą Historię"
+  },
+  "about": {
+    "title": "O iSperm Medical",
+    "tagline": "Pionierzy Przyszłości Diagnostyki Reprodukcyjnej",
+    "description": "Od 2010 roku iSperm Medical jest na czele badań nad analizą nasienia. Jako pierwsza firma wprowadzająca w pełni zautomatyzowane systemy CASA na rynek chiński, jesteśmy zaangażowani w transformację diagnostyki płodności poprzez precyzję i technologię.",
+    "description2": "Od naszych przełomowych rozwiązań klinicznych po wiodący w branży SQA-6100vet, łączymy algorytmy oparte na sztucznej inteligencji z mikrofluidyką, aby dostarczać profesjonalistom na całym świecie dokładność na poziomie laboratoryjnym.",
+    "ourStory": "Nasza Historia",
+    "heroImage": {
+      "alt": "iSperm Medical - Wiodący producent systemów CASA i analizatorów jakości plemników do diagnostyki reprodukcyjnej"
+    }
+  },
+  "features": {
+    "title": "Innowacje Naukowe",
+    "subtitle": "Pionierzy Przyszłości Diagnostyki Reprodukcyjnej",
+    "automated": {
+      "title": "Standaryzowany Przepływ Pracy",
+      "description": "Osiągnij pełną automatyzację procesu od załadowania do raportowania. Nasze systemy eliminują subiektywne uprzedzenia, zapewniając spójność kliniczną i maksymalizując przepustowość laboratorium."
+    },
+    "aiPowered": {
+      "title": "Inteligentne Rozpoznawanie AI",
+      "description": "Napędzane algorytmami AI z dynamiką Gaussa, iSperm zapewnia wysoką precyzję śledzenia morfologicznego i kinematycznego, identyfikując subtelne anomalie z bezprecedensową dokładnością diagnostyczną.",
+      "compliance": "Zgodne ze Standardami 6. Wydania WHO"
+    },
+    "standalone": {
+      "title": "Zintegrowana Wszechstronność",
+      "description": "Architektura typu all-in-one na poziomie klinicznym z wbudowanym stolikiem grzewczym i intuicyjnym ekranem dotykowym. Zaprojektowana dla bezproblemowej wydajności zarówno w zaawansowanych laboratoriach, jak i wymagających środowiskach terenowych."
+    },
+    "comprehensive": {
+      "title": "Zaawansowana Analityka",
+      "description": "Pełne spektrum parametrów diagnostycznych, w tym stężenie, ruchliwość wieloklasowa i morfologia zgodna z 6. wydaniem WHO, zapewniając kompleksowy profil zdrowia reprodukcyjnego."
+    }
+  },
+  "timeline": {
+    "title": "Nasza Podróż",
+    "subtitle": "Dziedzictwo Innowacji",
+    "2010": "Założona z naciskiem na pionierskie badania CASA w Chinach.",
+    "2016": "Opracowano pierwszy w Chinach system CASA do użytku domowego, wprowadzając zaawansowaną diagnostykę na poziom konsumencki.",
+    "2017": "Wprowadzono pierwszy w pełni zautomatyzowany profesjonalny system CASA w Chinach.",
+    "today": "Nasza flagowa seria CASA (Nexus Dx1 / SQA-6100vet) służy jako zaufany wybór do zautomatyzowanej oceny reprodukcyjnej na całym świecie."
+  },
+  "footer": {
+    "company": "iSperm Medical",
+    "description": "iSperm Medical Ltd. jest zaangażowana w dostarczanie najnowocześniejszych rozwiązań technologicznych w analizie nasienia.",
+    "quickLinks": "Szybkie linki",
+    "contact": "Kontakt",
+    "email": "E-mail:",
+    "address": "Adres:",
+    "fullAddress": "2F, Blok B, Shenchengtou & Zhongcheng Life Science Park, Dzielnica Pingshan, Shenzhen, Guangdong, Chiny",
+    "rights": "© 2024 iSperm Medical Ltd. Wszelkie prawa zastrzeżone."
+  },
+  "notFound": {
+    "title": "Strona nie znaleziona",
+    "description": "Strona, której szukasz, nie istnieje lub została przeniesiona.",
+    "backToHome": "Powrót do strony głównej",
+    "statusCode": "404"
+  }
+}

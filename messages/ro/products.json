@@ -1,0 +1,364 @@
+{
+  "meta": {
+    "title": "Sisteme CASA și Analizoare de Spermă | iSperm Medical",
+    "description": "Explorează sistemele noastre CASA și analizoarele de morfologie a spermei pentru uz uman și veterinar. Soluții de analizor de spermă conforme cu ediția a 6-a WHO."
+  },
+  "nav": {
+    "home": "Acasă",
+    "products": "Produse",
+    "about": "Despre Noi",
+    "knowledgeHub": "Centru de Cunoștințe",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Produsele Noastre",
+    "subtitle": "Sisteme CASA Profesionale pentru Medicină Reproductivă"
+  },
+  "section": {
+    "title": "Selectează Sistemul CASA",
+    "subtitle": "Selectează un produs pentru a vedea specificații și caracteristici detaliate"
+  },
+  "products": {
+    "nexus": {
+      "name": "Nexus Dx1",
+      "tag": "Uman",
+      "badge": "Sistem CASA Profesional",
+      "heroSubtitle": "Sistem CASA Uman Complet Automat",
+      "subtitle": "Sistem CASA Uman Complet Automat",
+      "description": "Sistem CASA complet automat proiectat pentru uz clinic și de laborator, cu algoritmi AI avansați și analiză comprehensivă a parametrilor.",
+      "feature1": "Analiză complet automată",
+      "feature2": "Plată termică integrată",
+      "feature3": "Suport stație de lucru PC",
+      "button": "Vezi Detalii",
+      "detail": {
+        "description": "Sistem CASA profesional proiectat pentru uz clinic și de laborator, cu algoritmi AI avansați și analiză comprehensivă a parametrilor pentru evaluarea spermei umane.",
+        "keyFeatures": {
+          "title": "Caracteristici Cheie",
+          "items": [
+            "Complet automat",
+            "Ecran tactil",
+            "Plată Termică Integrată",
+            "Sistem all-in-one standalone",
+            "Algoritm AI avansat de imagini dinamice Gaussian",
+            "Cameră de numărare: 2 camere îmbunătățite/acoperite, adâncime fixă 10μm",
+            "Câmpuri de vedere multiple personalizabile, până la 1500 spermatozoizi per câmp de vedere",
+            "Suportă redare video",
+            "Suportă scaner de coduri de bare extern",
+            "Stație de lucru PC"
+          ]
+        },
+        "analysisParameters": {
+          "title": "Parametri de Analiză",
+          "groups": [
+            {
+              "title": "Concentrație și Motilitate",
+              "items": [
+                "Număr total de spermatozoizi",
+                "Spermatozoizi motili",
+                "Spermatozoizi imotili",
+                "Spermatozoizi progresivi și lenți",
+                "Spermatozoizi neprogresivi"
+              ]
+            },
+            {
+              "title": "Cinematica",
+              "items": [
+                "DCL, DSL, DAP",
+                "VCL, VSL, VAP",
+                "ALH, MAD, BCF",
+                "LIN, WOB, STR"
+              ]
+            },
+            {
+              "title": "Morfologie",
+              "items": [
+                "Spermatozoizi normali și anormali",
+                "Defecte ale capului",
+                "DMR",
+                "Picătură distală",
+                "Picătură proximală",
+                "Defecte ale cozii",
+                "Reziduu citoplasmic",
+                "TZI, SDI"
+              ]
+            },
+            {
+              "title": "Suplimentar",
+              "items": [
+                "Celule rotunde"
+              ]
+            }
+          ]
+        },
+        "complianceStandards": {
+          "title": "Conformitate & Standarde",
+          "standards": [
+            {
+              "slug": "who-6th-edition-semen-analysis-standards",
+              "name": "WHO 6th",
+              "title": "Ghiduri OMS Ediția a 6-a",
+              "description": "<strong>Nexus Dx1</strong> respectă pe deplin ghidurile <strong>OMS Ediția a 6-a</strong>. Citiți analiza noastră detaliată."
+            },
+            {
+              "slug": "iso-23162-2021-laboratory-competence-guide",
+              "name": "ISO 23162",
+              "title": "Ghiduri ISO 23162",
+              "description": "<strong>Nexus Dx1</strong> respectă pe deplin ghidurile <strong>ISO 23162</strong>. Citiți analiza noastră detaliată."
+            },
+            {
+              "slug": "eshre-guidelines-clinical-semen-examination",
+              "name": "ESHRE",
+              "title": "Ghiduri ESHRE",
+              "description": "<strong>Nexus Dx1</strong> respectă pe deplin ghidurile <strong>ESHRE</strong>. Citiți analiza noastră detaliată."
+            },
+            {
+              "slug": "asrm-male-infertility-evaluation-protocols",
+              "name": "ASRM",
+              "title": "Ghiduri ASRM",
+              "description": "<strong>Nexus Dx1</strong> respectă pe deplin ghidurile <strong>ASRM</strong>. Citiți analiza noastră detaliată."
+            }
+          ],
+          "learnMore": "Aflați mai multe →"
+        }
+      }
+    },
+    "msqa": {
+      "name": "MSQA-100",
+      "tag": "Uman",
+      "badge": "CASA Portabil pentru Uz Casnic",
+      "heroSubtitle": "Sistem CASA Portabil pentru Uz Casnic",
+      "subtitle": "Analizor de Spermă CASA Portabil",
+      "description": "Sistem CASA portabil pentru uz casnic, compatibil cu smartphone, oferind performanță de nivel de laborator într-un format compact.",
+      "feature1": "Compatibil cu smartphone",
+      "feature2": "Control de temperatură integrat",
+      "feature3": "Analiză AI bazată pe cloud",
+      "button": "Vezi Detalii",
+      "detail": {
+        "description": "MSQA-100 este un sistem CASA (Computer-Assisted Sperm Analysis) portabil pentru uz casnic, proiectat pentru evaluarea rapidă, precisă și ușor de utilizat a spermei. Prin combinarea tehnologiei microfluidice, fabricației de precizie și analizei de imagini bazate pe AI, MSQA-100 oferă performanță de nivel de laborator într-un format compact și accesibil.",
+        "keyTechnologies": {
+          "title": "Tehnologii și Caracteristici Cheie",
+          "items": [
+            {
+              "label": "Lamelă Microfluidică:",
+              "text": "Lamela microfluidică proprietară creează o cameră de observare fixă de 7 μm când două straturi sunt asamblate. Acest design cu adâncime fixă elimină nevoia de focalizare manuală și asigură rezultate consistente și reproducibile."
+            },
+            {
+              "label": "Compatibilitate Universală cu Smartphone și Tabletă:",
+              "text": "Compatibil cu aproape toate camerele principale de smartphone și tabletă, permițând imagistică flexibilă și de cost redus fără microscopuri dedicate."
+            },
+            {
+              "label": "Control de Temperatură Integrat:",
+              "text": "Modulul termic integrat menține probele la 37°C în timpul analizei, păstrând motilitatea spermatozoizilor și asigurând rezultate fiziologic precise."
+            },
+            {
+              "label": "Biochip Polimer Ultra-Microfluidic:",
+              "text": "Design microfluidic avansat pentru manipulare precisă a probelor și caracteristici de flux optime."
+            },
+            {
+              "label": "Analiză AI Bazată pe Cloud:",
+              "text": "Alimentat de un algoritm inteligent de imagini dinamice Gaussian pe server cloud pentru procesare precisă și automată a datelor."
+            },
+            {
+              "label": "Sistem de Vizualizare Microscopică cu Focalizare Automată:",
+              "text": "Asigură calitate optimă a imaginii pentru analiză cu capabilități de focalizare automată."
+            },
+            {
+              "label": "Analiză Complet Automată:",
+              "text": "Operare minimă de utilizator, potrivit atât pentru setări profesionale, cât și pentru uz casnic."
+            }
+          ]
+        },
+        "measuredParameters": {
+          "title": "Parametri Măsurați",
+          "groups": [
+            {
+              "title": "Concentrație și Număr",
+              "items": [
+                "Concentrația spermatozoizilor",
+                "Număr total de spermatozoizi"
+              ]
+            },
+            {
+              "title": "Motilitate",
+              "items": [
+                "Motilitate totală",
+                "Motilitate progresivă",
+                "Motilitate neprogresivă",
+                "Spermatozoizi imotili"
+              ]
+            },
+            {
+              "title": "Cinematica",
+              "items": [
+                "Viteza liniei drepte (VSL)",
+                "Procentul de spermatozoizi motili cu linie dreaptă",
+                "Viteza curbilinie (VCL)",
+                "Alți parametri de mișcare"
+              ]
+            }
+          ]
+        },
+        "physicalSpecs": {
+          "title": "Specificații Fizice",
+          "items": [
+            {
+              "label": "Dimensiuni:",
+              "text": "174.8 × 113.5 × 50.5 mm"
+            },
+            {
+              "label": "Greutate:",
+              "text": "Design ușor și portabil"
+            },
+            {
+              "label": "Alimentare:",
+              "text": "Alimentat pe baterie pentru uz în teren"
+            }
+          ]
+        },
+        "applications": {
+          "title": "Aplicații",
+          "intro": "MSQA-100 este ideal pentru:",
+          "items": [
+            "Monitorizarea fertilității la domiciliu",
+            "Clinicile de îngrijire primară",
+            "Testare în teren și unități mobile de sănătate",
+            "Instituții de cercetare și educație",
+            "Telemedicină și diagnostic la distanță"
+          ]
+        }
+      }
+    },
+    "sqavet": {
+      "name": "SQA-6100vet",
+      "tag": "Veterinar",
+      "badge": "Sistem CASA Veterinar",
+      "heroSubtitle": "Sistem CASA Veterinar Complet Automat",
+      "subtitle": "Sistem CASA Veterinar Complet Automat",
+      "description": "Sistem CASA complet automat revoluționar pentru evaluarea reproductivă animală, cu suport pentru analiză multi-specii și capabilități portabile de teren.",
+      "feature1": "Suport multi-specii",
+      "feature2": "Timp de analiză 15 secunde",
+      "feature3": "Design all-in-one portabil",
+      "button": "Vezi Detalii",
+      "detail": {
+        "description": "SQA-6100vet reprezintă apogeul tehnologiei reproductive veterinare. Acest sistem CASA complet automat revoluționar oferă acuratețe și reproductibilitate neegalate în evaluarea parametrilor spermatozoizilor animali, poate funcționa ca un sistem all-in-one standalone care are mari avantaje în situații de teren și portabile și poate funcționa și cu software-ul PC dedicat pentru o gestionare a datelor mai prietenoasă cu utilizatorul.",
+        "keyFeatures": {
+          "title": "Caracteristici Cheie",
+          "items": [
+            "Complet automat",
+            "Ecran tactil",
+            "Plată Termică Integrată",
+            "Sistem all-in-one standalone",
+            "Algoritm AI avansat de imagini dinamice Gaussian",
+            "Camere de numărare: 6 camere îmbunătățite/acoperite, adâncime fixă 20μm",
+            "La fel de rapid ca 15 secunde timp de analiză, câmpuri de vedere multiple selectabile",
+            "Suportă redare video",
+            "Suportă scaner de coduri de bare extern",
+            "Stație de lucru PC",
+            "Suportă multi-specii"
+          ]
+        },
+        "analysisParameters": {
+          "title": "Parametri de Analiză",
+          "groups": [
+            {
+              "title": "Concentrație și Motilitate",
+              "items": [
+                "Număr total de spermatozoizi",
+                "Spermatozoizi motili",
+                "Spermatozoizi imotili",
+                "Spermatozoizi progresivi și lenți",
+                "Spermatozoizi neprogresivi"
+              ]
+            },
+            {
+              "title": "Cinematica",
+              "items": [
+                "DCL, DSL, DAP",
+                "VCL, VSL, VAP",
+                "ALH, MAD, BCF",
+                "LIN, WOB, STR"
+              ]
+            },
+            {
+              "title": "Morfologie",
+              "items": [
+                "Spermatozoizi normali și anormali",
+                "Defecte ale capului",
+                "DMR",
+                "Picătură distală",
+                "Picătură proximală",
+                "Coadă îndoită",
+                "Coadă în spirală"
+              ]
+            },
+            {
+              "title": "Doze",
+              "items": [
+                "Calcul automat al numărului de doze bazat pe timpii de extindere, volumul probei, numărul de spermatozoizi, etc."
+              ]
+            }
+          ]
+        },
+        "thermalIntegrity": {
+          "title": "Avantajul Integrității Termice",
+          "subtitle": "De ce controlul de temperatură integrat este esențial pentru analiza CASA precisă",
+          "intro": "În lumea andrologiei, \"Motilitatea este Temperatura.\" SQA-6100vet are o plată termică internă, în timp real care menține probele la temperaturi fiziologice (37°C) pe parcursul analizei. Această caracteristică critică asigură că motilitatea spermatozoizilor este măsurată în condiții similare vieții, prevenind diagnostice false \"Nesatisfăcătoare\" cauzate de șocul la rece.",
+          "challenge": {
+            "title": "Provocarea",
+            "text": "Spermatozoizii animali sunt extrem de sensibili la schimbările de temperatură. O scădere de doar 2-3°C poate cauza pierdere imediată a motilității, ducând la rezultate inexacte."
+          },
+          "solution": {
+            "title": "Soluția",
+            "text": "Plata termică integrată a SQA-6100vet menține constant 37°C pe parcursul analizei, dezvăluind motilitatea progresivă adevărată așa cum există în tractul reproductiv al animalului."
+          }
+        },
+        "scientificStandards": {
+          "title": "Conformitate cu Standardele Științifice",
+          "description": "SQA-6100vet este proiectat să se alinieze cu standardele și ghidurile de andrologie veterinară de top. Sistemul nostru suportă conformitatea cu protocoalele stabilite pentru examinarea sănătății reproducției în mai multe specii.",
+          "standards": [
+            {
+              "title": "Society for Theriogenology (SFT)",
+              "text": "Conform cu ghidurile SFT pentru Bull, Ram și Examinarea Sănătății Reproductiei Echinine (BSE/EBSE). Suportă protocoale de evaluare standardizate."
+            },
+            {
+              "title": "Protocoale Multi-Specii",
+              "text": "Algoritmii specifice speciei asigură evaluarea precisă a parametrilor."
+            },
+            {
+              "title": "Uz în Teren și Laborator",
+              "text": "Designul portabil permite examinări BSE la fața locului menținând în același timp precizia de nivel de laborator. Ideal pentru producătorii de reproducători și clinicile veterinare."
+            },
+            {
+              "title": "Validare Cercetare",
+              "text": "Tehnologie validată prin cercetare revizuită de colegi și folosită în instituții academice din întreaga lume pentru cercetare reproductivă și practică clinică."
+            }
+          ],
+          "footer": "Explorează Standardele Veterinare: Vizitează Centrul nostru de Cunoștințe pentru ghiduri detaliate despre standardele de examinare a sănătății reproducției și cele mai bune practici."
+        }
+      }
+    },
+    "nexusMeta": {
+      "title": "Sistem CASA Nexus Dx1 | Ediția a 6-a WHO | iSperm Medical",
+      "description": "Sistem CASA uman complet automat Nexus Dx1. Analizor de spermă conform cu ediția a 6-a WHO cu analiză de morfologie a spermatozoizilor bazată pe AI."
+    },
+    "msqaMeta": {
+      "title": "Sistem CASA Portabil MSQA-100 | iSperm Medical",
+      "description": "Sistem CASA portabil pentru uz casnic MSQA-100. Analizor de spermă compatibil cu smartphone cu AI cloud pentru analiză de morfologie a spermatozoizilor."
+    },
+    "sqavetMeta": {
+      "title": "Sistem CASA Veterinar SQA-6100vet | iSperm Medical",
+      "description": "Sistem CASA veterinar multi-specii SQA-6100vet. Analizor de spermă automatizat pentru taur, berbec, echin și alte specii. Design gata pentru teren."
+    }
+  },
+  "footer": {
+    "company": "iSperm Medical",
+    "description": "iSperm Medical Ltd. este angajat să ofere soluții tehnologice de ultimă generație în analiza spermei.",
+    "quickLinks": "Linkuri Rapide",
+    "contact": "Contact",
+    "email": "Email:",
+    "address": "Adresă:",
+    "fullAddress": "2F, Block B, Shenchengtou & Zhongcheng Life Science Park, Pingshan District, Shenzhen, Guangdong, China",
+    "rights": "© 2024 iSperm Medical Ltd. Toate drepturile rezervate."
+  }
+}
+

@@ -1,0 +1,75 @@
+{
+  "meta": {
+    "title": "Sistema CASA Totalmente Automatizado y Analizador de Calidad de Esperma | iSperm Medical | Fabricante Líder de CASA (Analizador de Semen)",
+    "description": "iSperm Medical proporciona sistemas CASA totalmente automatizados y analizadores de morfología de esperma para uso clínico humano y cría animal. Fabricante líder de CASA (Analizador de Semen)."
+  },
+  "nav": {
+    "home": "Inicio",
+    "products": "Productos",
+    "about": "Nosotros",
+    "knowledgeHub": "Centro de Conocimiento",
+    "contact": "Contacto"
+  },
+  "hero": {
+    "title": "Revolucionando el Análisis de Semen",
+    "subtitle": "Pioneros en el Futuro de la Automatización CASA",
+    "description": "Sistemas CASA totalmente automatizados para análisis de semen humano y veterinario",
+    "exploreProducts": "Explorar Productos",
+    "learnMore": "Leer Nuestra Historia"
+  },
+  "about": {
+    "title": "Acerca de iSperm Medical",
+    "tagline": "Pioneros en el Futuro del Diagnóstico Reproductivo",
+    "description": "Desde 2010, iSperm Medical ha estado a la vanguardia de la investigación en análisis de semen. Como la primera empresa en introducir sistemas CASA totalmente automatizados al mercado chino, estamos dedicados a transformar el diagnóstico de fertilidad a través de la precisión y la tecnología.",
+    "description2": "Desde nuestras soluciones clínicas innovadoras hasta nuestro SQA-6100vet líder en la industria, combinamos algoritmos impulsados por IA con microfluídica para ofrecer precisión de grado de laboratorio a profesionales de todo el mundo.",
+    "ourStory": "Nuestra Historia",
+    "heroImage": {
+      "alt": "iSperm Medical - Fabricante líder de sistemas CASA y analizadores de calidad de esperma para diagnóstico reproductivo"
+    }
+  },
+  "features": {
+    "title": "Innovación Científica",
+    "subtitle": "Pioneros en el Futuro del Diagnóstico Reproductivo",
+    "automated": {
+      "title": "Flujo de Trabajo Estandarizado",
+      "description": "Logre automatización de proceso completo desde la carga hasta el informe. Nuestros sistemas eliminan el sesgo subjetivo, garantizando consistencia clínica y maximizando el rendimiento del laboratorio."
+    },
+    "aiPowered": {
+      "title": "Reconocimiento Inteligente por IA",
+      "description": "Impulsado por algoritmos de IA dinámica gaussiana, iSperm ofrece seguimiento morfológico y cinemático de alta precisión, identificando anomalías sutiles con una precisión diagnóstica sin precedentes.",
+      "compliance": "Cumple con los Estándares de la 6ª Edición de la OMS"
+    },
+    "standalone": {
+      "title": "Versatilidad Integrada",
+      "description": "Una arquitectura todo en uno de grado clínico con platina calefactora integrada y pantalla táctil intuitiva. Diseñada para un rendimiento fluido tanto en laboratorios de alta gama como en entornos de campo exigentes."
+    },
+    "comprehensive": {
+      "title": "Análisis Avanzado",
+      "description": "Parámetros diagnósticos de espectro completo que incluyen concentración, motilidad multiclase y morfología de la 6ª edición de la OMS, proporcionando un perfil completo de la salud reproductiva."
+    }
+  },
+  "timeline": {
+    "title": "Nuestro Viaje",
+    "subtitle": "Un Legado de Innovación",
+    "2010": "Fundada con un enfoque en la investigación pionera de CASA en China.",
+    "2016": "Desarrollamos el primer sistema CASA de uso doméstico de China, llevando diagnósticos avanzados al nivel del consumidor.",
+    "2017": "Lanzamos el primer sistema CASA profesional totalmente automatizado en China.",
+    "today": "Nuestra serie insignia de CASA (Nexus Dx1 / SQA-6100vet) sirve como la elección confiable para la evaluación reproductiva automatizada en todo el mundo."
+  },
+  "footer": {
+    "company": "iSperm Medical",
+    "description": "iSperm Medical Ltd. está comprometida a ofrecer soluciones tecnológicas de vanguardia en análisis de semen.",
+    "quickLinks": "Enlaces Rápidos",
+    "contact": "Contacto",
+    "email": "Email:",
+    "address": "Dirección:",
+    "fullAddress": "2F, Block B, Shenchengtou & Zhongcheng Life Science Park, Pingshan District, Shenzhen, Guangdong, China",
+    "rights": "© 2024 iSperm Medical Ltd. Todos los derechos reservados."
+  },
+  "notFound": {
+    "title": "Página no encontrada",
+    "description": "La página que buscas no existe o ha sido movida.",
+    "backToHome": "Volver al inicio",
+    "statusCode": "404"
+  }
+}

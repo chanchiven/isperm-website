@@ -1,0 +1,363 @@
+{
+  "meta": {
+    "title": "Systemy CASA i Analizatory Nasienia | iSperm Medical",
+    "description": "Poznaj nasze systemy CASA i analizatory morfologii plemników do zastosowań ludzkich i weterynaryjnych. Rozwiązania analizatorów nasienia zgodne z 6. wydaniem WHO."
+  },
+  "nav": {
+    "home": "Strona Główna",
+    "products": "Produkty",
+    "about": "O Nas",
+    "knowledgeHub": "Centrum Wiedzy",
+    "contact": "Kontakt"
+  },
+  "hero": {
+    "title": "Nasze Produkty",
+    "subtitle": "Profesjonalne Systemy CASA dla Medycyny Rozrodu"
+  },
+  "section": {
+    "title": "Wybierz Swój System CASA",
+    "subtitle": "Wybierz produkt, aby zobaczyć szczegółowe specyfikacje i funkcje"
+  },
+  "products": {
+    "nexus": {
+      "name": "Nexus Dx1",
+      "tag": "Ludzki",
+      "badge": "Profesjonalny System CASA",
+      "heroSubtitle": "W pełni Zautomatyzowany Ludzki System CASA",
+      "subtitle": "W pełni Zautomatyzowany Ludzki System CASA",
+      "description": "W pełni zautomatyzowany system CASA zaprojektowany do zastosowań klinicznych i laboratoryjnych, wyposażony w zaawansowane algorytmy AI i kompleksową analizę parametrów.",
+      "feature1": "W pełni zautomatyzowana analiza",
+      "feature2": "Wbudowany stopień grzewczy",
+      "feature3": "Wsparcie dla stacji roboczej PC",
+      "button": "Zobacz Szczegóły",
+      "detail": {
+        "description": "Profesjonalny system CASA zaprojektowany do zastosowań klinicznych i laboratoryjnych, wyposażony w zaawansowane algorytmy AI i kompleksową analizę parametrów do oceny ludzkiego nasienia.",
+        "keyFeatures": {
+          "title": "Kluczowe Funkcje",
+          "items": [
+            "W pełni zautomatyzowany",
+            "Ekran dotykowy",
+            "Wbudowany Stopień Grzewczy",
+            "Autonomiczny system wszystko-w-jednym",
+            "Zaawansowany algorytm AI obrazu dynamicznego Gaussa",
+            "Komora licząca: Ulepszona/Powlekana 2-komorowa, stała głębokość 10μm",
+            "Konfigurowalne wiele pól widzenia, do 1500 plemników na pole widzenia",
+            "Obsługa odtwarzania wideo",
+            "Obsługa zewnętrznego skanera kodów kreskowych",
+            "Stacja robocza PC"
+          ]
+        },
+        "analysisParameters": {
+          "title": "Parametry Analizy",
+          "groups": [
+            {
+              "title": "Stężenie i Ruchliwość",
+              "items": [
+                "Całkowita liczba plemników",
+                "Ruchliwe plemniki",
+                "Nieruchome plemniki",
+                "Postępowe i wolne plemniki",
+                "Niepostępowe plemniki"
+              ]
+            },
+            {
+              "title": "Kinematyka",
+              "items": [
+                "DCL, DSL, DAP",
+                "VCL, VSL, VAP",
+                "ALH, MAD, BCF",
+                "LIN, WOB, STR"
+              ]
+            },
+            {
+              "title": "Morfologia",
+              "items": [
+                "Normalne i Nieprawidłowe plemniki",
+                "Wady główki",
+                "DMR",
+                "Kropelka Dystalna",
+                "Kropelka Proksymalna",
+                "Wady ogona",
+                "Pozostałość cytoplazmatyczna",
+                "TZI, SDI"
+              ]
+            },
+            {
+              "title": "Dodatkowe",
+              "items": [
+                "Komórki Okrągłe"
+              ]
+            }
+          ]
+        },
+        "complianceStandards": {
+          "title": "Zgodność i Standardy",
+          "standards": [
+            {
+              "slug": "who-6th-edition-semen-analysis-standards",
+              "name": "WHO 6th",
+              "title": "Wytyczne WHO 6. Wydanie",
+              "description": "<strong>Nexus Dx1</strong> w pełni spełnia wytyczne <strong>WHO 6. Wydanie</strong>. Przeczytaj naszą szczegółową analizę."
+            },
+            {
+              "slug": "iso-23162-2021-laboratory-competence-guide",
+              "name": "ISO 23162",
+              "title": "Wytyczne ISO 23162",
+              "description": "<strong>Nexus Dx1</strong> w pełni spełnia wytyczne <strong>ISO 23162</strong>. Przeczytaj naszą szczegółową analizę."
+            },
+            {
+              "slug": "eshre-guidelines-clinical-semen-examination",
+              "name": "ESHRE",
+              "title": "Wytyczne ESHRE",
+              "description": "<strong>Nexus Dx1</strong> w pełni spełnia wytyczne <strong>ESHRE</strong>. Przeczytaj naszą szczegółową analizę."
+            },
+            {
+              "slug": "asrm-male-infertility-evaluation-protocols",
+              "name": "ASRM",
+              "title": "Wytyczne ASRM",
+              "description": "<strong>Nexus Dx1</strong> w pełni spełnia wytyczne <strong>ASRM</strong>. Przeczytaj naszą szczegółową analizę."
+            }
+          ],
+          "learnMore": "Dowiedz się więcej →"
+        }
+      }
+    },
+    "msqa": {
+      "name": "MSQA-100",
+      "tag": "Ludzki",
+      "badge": "Przenośny CASA do Użytku Domowego",
+      "heroSubtitle": "Przenośny System CASA do Użytku Domowego",
+      "subtitle": "Przenośny Analizator Nasienia CASA",
+      "description": "Przenośny system CASA do użytku domowego z kompatybilnością ze smartfonem, zapewniający wydajność na poziomie laboratoryjnym w kompaktowym formacie.",
+      "feature1": "Kompatybilny ze smartfonem",
+      "feature2": "Wbudowana kontrola temperatury",
+      "feature3": "Analiza AI oparta na chmurze",
+      "button": "Zobacz Szczegóły",
+      "detail": {
+        "description": "MSQA-100 to przenośny system analizy plemników wspomaganej komputerowo (CASA) do użytku domowego, zaprojektowany do szybkiej, dokładnej i przyjaznej dla użytkownika oceny nasienia. Łącząc technologię mikroprzepływową, precyzyjną produkcję i analizę obrazu napędzaną AI, MSQA-100 zapewnia wydajność na poziomie laboratoryjnym w kompaktowym i dostępnym formacie.",
+        "keyTechnologies": {
+          "title": "Kluczowe Technologie i Funkcje",
+          "items": [
+            {
+              "label": "Szczelina Mikroprzepływowa:",
+              "text": "Własnościowa szczelina mikroprzepływowa tworzy komorę obserwacyjną o stałej głębokości 7 μm, gdy dwie warstwy są zmontowane. Ten projekt o stałej głębokości eliminuje potrzebę ręcznego ustawiania ostrości i zapewnia spójne, powtarzalne wyniki."
+            },
+            {
+              "label": "Uniwersalna Kompatybilność ze Smartfonem i Tabletem:",
+              "text": "Kompatybilny z prawie wszystkimi głównymi aparatami tylnymi smartfonów i tabletów, umożliwiając elastyczne i niskokosztowe obrazowanie bez dedykowanych mikroskopów."
+            },
+            {
+              "label": "Wbudowana Kontrola Temperatury:",
+              "text": "Zintegrowany moduł termiczny utrzymuje próbki w temperaturze 37°C podczas analizy, zachowując ruchliwość plemników i zapewniając fizjologicznie dokładne wyniki."
+            },
+            {
+              "label": "Ultra-Mikroprzepływowy Polimerowy Biochip:",
+              "text": "Zaawansowany projekt mikroprzepływowy do precyzyjnej obsługi próbek i optymalnych charakterystyk przepływu."
+            },
+            {
+              "label": "Analiza AI oparta na Chmurze:",
+              "text": "Napędzany algorytmem inteligentnym obrazu dynamicznego Gaussa serwera chmurowego do dokładnego i zautomatyzowanego przetwarzania danych."
+            },
+            {
+              "label": "System Wizji Mikroskopowej z Automatycznym Fokusem:",
+              "text": "Zapewnia optymalną jakość obrazu do analizy dzięki możliwościom automatycznego ustawiania ostrości."
+            },
+            {
+              "label": "W pełni Zautomatyzowana Analiza:",
+              "text": "Minimalna obsługa przez użytkownika, odpowiednia zarówno do ustawień profesjonalnych, jak i domowych."
+            }
+          ]
+        },
+        "measuredParameters": {
+          "title": "Mierzone Parametry",
+          "groups": [
+            {
+              "title": "Stężenie i Liczba",
+              "items": [
+                "Stężenie plemników",
+                "Całkowita liczba plemników"
+              ]
+            },
+            {
+              "title": "Ruchliwość",
+              "items": [
+                "Całkowita ruchliwość",
+                "Ruchliwość postępowa",
+                "Ruchliwość niepostępowa",
+                "Nieruchome plemniki"
+              ]
+            },
+            {
+              "title": "Kinematyka",
+              "items": [
+                "Prędkość prostoliniowa (VSL)",
+                "Procent prostoliniowych ruchliwych plemników",
+                "Prędkość krzywoliniowa (VCL)",
+                "Inne parametry ruchu"
+              ]
+            }
+          ]
+        },
+        "physicalSpecs": {
+          "title": "Specyfikacje Fizyczne",
+          "items": [
+            {
+              "label": "Wymiary:",
+              "text": "174,8 × 113,5 × 50,5 mm"
+            },
+            {
+              "label": "Waga:",
+              "text": "Lekki i przenośny projekt"
+            },
+            {
+              "label": "Zasilanie:",
+              "text": "Zasilany bateryjnie do użytku w terenie"
+            }
+          ]
+        },
+        "applications": {
+          "title": "Zastosowania",
+          "intro": "MSQA-100 jest idealny dla:",
+          "items": [
+            "Monitorowanie płodności w domu",
+            "Kliniki podstawowej opieki zdrowotnej",
+            "Testy terenowe i mobilne jednostki zdrowotne",
+            "Instytucje badawcze i edukacyjne",
+            "Telemedycyna i diagnostyka zdalna"
+          ]
+        }
+      }
+    },
+    "sqavet": {
+      "name": "SQA-6100vet",
+      "tag": "Weterynaryjny",
+      "badge": "Weterynaryjny System CASA",
+      "heroSubtitle": "W pełni Zautomatyzowany Weterynaryjny System CASA",
+      "subtitle": "W pełni Zautomatyzowany Weterynaryjny System CASA",
+      "description": "Rewolucyjny w pełni zautomatyzowany system CASA do oceny rozrodu zwierząt, wspierający analizę wielu gatunków z przenośnymi możliwościami terenowymi.",
+      "feature1": "Wsparcie dla wielu gatunków",
+      "feature2": "Czas analizy 15 sekund",
+      "feature3": "Przenośny projekt wszystko-w-jednym",
+      "button": "Zobacz Szczegóły",
+      "detail": {
+        "description": "SQA-6100vet reprezentuje szczyt technologii rozrodu weterynaryjnego. Ten rewolucyjny w pełni zautomatyzowany system CASA zapewnia niezrównaną dokładność i powtarzalność w ocenie parametrów plemników zwierzęcych, może działać jako autonomiczny system wszystko-w-jednym, który ma duże zalety w sytuacjach terenowych i przenośnych, a także może współpracować z dedykowanym oprogramowaniem PC dla bardziej przyjaznego zarządzania danymi.",
+        "keyFeatures": {
+          "title": "Kluczowe Funkcje",
+          "items": [
+            "W pełni zautomatyzowany",
+            "Ekran dotykowy",
+            "Wbudowany Stopień Grzewczy",
+            "Autonomiczny system wszystko-w-jednym",
+            "Zaawansowany algorytm AI obrazu dynamicznego Gaussa",
+            "Komora licząca: Ulepszona/Powlekana 6-komorowa, stała głębokość 20μm",
+            "Czas analizy tak szybki jak 15 sekund, wybieralne wiele pól widzenia",
+            "Obsługa odtwarzania wideo",
+            "Obsługa zewnętrznego skanera kodów kreskowych",
+            "Stacja robocza PC",
+            "Wsparcie dla wielu gatunków"
+          ]
+        },
+        "analysisParameters": {
+          "title": "Parametry Analizy",
+          "groups": [
+            {
+              "title": "Stężenie i Ruchliwość",
+              "items": [
+                "Całkowita liczba plemników",
+                "Ruchliwe plemniki",
+                "Nieruchome plemniki",
+                "Postępowe i wolne plemniki",
+                "Niepostępowe plemniki"
+              ]
+            },
+            {
+              "title": "Kinematyka",
+              "items": [
+                "DCL, DSL, DAP",
+                "VCL, VSL, VAP",
+                "ALH, MAD, BCF",
+                "LIN, WOB, STR"
+              ]
+            },
+            {
+              "title": "Morfologia",
+              "items": [
+                "Normalne i Nieprawidłowe plemniki",
+                "Wady główki",
+                "DMR",
+                "Kropelka Dystalna",
+                "Kropelka Proksymalna",
+                "Zgięty Ogon",
+                "Zwinięty Ogon"
+              ]
+            },
+            {
+              "title": "Dozowanie",
+              "items": [
+                "Automatyczne obliczanie liczby dawek na podstawie czasów rozcieńczalnika, objętości próbki, liczby plemników itp."
+              ]
+            }
+          ]
+        },
+        "thermalIntegrity": {
+          "title": "Zaleta Integralności Termicznej",
+          "subtitle": "Dlaczego wbudowana kontrola temperatury jest niezbędna do dokładnej analizy CASA",
+          "intro": "W świecie andrologii \"Ruchliwość to Temperatura.\" SQA-6100vet posiada wewnętrzny, działający w czasie rzeczywistym stopień grzewczy, który utrzymuje próbki w temperaturach fizjologicznych (37°C) przez całą analizę. Ta kluczowa funkcja zapewnia, że ruchliwość plemników jest mierzona w warunkach zbliżonych do życia, zapobiegając fałszywym diagnozom \"Niezadowalające\" spowodowanym szokiem zimna.",
+          "challenge": {
+            "title": "Wyzwanie",
+            "text": "Plemniki zwierzęce są niezwykle wrażliwe na zmiany temperatury. Spadek o zaledwie 2-3°C może spowodować natychmiastową utratę ruchliwości, prowadząc do niedokładnych wyników."
+          },
+          "solution": {
+            "title": "Rozwiązanie",
+            "text": "Zintegrowany stopień grzewczy SQA-6100vet utrzymuje stałą temperaturę 37°C przez całą analizę, ujawniając prawdziwą ruchliwość postępową, jaka istnieje w drogach rozrodczych zwierzęcia."
+          }
+        },
+        "scientificStandards": {
+          "title": "Zgodność ze Standardami Naukowymi",
+          "description": "SQA-6100vet jest zaprojektowany tak, aby być zgodny z wiodącymi standardami i wytycznymi andrologii weterynaryjnej. Nasz system wspiera zgodność z ustalonymi protokołami badania przydatności do rozrodu w wielu gatunkach.",
+          "standards": [
+            {
+              "title": "Society for Theriogenology (SFT)",
+              "text": "Zgodny z wytycznymi SFT dotyczącymi badania przydatności do rozrodu byków, tryków i koni (BSE/EBSE). Wspiera standaryzowane protokoły oceny."
+            },
+            {
+              "title": "Protokoły Wielogatunkowe",
+              "text": "Algorytmy specyficzne dla gatunku zapewniają dokładną ocenę parametrów."
+            },
+            {
+              "title": "Użycie Terenowe i Laboratoryjne",
+              "text": "Przenośny projekt umożliwia badania BSE na miejscu, zachowując precyzję na poziomie laboratoryjnym. Idealny dla producentów materiału zarodowego i klinik weterynaryjnych."
+            },
+            {
+              "title": "Walidacja Badawcza",
+              "text": "Technologia zwalidowana przez recenzowane badania i używana w instytucjach akademickich na całym świecie do badań rozrodu i praktyki klinicznej."
+            }
+          ],
+          "footer": "Poznaj Standardy Weterynaryjne: Odwiedź nasze Centrum Wiedzy, aby uzyskać szczegółowe przewodniki dotyczące standardów badania przydatności do rozrodu i najlepszych praktyk."
+        }
+      }
+    },
+    "nexusMeta": {
+      "title": "Nexus Dx1 System CASA | WHO 6. Wydanie | iSperm Medical",
+      "description": "Nexus Dx1 w pełni zautomatyzowany ludzki system CASA. Analizator nasienia zgodny z 6. wydaniem WHO z analizą morfologii plemników napędzaną AI."
+    },
+    "msqaMeta": {
+      "title": "MSQA-100 Przenośny System CASA | iSperm Medical",
+      "description": "MSQA-100 przenośny system CASA do użytku domowego. Analizator nasienia kompatybilny ze smartfonem z AI w chmurze do analizy morfologii plemników."
+    },
+    "sqavetMeta": {
+      "title": "SQA-6100vet Weterynaryjny System CASA | iSperm Medical",
+      "description": "SQA-6100vet wielogatunkowy weterynaryjny system CASA. Zautomatyzowany analizator nasienia dla byków, tryków, koni i innych gatunków. Projekt gotowy do użycia w terenie."
+    }
+  },
+  "footer": {
+    "company": "iSperm Medical",
+    "description": "iSperm Medical Ltd. jest zaangażowane w dostarczanie najnowocześniejszych rozwiązań technologicznych w analizie nasienia.",
+    "quickLinks": "Szybkie Linki",
+    "contact": "Kontakt",
+    "email": "E-mail:",
+    "address": "Adres:",
+    "fullAddress": "2F, Block B, Shenchengtou & Zhongcheng Life Science Park, Pingshan District, Shenzhen, Guangdong, China",
+    "rights": "© 2024 iSperm Medical Ltd. Wszelkie prawa zastrzeżone."
+  }
+}

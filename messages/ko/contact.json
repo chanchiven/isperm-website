@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "title": "iSperm Medical 문의하기 | CASA 시스템 지원",
+    "description": "선도적인 CASA 시스템 및 정액 분석기 제조업체에 문의하세요. WHO 6판 준수 정자 형태 분석기에 대한 지원을 받으세요."
+  },
+  "nav": {
+    "home": "홈",
+    "products": "제품",
+    "about": "회사 소개",
+    "knowledgeHub": "지식 허브",
+    "contact": "문의하기"
+  },
+  "hero": {
+    "title": "iSperm Medical 전문가에게 문의하기",
+    "subtitle": "임상 솔루션이나 글로벌 유통 파트너십을 위해 우리 팀이 도움을 드릴 준비가 되어 있습니다"
+  },
+  "actionCards": {
+    "partner": {
+      "title": "글로벌 파트너가 되기",
+      "description": "전 세계 네트워크에 합류하여 고급 CASA 기술을 귀하의 시장에 가져오세요.",
+      "emailSubject": "글로벌 파트너가 되기"
+    },
+    "consultation": {
+      "title": "전문 상담 받기",
+      "description": "생식 건강 분야의 임상 또는 연구 요구사항에 대한 전문가 지도.",
+      "emailSubject": "전문 상담 요청"
+    },
+    "button": "팀에 이메일 보내기"
+  },
+  "form": {
+    "emailTitle": "연락처 이메일",
+    "responsePromise": "24시간 이내에 응답하겠습니다.",
+    "name": "이름",
+    "company": "회사",
+    "email": "이메일",
+    "productInterest": "제품 관심사",
+    "selectProduct": "제품 카테고리 선택",
+    "humanProducts": "인간용 제품",
+    "animalProducts": "동물용 제품",
+    "message": "메시지",
+    "submitButton": "메시지 보내기",
+    "submitting": "전송 중...",
+    "successMessage": "감사합니다! 메시지가 성공적으로 전송되었습니다. 24시간 이내에 응답하겠습니다.",
+    "errorMessage": "죄송합니다. 메시지 전송 중 오류가 발생했습니다. 다시 시도하거나 market@isperm.com으로 직접 연락해 주세요.",
+    "errors": {
+      "nameRequired": "이름은 필수입니다",
+      "emailRequired": "이메일은 필수입니다",
+      "emailInvalid": "유효한 이메일 주소를 입력하세요"
+    }
+  },
+  "trust": {
+    "globalSupport": "글로벌 지원",
+    "response24h": "24시간 응답"
+  },
+  "contact": {
+    "fullAddress": "중국 광동성 심천시 핑산구 신성투 & 중성 생명과학 파크 B동 2층"
+  },
+  "footer": {
+    "company": "iSperm Medical",
+    "description": "iSperm Medical Ltd.는 정액 분석 분야의 최첨단 기술 솔루션을 제공하는 데 전념하고 있습니다.",
+    "quickLinks": "빠른 링크",
+    "contact": "연락처",
+    "email": "이메일:",
+    "address": "주소:",
+    "fullAddress": "2F, Block B, Shenchengtou & Zhongcheng Life Science Park, Pingshan District, Shenzhen, Guangdong, China",
+    "rights": "© 2024 iSperm Medical Ltd. 모든 권리 보유."
+  }
+}
+
+
+
+
+
+
+
+
+

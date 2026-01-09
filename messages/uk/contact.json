@@ -1,0 +1,69 @@
+{
+  "meta": {
+    "title": "Контакти iSperm Medical | Підтримка систем CASA",
+    "description": "Зв'яжіться з провідним виробником систем CASA та аналізаторів сперми. Отримайте підтримку для аналізаторів морфології сперми, що відповідають 6-му виданню ВООЗ."
+  },
+  "nav": {
+    "home": "Головна",
+    "products": "Продукція",
+    "about": "Про нас",
+    "knowledgeHub": "База знань",
+    "contact": "Контакти"
+  },
+  "hero": {
+    "title": "Зв'яжіться зі спеціалістами iSperm Medical",
+    "subtitle": "Для клінічних рішень або глобальних партнерств з розповсюдження, наша команда готова допомогти"
+  },
+  "actionCards": {
+    "partner": {
+      "title": "Стати глобальним партнером",
+      "description": "Приєднайтеся до нашої всесвітньої мережі та принесіть передову технологію CASA на ваш ринок.",
+      "emailSubject": "Стати глобальним партнером"
+    },
+    "consultation": {
+      "title": "Отримати професійну консультацію",
+      "description": "Експертне керівництво для ваших клінічних або дослідницьких потреб у репродуктивному здоров'ї.",
+      "emailSubject": "Запит на професійну консультацію"
+    },
+    "button": "Написати нашій команді"
+  },
+  "form": {
+    "emailTitle": "Контактна електронна пошта",
+    "responsePromise": "Ми обіцяємо відповісти протягом 24 годин.",
+    "name": "Ім'я",
+    "company": "Компанія",
+    "email": "Електронна пошта",
+    "productInterest": "Інтерес до продукту",
+    "selectProduct": "Виберіть категорію продукту",
+    "humanProducts": "Продукція для людей",
+    "animalProducts": "Продукція для тварин",
+    "message": "Повідомлення",
+    "submitButton": "Надіслати повідомлення",
+    "submitting": "Відправка...",
+    "successMessage": "Дякуємо! Ваше повідомлення успішно надіслано. Ми відповімо протягом 24 годин.",
+    "errorMessage": "Вибачте, сталася помилка під час відправки вашого повідомлення. Будь ласка, спробуйте ще раз або зв'яжіться з нами безпосередньо на market@isperm.com",
+    "errors": {
+      "nameRequired": "Ім'я обов'язкове",
+      "emailRequired": "Електронна пошта обов'язкова",
+      "emailInvalid": "Будь ласка, введіть дійсну адресу електронної пошти"
+    }
+  },
+  "trust": {
+    "globalSupport": "Глобальна підтримка",
+    "response24h": "Відповідь за 24 год"
+  },
+  "contact": {
+    "fullAddress": "2F, Block B, Shenchengtou & Zhongcheng Life Science Park, Pingshan District, Shenzhen, Guangdong, China"
+  },
+  "footer": {
+    "company": "iSperm Medical",
+    "description": "iSperm Medical Ltd. прагне надавати передові технологічні рішення в аналізі сперми.",
+    "quickLinks": "Швидкі посилання",
+    "contact": "Контакти",
+    "email": "Електронна пошта:",
+    "address": "Адреса:",
+    "fullAddress": "2F, Block B, Shenchengtou & Zhongcheng Life Science Park, Pingshan District, Shenzhen, Guangdong, China",
+    "rights": "© 2024 iSperm Medical Ltd. Всі права захищені."
+  }
+}
+

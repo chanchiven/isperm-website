@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "title": "iSperm Medicalについて | CASAシステムメーカー",
+    "description": "CASAシステム & 精液分析装置のリーディングメーカー。2010年よりWHO第6版準拠のヒト・動物用精子形態分析装置を提供。"
+  },
+  "nav": {
+    "home": "ホーム",
+    "products": "製品",
+    "about": "会社概要",
+    "knowledgeHub": "ナレッジハブ",
+    "contact": "お問い合わせ"
+  },
+  "hero": {
+    "title": "私たちについて",
+    "subtitle": "CASA技術のグローバルスタンダードをリード"
+  },
+  "description": {
+    "text": "iSperm Medicalは、高度で効率的かつアクセスしやすい生殖診断に専念するグローバルイノベーターです。AI駆動アルゴリズムとマイクロ流体工学を組み合わせることで、世界中の専門家に実験室レベルの精度を提供しています。私たちの使命は、完全自動化CASAシステムと精子品質分析装置技術を通じて生殖評価を再定義することです。"
+  },
+  "founder": {
+    "title": "創業者 & チーフ開発者",
+    "name": "Benjamin Zhuang",
+    "education": {
+      "title": "学歴",
+      "item1": "メカトロニクス工学学士、南京航空航天大学",
+      "item2": "生体医用工学（マイクロ流体工学）修士、UNSW、オーストラリア"
+    },
+    "career": {
+      "title": "キャリア",
+      "item1": "航空製造およびマイクロ/ナノエッチングでの初期の仕事",
+      "item2": "Mindrayに参加し、中国初の5分類血液分析装置を開発",
+      "item3": "CAS関連チップ会社でマイクロ流体R&Dをリード"
+    },
+    "entrepreneurship": {
+      "title": "起業",
+      "item1": "Create&Careを設立（2016年）、マイクロ流体チップの産業化に焦点",
+      "item2": "ポータブルAI精液分析装置Bemaner(SQA-900)を発売（iF & Red Dot賞受賞）；10万ユーザー以上；NULにより検証（PMC7714652）",
+      "item3": "技術をプライマリケア、家庭診断、動物用に拡張"
+    },
+    "achievements": {
+      "title": "実績",
+      "item1": "国家「万人計画」専門家；深圳高層次人材",
+      "item2": "受賞：中国青年イノベーション金賞、医療機器イノベーション賞",
+      "item3": "30以上のグローバル特許；「細胞レベルマイクロ流体チップの発明者」と呼ばれる"
+    }
+  },
+  "showcase": {
+    "title": "私たちのチーム & イベント",
+    "subtitle": "革新的なCASAシステムを紹介するプロフェッショナルプレゼンテーションと展示会",
+    "images": {
+      "image1": {
+        "alt": "展示会で完全自動化CASAシステムと精子品質分析器を紹介するiSperm Medicalチーム"
+      },
+      "image2": {
+        "alt": "獣医用精液分析器と動物繁殖ソリューションについて議論するiSperm Medical専門家"
+      },
+      "image3": {
+        "alt": "CASA技術と生殖健康ソリューションを紹介するiSperm Medicalチームとイベント"
+      },
+      "image4": {
+        "alt": "自動化された精液分析システムを特徴とするiSperm Medicalチームのプレゼンテーションと展示会"
+      },
+      "image5": {
+        "alt": "革新的なCASAシステムと精子品質分析器を紹介するiSperm Medicalイベントとチーム"
+      }
+    }
+  },
+  "footer": {
+    "company": "iSperm Medical",
+    "description": "iSperm Medical Ltd.は、精液分析における最先端技術ソリューションの提供に取り組んでいます。",
+    "quickLinks": "クイックリンク",
+    "contact": "お問い合わせ",
+    "email": "メール：",
+    "address": "住所：",
+    "fullAddress": "中国広東省深圳市坪山区深城投&中城生命科学園B棟2階",
+    "rights": "© 2024 iSperm Medical Ltd. 全著作権所有。"
+  }
+}

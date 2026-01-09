@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "title": "Tentang iSperm Medical | Produsen Sistem CASA",
+    "description": "Produsen sistem CASA & analisis semen terkemuka. Analisis morfologi sperma sesuai dengan WHO edisi ke-6 untuk penggunaan manusia & hewan sejak 2010."
+  },
+  "nav": {
+    "home": "Beranda",
+    "products": "Produk",
+    "about": "Tentang Kami",
+    "knowledgeHub": "Pusat Pengetahuan",
+    "contact": "Kontak"
+  },
+  "hero": {
+    "title": "Siapa Kami",
+    "subtitle": "Memimpin Standar Global dalam Teknologi CASA"
+  },
+  "description": {
+    "text": "iSperm Medical adalah inovator global yang berdedikasi untuk diagnostik reproduksi yang canggih, efisien, dan mudah diakses. Dengan menggabungkan algoritma berbasis AI dengan mikrofluida, kami memberikan presisi tingkat laboratorium kepada para profesional di seluruh dunia. Misi kami adalah mendefinisikan ulang penilaian reproduksi melalui sistem CASA otomatis penuh dan teknologi analisis kualitas sperma."
+  },
+  "founder": {
+    "title": "Pendiri & Kepala Pengembang",
+    "name": "Benjamin Zhuang",
+    "education": {
+      "title": "Pendidikan",
+      "item1": "B.Eng. dalam Mekatronika, Nanjing Univ. of Aeronautics & Astronautics",
+      "item2": "M.Eng. dalam Teknik Biomedis (Mikrofluida), UNSW, Australia"
+    },
+    "career": {
+      "title": "Karier",
+      "item1": "Pekerjaan awal dalam manufaktur penerbangan dan etsa mikro/nano",
+      "item2": "Bergabung dengan Mindray, mengembangkan analisis hematologi 5-bagian pertama di China",
+      "item3": "Memimpin R&D mikrofluida di perusahaan chip afiliasi CAS"
+    },
+    "entrepreneurship": {
+      "title": "Kewirausahaan",
+      "item1": "Mendirikan Create&Care (2016), fokus pada industrialisasi chip mikrofluida",
+      "item2": "Meluncurkan Bemaner(SQA-900), analisis semen AI portabel (iF & Red Dot award); 100K+ pengguna; divalidasi oleh NUL (PMC7714652)",
+      "item3": "Memperluas teknologi ke perawatan primer, diagnostik rumah, dan penggunaan hewan"
+    },
+    "achievements": {
+      "title": "Pencapaian",
+      "item1": "Ahli \"10,000 Talents Plan\" nasional; Talenta Tingkat Tinggi Shenzhen",
+      "item2": "Penghargaan: China Youth Innovation Gold Award, Medical Device Innovation Award",
+      "item3": "30+ paten global; dijuluki \"Penemu Chip Mikrofluida Tingkat Sel\""
+    }
+  },
+  "showcase": {
+    "title": "Tim & Acara Kami",
+    "subtitle": "Presentasi profesional dan pameran yang menampilkan sistem CASA inovatif kami",
+    "images": {
+      "image1": {
+        "alt": "Tim iSperm Medical mempresentasikan sistem CASA sepenuhnya otomatis dan analisis kualitas sperma di pameran"
+      },
+      "image2": {
+        "alt": "Profesional iSperm Medical membahas analisis semen hewan dan solusi pembiakan hewan"
+      },
+      "image3": {
+        "alt": "Tim dan acara iSperm Medical menampilkan teknologi CASA dan solusi kesehatan reproduksi"
+      },
+      "image4": {
+        "alt": "Presentasi dan pameran tim iSperm Medical dengan sistem analisis semen otomatis"
+      },
+      "image5": {
+        "alt": "Acara dan tim iSperm Medical menampilkan sistem CASA inovatif dan analisis kualitas sperma"
+      }
+    }
+  },
+  "footer": {
+    "company": "iSperm Medical",
+    "description": "iSperm Medical Ltd. berkomitmen untuk memberikan solusi teknologi mutakhir dalam analisis semen.",
+    "quickLinks": "Tautan Cepat",
+    "contact": "Kontak",
+    "email": "Email:",
+    "address": "Alamat:",
+    "fullAddress": "2F, Block B, Shenchengtou & Zhongcheng Life Science Park, Pingshan District, Shenzhen, Guangdong, China",
+    "rights": "© 2024 iSperm Medical Ltd. Hak cipta dilindungi."
+  }
+}

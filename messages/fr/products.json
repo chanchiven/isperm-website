@@ -1,0 +1,366 @@
+{
+  "meta": {
+    "title": "Systèmes CASA et Analyseurs de Sperme | iSperm Medical",
+    "description": "Découvrez nos systèmes CASA et analyseurs de morphologie du sperme pour usage humain et vétérinaire. Solutions d'analyseur de sperme conformes à la 6e édition de l'OMS."
+  },
+  "nav": {
+    "home": "Accueil",
+    "products": "Produits",
+    "about": "À propos",
+    "knowledgeHub": "Centre de Connaissances",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Nos Produits",
+    "subtitle": "Systèmes CASA Professionnels pour la Médecine de la Reproduction"
+  },
+  "section": {
+    "title": "Sélectionnez Votre Système CASA",
+    "subtitle": "Sélectionnez un produit pour voir les spécifications détaillées et les fonctionnalités"
+  },
+  "products": {
+    "nexus": {
+      "name": "Nexus Dx1",
+      "tag": "Humain",
+      "badge": "Système CASA Professionnel",
+      "heroSubtitle": "Système CASA Humain Entièrement Automatisé",
+      "subtitle": "Système CASA Humain Entièrement Automatisé",
+      "description": "Système CASA entièrement automatisé conçu pour un usage clinique et de laboratoire, doté d'algorithmes d'IA avancés et d'une analyse complète des paramètres.",
+      "feature1": "Analyse entièrement automatisée",
+      "feature2": "Platine chauffante intégrée",
+      "feature3": "Support de poste de travail PC",
+      "button": "Voir les Détails",
+      "detail": {
+        "description": "Système CASA professionnel conçu pour un usage clinique et de laboratoire, doté d'algorithmes d'IA avancés et d'une analyse complète des paramètres pour l'évaluation du sperme humain.",
+        "keyFeatures": {
+          "title": "Caractéristiques Principales",
+          "items": [
+            "Entièrement automatisé",
+            "Écran tactile",
+            "Platine Chauffante Intégrée",
+            "Système tout-en-un autonome",
+            "Algorithme d'image IA dynamique gaussien avancé",
+            "Chambre de comptage : 2 chambres améliorées/revêtues, profondeur fixe 10μm",
+            "Champs de vision multiples personnalisables, jusqu'à 1500 spermatozoïdes par champ de vision",
+            "Prend en charge la lecture vidéo",
+            "Prend en charge le scanner de codes-barres externe",
+            "Poste de travail PC"
+          ]
+        },
+        "analysisParameters": {
+          "title": "Paramètres d'Analyse",
+          "groups": [
+            {
+              "title": "Concentration et Motilité",
+              "items": [
+                "Nombre total de spermatozoïdes",
+                "Spermatozoïdes mobiles",
+                "Spermatozoïdes immobiles",
+                "Spermatozoïdes progressifs et lents",
+                "Spermatozoïdes non progressifs"
+              ]
+            },
+            {
+              "title": "Cinématiques",
+              "items": [
+                "DCL, DSL, DAP",
+                "VCL, VSL, VAP",
+                "ALH, MAD, BCF",
+                "LIN, WOB, STR"
+              ]
+            },
+            {
+              "title": "Morphologie",
+              "items": [
+                "Spermatozoïdes normaux et anormaux",
+                "Défauts de la tête",
+                "DMR",
+                "Gouttelette distale",
+                "Gouttelette proximale",
+                "Défauts de la queue",
+                "Résidu cytoplasmique",
+                "TZI, SDI"
+              ]
+            },
+            {
+              "title": "Supplémentaire",
+              "items": [
+                "Cellules rondes"
+              ]
+            }
+          ]
+        },
+        "complianceStandards": {
+          "title": "Conformité et Normes",
+          "standards": [
+            {
+              "slug": "who-6th-edition-semen-analysis-standards",
+              "name": "WHO 6th",
+              "title": "Directives OMS 6e Édition",
+              "description": "Le <strong>Nexus Dx1</strong> est entièrement conforme aux directives de l'<strong>OMS 6e Édition</strong>. Lisez notre analyse détaillée."
+            },
+            {
+              "slug": "iso-23162-2021-laboratory-competence-guide",
+              "name": "ISO 23162",
+              "title": "Directives ISO 23162",
+              "description": "Le <strong>Nexus Dx1</strong> est entièrement conforme aux directives <strong>ISO 23162</strong>. Lisez notre analyse détaillée."
+            },
+            {
+              "slug": "eshre-guidelines-clinical-semen-examination",
+              "name": "ESHRE",
+              "title": "Directives ESHRE",
+              "description": "Le <strong>Nexus Dx1</strong> est entièrement conforme aux directives <strong>ESHRE</strong>. Lisez notre analyse détaillée."
+            },
+            {
+              "slug": "asrm-male-infertility-evaluation-protocols",
+              "name": "ASRM",
+              "title": "Directives ASRM",
+              "description": "Le <strong>Nexus Dx1</strong> est entièrement conforme aux directives <strong>ASRM</strong>. Lisez notre analyse détaillée."
+            }
+          ],
+          "learnMore": "En savoir plus →"
+        }
+      }
+    },
+    "msqa": {
+      "name": "MSQA-100",
+      "tag": "Humain",
+      "badge": "CASA Portable à Usage Domestique",
+      "heroSubtitle": "Système CASA Portable à Usage Domestique",
+      "subtitle": "Analyseur de Sperme CASA Portable",
+      "description": "Système CASA portable à usage domestique compatible avec smartphone, offrant des performances de niveau laboratoire dans un format compact.",
+      "feature1": "Compatible smartphone",
+      "feature2": "Contrôle de température intégré",
+      "feature3": "Analyse IA basée sur le cloud",
+      "button": "Voir les Détails",
+      "detail": {
+        "description": "Le MSQA-100 est un système d'analyse assistée par ordinateur du sperme (CASA) portable à usage domestique conçu pour une évaluation rapide, précise et conviviale du sperme. En combinant la technologie microfluidique, la fabrication de précision et l'analyse d'image alimentée par l'IA, le MSQA-100 offre des performances de niveau laboratoire dans un format compact et accessible.",
+        "keyTechnologies": {
+          "title": "Technologies et Caractéristiques Principales",
+          "items": [
+            {
+              "label": "Lame Microfluidique :",
+              "text": "La lame microfluidique propriétaire crée une chambre d'observation fixe de 7 μm lorsque deux couches sont assemblées. Cette conception à profondeur fixe élimine le besoin de mise au point manuelle et garantit des résultats cohérents et reproductibles."
+            },
+            {
+              "label": "Compatibilité Universelle Smartphone et Tablette :",
+              "text": "Compatible avec presque toutes les caméras arrière de smartphones et tablettes grand public, permettant une imagerie flexible et à faible coût sans microscopes dédiés."
+            },
+            {
+              "label": "Contrôle de Température Intégré :",
+              "text": "Module thermique intégré maintient les échantillons à 37°C pendant l'analyse, préservant la motilité des spermatozoïdes et garantissant des résultats physiologiquement précis."
+            },
+            {
+              "label": "Biopuce Polymère Ultra-Microfluidique :",
+              "text": "Conception microfluidique avancée pour une manipulation précise des échantillons et des caractéristiques d'écoulement optimales."
+            },
+            {
+              "label": "Analyse IA Basée sur le Cloud :",
+              "text": "Alimenté par un algorithme intelligent d'image dynamique gaussien de serveur cloud pour un traitement de données précis et automatisé."
+            },
+            {
+              "label": "Système de Vision Microscopique à Mise au Point Automatique :",
+              "text": "Garantit une qualité d'image optimale pour l'analyse avec des capacités de mise au point automatique."
+            },
+            {
+              "label": "Analyse Entièrement Automatisée :",
+              "text": "Opération utilisateur minimale, adaptée aux environnements professionnels et domestiques."
+            }
+          ]
+        },
+        "measuredParameters": {
+          "title": "Paramètres Mesurés",
+          "groups": [
+            {
+              "title": "Concentration et Nombre",
+              "items": [
+                "Concentration de spermatozoïdes",
+                "Nombre total de spermatozoïdes"
+              ]
+            },
+            {
+              "title": "Motilité",
+              "items": [
+                "Motilité totale",
+                "Motilité progressive",
+                "Motilité non progressive",
+                "Spermatozoïdes immobiles"
+              ]
+            },
+            {
+              "title": "Cinématiques",
+              "items": [
+                "Vitesse en ligne droite (VSL)",
+                "Pourcentage de spermatozoïdes mobiles en ligne droite",
+                "Vitesse curviligne (VCL)",
+                "Autres paramètres de mouvement"
+              ]
+            }
+          ]
+        },
+        "physicalSpecs": {
+          "title": "Spécifications Physiques",
+          "items": [
+            {
+              "label": "Dimensions :",
+              "text": "174,8 × 113,5 × 50,5 mm"
+            },
+            {
+              "label": "Poids :",
+              "text": "Conception légère et portable"
+            },
+            {
+              "label": "Alimentation :",
+              "text": "Alimenté par batterie pour usage sur le terrain"
+            }
+          ]
+        },
+        "applications": {
+          "title": "Applications",
+          "intro": "Le MSQA-100 est idéal pour :",
+          "items": [
+            "Surveillance de la fertilité à domicile",
+            "Cliniques de soins primaires",
+            "Tests sur le terrain et unités de santé mobiles",
+            "Institutions de recherche et d'éducation",
+            "Télémédecine et diagnostics à distance"
+          ]
+        }
+      }
+    },
+    "sqavet": {
+      "name": "SQA-6100vet",
+      "tag": "Vétérinaire",
+      "badge": "Système CASA Vétérinaire",
+      "heroSubtitle": "Système CASA Vétérinaire Entièrement Automatisé",
+      "subtitle": "Système CASA Vétérinaire Entièrement Automatisé",
+      "description": "Système CASA entièrement automatisé révolutionnaire pour l'évaluation de la reproduction animale, prenant en charge l'analyse multi-espèces avec des capacités portables sur le terrain.",
+      "feature1": "Support multi-espèces",
+      "feature2": "Temps d'analyse de 15 secondes",
+      "feature3": "Conception portable tout-en-un",
+      "button": "Voir les Détails",
+      "detail": {
+        "description": "Le SQA-6100vet représente le summum de la technologie de reproduction vétérinaire. Ce système CASA entièrement automatisé révolutionnaire offre une précision et une reproductibilité inégalées dans l'évaluation des paramètres du sperme animal, il peut fonctionner comme un système tout-en-un autonome qui présente de grands avantages dans les situations sur le terrain et portables et peut également fonctionner avec le logiciel PC dédié pour une gestion des données plus conviviale.",
+        "keyFeatures": {
+          "title": "Caractéristiques Principales",
+          "items": [
+            "Entièrement automatisé",
+            "Écran tactile",
+            "Platine Chauffante Intégrée",
+            "Système tout-en-un autonome",
+            "Algorithme d'image IA dynamique gaussien avancé",
+            "Chambre de comptage : 6 chambres améliorées/revêtues, profondeur fixe 20μm",
+            "Aussi rapide que 15 secondes de temps d'analyse, champs de vision multiples sélectionnables",
+            "Prend en charge la lecture vidéo",
+            "Prend en charge le scanner de codes-barres externe",
+            "Poste de travail PC",
+            "Prend en charge multi-espèces"
+          ]
+        },
+        "analysisParameters": {
+          "title": "Paramètres d'Analyse",
+          "groups": [
+            {
+              "title": "Concentration et Motilité",
+              "items": [
+                "Nombre total de spermatozoïdes",
+                "Spermatozoïdes mobiles",
+                "Spermatozoïdes immobiles",
+                "Spermatozoïdes progressifs et lents",
+                "Spermatozoïdes non progressifs"
+              ]
+            },
+            {
+              "title": "Cinématiques",
+              "items": [
+                "DCL, DSL, DAP",
+                "VCL, VSL, VAP",
+                "ALH, MAD, BCF",
+                "LIN, WOB, STR"
+              ]
+            },
+            {
+              "title": "Morphologie",
+              "items": [
+                "Spermatozoïdes normaux et anormaux",
+                "Défauts de la tête",
+                "DMR",
+                "Gouttelette distale",
+                "Gouttelette proximale",
+                "Queue courbée",
+                "Queue enroulée"
+              ]
+            },
+            {
+              "title": "Dosage",
+              "items": [
+                "Calcul automatique du nombre de doses basé sur les temps d'extendeur, le volume de l'échantillon, le nombre de spermatozoïdes, etc."
+              ]
+            }
+          ]
+        },
+        "thermalIntegrity": {
+          "title": "L'Avantage de l'Intégrité Thermique",
+          "subtitle": "Pourquoi le contrôle de température intégré est essentiel pour une analyse CASA précise",
+          "intro": "Dans le monde de l'andrologie, \"La motilité est la température.\" Le SQA-6100vet dispose d'une platine chauffante interne en temps réel qui maintient les échantillons à des températures physiologiques (37°C) tout au long de l'analyse. Cette caractéristique critique garantit que la motilité des spermatozoïdes est mesurée dans des conditions proches de la vie, évitant les diagnostics \"Insatisfaisants\" erronés causés par le choc froid.",
+          "challenge": {
+            "title": "Le Défi",
+            "text": "Les spermatozoïdes animaux sont extrêmement sensibles aux changements de température. Une baisse de seulement 2-3°C peut provoquer une perte immédiate de motilité, conduisant à des résultats inexacts."
+          },
+          "solution": {
+            "title": "La Solution",
+            "text": "La platine chauffante intégrée du SQA-6100vet maintient une température constante de 37°C tout au long de l'analyse, révélant la véritable motilité progressive telle qu'elle existe dans le tractus reproducteur de l'animal."
+          }
+        },
+        "scientificStandards": {
+          "title": "Conformité aux Normes Scientifiques",
+          "description": "Le SQA-6100vet est conçu pour s'aligner sur les normes et directives de l'andrologie vétérinaire de premier plan. Notre système prend en charge la conformité avec les protocoles établis pour l'examen de l'aptitude à la reproduction dans plusieurs espèces.",
+          "standards": [
+            {
+              "title": "Society for Theriogenology (SFT)",
+              "text": "Conforme aux directives SFT pour l'examen de l'aptitude à la reproduction du taureau, du bélier et du cheval (BSE/EBSE). Prend en charge les protocoles d'évaluation standardisés."
+            },
+            {
+              "title": "Protocoles Multi-Espèces",
+              "text": "Les algorithmes spécifiques à l'espèce garantissent une évaluation précise des paramètres."
+            },
+            {
+              "title": "Usage sur le Terrain et en Laboratoire",
+              "text": "La conception portable permet des examens BSE sur site tout en maintenant une précision de niveau laboratoire. Idéal pour les producteurs de reproducteurs et les cliniques vétérinaires."
+            },
+            {
+              "title": "Validation de la Recherche",
+              "text": "Technologie validée par la recherche évaluée par les pairs et utilisée dans les institutions académiques du monde entier pour la recherche sur la reproduction et la pratique clinique."
+            }
+          ],
+          "footer": "Explorez les Normes Vétérinaires : Visitez notre Centre de Connaissances pour des guides détaillés sur les normes d'examen de l'aptitude à la reproduction et les meilleures pratiques."
+        }
+      }
+    },
+    "nexusMeta": {
+      "title": "Système CASA Nexus Dx1 | 6e Édition OMS | iSperm Medical",
+      "description": "Système CASA humain entièrement automatisé Nexus Dx1. Analyseur de sperme conforme à la 6e édition de l'OMS avec analyse de morphologie du sperme alimentée par l'IA."
+    },
+    "msqaMeta": {
+      "title": "Système CASA Portable MSQA-100 | iSperm Medical",
+      "description": "Système CASA portable à usage domestique MSQA-100. Analyseur de sperme compatible smartphone avec IA cloud pour l'analyse de morphologie du sperme."
+    },
+    "sqavetMeta": {
+      "title": "Système CASA Vétérinaire SQA-6100vet | iSperm Medical",
+      "description": "Système CASA vétérinaire multi-espèces SQA-6100vet. Analyseur de sperme automatisé pour taureau, bélier, cheval et autres espèces. Conception prête pour le terrain."
+    }
+  },
+  "footer": {
+    "company": "iSperm Medical",
+    "description": "iSperm Medical Ltd. s'engage à fournir des solutions technologiques de pointe en analyse du sperme.",
+    "quickLinks": "Liens Rapides",
+    "contact": "Contact",
+    "email": "Email :",
+    "address": "Adresse :",
+    "fullAddress": "2F, Bloc B, Parc des Sciences de la Vie Shenchengtou & Zhongcheng, District de Pingshan, Shenzhen, Guangdong, Chine",
+    "rights": "© 2024 iSperm Medical Ltd. Tous droits réservés."
+  }
+}
+
+
+

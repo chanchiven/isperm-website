@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "title": "Over iSperm Medical | CASA Systeem Fabrikant",
+    "description": "Toonaangevende CASA systeem & sperma analysator fabrikant. WHO 6e editie conforme sperma morfologie analysatoren voor menselijk & veterinair gebruik sinds 2010."
+  },
+  "nav": {
+    "home": "Home",
+    "products": "Producten",
+    "about": "Over Ons",
+    "knowledgeHub": "Kenniscentrum",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Wie Wij Zijn",
+    "subtitle": "Leidend in de Wereldwijde Standaard in CASA Technologie"
+  },
+  "description": {
+    "text": "iSperm Medical is een wereldwijde innovator toegewijd aan geavanceerde, efficiënte en toegankelijke reproductieve diagnostiek. Door AI-gedreven algoritmen te combineren met microfluidica, leveren we laboratoriumniveau precisie aan professionals wereldwijd. Onze missie is om reproductieve beoordeling opnieuw te definiëren door volledig geautomatiseerde CASA systeem en sperma kwaliteit analysator technologie."
+  },
+  "founder": {
+    "title": "Oprichter & Hoofdontwikkelaar",
+    "name": "Benjamin Zhuang",
+    "education": {
+      "title": "Opleiding",
+      "item1": "B.Eng. in Mechatronica, Nanjing Univ. of Aeronautics & Astronautics",
+      "item2": "M.Eng. in Biomedische Technologie (Microfluidica), UNSW, Australië"
+    },
+    "career": {
+      "title": "Carrière",
+      "item1": "Vroeg werk in luchtvaartproductie en micro/nano etsen",
+      "item2": "Toegetreden tot Mindray, ontwikkelde China's eerste 5-delige hematologie analysator",
+      "item3": "Leidde microfluidica R&D bij een CAS-verbonden chipbedrijf"
+    },
+    "entrepreneurship": {
+      "title": "Ondernemerschap",
+      "item1": "Richtte Create&Care op (2016), gericht op microfluidica chip industrialisatie",
+      "item2": "Lanceerde Bemaner(SQA-900), een draagbare AI sperma analysator (iF & Red Dot award); 100K+ gebruikers; gevalideerd door NUL (PMC7714652)",
+      "item3": "Breidde technologie uit naar eerstelijnszorg, thuisdiagnostiek en veterinair gebruik"
+    },
+    "achievements": {
+      "title": "Prestaties",
+      "item1": "Nationale \"10,000 Talents Plan\" expert; Shenzhen Hoog-Niveau Talent",
+      "item2": "Prijzen: China Youth Innovation Gold Award, Medical Device Innovation Award",
+      "item3": "30+ wereldwijde patenten; genoemd \"Uitvinder van Cel-Niveau Microfluidica Chips\""
+    }
+  },
+  "showcase": {
+    "title": "Ons Team & Evenementen",
+    "subtitle": "Professionele presentaties en tentoonstellingen die onze innovatieve CASA systemen tonen",
+    "images": {
+      "image1": {
+        "alt": "iSperm Medical team presenteert volledig geautomatiseerd CASA-systeem en spermakwaliteitsanalysator op tentoonstelling"
+      },
+      "image2": {
+        "alt": "iSperm Medical professionals bespreken veterinaire semenanalysator en dierfokkerijoplossingen"
+      },
+      "image3": {
+        "alt": "iSperm Medical team en evenementen tonen CASA-technologie en reproductieve gezondheidsoplossingen"
+      },
+      "image4": {
+        "alt": "iSperm Medical team presentaties en tentoonstellingen met geautomatiseerde semenanalysesystemen"
+      },
+      "image5": {
+        "alt": "iSperm Medical evenementen en team tonen innovatieve CASA-systemen en spermakwaliteitsanalysatoren"
+      }
+    }
+  },
+  "footer": {
+    "company": "iSperm Medical",
+    "description": "iSperm Medical Ltd. is toegewijd aan het leveren van geavanceerde technologische oplossingen in sperma analyse.",
+    "quickLinks": "Snelle Links",
+    "contact": "Contact",
+    "email": "E-mail:",
+    "address": "Adres:",
+    "fullAddress": "2F, Block B, Shenchengtou & Zhongcheng Life Science Park, Pingshan District, Shenzhen, Guangdong, China",
+    "rights": "© 2024 iSperm Medical Ltd. Alle rechten voorbehouden."
+  }
+}

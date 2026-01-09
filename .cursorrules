@@ -1,0 +1,130 @@
+# 多语言开发与翻译规则 (i18n Rules)
+
+## 核心原则
+
+1. **英文（en）是 Source of Truth** - 所有翻译文件结构必须与 `messages/en/` 完全一致
+2. **键名（Key）永远不变** - JSON 文件的键名必须与英文版本严格对应，只翻译值（Value）
+3. **所有内部链接必须传递 locale** - 使用 `next-intl` 的 Link 组件时，必须显式传递 `locale` 参数
+
+## 代码规范
+
+### Link 组件使用
+```tsx
+// ✅ 正确
+<Link href="/products" locale={locale as any}>{t('nav.products')}</Link>
+
+// ❌ 错误
+<Link href="/products">{t('nav.products')}</Link>  // 缺少 locale
+```
+
+### 客户端组件中的翻译
+- 使用 `useTranslations('namespace')` hook 获取翻译函数
+- 使用 `useLocale()` hook 获取当前语言
+- 不要将服务端组件的 `t` 函数传递给客户端组件
+
+### Navigation 组件
+- 必须使用客户端组件（'use client'）
+- 所有导航链接必须传递 `locale={locale as any}`
+- Footer 链接也必须传递 locale
+
+## 翻译文件规范
+
+### JSON 结构
+- 键名必须与英文版本完全一致
+- 嵌套结构必须保持一致
+- 注意键的位置（如 `footer.fullAddress` 必须在 `footer` 对象下）
+
+### 必须保留的内容
+- HTML 标签：`<br/>`, `<strong>`, `<em>`, `<a>` 等
+- 变量占位符：`{variable}`, `{{variable}}`
+- 特殊符号：`°C`, `%`, `±` 等
+
+### 核心术语（不翻译或统一翻译）
+- CASA - 保持原样
+- Semen Analyzer - 精液分析仪
+- WHO 6th Edition - 世界卫生组织第六版
+- Reproductive Health - 生殖健康
+- Andrology - 男科学
+
+## 语气要求
+
+- 使用医疗临床级别的专业、严谨语气
+- 使用正式、专业的语言风格
+- 避免口语化表达和过度营销化词汇
+- 保持客观、科学的描述方式
+
+## UI 弹性设计
+
+### 处理文本长度差异
+```tsx
+// 使用 Flexbox 布局
+<div style={{display: 'flex', flexDirection: 'column'}}>
+  <div style={{flex: '1'}}>
+    <h3 style={{minHeight: '4.32rem'}}>{title}</h3>
+    <p style={{minHeight: '5.5rem'}}>{description}</p>
+  </div>
+  <div style={{marginTop: '2rem'}}>
+    <button>{buttonText}</button>  {/* 按钮固定在底部 */}
+  </div>
+</div>
+```
+
+### 对齐原则
+- 使用 CSS Grid 的 `align-items: stretch` 确保卡片高度一致
+- 为标题和描述文本设置合理的 `minHeight`
+- 使用 Flexbox 将按钮固定在底部对齐
+
+## SEO 规范
+
+- 每种语言必须独立翻译 `meta.title` 和 `meta.description`
+- 所有图片必须有翻译的 `alt` 属性
+- Title 长度：50-60 字符
+- Description 长度：150-160 字符
+
+## 新增语言流程
+
+1. 在 `i18n/routing.ts` 的 `locales` 数组中添加新语言
+2. 在 `components/LanguageSwitcher.tsx` 中添加语言选项
+3. 创建 `messages/[locale]/` 目录
+4. 分块翻译 JSON 文件（不要一次性翻译大文件）
+5. 验证 JSON 语法正确
+6. 测试所有页面的语言切换和链接保留
+
+## 常见错误检查
+
+### 翻译键显示为键名
+- 检查键的位置是否正确（如 `footer.fullAddress` 必须在 `footer` 对象下）
+- 验证 JSON 语法是否正确
+
+### 语言切换后跳转到英文
+- 检查所有 Link 组件是否传递了 `locale` 参数
+- 检查是否在客户端组件中使用了 `useTranslations` hook
+
+### 文本对齐问题
+- 使用 Flexbox/Grid 布局
+- 设置合理的 `minHeight`
+- 确保按钮使用固定底部对齐
+
+## 执行检查清单
+
+翻译完成后必须检查：
+- [ ] 所有键名与英文版本一致
+- [ ] JSON 语法正确（无多余逗号、括号匹配）
+- [ ] 所有 Link 组件传递了 `locale` 参数
+- [ ] 导航栏和 Footer 链接正确保留语言
+- [ ] Meta 标签独立翻译
+- [ ] 图片 ALT 文本翻译
+- [ ] UI 布局对齐正确
+- [ ] 响应式布局正常
+
+## 文件路径参考
+
+- 路由配置：`i18n/routing.ts`
+- 中间件：`app/middleware.ts`
+- 导航组件：`components/Navigation.tsx`
+- 语言切换器：`components/LanguageSwitcher.tsx`
+- 翻译文件：`messages/[locale]/[page].json`
+
+---
+**重要**：在进行多语言开发时，请严格遵守以上规则。如有疑问，参考详细的《多语言开发与翻译准则.md》文档。
+

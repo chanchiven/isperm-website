@@ -1,0 +1,76 @@
+{
+  "meta": {
+    "title": "CASA System & Sperm Analyzer | iSperm Medical",
+    "description": "Fully automated CASA systems & sperm morphology analyzers for human & veterinary use. WHO 6th edition compliant. Leading semen analyzer manufacturer."
+  },
+  "nav": {
+    "home": "Home",
+    "products": "Products",
+    "about": "About Us",
+    "knowledgeHub": "Knowledge Hub",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Revolutionizing Semen Analysis",
+    "subtitle": "Pioneering the Future of CASA Automation",
+    "description": "Fully automated CASA systems for human and veterinary semen analysis",
+    "exploreProducts": "Explore Products",
+    "learnMore": "Read Our Story"
+  },
+  "about": {
+    "title": "About iSperm Medical",
+    "tagline": "Pioneering the Future of Reproductive Diagnostics",
+    "description": "Since 2010, iSperm Medical has been at the forefront of semen analysis research. As the first company to introduce fully automated CASA systems to the Chinese market, we are dedicated to transforming fertility diagnostics through precision and technology.",
+    "description2": "From our groundbreaking clinical solutions to our industry-leading SQA-6100vet, we combine AI-driven algorithms with microfluidics to deliver laboratory-grade accuracy to professionals worldwide.",
+    "ourStory": "Our Story",
+    "heroImage": {
+      "alt": "iSperm Medical - Leading CASA system and sperm quality analyzer manufacturer for reproductive diagnostics"
+    }
+  },
+  "features": {
+    "title": "Scientific Innovation",
+    "subtitle": "Pioneering the Future of Reproductive Diagnostics",
+    "automated": {
+      "title": "Standardized Workflow",
+      "description": "Achieve full-process automation from loading to reporting. Our systems eliminate subjective bias, ensuring clinical consistency and maximizing laboratory throughput."
+    },
+    "aiPowered": {
+      "title": "Intelligent AI Recognition",
+      "description": "Powered by Gaussian dynamic AI algorithms, iSperm delivers high-precision morphological and kinematic tracking, identifying subtle anomalies with unprecedented diagnostic accuracy.",
+      "compliance": "Compliant with WHO 6th Edition Standards"
+    },
+    "standalone": {
+      "title": "Integrated Versatility",
+      "description": "A clinical-grade, all-in-one architecture featuring a built-in thermal stage and intuitive touchscreen. Engineered for seamless performance in both high-end labs and demanding field environments."
+    },
+    "comprehensive": {
+      "title": "Advanced Analytics",
+      "description": "Full-spectrum diagnostic parameters including concentration, multi-class motility, and WHO 6th edition morphology, providing a complete profile of reproductive health."
+    }
+  },
+  "timeline": {
+    "title": "Our Journey",
+    "subtitle": "A Legacy of Innovation",
+    "2010": "Established with a focus on pioneering CASA research in China.",
+    "2016": "Developed China's first home-use CASA system, bringing advanced diagnostics to the consumer level.",
+    "2017": "Launched the first fully automated professional CASA system in China.",
+    "today": "Our flagship CASA series (Nexus Dx1 / SQA-6100vet) serves as the trusted choice for automated reproductive assessment across the globe."
+  },
+  "footer": {
+    "company": "iSperm Medical",
+    "description": "iSperm Medical Ltd. is committed to delivering cutting-edge technology solutions in semen analysis.",
+    "quickLinks": "Quick Links",
+    "contact": "Contact",
+    "email": "Email:",
+    "address": "Address:",
+    "fullAddress": "2F, Block B, Shenchengtou & Zhongcheng Life Science Park, Pingshan District, Shenzhen, Guangdong, China",
+    "rights": "© 2024 iSperm Medical Ltd. All rights reserved."
+  },
+  "notFound": {
+    "title": "Page Not Found",
+    "description": "The page you are looking for does not exist or has been moved.",
+    "backToHome": "Back to Home",
+    "statusCode": "404"
+  }
+}
+

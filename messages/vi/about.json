@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "title": "Về iSperm Medical | Nhà sản xuất Hệ thống CASA",
+    "description": "Nhà sản xuất hệ thống CASA & máy phân tích tinh dịch hàng đầu. Máy phân tích hình thái tinh trùng tuân thủ WHO phiên bản thứ 6 cho sử dụng ở người & thú y từ năm 2010."
+  },
+  "nav": {
+    "home": "Trang chủ",
+    "products": "Sản phẩm",
+    "about": "Về chúng tôi",
+    "knowledgeHub": "Trung tâm Kiến thức",
+    "contact": "Liên hệ"
+  },
+  "hero": {
+    "title": "Chúng tôi là Ai",
+    "subtitle": "Dẫn đầu Tiêu chuẩn Toàn cầu trong Công nghệ CASA"
+  },
+  "description": {
+    "text": "iSperm Medical là một nhà đổi mới toàn cầu chuyên về chẩn đoán sinh sản tiên tiến, hiệu quả và dễ tiếp cận. Bằng cách kết hợp thuật toán AI với vi lưu chất, chúng tôi mang lại độ chính xác cấp phòng thí nghiệm cho các chuyên gia trên toàn thế giới. Sứ mệnh của chúng tôi là định nghĩa lại đánh giá sinh sản thông qua công nghệ hệ thống CASA tự động hoàn toàn và máy phân tích chất lượng tinh trùng."
+  },
+  "founder": {
+    "title": "Người sáng lập & Nhà phát triển Chính",
+    "name": "Benjamin Zhuang",
+    "education": {
+      "title": "Học vấn",
+      "item1": "B.Eng. về Cơ điện tử, Đại học Hàng không và Vũ trụ Nam Kinh",
+      "item2": "M.Eng. về Kỹ thuật Y sinh (Vi lưu chất), UNSW, Úc"
+    },
+    "career": {
+      "title": "Sự nghiệp",
+      "item1": "Công việc ban đầu trong sản xuất hàng không và khắc vi/nano",
+      "item2": "Tham gia Mindray, phát triển máy phân tích huyết học 5 phần đầu tiên của Trung Quốc",
+      "item3": "Lãnh đạo R&D vi lưu chất tại công ty chip liên kết CAS"
+    },
+    "entrepreneurship": {
+      "title": "Khởi nghiệp",
+      "item1": "Thành lập Create&Care (2016), tập trung vào công nghiệp hóa chip vi lưu chất",
+      "item2": "Ra mắt Bemaner(SQA-900), máy phân tích tinh dịch AI di động (giải thưởng iF & Red Dot); hơn 100K người dùng; được xác thực bởi NUL (PMC7714652)",
+      "item3": "Mở rộng công nghệ đến chăm sóc sơ cấp, chẩn đoán tại nhà và sử dụng thú y"
+    },
+    "achievements": {
+      "title": "Thành tựu",
+      "item1": "Chuyên gia Kế hoạch \"10,000 Talents Plan\" Quốc gia; Nhân tài Cấp cao Thâm Quyến",
+      "item2": "Giải thưởng: Giải Vàng Đổi mới Thanh niên Trung Quốc, Giải thưởng Đổi mới Thiết bị Y tế",
+      "item3": "Hơn 30 bằng sáng chế toàn cầu; được mệnh danh \"Nhà phát minh Chip Vi lưu chất Cấp Tế bào\""
+    }
+  },
+  "showcase": {
+    "title": "Đội ngũ & Sự kiện của Chúng tôi",
+    "subtitle": "Trình bày chuyên nghiệp và triển lãm giới thiệu hệ thống CASA đổi mới của chúng tôi",
+    "images": {
+      "image1": {
+        "alt": "Đội ngũ iSperm Medical trình bày hệ thống CASA tự động hoàn toàn và máy phân tích chất lượng tinh trùng tại triển lãm"
+      },
+      "image2": {
+        "alt": "Chuyên gia iSperm Medical thảo luận về máy phân tích tinh dịch thú y và giải pháp chăn nuôi động vật"
+      },
+      "image3": {
+        "alt": "Đội ngũ và sự kiện iSperm Medical giới thiệu công nghệ CASA và giải pháp sức khỏe sinh sản"
+      },
+      "image4": {
+        "alt": "Bài thuyết trình và triển lãm của đội ngũ iSperm Medical với hệ thống phân tích tinh dịch tự động"
+      },
+      "image5": {
+        "alt": "Sự kiện và đội ngũ iSperm Medical giới thiệu hệ thống CASA sáng tạo và máy phân tích chất lượng tinh trùng"
+      }
+    }
+  },
+  "footer": {
+    "company": "iSperm Medical",
+    "description": "iSperm Medical Ltd. cam kết cung cấp các giải pháp công nghệ tiên tiến trong phân tích tinh dịch.",
+    "quickLinks": "Liên kết Nhanh",
+    "contact": "Liên hệ",
+    "email": "Email:",
+    "address": "Địa chỉ:",
+    "fullAddress": "Tầng 2, Khối B, Công viên Khoa học Sự sống Shenchengtou & Zhongcheng, Quận Pingshan, Thâm Quyến, Quảng Đông, Trung Quốc",
+    "rights": "© 2024 iSperm Medical Ltd. Bảo lưu mọi quyền."
+  }
+}

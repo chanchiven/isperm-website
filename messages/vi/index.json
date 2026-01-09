@@ -1,0 +1,75 @@
+{
+  "meta": {
+    "title": "Hệ thống CASA & Máy phân tích tinh trùng | iSperm Medical",
+    "description": "Hệ thống CASA tự động hoàn toàn & máy phân tích hình thái tinh trùng cho sử dụng ở người & thú y. Tuân thủ WHO phiên bản thứ 6. Nhà sản xuất máy phân tích tinh dịch hàng đầu."
+  },
+  "nav": {
+    "home": "Trang chủ",
+    "products": "Sản phẩm",
+    "about": "Về chúng tôi",
+    "knowledgeHub": "Trung tâm Kiến thức",
+    "contact": "Liên hệ"
+  },
+  "hero": {
+    "title": "Cách mạng hóa Phân tích Tinh dịch",
+    "subtitle": "Tiên phong Tương lai của Tự động hóa CASA",
+    "description": "Hệ thống CASA tự động hoàn toàn cho phân tích tinh dịch ở người và thú y",
+    "exploreProducts": "Khám phá Sản phẩm",
+    "learnMore": "Đọc Câu chuyện của Chúng tôi"
+  },
+  "about": {
+    "title": "Về iSperm Medical",
+    "tagline": "Tiên phong Tương lai của Chẩn đoán Sinh sản",
+    "description": "Từ năm 2010, iSperm Medical đã đi đầu trong nghiên cứu phân tích tinh dịch. Là công ty đầu tiên giới thiệu hệ thống CASA tự động hoàn toàn vào thị trường Trung Quốc, chúng tôi cam kết chuyển đổi chẩn đoán khả năng sinh sản thông qua độ chính xác và công nghệ.",
+    "description2": "Từ các giải pháp lâm sàng đột phá đến SQA-6100vet dẫn đầu ngành, chúng tôi kết hợp thuật toán AI với vi lưu chất để mang lại độ chính xác cấp phòng thí nghiệm cho các chuyên gia trên toàn thế giới.",
+    "ourStory": "Câu chuyện của Chúng tôi",
+    "heroImage": {
+      "alt": "iSperm Medical - Nhà sản xuất hàng đầu hệ thống CASA và máy phân tích chất lượng tinh trùng cho chẩn đoán sinh sản"
+    }
+  },
+  "features": {
+    "title": "Đổi mới Khoa học",
+    "subtitle": "Tiên phong Tương lai của Chẩn đoán Sinh sản",
+    "automated": {
+      "title": "Quy trình Chuẩn hóa",
+      "description": "Đạt được tự động hóa toàn bộ quy trình từ nạp mẫu đến báo cáo. Hệ thống của chúng tôi loại bỏ sự thiên vị chủ quan, đảm bảo tính nhất quán lâm sàng và tối đa hóa thông lượng phòng thí nghiệm."
+    },
+    "aiPowered": {
+      "title": "Nhận dạng AI Thông minh",
+      "description": "Được hỗ trợ bởi thuật toán AI động Gaussian, iSperm cung cấp theo dõi hình thái và động học độ chính xác cao, xác định các bất thường tinh tế với độ chính xác chẩn đoán chưa từng có.",
+      "compliance": "Tuân thủ Tiêu chuẩn WHO Phiên bản thứ 6"
+    },
+    "standalone": {
+      "title": "Tính linh hoạt Tích hợp",
+      "description": "Kiến trúc tất cả trong một cấp lâm sàng với bàn gia nhiệt tích hợp và màn hình cảm ứng trực quan. Được thiết kế để hoạt động liền mạch trong cả phòng thí nghiệm cao cấp và môi trường thực địa đòi hỏi cao."
+    },
+    "comprehensive": {
+      "title": "Phân tích Nâng cao",
+      "description": "Tham số chẩn đoán toàn diện bao gồm nồng độ, khả năng vận động đa lớp và hình thái WHO phiên bản thứ 6, cung cấp hồ sơ hoàn chỉnh về sức khỏe sinh sản."
+    }
+  },
+  "timeline": {
+    "title": "Hành trình của Chúng tôi",
+    "subtitle": "Di sản Đổi mới",
+    "2010": "Thành lập với trọng tâm nghiên cứu CASA tiên phong tại Trung Quốc.",
+    "2016": "Phát triển hệ thống CASA sử dụng tại nhà đầu tiên của Trung Quốc, mang chẩn đoán tiên tiến đến cấp người tiêu dùng.",
+    "2017": "Ra mắt hệ thống CASA chuyên nghiệp tự động hoàn toàn đầu tiên tại Trung Quốc.",
+    "today": "Dòng CASA hàng đầu của chúng tôi (Nexus Dx1 / SQA-6100vet) phục vụ như lựa chọn đáng tin cậy cho đánh giá sinh sản tự động trên toàn cầu."
+  },
+  "footer": {
+    "company": "iSperm Medical",
+    "description": "iSperm Medical Ltd. cam kết cung cấp các giải pháp công nghệ tiên tiến trong phân tích tinh dịch.",
+    "quickLinks": "Liên kết Nhanh",
+    "contact": "Liên hệ",
+    "email": "Email:",
+    "address": "Địa chỉ:",
+    "fullAddress": "Tầng 2, Khối B, Công viên Khoa học Sự sống Shenchengtou & Zhongcheng, Quận Pingshan, Thâm Quyến, Quảng Đông, Trung Quốc",
+    "rights": "© 2024 iSperm Medical Ltd. Bảo lưu mọi quyền."
+  },
+  "notFound": {
+    "title": "Không tìm thấy trang",
+    "description": "Trang bạn đang tìm kiếm không tồn tại hoặc đã được di chuyển.",
+    "backToHome": "Về trang chủ",
+    "statusCode": "404"
+  }
+}

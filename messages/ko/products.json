@@ -1,0 +1,363 @@
+{
+  "meta": {
+    "title": "CASA 시스템 및 정액 분석기 | iSperm Medical",
+    "description": "인간 및 수의학용 CASA 시스템 및 정자 형태 분석기를 탐색하세요. WHO 6판 준수 정액 분석기 솔루션."
+  },
+  "nav": {
+    "home": "홈",
+    "products": "제품",
+    "about": "회사 소개",
+    "knowledgeHub": "지식 허브",
+    "contact": "문의하기"
+  },
+  "hero": {
+    "title": "우리 제품",
+    "subtitle": "생식의학을 위한 전문 CASA 시스템"
+  },
+  "section": {
+    "title": "CASA 시스템 선택",
+    "subtitle": "제품을 선택하여 상세 사양 및 기능을 확인하세요"
+  },
+  "products": {
+    "nexus": {
+      "name": "Nexus Dx1",
+      "tag": "인간",
+      "badge": "전문 CASA 시스템",
+      "heroSubtitle": "완전 자동화 인간용 CASA 시스템",
+      "subtitle": "완전 자동화 인간용 CASA 시스템",
+      "description": "임상 및 실험실 사용을 위해 설계된 완전 자동화 CASA 시스템으로, 고급 AI 알고리즘과 포괄적인 매개변수 분석 기능을 갖추고 있습니다.",
+      "feature1": "완전 자동화 분석",
+      "feature2": "내장 가열 스테이지",
+      "feature3": "PC 워크스테이션 지원",
+      "button": "자세히 보기",
+      "detail": {
+        "description": "인간 정액 평가를 위한 고급 AI 알고리즘과 포괄적인 매개변수 분석 기능을 갖춘 임상 및 실험실 사용을 위해 설계된 전문 CASA 시스템.",
+        "keyFeatures": {
+          "title": "주요 기능",
+          "items": [
+            "완전 자동화",
+            "터치 스크린",
+            "내장 가열 스테이지",
+            "독립형 올인원 시스템",
+            "고급 가우시안 동적 AI 이미지 알고리즘",
+            "계수 챔버: 향상된/코팅된 2챔버, 고정 깊이 10μm",
+            "맞춤형 다중 시야, 시야당 최대 1500개 정자 계수",
+            "비디오 재생 지원",
+            "외부 바코드 스캐너 지원",
+            "PC 워크스테이션"
+          ]
+        },
+        "analysisParameters": {
+          "title": "분석 매개변수",
+          "groups": [
+            {
+              "title": "농도 및 운동성",
+              "items": [
+                "총 정자 수",
+                "운동성 정자",
+                "비운동성 정자",
+                "전진성 및 느린 정자",
+                "비전진성 정자"
+              ]
+            },
+            {
+              "title": "운동학",
+              "items": [
+                "DCL, DSL, DAP",
+                "VCL, VSL, VAP",
+                "ALH, MAD, BCF",
+                "LIN, WOB, STR"
+              ]
+            },
+            {
+              "title": "형태학",
+              "items": [
+                "정상 및 비정상 정자",
+                "머리 결함",
+                "DMR",
+                "원위 방울",
+                "근위 방울",
+                "꼬리 결함",
+                "세포질 잔류물",
+                "TZI, SDI"
+              ]
+            },
+            {
+              "title": "추가",
+              "items": [
+                "원형 세포"
+              ]
+            }
+          ]
+        },
+        "complianceStandards": {
+          "title": "준수 및 표준",
+          "standards": [
+            {
+              "slug": "who-6th-edition-semen-analysis-standards",
+              "name": "WHO 6th",
+              "title": "WHO 6판 지침",
+              "description": "<strong>Nexus Dx1</strong>은 <strong>WHO 6판</strong> 지침을 완전히 준수합니다. 자세한 분석을 읽어보세요."
+            },
+            {
+              "slug": "iso-23162-2021-laboratory-competence-guide",
+              "name": "ISO 23162",
+              "title": "ISO 23162 지침",
+              "description": "<strong>Nexus Dx1</strong>은 <strong>ISO 23162</strong> 지침을 완전히 준수합니다. 자세한 분석을 읽어보세요."
+            },
+            {
+              "slug": "eshre-guidelines-clinical-semen-examination",
+              "name": "ESHRE",
+              "title": "ESHRE 지침",
+              "description": "<strong>Nexus Dx1</strong>은 <strong>ESHRE</strong> 지침을 완전히 준수합니다. 자세한 분석을 읽어보세요."
+            },
+            {
+              "slug": "asrm-male-infertility-evaluation-protocols",
+              "name": "ASRM",
+              "title": "ASRM 지침",
+              "description": "<strong>Nexus Dx1</strong>은 <strong>ASRM</strong> 지침을 완전히 준수합니다. 자세한 분석을 읽어보세요."
+            }
+          ],
+          "learnMore": "자세히 알아보기 →"
+        }
+      }
+    },
+    "msqa": {
+      "name": "MSQA-100",
+      "tag": "인간",
+      "badge": "휴대용 가정용 CASA",
+      "heroSubtitle": "휴대용 가정용 CASA 시스템",
+      "subtitle": "휴대용 CASA 정액 분석기",
+      "description": "스마트폰 호환성을 갖춘 휴대용 가정용 CASA 시스템으로, 컴팩트한 형식으로 실험실 수준의 성능을 제공합니다.",
+      "feature1": "스마트폰 호환",
+      "feature2": "내장 온도 제어",
+      "feature3": "클라우드 기반 AI 분석",
+      "button": "자세히 보기",
+      "detail": {
+        "description": "MSQA-100은 빠르고 정확하며 사용자 친화적인 정액 평가를 위해 설계된 휴대용 가정용 컴퓨터 보조 정자 분석(CASA) 시스템입니다. 미세유체 기술, 정밀 제조 및 AI 기반 이미지 분석을 결합하여 MSQA-100은 컴팩트하고 접근 가능한 형식으로 실험실 수준의 성능을 제공합니다.",
+        "keyTechnologies": {
+          "title": "주요 기술 및 기능",
+          "items": [
+            {
+              "label": "미세유체 슬라이드:",
+              "text": "독점 미세유체 슬라이드는 두 층이 조립될 때 7 μm 고정 관찰 챔버를 생성합니다. 이 고정 깊이 설계는 수동 초점 조정의 필요성을 제거하고 일관되고 재현 가능한 결과를 보장합니다."
+            },
+            {
+              "label": "범용 스마트폰 및 태블릿 호환성:",
+              "text": "거의 모든 주류 스마트폰 및 태블릿 후면 카메라와 호환되며, 전용 현미경 없이도 유연하고 저비용 이미징을 가능하게 합니다."
+            },
+            {
+              "label": "내장 온도 제어:",
+              "text": "통합 열 모듈은 분석 중에 샘플을 37°C로 유지하여 정자 운동성을 보존하고 생리학적으로 정확한 결과를 보장합니다."
+            },
+            {
+              "label": "초미세유체 폴리머 바이오칩:",
+              "text": "정확한 샘플 처리 및 최적의 유동 특성을 위한 고급 미세유체 설계."
+            },
+            {
+              "label": "클라우드 기반 AI 분석:",
+              "text": "정확하고 자동화된 데이터 처리를 위한 클라우드 서버 가우시안 동적 이미지 지능형 알고리즘으로 구동됩니다."
+            },
+            {
+              "label": "자동 초점 현미경 비전 시스템:",
+              "text": "자동 초점 기능으로 분석을 위한 최적의 이미지 품질을 보장합니다."
+            },
+            {
+              "label": "완전 자동화 분석:",
+              "text": "최소한의 사용자 조작으로 전문 및 가정 환경 모두에 적합합니다."
+            }
+          ]
+        },
+        "measuredParameters": {
+          "title": "측정 매개변수",
+          "groups": [
+            {
+              "title": "농도 및 계수",
+              "items": [
+                "정자 농도",
+                "총 정자 수"
+              ]
+            },
+            {
+              "title": "운동성",
+              "items": [
+                "총 운동성",
+                "전진 운동성",
+                "비전진 운동성",
+                "비운동성 정자"
+              ]
+            },
+            {
+              "title": "운동학",
+              "items": [
+                "직선 속도 (VSL)",
+                "직선 운동성 정자 비율",
+                "곡선 속도 (VCL)",
+                "기타 운동 매개변수"
+              ]
+            }
+          ]
+        },
+        "physicalSpecs": {
+          "title": "물리적 사양",
+          "items": [
+            {
+              "label": "치수:",
+              "text": "174.8 × 113.5 × 50.5 mm"
+            },
+            {
+              "label": "무게:",
+              "text": "경량 및 휴대용 설계"
+            },
+            {
+              "label": "전원:",
+              "text": "현장 사용을 위한 배터리 구동"
+            }
+          ]
+        },
+        "applications": {
+          "title": "응용 분야",
+          "intro": "MSQA-100은 다음에 이상적입니다:",
+          "items": [
+            "가정 기반 생식력 모니터링",
+            "1차 진료 클리닉",
+            "현장 테스트 및 모바일 건강 단위",
+            "연구 및 교육 기관",
+            "원격의료 및 원격 진단"
+          ]
+        }
+      }
+    },
+    "sqavet": {
+      "name": "SQA-6100vet",
+      "tag": "수의학",
+      "badge": "수의학 CASA 시스템",
+      "heroSubtitle": "완전 자동화 수의학 CASA 시스템",
+      "subtitle": "완전 자동화 수의학 CASA 시스템",
+      "description": "동물 생식 평가를 위한 혁신적인 완전 자동화 CASA 시스템으로, 휴대용 현장 기능을 갖춘 다종 분석을 지원합니다.",
+      "feature1": "다종 지원",
+      "feature2": "15초 분석 시간",
+      "feature3": "휴대용 올인원 설계",
+      "button": "자세히 보기",
+      "detail": {
+        "description": "SQA-6100vet는 수의학 생식 기술의 정점을 나타냅니다. 이 혁신적인 완전 자동화 CASA 시스템은 동물 정자 매개변수 평가에서 비교할 수 없는 정확도와 재현성을 제공하며, 현장 및 휴대용 상황에서 큰 이점을 가진 독립형 올인원 시스템으로 작동할 수 있고, 더 사용자 친화적인 데이터 관리를 위해 전용 PC 소프트웨어와도 작동할 수 있습니다.",
+        "keyFeatures": {
+          "title": "주요 기능",
+          "items": [
+            "완전 자동화",
+            "터치 스크린",
+            "내장 가열 스테이지",
+            "독립형 올인원 시스템",
+            "고급 가우시안 동적 AI 이미지 알고리즘",
+            "계수 챔버: 향상된/코팅된 6챔버, 고정 깊이 20μm",
+            "15초만에 빠른 분석 시간, 선택 가능한 다중 시야",
+            "비디오 재생 지원",
+            "외부 바코드 스캐너 지원",
+            "PC 워크스테이션",
+            "다종 지원"
+          ]
+        },
+        "analysisParameters": {
+          "title": "분석 매개변수",
+          "groups": [
+            {
+              "title": "농도 및 운동성",
+              "items": [
+                "총 정자 수",
+                "운동성 정자",
+                "비운동성 정자",
+                "전진성 및 느린 정자",
+                "비전진성 정자"
+              ]
+            },
+            {
+              "title": "운동학",
+              "items": [
+                "DCL, DSL, DAP",
+                "VCL, VSL, VAP",
+                "ALH, MAD, BCF",
+                "LIN, WOB, STR"
+              ]
+            },
+            {
+              "title": "형태학",
+              "items": [
+                "정상 및 비정상 정자",
+                "머리 결함",
+                "DMR",
+                "원위 방울",
+                "근위 방울",
+                "구부러진 꼬리",
+                "감긴 꼬리"
+              ]
+            },
+            {
+              "title": "투여량",
+              "items": [
+                "연장 시간, 샘플 부피, 정자 수 등을 기반으로 투여량 수 자동 계산"
+              ]
+            }
+          ]
+        },
+        "thermalIntegrity": {
+          "title": "열 무결성의 장점",
+          "subtitle": "정확한 CASA 분석을 위해 내장 온도 제어가 필수적인 이유",
+          "intro": "남성학의 세계에서 \"운동성은 온도입니다.\" SQA-6100vet는 분석 전반에 걸쳐 샘플을 생리적 온도(37°C)로 유지하는 내부 실시간 가열 스테이지를 갖추고 있습니다. 이 중요한 기능은 정자 운동성이 생명과 유사한 조건에서 측정되도록 보장하여 냉각 충격으로 인한 잘못된 \"불만족\" 진단을 방지합니다.",
+          "challenge": {
+            "title": "과제",
+            "text": "동물 정자는 온도 변화에 극도로 민감합니다. 단 2-3°C의 하락만으로도 즉각적인 운동성 손실을 일으켜 부정확한 결과를 초래할 수 있습니다."
+          },
+          "solution": {
+            "title": "해결책",
+            "text": "SQA-6100vet의 통합 가열 스테이지는 분석 전반에 걸쳐 일정한 37°C를 유지하여 동물의 생식관에 존재하는 것처럼 진정한 전진 운동성을 나타냅니다."
+          }
+        },
+        "scientificStandards": {
+          "title": "과학적 표준 준수",
+          "description": "SQA-6100vet는 선도적인 수의학 남성학 표준 및 지침과 일치하도록 설계되었습니다. 우리 시스템은 여러 종에 걸친 번식 건전성 검사에 대한 확립된 프로토콜 준수를 지원합니다.",
+          "standards": [
+            {
+              "title": "수의생식학회 (SFT)",
+              "text": "소, 양, 말 번식 건전성 검사(BSE/EBSE)에 대한 SFT 지침을 준수합니다. 표준화된 평가 프로토콜을 지원합니다."
+            },
+            {
+              "title": "다종 프로토콜",
+              "text": "종별 특정 알고리즘이 정확한 매개변수 평가를 보장합니다."
+            },
+            {
+              "title": "현장 및 실험실 사용",
+              "text": "휴대용 설계는 실험실 등급의 정밀도를 유지하면서 현장 BSE 검사를 가능하게 합니다. 종축 생산자 및 수의학 클리닉에 이상적입니다."
+            },
+            {
+              "title": "연구 검증",
+              "text": "동료 검토 연구로 검증되고 전 세계 학술 기관에서 생식 연구 및 임상 실습에 사용되는 기술."
+            }
+          ],
+          "footer": "수의학 표준 탐색: 번식 건전성 검사 표준 및 모범 사례에 대한 상세 가이드를 위해 지식 허브를 방문하세요."
+        }
+      }
+    },
+    "nexusMeta": {
+      "title": "Nexus Dx1 CASA 시스템 | WHO 6판 | iSperm Medical",
+      "description": "Nexus Dx1 완전 자동화 인간용 CASA 시스템. AI 기반 정자 형태 분석을 갖춘 WHO 6판 준수 정액 분석기."
+    },
+    "msqaMeta": {
+      "title": "MSQA-100 휴대용 CASA 시스템 | iSperm Medical",
+      "description": "MSQA-100 휴대용 가정용 CASA 시스템. 정자 형태 분석을 위한 클라우드 AI를 갖춘 스마트폰 호환 정액 분석기."
+    },
+    "sqavetMeta": {
+      "title": "SQA-6100vet 수의학 CASA 시스템 | iSperm Medical",
+      "description": "SQA-6100vet 다종 수의학 CASA 시스템. 소, 양, 말 및 기타 종을 위한 자동화 정액 분석기. 현장 사용 준비 설계."
+    }
+  },
+  "footer": {
+    "company": "iSperm Medical",
+    "description": "iSperm Medical Ltd.는 정액 분석 분야의 최첨단 기술 솔루션을 제공하는 데 전념하고 있습니다.",
+    "quickLinks": "빠른 링크",
+    "contact": "문의하기",
+    "email": "이메일:",
+    "address": "주소:",
+    "fullAddress": "2F, Block B, Shenchengtou & Zhongcheng Life Science Park, Pingshan District, Shenzhen, Guangdong, China",
+    "rights": "© 2024 iSperm Medical Ltd. 모든 권리 보유."
+  }
+}

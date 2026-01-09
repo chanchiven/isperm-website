@@ -1,0 +1,364 @@
+{
+  "meta": {
+    "title": "CASA Systems & Semen Analyzers | iSperm Medical",
+    "description": "Explore our CASA systems & sperm morphology analyzers for human & veterinary use. WHO 6th edition compliant semen analyzer solutions."
+  },
+  "nav": {
+    "home": "Home",
+    "products": "Products",
+    "about": "About Us",
+    "knowledgeHub": "Knowledge Hub",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Our Products",
+    "subtitle": "Professional CASA Systems for Reproductive Medicine"
+  },
+  "section": {
+    "title": "Select Your CASA System",
+    "subtitle": "Select a product to view detailed specifications and features"
+  },
+  "products": {
+    "nexus": {
+      "name": "Nexus Dx1",
+      "tag": "Human",
+      "badge": "Professional CASA System",
+      "heroSubtitle": "Fully Automated Human CASA System",
+      "subtitle": "Fully Automated Human CASA System",
+      "description": "Fully automated CASA system designed for clinical and laboratory use, featuring advanced AI algorithms and comprehensive parameter analysis.",
+      "feature1": "Fully automated analysis",
+      "feature2": "Built-in heating stage",
+      "feature3": "PC workstation support",
+      "button": "View Details",
+      "detail": {
+        "description": "Professional CASA system designed for clinical and laboratory use, featuring advanced AI algorithms and comprehensive parameter analysis for human semen evaluation.",
+        "keyFeatures": {
+          "title": "Key Features",
+          "items": [
+            "Fully automated",
+            "Touch screen",
+            "Built-in Heating Stage",
+            "Standalone all-in-one system",
+            "Advanced Gaussian dynamic AI image algorithm",
+            "Counting chamber: Enhanced/Coated 2-chamber, fixed-depth 10μm",
+            "Customizable multiple fields of view, up to 1500 sperm count per field of view",
+            "Supports video playback",
+            "Supports external barcode scanner",
+            "PC workstation"
+          ]
+        },
+        "analysisParameters": {
+          "title": "Analysis Parameters",
+          "groups": [
+            {
+              "title": "Concentration and Motility",
+              "items": [
+                "Total sperm count",
+                "Motile sperm",
+                "Immotile sperm",
+                "Progressive and slow sperm",
+                "Non-progressive sperm"
+              ]
+            },
+            {
+              "title": "Kinematics",
+              "items": [
+                "DCL, DSL, DAP",
+                "VCL, VSL, VAP",
+                "ALH, MAD, BCF",
+                "LIN, WOB, STR"
+              ]
+            },
+            {
+              "title": "Morphology",
+              "items": [
+                "Normal and Abnormal sperm",
+                "Head defects",
+                "DMR",
+                "Distal Droplet",
+                "Proximal Droplet",
+                "Tail defects",
+                "Cytoplasmic residue",
+                "TZI, SDI"
+              ]
+            },
+            {
+              "title": "Additional",
+              "items": [
+                "Round Cells"
+              ]
+            }
+          ]
+        },
+        "complianceStandards": {
+          "title": "Compliance & Standards",
+          "standards": [
+            {
+              "slug": "who-6th-edition-semen-analysis-standards",
+              "name": "WHO 6th",
+              "title": "WHO 6th Guidelines",
+              "description": "The <strong>Nexus Dx1</strong> fully complies with <strong>WHO 6th</strong> guidelines. Read our detailed analysis."
+            },
+            {
+              "slug": "iso-23162-2021-laboratory-competence-guide",
+              "name": "ISO 23162",
+              "title": "ISO 23162 Guidelines",
+              "description": "The <strong>Nexus Dx1</strong> fully complies with <strong>ISO 23162</strong> guidelines. Read our detailed analysis."
+            },
+            {
+              "slug": "eshre-guidelines-clinical-semen-examination",
+              "name": "ESHRE",
+              "title": "ESHRE Guidelines",
+              "description": "The <strong>Nexus Dx1</strong> fully complies with <strong>ESHRE</strong> guidelines. Read our detailed analysis."
+            },
+            {
+              "slug": "asrm-male-infertility-evaluation-protocols",
+              "name": "ASRM",
+              "title": "ASRM Guidelines",
+              "description": "The <strong>Nexus Dx1</strong> fully complies with <strong>ASRM</strong> guidelines. Read our detailed analysis."
+            }
+          ],
+          "learnMore": "Learn more →"
+        }
+      }
+    },
+    "msqa": {
+      "name": "MSQA-100",
+      "tag": "Human",
+      "badge": "Portable Home-Use CASA",
+      "heroSubtitle": "Portable Home-Use CASA System",
+      "subtitle": "Portable CASA Semen Analyzer",
+      "description": "Portable, home-use CASA system with smartphone compatibility, delivering laboratory-level performance in a compact format.",
+      "feature1": "Smartphone compatible",
+      "feature2": "Built-in temperature control",
+      "feature3": "Cloud-based AI analysis",
+      "button": "View Details",
+      "detail": {
+        "description": "The MSQA-100 is a portable, home-use Computer-Assisted Sperm Analysis (CASA) system designed for fast, accurate, and user-friendly semen evaluation. By combining microfluidic technology, precision manufacturing, and AI-driven image analysis, the MSQA-100 delivers laboratory-level performance in a compact and accessible format.",
+        "keyTechnologies": {
+          "title": "Key Technologies & Features",
+          "items": [
+            {
+              "label": "Microfluidic Slide:",
+              "text": "The proprietary microfluidic slide creates a 7 μm fixed observation chamber when two layers are assembled. This fixed-depth design eliminates the need for manual focusing and ensures consistent, reproducible results."
+            },
+            {
+              "label": "Universal Smartphone & Tablet Compatibility:",
+              "text": "Compatible with almost all mainstream smartphone and tablet rear cameras, enabling flexible and low-cost imaging without dedicated microscopes."
+            },
+            {
+              "label": "Built-in Temperature Control:",
+              "text": "Integrated thermal module maintains samples at 37°C during analysis, preserving sperm motility and ensuring physiologically accurate results."
+            },
+            {
+              "label": "Ultra-Microfluidic Polymer Biochip:",
+              "text": "Advanced microfluidic design for precise sample handling and optimal flow characteristics."
+            },
+            {
+              "label": "Cloud-Based AI Analysis:",
+              "text": "Powered by a cloud server Gaussian dynamic image intelligent algorithm for accurate and automated data processing."
+            },
+            {
+              "label": "Automatic Focus Microscopic Vision System:",
+              "text": "Ensures optimal image quality for analysis with automatic focusing capabilities."
+            },
+            {
+              "label": "Fully Automated Analysis:",
+              "text": "Minimal user operation, suitable for both professional and home settings."
+            }
+          ]
+        },
+        "measuredParameters": {
+          "title": "Measured Parameters",
+          "groups": [
+            {
+              "title": "Concentration & Count",
+              "items": [
+                "Sperm concentration",
+                "Total sperm count"
+              ]
+            },
+            {
+              "title": "Motility",
+              "items": [
+                "Total motility",
+                "Progressive motility",
+                "Non-progressive motility",
+                "Immotile sperm"
+              ]
+            },
+            {
+              "title": "Kinematics",
+              "items": [
+                "Straight-line velocity (VSL)",
+                "Percentage of straight-line motile sperm",
+                "Curvilinear velocity (VCL)",
+                "Other motion parameters"
+              ]
+            }
+          ]
+        },
+        "physicalSpecs": {
+          "title": "Physical Specifications",
+          "items": [
+            {
+              "label": "Dimensions:",
+              "text": "174.8 × 113.5 × 50.5 mm"
+            },
+            {
+              "label": "Weight:",
+              "text": "Lightweight and portable design"
+            },
+            {
+              "label": "Power:",
+              "text": "Battery-powered for field use"
+            }
+          ]
+        },
+        "applications": {
+          "title": "Applications",
+          "intro": "The MSQA-100 is ideal for:",
+          "items": [
+            "Home-based fertility monitoring",
+            "Primary care clinics",
+            "Field testing and mobile health units",
+            "Research and educational institutions",
+            "Telemedicine and remote diagnostics"
+          ]
+        }
+      }
+    },
+    "sqavet": {
+      "name": "SQA-6100vet",
+      "tag": "Veterinary",
+      "badge": "Veterinary CASA System",
+      "heroSubtitle": "Fully Automated Veterinary CASA System",
+      "subtitle": "Fully Automated Veterinary CASA System",
+      "description": "Revolutionary fully automated CASA system for animal reproductive assessment, supporting multi-species analysis with portable field capabilities.",
+      "feature1": "Multi-species support",
+      "feature2": "15 seconds analysis time",
+      "feature3": "Portable all-in-one design",
+      "button": "View Details",
+      "detail": {
+        "description": "SQA-6100vet represents the pinnacle of veterinary reproductive technology. This revolutionary fully automated CASA system delivers unmatched accuracy and reproducibility in animal sperm parameter evaluation, it can work as a standalone all-in-one system which has big advantages in on field and portable situation and can also work with the dedicated PC software for more user-friendly data management.",
+        "keyFeatures": {
+          "title": "Key Features",
+          "items": [
+            "Fully automated",
+            "Touch screen",
+            "Built-in Heating Stage",
+            "Standalone all-in-one system",
+            "Advanced Gaussian dynamic AI image algorithm",
+            "Counting chamber: Enhanced/Coated 6-chamber, fixed-depth 20μm",
+            "As fast as 15 seconds analysis time, selectable multiple fields of view",
+            "Supports video playback",
+            "Supports external barcode scanner",
+            "PC workstation",
+            "Supports multi-species"
+          ]
+        },
+        "analysisParameters": {
+          "title": "Analysis Parameters",
+          "groups": [
+            {
+              "title": "Concentration and Motility",
+              "items": [
+                "Total sperm count",
+                "Motile sperm",
+                "Immotile sperm",
+                "Progressive and slow sperm",
+                "Non-progressive sperm"
+              ]
+            },
+            {
+              "title": "Kinematics",
+              "items": [
+                "DCL, DSL, DAP",
+                "VCL, VSL, VAP",
+                "ALH, MAD, BCF",
+                "LIN, WOB, STR"
+              ]
+            },
+            {
+              "title": "Morphology",
+              "items": [
+                "Normal and Abnormal sperm",
+                "Head defects",
+                "DMR",
+                "Distal Droplet",
+                "Proximal Droplet",
+                "Bent Tail",
+                "Coiled Tail"
+              ]
+            },
+            {
+              "title": "Dosing",
+              "items": [
+                "Auto calculate number of doses based on extender times, sample volume, sperm number, etc."
+              ]
+            }
+          ]
+        },
+        "thermalIntegrity": {
+          "title": "The Thermal Integrity Advantage",
+          "subtitle": "Why built-in temperature control is essential for accurate CASA analysis",
+          "intro": "In the world of andrology, \"Motility is Temperature.\" The SQA-6100vet features an internal, real-time heating stage that maintains samples at physiological temperatures (37°C) throughout analysis. This critical feature ensures that sperm motility is measured under life-like conditions, preventing false \"Unsatisfactory\" diagnoses caused by cold shock.",
+          "challenge": {
+            "title": "The Challenge",
+            "text": "Animal sperm are extremely sensitive to temperature changes. A drop of just 2-3°C can cause immediate motility loss, leading to inaccurate results."
+          },
+          "solution": {
+            "title": "The Solution",
+            "text": "The SQA-6100vet's integrated heating stage maintains constant 37°C throughout analysis, revealing true progressive motility as it exists in the animal's reproductive tract."
+          }
+        },
+        "scientificStandards": {
+          "title": "Scientific Standards Compliance",
+          "description": "The SQA-6100vet is designed to align with leading veterinary andrology standards and guidelines. Our system supports compliance with established protocols for breeding soundness examination across multiple species.",
+          "standards": [
+            {
+              "title": "Society for Theriogenology (SFT)",
+              "text": "Compliant with SFT guidelines for Bull, Ram, and Equine Breeding Soundness Examination (BSE/EBSE). Supports standardized evaluation protocols."
+            },
+            {
+              "title": "Multi-Species Protocols",
+              "text": "Species-specific algorithms ensure accurate parameter evaluation."
+            },
+            {
+              "title": "Field & Laboratory Use",
+              "text": "Portable design enables on-site BSE examinations while maintaining laboratory-grade precision. Ideal for seedstock producers and veterinary clinics."
+            },
+            {
+              "title": "Research Validation",
+              "text": "Technology validated by peer-reviewed research and used in academic institutions worldwide for reproductive research and clinical practice."
+            }
+          ],
+          "footer": "Explore Veterinary Standards: Visit our Knowledge Hub for detailed guides on breeding soundness examination standards and best practices."
+        }
+      }
+    },
+    "nexusMeta": {
+      "title": "Nexus Dx1 CASA System | WHO 6th Edition | iSperm Medical",
+      "description": "Nexus Dx1 fully automated human CASA system. WHO 6th edition compliant semen analyzer with AI-powered sperm morphology analysis."
+    },
+    "msqaMeta": {
+      "title": "MSQA-100 Portable CASA System | iSperm Medical",
+      "description": "MSQA-100 portable home-use CASA system. Smartphone-compatible semen analyzer with cloud AI for sperm morphology analysis."
+    },
+    "sqavetMeta": {
+      "title": "SQA-6100vet Veterinary CASA System | iSperm Medical",
+      "description": "SQA-6100vet multi-species veterinary CASA system. Automated semen analyzer for bull, ram, equine, and other species. Field-ready design."
+    }
+  },
+  "footer": {
+    "company": "iSperm Medical",
+    "description": "iSperm Medical Ltd. is committed to delivering cutting-edge technology solutions in semen analysis.",
+    "quickLinks": "Quick Links",
+    "contact": "Contact",
+    "email": "Email:",
+    "address": "Address:",
+    "fullAddress": "2F, Block B, Shenchengtou & Zhongcheng Life Science Park, Pingshan District, Shenzhen, Guangdong, China",
+    "rights": "© 2024 iSperm Medical Ltd. All rights reserved."
+  }
+}
+

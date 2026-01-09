@@ -1,0 +1,68 @@
+{
+  "meta": {
+    "title": "Contato iSperm Medical | Suporte de Sistema CASA",
+    "description": "Entre em contato com o fabricante líder de sistemas CASA e analisadores de sêmen. Obtenha suporte para analisadores de morfologia espermática conformes com a 6ª edição da OMS."
+  },
+  "nav": {
+    "home": "Início",
+    "products": "Produtos",
+    "about": "Sobre Nós",
+    "knowledgeHub": "Centro de Conhecimento",
+    "contact": "Contato"
+  },
+  "hero": {
+    "title": "Entre em Contato com Especialistas da iSperm Medical",
+    "subtitle": "Para soluções clínicas ou parcerias de distribuição global, nossa equipe está pronta para ajudar"
+  },
+  "actionCards": {
+    "partner": {
+      "title": "Torne-se um Parceiro Global",
+      "description": "Junte-se à nossa rede mundial e traga tecnologia CASA avançada para seu mercado.",
+      "emailSubject": "Torne-se um Parceiro Global"
+    },
+    "consultation": {
+      "title": "Obtenha Consultoria Profissional",
+      "description": "Orientação especializada para suas necessidades clínicas ou de pesquisa em saúde reprodutiva.",
+      "emailSubject": "Solicitação de Consultoria Profissional"
+    },
+    "button": "Enviar E-mail para Nossa Equipe"
+  },
+  "form": {
+    "emailTitle": "E-mail de Contato",
+    "responsePromise": "Prometemos responder em até 24 horas.",
+    "name": "Nome",
+    "company": "Empresa",
+    "email": "E-mail",
+    "productInterest": "Interesse em Produto",
+    "selectProduct": "Selecione uma categoria de produto",
+    "humanProducts": "Produtos humanos",
+    "animalProducts": "Produtos animais",
+    "message": "Mensagem",
+    "submitButton": "Enviar Mensagem",
+    "submitting": "Enviando...",
+    "successMessage": "Obrigado! Sua mensagem foi enviada com sucesso. Responderemos em até 24 horas.",
+    "errorMessage": "Desculpe, houve um erro ao enviar sua mensagem. Por favor, tente novamente ou entre em contato conosco diretamente em market@isperm.com",
+    "errors": {
+      "nameRequired": "O nome é obrigatório",
+      "emailRequired": "O e-mail é obrigatório",
+      "emailInvalid": "Por favor, insira um endereço de e-mail válido"
+    }
+  },
+  "trust": {
+    "globalSupport": "Suporte Global",
+    "response24h": "Resposta em 24h"
+  },
+  "contact": {
+    "fullAddress": "2º andar, Bloco B, Parque de Ciências da Vida Shenchengtou & Zhongcheng, Distrito de Pingshan, Shenzhen, Guangdong, China"
+  },
+  "footer": {
+    "company": "iSperm Medical",
+    "description": "A iSperm Medical Ltd. está comprometida em oferecer soluções tecnológicas de ponta em análise de sêmen.",
+    "quickLinks": "Links Rápidos",
+    "contact": "Contato",
+    "email": "E-mail:",
+    "address": "Endereço:",
+    "fullAddress": "2F, Block B, Shenchengtou & Zhongcheng Life Science Park, Pingshan District, Shenzhen, Guangdong, China",
+    "rights": "© 2024 iSperm Medical Ltd. Todos os direitos reservados."
+  }
+}

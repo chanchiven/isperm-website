@@ -1,0 +1,69 @@
+{
+  "meta": {
+    "title": "اتصل بنا | نظام CASA الآلي بالكامل ومحلل جودة الحيوانات المنوية | iSperm Medical",
+    "description": "اتصل بـ iSperm Medical - الشركة الرائدة في تصنيع CASA (محلل السائل المنوي). تواصل للحصول على أنظمة CASA الآلية بالكامل ومحللات مورفولوجيا الحيوانات المنوية للاستخدام السريري البشري وتربية الحيوانات. البريد الإلكتروني: market@isperm.com"
+  },
+  "nav": {
+    "home": "الرئيسية",
+    "products": "المنتجات",
+    "about": "من نحن",
+    "knowledgeHub": "مركز المعرفة",
+    "contact": "اتصل بنا"
+  },
+  "hero": {
+    "title": "اتصل بنا",
+    "subtitle": "تواصل مع فريقنا"
+  },
+  "actionCards": {
+    "partner": {
+      "title": "كن شريكاً عالمياً",
+      "description": "انضم إلى شبكتنا العالمية وجلب تكنولوجيا CASA المتقدمة إلى السوق الخاص بك.",
+      "emailSubject": "كن شريكاً عالمياً"
+    },
+    "consultation": {
+      "title": "احصل على استشارة احترافية",
+      "description": "إرشادات الخبراء لاحتياجاتك السريرية أو البحثية في الصحة الإنجابية.",
+      "emailSubject": "طلب استشارة احترافية"
+    },
+    "button": "راسل فريقنا"
+  },
+  "form": {
+    "emailTitle": "البريد الإلكتروني للاتصال",
+    "responsePromise": "نعد بالرد خلال 24 ساعة.",
+    "name": "الاسم",
+    "company": "الشركة",
+    "email": "البريد الإلكتروني",
+    "productInterest": "اهتمام المنتج",
+    "selectProduct": "اختر فئة منتج",
+    "humanProducts": "منتجات بشرية",
+    "animalProducts": "منتجات حيوانية",
+    "message": "الرسالة",
+    "submitButton": "إرسال الرسالة",
+    "submitting": "جاري الإرسال...",
+    "successMessage": "شكراً لك! تم إرسال رسالتك بنجاح. سنرد خلال 24 ساعة.",
+    "errorMessage": "عذراً، حدث خطأ أثناء إرسال رسالتك. يرجى المحاولة مرة أخرى أو الاتصال بنا مباشرة على market@isperm.com",
+    "errors": {
+      "nameRequired": "الاسم مطلوب",
+      "emailRequired": "البريد الإلكتروني مطلوب",
+      "emailInvalid": "يرجى إدخال عنوان بريد إلكتروني صالح"
+    }
+  },
+  "trust": {
+    "globalSupport": "الدعم العالمي",
+    "response24h": "الرد خلال 24 ساعة"
+  },
+  "contact": {
+    "fullAddress": "2F, Block B, Shenchengtou & Zhongcheng Life Science Park, Pingshan District, Shenzhen, Guangdong, China"
+  },
+  "footer": {
+    "company": "iSperm Medical",
+    "description": "iSperm Medical Ltd. ملتزمة بتقديم حلول تكنولوجية متطورة في تحليل السائل المنوي.",
+    "quickLinks": "روابط سريعة",
+    "contact": "اتصل بنا",
+    "email": "البريد الإلكتروني:",
+    "address": "العنوان:",
+    "fullAddress": "2F, Block B, Shenchengtou & Zhongcheng Life Science Park, Pingshan District, Shenzhen, Guangdong, China",
+    "rights": "© 2024 iSperm Medical Ltd. جميع الحقوق محفوظة."
+  }
+}
+

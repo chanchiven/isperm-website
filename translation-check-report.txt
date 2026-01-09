@@ -1,0 +1,147 @@
+﻿
+========================================
+缈昏瘧瀹屾暣鎬ф鏌ユ姤鍛?========================================
+
+鎬昏瑷€鏁? 18
+宸叉鏌ヨ瑷€鏁? 17
+瀹屾暣缈昏瘧璇█鏁? 11
+瀹屾暣缈昏瘧璇█: es, pt, ru, pl, nl, ko, ja, id, uk, bg, ro
+
+鉂?缂哄け鏂囦欢:
+  vi:
+    - about.json
+    - contact.json
+
+鉂?缂哄け閿€?
+  ar:
+    about.json:
+      - footer.fullAddress
+    contact.json:
+      - actionCards.button
+      - actionCards.consultation.description
+      - actionCards.consultation.title
+      - actionCards.partner.description
+      - actionCards.partner.title
+      - form.animalProducts
+      - form.company
+      - form.email
+      - form.emailTitle
+      - form.errorMessage
+      - form.humanProducts
+      - form.message
+      - form.name
+      - form.productInterest
+      - form.responsePromise
+      - form.selectProduct
+      - form.submitButton
+      - form.submitting
+      - form.successMessage
+      - trust.globalSupport
+      - trust.response24h
+    index.json:
+      - features.aiPowered.compliance
+  de:
+    about.json:
+      - footer.fullAddress
+  it:
+    about.json:
+      - footer.fullAddress
+  tr:
+    about.json:
+      - footer.fullAddress
+  fr:
+    faq.json:
+      - errors.articleNotFound.message
+      - errors.articleNotFound.title
+      - footer.address
+      - footer.company
+      - footer.contact
+      - footer.description
+      - footer.email
+      - footer.fullAddress
+      - footer.quickLinks
+      - footer.rights
+
+鈿狅笍  澶氫綑閿€硷紙涓嶅湪鑻辨枃鐗堟湰涓級:
+  es:
+    contact.json:
+      - footer.fullAddress
+  ar:
+    contact.json:
+      - contact.address
+      - contact.email
+      - contact.title
+  it:
+    faq.json:
+      - articles.boar.alt
+      - articles.boar.image
+      - articles.boar.link
+      - articles.boar.subtitle
+      - articles.boar.title
+      - articles.bull.alt
+      - articles.bull.image
+      - articles.bull.link
+      - articles.bull.subtitle
+      - articles.bull.title
+      - articles.camelid.alt
+      - articles.camelid.image
+      - articles.camelid.link
+      - articles.camelid.subtitle
+      - articles.camelid.title
+      - articles.canine.alt
+      - articles.canine.image
+      - articles.canine.link
+      - articles.canine.subtitle
+      - articles.canine.title
+      - articles.fish.alt
+      - articles.fish.image
+      - articles.fish.link
+      - articles.fish.subtitle
+      - articles.fish.title
+      - articles.humanSemen.alt
+      - articles.humanSemen.image
+      - articles.humanSemen.link
+      - articles.humanSemen.subtitle
+      - articles.humanSemen.title
+      - articles.poultry.alt
+      - articles.poultry.image
+      - articles.poultry.link
+      - articles.poultry.subtitle
+      - articles.poultry.title
+      - articles.ram.alt
+      - articles.ram.image
+      - articles.ram.link
+      - articles.ram.subtitle
+      - articles.ram.title
+      - articles.stallion.alt
+      - articles.stallion.image
+      - articles.stallion.link
+      - articles.stallion.subtitle
+      - articles.stallion.title
+  ru:
+    contact.json:
+      - footer.fullAddress
+  pl:
+    faq.json:
+      - articles.faq-boar-semen-evaluation.conclusion
+      - articles.faq-camelid-andrology.conclusion
+      - articles.faq-canine-semen-analysis.conclusion
+      - articles.faq-fish-semen-analysis.conclusion
+      - articles.faq-poultry-semen-analysis.conclusion
+      - articles.faq-ram-breeding-soundness.conclusion
+      - articles.faq-stallion-semen-analysis.conclusion
+  nl:
+    faq.json:
+      - articles.faq-boar-semen-evaluation.conclusion
+      - articles.faq-bull-breeding-soundness.conclusion
+      - articles.faq-camelid-andrology.conclusion
+      - articles.faq-canine-semen-analysis.conclusion
+      - articles.faq-fish-semen-analysis.conclusion
+      - articles.faq-poultry-semen-analysis.conclusion
+      - articles.faq-ram-breeding-soundness.conclusion
+      - articles.faq-stallion-semen-analysis.conclusion
+
+========================================
+鉂?闇€瑕佷慨澶嶇殑璇█: ar, de, it, tr, fr, vi
+========================================
+

@@ -1,0 +1,75 @@
+{
+  "meta": {
+    "title": "Sistem CASA & Analisis Sperma | iSperm Medical",
+    "description": "Sistem CASA otomatis penuh & analisis morfologi sperma untuk penggunaan manusia & hewan. Sesuai dengan WHO edisi ke-6. Produsen analisis semen terkemuka."
+  },
+  "nav": {
+    "home": "Beranda",
+    "products": "Produk",
+    "about": "Tentang Kami",
+    "knowledgeHub": "Pusat Pengetahuan",
+    "contact": "Kontak"
+  },
+  "hero": {
+    "title": "Revolusi Analisis Semen",
+    "subtitle": "Merintis Masa Depan Otomasi CASA",
+    "description": "Sistem CASA otomatis penuh untuk analisis semen manusia dan hewan",
+    "exploreProducts": "Jelajahi Produk",
+    "learnMore": "Baca Kisah Kami"
+  },
+  "about": {
+    "title": "Tentang iSperm Medical",
+    "tagline": "Merintis Masa Depan Diagnostik Reproduksi",
+    "description": "Sejak 2010, iSperm Medical berada di garis depan penelitian analisis semen. Sebagai perusahaan pertama yang memperkenalkan sistem CASA otomatis penuh ke pasar China, kami berdedikasi untuk mengubah diagnostik kesuburan melalui presisi dan teknologi.",
+    "description2": "Dari solusi klinis terobosan kami hingga SQA-6100vet terdepan di industri, kami menggabungkan algoritma berbasis AI dengan mikrofluida untuk memberikan akurasi tingkat laboratorium kepada para profesional di seluruh dunia.",
+    "ourStory": "Kisah Kami",
+    "heroImage": {
+      "alt": "iSperm Medical - Produsen terkemuka sistem CASA dan analisis kualitas sperma untuk diagnostik reproduksi"
+    }
+  },
+  "features": {
+    "title": "Inovasi Ilmiah",
+    "subtitle": "Merintis Masa Depan Diagnostik Reproduksi",
+    "automated": {
+      "title": "Alur Kerja Terstandarisasi",
+      "description": "Mencapai otomasi proses penuh dari pemuatan hingga pelaporan. Sistem kami menghilangkan bias subjektif, memastikan konsistensi klinis dan memaksimalkan throughput laboratorium."
+    },
+    "aiPowered": {
+      "title": "Pengenalan AI Cerdas",
+      "description": "Didukung oleh algoritma AI dinamis Gaussian, iSperm memberikan pelacakan morfologis dan kinematik presisi tinggi, mengidentifikasi anomali halus dengan akurasi diagnostik yang belum pernah terjadi sebelumnya.",
+      "compliance": "Sesuai dengan Standar WHO Edisi ke-6"
+    },
+    "standalone": {
+      "title": "Versatilitas Terintegrasi",
+      "description": "Arsitektur all-in-one tingkat klinis dengan panggung termal built-in dan layar sentuh intuitif. Dirancang untuk kinerja mulus di laboratorium high-end dan lingkungan lapangan yang menuntut."
+    },
+    "comprehensive": {
+      "title": "Analitik Lanjutan",
+      "description": "Parameter diagnostik spektrum penuh termasuk konsentrasi, motilitas multi-kelas, dan morfologi WHO edisi ke-6, memberikan profil lengkap kesehatan reproduksi."
+    }
+  },
+  "timeline": {
+    "title": "Perjalanan Kami",
+    "subtitle": "Warisan Inovasi",
+    "2010": "Didirikan dengan fokus pada penelitian CASA perintis di China.",
+    "2016": "Mengembangkan sistem CASA penggunaan rumah pertama di China, membawa diagnostik canggih ke tingkat konsumen.",
+    "2017": "Meluncurkan sistem CASA profesional otomatis penuh pertama di China.",
+    "today": "Seri CASA unggulan kami (Nexus Dx1 / SQA-6100vet) berfungsi sebagai pilihan terpercaya untuk penilaian reproduksi otomatis di seluruh dunia."
+  },
+  "footer": {
+    "company": "iSperm Medical",
+    "description": "iSperm Medical Ltd. berkomitmen untuk memberikan solusi teknologi mutakhir dalam analisis semen.",
+    "quickLinks": "Tautan Cepat",
+    "contact": "Kontak",
+    "email": "Email:",
+    "address": "Alamat:",
+    "fullAddress": "2F, Block B, Shenchengtou & Zhongcheng Life Science Park, Pingshan District, Shenzhen, Guangdong, China",
+    "rights": "© 2024 iSperm Medical Ltd. Hak cipta dilindungi."
+  },
+  "notFound": {
+    "title": "Halaman tidak ditemukan",
+    "description": "Halaman yang Anda cari tidak ada atau telah dipindahkan.",
+    "backToHome": "Kembali ke beranda",
+    "statusCode": "404"
+  }
+}

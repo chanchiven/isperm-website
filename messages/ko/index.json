@@ -1,0 +1,75 @@
+{
+  "meta": {
+    "title": "CASA 시스템 및 정자 분석기 | iSperm Medical",
+    "description": "인간 및 수의용 완전 자동화 CASA 시스템 및 정자 형태 분석기. WHO 6판 준수. 선도적인 정액 분석기 제조업체."
+  },
+  "nav": {
+    "home": "홈",
+    "products": "제품",
+    "about": "회사 소개",
+    "knowledgeHub": "지식 허브",
+    "contact": "문의하기"
+  },
+  "hero": {
+    "title": "정액 분석의 혁신",
+    "subtitle": "CASA 자동화의 미래를 선도",
+    "description": "인간 및 수의용 정액 분석을 위한 완전 자동화 CASA 시스템",
+    "exploreProducts": "제품 둘러보기",
+    "learnMore": "우리 이야기 읽기"
+  },
+  "about": {
+    "title": "iSperm Medical 소개",
+    "tagline": "생식 진단의 미래를 선도",
+    "description": "2010년부터 iSperm Medical은 정액 분석 연구의 최전선에 서 있습니다. 중국 시장에 완전 자동화 CASA 시스템을 최초로 도입한 기업으로서, 정밀성과 기술을 통해 불임 진단을 혁신하는 데 전념하고 있습니다.",
+    "description2": "혁신적인 임상 솔루션부터 업계를 선도하는 SQA-6100vet에 이르기까지, AI 기반 알고리즘과 미세유체공학을 결합하여 전 세계 전문가들에게 실험실 수준의 정확도를 제공합니다.",
+    "ourStory": "우리 이야기",
+    "heroImage": {
+      "alt": "iSperm Medical - 생식 진단을 위한 선도적인 CASA 시스템 및 정자 품질 분석기 제조업체"
+    }
+  },
+  "features": {
+    "title": "과학적 혁신",
+    "subtitle": "생식 진단의 미래를 선도",
+    "automated": {
+      "title": "표준화된 워크플로우",
+      "description": "로딩부터 보고서 작성까지 전 과정 자동화를 달성합니다. 우리 시스템은 주관적 편향을 제거하여 임상적 일관성을 보장하고 실험실 처리량을 극대화합니다."
+    },
+    "aiPowered": {
+      "title": "지능형 AI 인식",
+      "description": "가우시안 동적 AI 알고리즘으로 구동되는 iSperm은 고정밀 형태 및 운동학적 추적을 제공하며, 전례 없는 진단 정확도로 미묘한 이상을 식별합니다.",
+      "compliance": "WHO 6판 표준 준수"
+    },
+    "standalone": {
+      "title": "통합 다용도성",
+      "description": "내장형 열대와 직관적인 터치스크린을 갖춘 임상급 올인원 아키텍처입니다. 고급 실험실과 까다로운 현장 환경 모두에서 원활한 성능을 위해 설계되었습니다."
+    },
+    "comprehensive": {
+      "title": "고급 분석",
+      "description": "농도, 다중 등급 운동성, WHO 6판 형태를 포함한 전 스펙트럼 진단 매개변수로 생식 건강의 완전한 프로필을 제공합니다."
+    }
+  },
+  "timeline": {
+    "title": "우리의 여정",
+    "subtitle": "혁신의 유산",
+    "2010": "중국에서 CASA 연구를 선도하는 데 중점을 두고 설립되었습니다.",
+    "2016": "중국 최초의 가정용 CASA 시스템을 개발하여 고급 진단을 소비자 수준으로 가져왔습니다.",
+    "2017": "중국에서 최초의 완전 자동화 전문 CASA 시스템을 출시했습니다.",
+    "today": "우리의 주력 CASA 시리즈(Nexus Dx1 / SQA-6100vet)는 전 세계 자동화 생식 평가를 위한 신뢰할 수 있는 선택으로 사용되고 있습니다."
+  },
+  "footer": {
+    "company": "iSperm Medical",
+    "description": "iSperm Medical Ltd.는 정액 분석 분야의 최첨단 기술 솔루션을 제공하는 데 전념하고 있습니다.",
+    "quickLinks": "빠른 링크",
+    "contact": "연락처",
+    "email": "이메일:",
+    "address": "주소:",
+    "fullAddress": "중국 광동성 심천시 핑산구 신성투 & 중성 생명과학 파크 B동 2층",
+    "rights": "© 2024 iSperm Medical Ltd. 모든 권리 보유."
+  },
+  "notFound": {
+    "title": "페이지를 찾을 수 없습니다",
+    "description": "찾고 계신 페이지가 존재하지 않거나 이동되었습니다.",
+    "backToHome": "홈으로 돌아가기",
+    "statusCode": "404"
+  }
+}

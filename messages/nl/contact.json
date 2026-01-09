@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "title": "Contact iSperm Medical | CASA Systeem Ondersteuning",
+    "description": "Neem contact op met toonaangevende CASA systeem & sperma analysator fabrikant. Krijg ondersteuning voor WHO 6e editie conforme sperma morfologie analysatoren."
+  },
+  "nav": {
+    "home": "Home",
+    "products": "Producten",
+    "about": "Over Ons",
+    "knowledgeHub": "Kenniscentrum",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Contact iSperm Medical Specialisten",
+    "subtitle": "Voor klinische oplossingen of wereldwijde distributiepartnerschappen, ons team staat klaar om te helpen"
+  },
+  "actionCards": {
+    "partner": {
+      "title": "Word een Wereldwijde Partner",
+      "description": "Sluit je aan bij ons wereldwijde netwerk en breng geavanceerde CASA technologie naar uw markt.",
+      "emailSubject": "Word een Wereldwijde Partner"
+    },
+    "consultation": {
+      "title": "Krijg Professioneel Advies",
+      "description": "Expert begeleiding voor uw klinische of onderzoeksbehoeften in reproductieve gezondheid.",
+      "emailSubject": "Verzoek voor Professioneel Advies"
+    },
+    "button": "E-mail Ons Team"
+  },
+  "form": {
+    "emailTitle": "Contact E-mail",
+    "responsePromise": "We beloven binnen 24 uur te reageren.",
+    "name": "Naam",
+    "company": "Bedrijf",
+    "email": "E-mail",
+    "productInterest": "Product Interesse",
+    "selectProduct": "Selecteer een productcategorie",
+    "humanProducts": "Menselijke producten",
+    "animalProducts": "Dierlijke producten",
+    "message": "Bericht",
+    "submitButton": "Verstuur Bericht",
+    "submitting": "Verzenden...",
+    "successMessage": "Bedankt! Uw bericht is succesvol verzonden. We zullen binnen 24 uur reageren.",
+    "errorMessage": "Sorry, er was een fout bij het verzenden van uw bericht. Probeer het opnieuw of neem rechtstreeks contact met ons op via market@isperm.com",
+    "errors": {
+      "nameRequired": "Naam is verplicht",
+      "emailRequired": "E-mail is verplicht",
+      "emailInvalid": "Voer een geldig e-mailadres in"
+    }
+  },
+  "trust": {
+    "globalSupport": "Wereldwijde Ondersteuning",
+    "response24h": "24u Reactie"
+  },
+  "contact": {
+    "fullAddress": "2F, Block B, Shenchengtou & Zhongcheng Life Science Park, Pingshan District, Shenzhen, Guangdong, China"
+  },
+  "footer": {
+    "company": "iSperm Medical",
+    "description": "iSperm Medical Ltd. is toegewijd aan het leveren van geavanceerde technologische oplossingen in sperma analyse.",
+    "quickLinks": "Snelle Links",
+    "contact": "Contact",
+    "email": "E-mail:",
+    "address": "Adres:",
+    "fullAddress": "2F, Block B, Shenchengtou & Zhongcheng Life Science Park, Pingshan District, Shenzhen, Guangdong, China",
+    "rights": "© 2024 iSperm Medical Ltd. Alle rechten voorbehouden."
+  }
+}
+
+
+
+
+
+
+
+
+

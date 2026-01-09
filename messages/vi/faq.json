@@ -1,0 +1,1576 @@
+﻿{
+  "meta": {
+    "title": "Trung tâm Kiến thức | Câu hỏi Thường gặp về Hệ thống CASA | iSperm Medical",
+    "description": "Câu hỏi thường gặp toàn diện về hệ thống CASA, hướng dẫn WHO phiên bản thứ 6, và tài nguyên phân tích tinh dịch. Hiểu biết chuyên gia về máy phân tích hình thái tinh trùng."
+  },
+  "nav": {
+    "home": "Trang chủ",
+    "products": "Sản phẩm",
+    "about": "Về chúng tôi",
+    "knowledgeHub": "Trung tâm Kiến thức",
+    "contact": "Liên hệ"
+  },
+  "hero": {
+    "title": "Trung tâm Kiến thức",
+    "subtitle": "Hướng dẫn Toàn diện về Tiêu chuẩn Phân tích Tinh dịch"
+  },
+  "sections": {
+    "human": {
+      "title": "Nam khoa Người"
+    },
+    "veterinary": {
+      "title": "Nam khoa Thú y"
+    }
+  },
+  "articles": {
+    "faq-human-semen-standards": {
+      "title": "Tiêu chuẩn Toàn cầu cho Phân tích Tinh dịch Người",
+      "subtitle": "Hướng dẫn So sánh (WHO phiên bản thứ 6, ISO 23162, ESHRE, & ASRM)",
+      "image": "/Knowledge Hub/Human Semen Analysis Standards/Human Semen Analysis Standards.webp",
+      "alt": "Hướng dẫn Tiêu chuẩn Phân tích Tinh dịch WHO Phiên bản thứ 6 với hệ thống CASA, Khả năng Vận động Tinh trùng, Hình thái Tinh trùng, và Bàn gia nhiệt tích hợp cho nam khoa người",
+      "link": "/faq/faq-human-semen-standards",
+      "intro": "Năm 2021, bối cảnh nam khoa người được định nghĩa lại bởi việc phát hành kép của Sổ tay WHO Phiên bản thứ 6 và tiêu chuẩn ISO 23162:2021. Các tài liệu này đã đưa lĩnh vực hướng tới chuẩn hóa nghiêm ngặt, nhấn mạnh rằng độ chính xác chỉ có thể đạt được thông qua kiểm soát chất lượng nghiêm ngặt và giảm tính chủ quan của con người.",
+      "chapters": [
+        {
+          "title": "1. Giai đoạn Tiền phân tích: Cơ sở Chất lượng",
+          "content": "Chuẩn hóa bắt đầu trước khi mẫu đến kính hiển vi. Cả WHO phiên bản thứ 6 và ISO 23162 đều nhấn mạnh rằng các biến tiền phân tích là nguyên nhân phổ biến nhất của kết quả khả năng sinh sản dưới mức \"sai\".",
+          "lists": [
+            {
+              "type": "ul",
+              "items": [
+                {
+                  "label": "Thời kỳ Kiêng cữ:",
+                  "text": "Chuẩn hóa từ 2 đến 7 ngày. ASRM lưu ý rằng trong khi kiêng cữ lâu hơn làm tăng thể tích và số lượng, nó làm giảm đáng kể khả năng vận động và tăng phân mảnh DNA (DFI)."
+                },
+                {
+                  "label": "Thu thập:",
+                  "text": "Phải được thực hiện vào một container đã được xác nhận trước cho Xét nghiệm Khả năng Sống Tinh trùng Người (HSSA)."
+                },
+                {
+                  "label": "Đánh giá Vĩ mô:",
+                  "text": "Thể tích phải được đo với độ chính xác cao. ISO 23162 khuyến nghị đo bằng trọng lượng (giả định mật độ 1.0 g/mL) để tránh mất \"dính tường\" liên quan đến pipet hoặc ống đong có vạch."
+                },
+                {
+                  "label": "pH:",
+                  "text": "Giới hạn dưới vẫn là 7.2. Giá trị dưới mức này, kết hợp với thể tích thấp, có thể chỉ ra các vấn đề tắc nghẽn (ví dụ: CBAVD)."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "2. Nồng độ Tinh trùng và Tổng số: Chỉ số Định lượng",
+          "content": "Đánh giá định lượng về sản xuất tinh trùng là yếu tố dự đoán chính về tiềm năng khả năng sinh sản.",
+          "subsections": [
+            {
+              "title": "A. Nồng độ so với Tổng số Tinh trùng",
+              "lists": [
+                {
+                  "type": "ul",
+                  "items": [
+                    {
+                      "label": "Nồng độ Tinh trùng:",
+                      "text": "Số lượng tinh trùng mỗi mililit. Giới hạn dưới WHO phiên bản thứ 6: 16 × 10⁶/mL."
+                    },
+                    {
+                      "label": "Tổng số Tinh trùng:",
+                      "text": "Tổng số đếm mỗi lần xuất tinh hoàn toàn (giới hạn dưới WHO phiên bản thứ 6: 39 × 10⁶)."
+                    },
+                    {
+                      "label": "Giá trị Lâm sàng:",
+                      "text": "ASRM và ESHRE nhấn mạnh rằng Tổng số Tinh trùng là chỉ số mạnh mẽ hơn về sức khỏe tinh hoàn so với chỉ nồng độ, vì nó tính đến toàn bộ sản lượng sinh sản."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "B. Thiết bị \"Tiêu chuẩn Vàng\" (ISO 23162 so với Các thiết bị khác)",
+              "lists": [
+                {
+                  "type": "ul",
+                  "items": [
+                    {
+                      "label": "Máy đếm tế bào Neubauer Cải tiến:",
+                      "text": "Cả WHO phiên bản thứ 6 và ISO 23162 đều yêu cầu đây là buồng đếm thủ công duy nhất được chấp nhận."
+                    },
+                    {
+                      "label": "Từ chối Buồng Độ sâu Cố định:",
+                      "text": "Một điểm phân kỳ chính. ISO 23162 nghiêm cấm sử dụng buồng độ sâu cố định (ví dụ: phiến Makler hoặc Leja) cho đánh giá nồng độ xác định vì Hệ số Biến thiên (CV) cao của chúng không đáp ứng tiêu chuẩn độ chính xác quốc tế."
+                    },
+                    {
+                      "label": "Đếm Lặp lại:",
+                      "text": "ISO 23162 yêu cầu hai lần lặp lại riêng biệt (đếm ít nhất 200 tinh trùng mỗi lần). Nếu kết quả của hai lần đếm không khớp trong một phạm vi thống kê cụ thể (phân phối Poisson), xét nghiệm phải được lặp lại."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "3. Khả năng Vận động Tinh trùng: Đo lường Năng lực Tiến tới",
+          "content": "Khả năng vận động là thước đo \"năng lượng sống còn\". WHO phiên bản thứ 6 đã đơn giản hóa phân loại để giảm tính biến thiên cao giữa các người quan sát được tìm thấy trong các phiên bản trước.",
+          "subsections": [
+            {
+              "title": "A. Phân loại Ba Danh mục",
+              "content": "Hệ thống 4 cấp trước đây (A, B, C, D) đã được thay thế bằng hệ thống 3 danh mục khách quan hơn:",
+              "lists": [
+                {
+                  "type": "ul",
+                  "items": [
+                    {
+                      "label": "Khả năng Vận động Tiến tới (PR):",
+                      "text": "Tinh trùng di chuyển tích cực, theo đường thẳng hoặc trong một vòng tròn lớn, bất kể tốc độ."
+                    },
+                    {
+                      "label": "Khả năng Vận động Không tiến tới (NP):",
+                      "text": "Chuyển động không có tiến triển (ví dụ: bơi trong các vòng tròn nhỏ, hoặc chỉ đầu/đuôi rung)."
+                    },
+                    {
+                      "label": "Bất động (IM):",
+                      "text": "Không có chuyển động nào cả."
+                    },
+                    {
+                      "label": "Giá trị Tham chiếu:",
+                      "text": "WHO phiên bản thứ 6 yêu cầu ≥30% Tiến tới (PR) hoặc ≥42% Tổng Khả năng Vận động (PR + NP)."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "B. Yêu cầu Nhiệt (Môi trường \"Giống như Sống\")",
+              "lists": [
+                {
+                  "type": "ul",
+                  "items": [
+                    {
+                      "label": "Yêu cầu ISO 23162:",
+                      "text": "Khả năng vận động của tinh trùng phụ thuộc rất nhiều vào nhiệt độ. ISO 23162 yêu cầu phân tích được thực hiện ở 37°C."
+                    },
+                    {
+                      "label": "Lý do Lâm sàng:",
+                      "text": "Phân tích ở nhiệt độ phòng (20-22°C) làm chậm quá trình trao đổi chất của tinh trùng, dẫn đến điểm khả năng vận động tiến tới \"sai\" thấp. Bàn gia nhiệt tích hợp (như những cái được tìm thấy trong SQA-6100VET) là cần thiết để tuân thủ tiêu chuẩn này."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "4. Hình thái Tinh trùng: \"Tiêu chí Nghiêm ngặt\"",
+          "content": "Hình thái cung cấp cái nhìn sâu sắc nhất vào \"kiểm soát chất lượng\" sinh học của tinh hoàn.",
+          "subsections": [
+            {
+              "title": "A. Tiêu chí Kruger Nghiêm ngặt (Quy tắc 4%)",
+              "content": "Tất cả các tiêu chuẩn đều hội tụ vào Tiêu chí Kruger (Nghiêm ngặt). Một tinh trùng chỉ \"Bình thường\" nếu nó về cơ bản hoàn hảo. Bất kỳ tinh trùng \"ranh giới\" nào đều được phân loại là bất thường.",
+              "lists": [
+                {
+                  "type": "ul",
+                  "items": [
+                    {
+                      "label": "Ngưỡng Bình thường:",
+                      "text": "≥4%."
+                    },
+                    {
+                      "label": "Giải phẫu Đầu/Đuôi:",
+                      "text": "Kích thước cụ thể cho chiều dài đầu (3.7–4.7 μm) và kích thước acrosome (40–70% diện tích đầu) là bắt buộc."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "B. Chỉ số Teratozoospermia (TZI)",
+              "content": "WHO phiên bản thứ 6 khuyến nghị tính TZI, là số lượng khiếm khuyết trung bình mỗi tinh trùng bất thường. TZI cao là dấu hiệu của rối loạn chức năng sinh tinh đáng kể, ngay cả khi tỷ lệ bình thường tổng thể trên 4%."
+            },
+            {
+              "title": "C. Ứng dụng Lâm sàng (IVF so với ICSI)",
+              "content": "ASRM và ESHRE làm rõ rằng tiện ích lâm sàng lớn nhất của hình thái là trong việc chọn phương thức thụ tinh. Nếu hình thái <4%, các phòng thí nghiệm thường chuyển từ IVF tiêu chuẩn sang ICSI (Tiêm Tinh trùng Nội bào) để đảm bảo các tinh trùng có vẻ ngoài tốt nhất được chọn thủ công để thụ tinh."
+            }
+          ]
+        },
+        {
+          "title": "5. Bảng Tóm tắt: So sánh Tiêu chuẩn WHO Phiên bản thứ 5 và Phiên bản thứ 6",
+          "content": "Bảng này phác thảo các \"Giới hạn Tham chiếu Dưới\" chính (phần trăm thứ 5) cho tinh dịch người.",
+          "table": {
+            "headers": [
+              "Tham số",
+              "WHO Phiên bản thứ 5 (2010)",
+              "WHO Phiên bản thứ 6 (2021)"
+            ],
+            "rows": [
+              [
+                "Thể tích Tinh dịch (mL)",
+                "1.5",
+                "1.4"
+              ],
+              [
+                "Tổng số Tinh trùng (10⁶/lần xuất tinh)",
+                "39",
+                "39"
+              ],
+              [
+                "Nồng độ Tinh trùng (10⁶/mL)",
+                "15",
+                "16"
+              ],
+              [
+                "Tổng Khả năng Vận động (PR + NP, %)",
+                "40",
+                "42"
+              ],
+              [
+                "Khả năng Vận động Tiến tới (PR, %)",
+                "32",
+                "30"
+              ],
+              [
+                "Khả năng Sống (Tinh trùng Sống, %)",
+                "58",
+                "54"
+              ],
+              [
+                "Hình thái Bình thường (%)",
+                "4",
+                "4"
+              ]
+            ]
+          }
+        },
+        {
+          "title": "6. Đảm bảo Chất lượng Phòng thí nghiệm (Trọng tâm Trung tâm ISO 23162)",
+          "content": "Tuân thủ ISO 23162 yêu cầu nhiều hơn chỉ làm theo sổ tay WHO; nó yêu cầu bằng chứng tài liệu về độ chính xác.",
+          "lists": [
+            {
+              "type": "ul",
+              "items": [
+                {
+                  "label": "CV Nội quan sát:",
+                  "text": "Kỹ thuật viên phải chứng minh họ có thể đếm cùng một mẫu hai lần và nhận được kết quả giống nhau trong phạm vi sai số 10%."
+                },
+                {
+                  "label": "Đánh giá Chất lượng Bên ngoài (EQA):",
+                  "text": "Các phòng thí nghiệm phải tham gia kiểm tra năng lực toàn cầu (như chương trình ESHRE hoặc CAP) để so sánh kết quả của họ với các phòng thí nghiệm chuẩn hóa khác."
+                },
+                {
+                  "label": "Báo cáo Chuẩn hóa:",
+                  "text": "Báo cáo nên nêu rõ tiêu chuẩn nào được tuân theo và bao gồm các phạm vi tham chiếu cho mỗi tham số để hỗ trợ giải thích của bác sĩ lâm sàng."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "conclusion": "Hiện đại hóa phân tích tinh dịch người được định nghĩa bởi sự chuyển đổi từ \"trực giác của kỹ thuật viên\" sang các phương pháp khách quan, tự động và kiểm soát nhiệt độ. Bằng cách tuân thủ các yêu cầu kết hợp của WHO phiên bản thứ 6 và ISO 23162, các phòng thí nghiệm đảm bảo mức độ chính xác chẩn đoán cao nhất, cung cấp cho bệnh nhân một lộ trình đáng tin cậy cho hành trình khả năng sinh sản của họ.",
+      "references": [
+        "Tổ chức Y tế Thế giới (2021). Sổ tay phòng thí nghiệm WHO để kiểm tra và xử lý tinh dịch người, phiên bản thứ 6.",
+        "ISO 23162:2021. Kiểm tra tinh dịch cơ bản — Đặc tả và phương pháp thử nghiệm.",
+        "Nhóm Lợi ích Đặc biệt ESHRE về Nam khoa. Hướng dẫn thực hành tốt nhất phân tích tinh dịch.",
+        "Ủy ban Thực hành của Hiệp hội Y học Sinh sản Hoa Kỳ (ASRM) (2021). Đánh giá chẩn đoán nam giới vô sinh: ý kiến của ủy ban."
+      ]
+    },
+    "faq-bull-breeding-soundness": {
+      "title": "Hướng dẫn Xác định về Sức khỏe Sinh sản Bò đực",
+      "subtitle": "Tiêu chuẩn Lâm sàng & Phương pháp Hiện đại",
+      "image": "/Knowledge Hub/Bull Breeding Soundness Guide/Bull Breeding Soundness Guide.webp",
+      "alt": "Hướng dẫn Kiểm tra Sức khỏe Sinh sản Bò đực với Hướng dẫn Phân tích Tinh dịch Thú y SFT, hệ thống CASA, Khả năng Vận động Tinh trùng, và Bàn gia nhiệt tích hợp",
+      "link": "/faq/faq-bull-breeding-soundness",
+      "intro": "Hướng dẫn toàn diện này cung cấp cho các chuyên gia thú y và nhà sản xuất các tiêu chuẩn lâm sàng và phương pháp hiện đại cần thiết để thực hiện Kiểm tra Sức khỏe Sinh sản Bò đực (BSE) hoàn chỉnh theo hướng dẫn của Hiệp hội Theriogenology (SFT).",
+      "chapters": [
+        {
+          "title": "Chương 1: Đánh giá Sinh học-Hành vi của Bò đực",
+          "content": "Trong thực hành lâm sàng của chúng tôi như các nhà nam khoa, chúng tôi thường nhắc nhở các nhà sản xuất rằng giá trị của một con bò đực không được tìm thấy trong ống nghiệm, mà ở khả năng phục vụ một con bò cái trong đồng cỏ. Chương này giải quyết yêu cầu cơ bản về \"ham muốn tình dục\" và \"khả năng phục vụ\"—các đặc điểm thường bị bỏ qua trong các cài đặt chỉ phòng thí nghiệm.",
+          "lists": [
+            {
+              "type": "ul",
+              "items": [
+                {
+                  "label": "Động lực Tâm lý (Ham muốn tình dục):",
+                  "text": "Ham muốn tình dục là ham muốn tình dục bẩm sinh của bò đực. Đây là một đặc điểm có tính di truyền cao, có nghĩa là nó có thể được chọn hoặc chống lại trong chương trình nhân giống. Quan trọng là, ham muốn tình dục không tương quan với kích thước bìu hoặc chất lượng tinh trùng. Một con bò đực có thể có tham số tinh dịch ưu tú nhưng \"không quan tâm đến tình dục\", khiến nó trở thành một trách nhiệm trong môi trường phục vụ tự nhiên."
+                },
+                {
+                  "label": "Thực hiện Vật lý (Khả năng Phục vụ):",
+                  "text": "Điều này đo khả năng thực tế của bò đực để hoàn thành hành vi giao phối. Đánh giá yêu cầu quan sát giai đoạn \"tìm kiếm\", việc leo lên, và cú đẩy xuất tinh. Bất kỳ sự do dự hoặc thiếu phối hợp nào trong các bước này cho thấy đau dưới lâm sàng hoặc thiếu hụt thần kinh."
+                },
+                {
+                  "label": "Động lực Xã hội:",
+                  "text": "Trong các nhóm nhiều bò đực, hệ thống phân cấp xã hội quyết định tần suất nhân giống. Chúng tôi quan sát thấy rằng các bò đực thống trị thường chiếm phần lớn các thai kỳ, nhưng nếu bò đực thống trị đó có khả năng sinh sản dưới mức, toàn bộ đàn con có nguy cơ."
+                },
+                {
+                  "label": "Hiểu biết Hiện đại:",
+                  "text": "Trong khi hành vi khó định lượng trong phòng thí nghiệm, chúng tôi khuyến nghị sử dụng các dấu hiệu hành vi này như \"bộ lọc\" đầu tiên trước khi tiến hành phân tích tinh dịch tốn kém. Nếu một con bò đực không thể hoặc sẽ không leo lên, dữ liệu phòng thí nghiệm tiếp theo về mặt chức năng là không liên quan."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Chương 2: Giải phẫu Vật lý của Hiệu suất",
+          "content": "Từ quan điểm thú y, chúng tôi xem bò đực như một \"phương tiện vận chuyển gen\" thể thao. Nếu hệ thống xương hoặc cảm giác thất bại, bò đực không thể thực hiện nhiệm vụ của mình, bất kể khả năng sinh sản của nó. Chương này phác thảo các yêu cầu \"phần cứng\" cho một bò đực nhân giống.",
+          "lists": [
+            {
+              "type": "ul",
+              "items": [
+                {
+                  "label": "Tính toàn vẹn Cảm giác:",
+                  "text": "Thị giác là tối quan trọng. Bò đực xác định bò cái động dục chủ yếu thông qua thị giác. Các tình trạng như sẹo giác mạc hoặc đục thủy tinh thể là loại bỏ vì chúng ngăn bò đực quét đàn một cách hiệu quả."
+                },
+                {
+                  "label": "Sẵn sàng Dinh dưỡng (BCS):",
+                  "text": "Chúng tôi sử dụng hệ thống Điểm Tình trạng Cơ thể (BCS) 9 điểm. Một con bò đực nên bước vào mùa nhân giống ở BCS 6.0. Tại sao? Bởi vì một con bò đực có thể mất 50–100 kg trong mùa 60 ngày. Một con bò đực thiếu điều kiện sẽ mất ham muốn tình dục, trong khi một con bò đực quá điều kiện (béo phì) sẽ bị cách nhiệt mỡ bìu, điều này \"nấu chín\" tinh trùng."
+                },
+                {
+                  "label": "Hệ thống Vận động:",
+                  "text": "Chúng tôi xem xét kỹ chân và chân về tính đúng đắn cấu trúc. Các lỗi như \"chân sau\" (khớp hông thẳng) dẫn đến viêm khớp khởi phát sớm. Bất kỳ dấu hiệu què nào là một cờ đỏ tự động."
+                },
+                {
+                  "label": "Điểm kiểm tra Lâm sàng:",
+                  "text": "Sức khỏe vật lý là nhị phân. Một con bò đực không thể đi hoặc nhìn là một nhà nhân giống \"Không đạt yêu cầu\". Trong bối cảnh isperm.com, chúng tôi nhấn mạnh rằng phân tích tinh dịch kỹ thuật số chỉ nên theo sau một báo cáo vật lý \"sạch\"."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Chương 3: Tính toàn vẹn Tinh hoàn & Điều hòa Nhiệt",
+          "content": "Bìu không chỉ là một container; nó là một hệ thống kiểm soát nhiệt độ tinh vi. Để sinh tinh xảy ra, tinh hoàn phải duy trì mát hơn vài độ so với nhiệt độ cơ thể cốt lõi. Chương này tập trung vào sờ nắn lâm sàng các cơ quan này.",
+          "lists": [
+            {
+              "type": "ul",
+              "items": [
+                {
+                  "label": "Kỹ thuật Sờ nắn:",
+                  "text": "Chúng tôi đánh giá tính đối xứng, trương lực và khả năng phục hồi. Tinh hoàn khỏe mạnh nên đối xứng và \"di chuyển tự do\" trong bìu. Bất kỳ sự dính nào cho thấy tiền sử chấn thương hoặc viêm cục bộ (viêm quanh tinh hoàn)."
+                },
+                {
+                  "label": "Độ nhất quán Mô:",
+                  "text": "Sử dụng phép loại suy \"trương lực cơ\", một tinh hoàn màu mỡ nên cảm thấy như một cơ nhị đầu co lại. Tinh hoàn mềm hoặc \"nhão\" cho thấy thoái hóa, trong khi tinh hoàn cứng, xơ cho thấy nhiễm trùng mãn tính hoặc teo liên quan đến tuổi."
+                },
+                {
+                  "label": "Sức khỏe Mào tinh:",
+                  "text": "Chúng tôi đặc biệt chú ý đến đuôi mào tinh (đuôi). Đây là kho tinh trùng. Bất kỳ sưng cứng nào ở đây (viêm mào tinh) thường cho thấy nhiễm trùng vi khuẩn có thể chặn vĩnh viễn đường đi của tinh trùng."
+                },
+                {
+                  "label": "Sức khỏe Bên ngoài:",
+                  "text": "Da bìu phải mỏng và dẻo. Sẹo từ tê cóng hoặc vảy ghẻ dày ngăn bìu co lại hoặc thư giãn, điều này phá hủy khả năng điều hòa nhiệt độ của bò đực, dẫn đến sự tăng đột biến lớn về bất thường tinh trùng."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Chương 4: Chu vi Bìu (SC) Tiêu chuẩn",
+          "content": "Chu vi bìu là phép đo có thể lặp lại nhất trong BSE. Nó phục vụ như một proxy trực tiếp cho trọng lượng của mô tinh hoàn—\"máy móc\" thực tế sản xuất tinh trùng.",
+          "lists": [
+            {
+              "type": "ul",
+              "items": [
+                {
+                  "label": "Đo lường Chuẩn hóa:",
+                  "text": "Chúng tôi ủng hộ việc sử dụng thước dây Coulter ở phần rộng nhất của cặp bìu. Tinh hoàn phải được đẩy chắc chắn vào đáy bìu để đảm bảo độ chính xác."
+                },
+                {
+                  "label": "Ngưỡng Theo tuổi:",
+                  "text": "Tiêu chuẩn SFT rất nghiêm ngặt. Một con bò đực ở 15 tháng yêu cầu >30 cm, trong khi một con bò đực trên 24 tháng yêu cầu >34 cm. Những con số này không thể thương lượng cho xếp hạng \"Đạt yêu cầu\"."
+                },
+                {
+                  "label": "Hệ số Di truyền:",
+                  "text": "SC không chỉ về bò đực. Nó có tính di truyền cao (lên đến 0.50). Quan trọng hơn, nó tương quan âm với tuổi dậy thì ở con gái của nó. Bò đực có bìu lớn hơn sản xuất con gái chu kỳ sớm hơn và màu mỡ hơn."
+                },
+                {
+                  "label": "Tích hợp Kỹ thuật số:",
+                  "text": "Tại isperm.com, chúng tôi xem SC như chỉ số \"số lượng\". Trong khi SC cho chúng tôi biết về tiềm năng thể tích tinh trùng, các công cụ phân tích kỹ thuật số của chúng tôi cung cấp chỉ số \"chất lượng\" để hoàn thiện bức tranh."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Chương 5: Sức khỏe Sinh sản Nội bộ (Kiểm tra Trực tràng)",
+          "content": "Trong khi các cơ quan bên ngoài dễ nhìn thấy, các tuyến sinh dục phụ nội bộ là nơi nhiều vấn đề khả năng sinh sản \"im lặng\" cư trú. Chương này giải quyết sờ nắn nội bộ của túi tinh, tuyến tiền liệt và ống dẫn tinh.",
+          "lists": [
+            {
+              "type": "ul",
+              "items": [
+                {
+                  "label": "Viêm Túi tinh:",
+                  "text": "Đây là bệnh lý nội bộ phổ biến nhất. Trong quá trình kiểm tra trực tràng, chúng tôi tìm kiếm túi tinh mở rộng hoặc đau đớn. Một tuyến bị nhiễm trùng rò rỉ mủ (bạch cầu) vào tinh dịch. Những tế bào này tạo ra stress oxy hóa giết chết tinh trùng trước khi chúng thậm chí đến bò cái."
+                },
+                {
+                  "label": "Ống dẫn tinh và Vòng Nội bộ:",
+                  "text": "Chúng tôi kiểm tra tắc nghẽn trong ống dẫn tinh và đánh giá kích thước của vòng bẹn nội bộ. Một vòng quá lớn làm tăng nguy cơ thoát vị bẹn, có thể gây tử vong cho bò đực và tàn phá khả năng sinh sản của nó."
+                },
+                {
+                  "label": "Tại sao Nó Quan trọng cho Phân tích Phòng thí nghiệm:",
+                  "text": "Nếu phân tích isperm của bạn cho thấy mảnh vỡ cao hoặc \"kết tụ\" tinh trùng, kiểm tra trực tràng thường là nơi câu trả lời nằm. Viêm nội bộ thay đổi pH của huyết tương tinh dịch, điều này có thể phát hiện ngay lập tức thông qua giảm khả năng vận động trên cảm biến kỹ thuật số."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Chương 6: Cơ chế Giao hàng (Dương vật & Bao quy đầu)",
+          "content": "Ngay cả một con bò đực có tinh trùng hoàn hảo cũng vô sinh về mặt chức năng nếu nó không thể giao tinh trùng đó về mặt vật lý. Chương 6 tập trung vào sức khỏe giải phẫu của dương vật và bao quy đầu.",
+          "lists": [
+            {
+              "type": "ul",
+              "items": [
+                {
+                  "label": "Lệch Giải phẫu:",
+                  "text": "Chúng tôi tìm kiếm \"Lệch Xoắn ốc\" (xoắn nút chai) hoặc \"Lệch Bụng\". Những điều này thường không xuất hiện cho đến khi bò đực 3–5 tuổi. Nếu dương vật cong trước khi nó vào bò cái, việc đưa vào là không thể."
+                },
+                {
+                  "label": "Dây hãm Bền bỉ:",
+                  "text": "Đây là một \"cầu\" mô bẩm sinh buộc dương vật, khiến nó cong xuống. Vì nó có tính di truyền, chúng tôi khuyến nghị rằng những con bò đực này không được sử dụng để sản xuất giống."
+                },
+                {
+                  "label": "Chấn thương & Mụn cóc:",
+                  "text": "U nhú dương vật (mụn cóc) phổ biến ở bò đực trẻ. Trong khi thường có thể điều trị, chúng có thể gây chảy máu trong quá trình giao phối, và máu có tính diệt tinh trùng cao."
+                },
+                {
+                  "label": "Tính toàn vẹn Bao quy đầu:",
+                  "text": "Ở các giống nhiệt đới hoặc chịu ảnh hưởng Brahman, chúng tôi theo dõi sa bao quy đầu. Nếu lớp lót bị hư hỏng hoặc sẹo, bò đực có thể mất khả năng mở rộng hoàn toàn dương vật (hẹp bao quy đầu). Mở rộng hoàn toàn dương vật là yêu cầu cho BSE \"Đạt yêu cầu\"."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Chương 7: Giao thức Thu thập Tinh dịch Chuyên nghiệp",
+          "content": "Tính toàn vẹn của một xét nghiệm khả năng sinh sản chỉ tốt như mẫu được thu thập. Chương này giải quyết các phương pháp thu thập và sự cần thiết tuyệt đối của \"quản lý\" mẫu.",
+          "lists": [
+            {
+              "type": "ul",
+              "items": [
+                {
+                  "label": "Điện xuất tinh (EE) so với AV:",
+                  "text": "Trong khi Âm đạo Nhân tạo (AV) tạo ra một mẫu tự nhiên hơn, EE là tiêu chuẩn cho kiểm tra thực địa. Chúng tôi nhấn mạnh rằng EE nên được thực hiện với cách tiếp cận nhịp nhàng, điện áp thấp để tối đa hóa phần giàu tinh trùng và giảm thiểu stress."
+                },
+                {
+                  "label": "Nguy hiểm \"Sốc Lạnh\":",
+                  "text": "Tinh trùng cực kỳ nhạy cảm với biến động nhiệt độ. Mọi thiết bị—từ phễu thu thập đến phiến kính hiển vi—phải được làm nóng trước đến chính xác 37°C. Tiếp xúc 10 giây với phiến kính lạnh sẽ gây \"sốc lạnh\", dẫn đến chẩn đoán sai về khả năng vận động kém."
+                },
+                {
+                  "label": "Rủi ro Ô nhiễm:",
+                  "text": "Chúng tôi cảnh báo chống lại ô nhiễm nước tiểu, điều này phổ biến trong quá trình EE. Nước tiểu có tính diệt tinh trùng ngay lập tức. Nếu một mẫu xuất hiện màu vàng hoặc có mùi riêng biệt, nó phải được loại bỏ và bò đực được thu thập lại."
+                },
+                {
+                  "label": "Kiểm soát Chất lượng Phòng thí nghiệm:",
+                  "text": "Đối với người dùng hệ thống isperm, Chương 7 đại diện cho \"Giai đoạn Tiền Phân tích\". Đảm bảo một mẫu sạch, ấm và đại diện là bước đầu tiên hướng tới đọc kỹ thuật số chính xác."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Chương 8: Chất lượng Tinh trùng — Tiêu chuẩn 30/70",
+          "content": "Chương này là nền tảng của nam khoa phòng thí nghiệm. Chúng tôi tập trung vào hai chỉ số có tương quan cao nhất với khả năng sinh sản thực địa: Khả năng Vận động và Hình thái.",
+          "lists": [
+            {
+              "type": "ul",
+              "items": [
+                {
+                  "label": "Khả năng Vận động Tiến tới (Quy tắc 30%):",
+                  "text": "Chúng tôi bỏ qua tinh trùng đang bơi trong vòng tròn hoặc co giật. Chúng tôi chỉ đếm Khả năng Vận động Tiến tới—tinh trùng di chuyển theo đường thẳng có mục đích. Để \"Đạt yêu cầu\", một con bò đực phải có ít nhất 30% khả năng vận động tiến tới."
+                },
+                {
+                  "label": "Hình thái Tinh trùng (Quy tắc 70%):",
+                  "text": "Hình thái là yếu tố dự đoán quan trọng nhất của \"Tỷ lệ Thụ thai\". Chúng tôi yêu cầu ít nhất 70% tinh trùng phải bình thường về mặt hình thái. Điều này yêu cầu một vết bẩn độ phân giải cao (như Eosin-Nigrosin) và phóng đại 1000x."
+                },
+                {
+                  "label": "Định nghĩa Bất thường:",
+                  "text": "Chúng tôi tìm kiếm khiếm khuyết đầu (đầu có miệng núi lửa, đầu hình quả lê) và khiếm khuyết giữa/đuôi (giọt gần, đuôi cuộn). Khiếm khuyết đầu đặc biệt đáng lo ngại vì chúng thường chỉ ra vấn đề phân mảnh DNA."
+                },
+                {
+                  "label": "Lợi thế CASA:",
+                  "text": "Mắt người là chủ quan và dễ mệt mỏi. Đây là nơi Phân tích Tinh trùng Hỗ trợ Máy tính (CASA), như công nghệ iSperm, xuất sắc. Nó cung cấp một số đếm không thiên vị, có thể lặp lại loại bỏ lỗi con người khỏi đánh giá 30/70."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Chương 9: Kết quả, Phân loại và Chu kỳ 60 Ngày",
+          "content": "BSE là đánh giá \"điểm trong thời gian\". Trong chương này, chúng tôi thảo luận cách giải thích kết quả cuối cùng và tại sao đồng hồ sinh học của bò đực quan trọng cho kiểm tra lại.",
+          "lists": [
+            {
+              "type": "ul",
+              "items": [
+                {
+                  "label": "Nhà Nhân giống Tiềm năng Đạt yêu cầu:",
+                  "text": "Bò đực đã vượt qua mọi ngưỡng vật lý và tinh dịch. Nó sẵn sàng làm việc."
+                },
+                {
+                  "label": "Nhà Nhân giống Tiềm năng Không đạt yêu cầu:",
+                  "text": "Bò đực có khiếm khuyết vĩnh viễn (ví dụ: tinh hoàn nhỏ, dương vật gãy). Nó nên được loại bỏ."
+                },
+                {
+                  "label": "Phân loại Hoãn lại:",
+                  "text": "Đây là kết quả phổ biến nhất cho bò đực trẻ hoặc bị stress. Nó có nghĩa là \"Thử lại sau.\""
+                },
+                {
+                  "label": "Chu kỳ Sinh tinh:",
+                  "text": "Nếu một con bò đực thất bại do chất lượng tinh dịch kém, chúng tôi khuyến nghị kiểm tra lại trong 60 ngày. Tại sao? Bởi vì mất khoảng 61 ngày để một con bò đực sản xuất một \"vụ\" tinh trùng hoàn toàn mới. Nếu thất bại là do sốt tạm thời hoặc stress nhiệt, vụ mới có thể hoàn toàn khỏe mạnh."
+                },
+                {
+                  "label": "Tài liệu Chuyên nghiệp:",
+                  "text": "Chúng tôi nhấn mạnh vào một biểu mẫu chuẩn hóa. Tài liệu này là hồ sơ pháp lý về trạng thái của bò đực và một công cụ giao tiếp quan trọng giữa bác sĩ thú y và nhà sản xuất."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Chương 10: Bệnh Lây truyền qua Đường tình dục và An toàn Sinh học",
+          "content": "Một con bò đực màu mỡ là vô dụng nếu nó là mối nguy sinh học. Chương 10 giải quyết các bệnh \"im lặng\" có thể phá hủy tỷ lệ mang thai của đàn mà không bao giờ làm cho bò đực có vẻ bị bệnh.",
+          "lists": [
+            {
+              "type": "ul",
+              "items": [
+                {
+                  "label": "Trichomoniasis (Trich):",
+                  "text": "Gây ra bởi một động vật nguyên sinh (Tritrichomonas foetus), đây là một bệnh lây truyền qua đường tình dục tàn phá. Nó gây chết phôi sớm, có nghĩa là bò cái xuất hiện \"mở\" hoặc trở lại động dục muộn."
+                },
+                {
+                  "label": "Campylobacteriosis (Vibrio):",
+                  "text": "Nhiễm trùng vi khuẩn gây ra các thất bại sinh sản tương tự."
+                },
+                {
+                  "label": "Trạng thái Người mang:",
+                  "text": "Bò đực là người mang không triệu chứng. Các sinh vật sống trong các nếp gấp vi mô (khe) của da bao quy đầu. Bò đực già hơn có nguy cơ cao hơn vì \"khe\" của chúng sâu hơn và cung cấp môi trường tốt hơn cho mầm bệnh."
+                },
+                {
+                  "label": "Giao thức Chẩn đoán:",
+                  "text": "Chúng tôi khuyến nghị cạo bao quy đầu để xét nghiệm DNA (PCR). Một xét nghiệm không phải lúc nào cũng đủ; chúng tôi thường yêu cầu ba xét nghiệm âm tính để đảm bảo bò đực thực sự sạch."
+                },
+                {
+                  "label": "Lời cuối:",
+                  "text": "Tại iSperm Medical, chúng tôi tin rằng BSE hoàn chỉnh phải bao gồm kiểm tra an toàn sinh học. Khả năng vận động cao chỉ là một nửa trận chiến; đảm bảo bò đực không có bệnh lây truyền qua đường tình dục là bước cuối cùng trong việc bảo vệ lợi nhuận của nhà sản xuất."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Cách SQA-6100VET Hỗ trợ Kiểm tra Sức khỏe Sinh sản SFT (BSE)",
+          "subsections": [
+            {
+              "title": "1. Độ chính xác trong Quy tắc \"30/70\" (Chương 7 & 8)",
+              "content": "Trọng tâm của sổ tay SFT là yêu cầu >30% Khả năng Vận động Tiến tới và >70% Hình thái Bình thường.",
+              "lists": [
+                {
+                  "type": "ul",
+                  "items": [
+                    {
+                      "label": "Thách thức:",
+                      "text": "Kính hiển vi thủ công là chủ quan. Hai bác sĩ thú y có thể nhìn vào cùng một mẫu và không đồng ý 20%."
+                    },
+                    {
+                      "label": "Giải pháp SQA-6100VET:",
+                      "text": "Thiết bị sử dụng công nghệ điện-quang tự động và thuật toán tinh vi để cung cấp số đếm không thiên vị, có thể lặp lại. Nó đặc biệt đo Tinh trùng Di động Tiến tới (PMS), đảm bảo rằng bạn chỉ đếm những \"người chiến thắng\" di chuyển theo đường thẳng, chính xác như SFT yêu cầu."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "2. Định lượng Sản lượng \"Nhà máy Tinh trùng\" (Chương 3 & 4)",
+              "content": "Chương 4 tập trung vào Chu vi Bìu (SC) như một proxy cho thể tích sản xuất tinh trùng.",
+              "lists": [
+                {
+                  "type": "ul",
+                  "items": [
+                    {
+                      "label": "Hỗ trợ:",
+                      "text": "Trong khi bạn đo SC bằng thước dây, SQA-6100VET định lượng Tổng Nồng độ Tinh trùng (TSC) và Nồng độ. Bằng cách tương quan phép đo SC với dữ liệu nồng độ của SQA-6100VET, một bác sĩ lâm sàng có thể xác nhận nếu \"nhà máy\" (tinh hoàn) thực sự sản xuất thể tích tế bào khả thi mong đợi. Nếu một con bò đực có SC lớn nhưng SQA-6100VET cho thấy nồng độ thấp, nó cảnh báo bác sĩ thú y về thoái hóa tinh hoàn tiềm ẩn."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Lợi thế \"Tính toàn vẹn Nhiệt\": Tại sao SQA-6100VET là Cần thiết trên các Loài",
+          "content": "Một trong những tính năng kỹ thuật nổi bật của SQA-6100VET là bàn gia nhiệt nội bộ, thời gian thực của nó. Trong thế giới nam khoa, \"Khả năng Vận động là Nhiệt độ.\" Nếu môi trường phân tích không khớp với trạng thái sinh lý của động vật, dữ liệu là không hợp lệ về mặt lâm sàng.",
+          "lists": [
+            {
+              "type": "ul",
+              "items": [
+                {
+                  "label": "Thách thức:",
+                  "text": "Tinh trùng bò rất dễ bị \"Sốc Lạnh\", điều này gây tổn thương không thể phục hồi cho màng plasma."
+                },
+                {
+                  "label": "Lợi thế:",
+                  "text": "Trong khí hậu lạnh hoặc phòng thí nghiệm điều hòa không khí, SQA-6100VET hoạt động như một lá chắn nhiệt. Nó đảm bảo tiêu chuẩn 30% Khả năng Vận động Tiến tới (Chương 8) được đo trong điều kiện \"giống như sống\", ngăn chặn bò đực màu mỡ bị loại bỏ không đúng do stress lạnh do phòng thí nghiệm gây ra."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "conclusion": "Kiểm tra Sức khỏe Sinh sản Bò đực (BSE) đại diện cho một cách tiếp cận toàn diện, có hệ thống để đánh giá khả năng sinh sản của bò đực. Bằng cách tích hợp đánh giá hành vi, kiểm tra vật lý, đo lường bìu và phân tích tinh dịch chính xác, các chuyên gia thú y có thể đưa ra quyết định sáng suốt bảo vệ cả khoản đầu tư của nhà sản xuất và tương lai di truyền của đàn. Công nghệ CASA hiện đại, chẳng hạn như SQA-6100VET, nâng cao độ chính xác và khách quan của tiêu chuẩn quan trọng 30/70, đảm bảo rằng các đánh giá khả năng sinh sản dựa trên dữ liệu đáng tin cậy, có thể lặp lại thay vì giải thích chủ quan. Một BSE hoàn chỉnh không chỉ đơn giản là một bài kiểm tra—đó là một đánh giá toàn diện kết hợp chuyên môn lâm sàng với độ chính xác công nghệ để bảo vệ sức khỏe sinh sản của toàn bộ đàn.",
+      "references": [
+        "Tiêu chuẩn & Sổ tay Toàn cầu (\"Tiêu chuẩn Vàng\"): Hiệp hội Theriogenology (SFT) - Hướng dẫn Chính thức BSE Bò đực",
+        "Hành vi Nhân giống & Kiểm tra Vật lý (Chương 1 & 2): Chenoweth, P. J. (1997). Hành vi bò đực, tình dục và khác. Ủy ban Sau Đại học Khoa học Thú y - Đại học Sydney. Kiểm tra vật lý đường sinh sản của bò đực. Phòng khám Thú y: Thực hành Động vật Thực phẩm.",
+        "Chu vi Bìu & Tương quan Di truyền (Chương 4): Martínez-Velázquez, G., et al. (2003). Mối quan hệ di truyền giữa mang thai bò cái tơ và chu vi bìu. Tạp chí Khoa học Động vật. Mối quan hệ của chu vi bìu với tuổi và trọng lượng cơ thể ở bò đực thịt. Tạp chí Theriogenology.",
+        "Hình thái Tinh trùng & Khả năng Sinh sản (Chương 8): Barth, A. D. (1992). Mối quan hệ giữa bất thường tinh trùng và khả năng sinh sản. Kỷ yếu SFT. Fitzpatrick, L. A., et al. (2002). Tầm quan trọng của hình thái tinh trùng đối với khả năng sinh sản ở bò đực thịt. Theriogenology.",
+        "Phân tích Tự động & Công nghệ CASA (Hỗ trợ cho SQA-6100VET): Amann, R. P., & Waberski, D. (2014). Phân tích tinh trùng hỗ trợ máy tính (CASA): khả năng và phát triển tiềm năng. Theriogenology. Verstegen, J., et al. (2002). Máy phân tích tinh dịch hỗ trợ máy tính trong nam khoa: với tham chiếu đặc biệt đến ứng dụng thú y. Theriogenology.",
+        "Bệnh Lây truyền qua Đường tình dục & An toàn Sinh học (Chương 10): Givens, M. D. (2006). Một cách tiếp cận lâm sàng, dựa trên bằng chứng đối với nguyên nhân nhiễm trùng của vô sinh ở gia súc thịt. Theriogenology. BonDurant, R. H. (2005). Bệnh lây truyền qua đường tình dục của gia súc: Trichomoniasis và Campylobacteriosis. Phòng khám Thú y: Thực hành Động vật Thực phẩm."
+      ]
+    },
+    "faq-canine-semen-analysis": {
+      "title": "Hướng dẫn Chuyên nghiệp về Phân tích Tinh dịch Chó",
+      "subtitle": "Tiêu chuẩn Lâm sàng cho Khả năng Sinh sản và Tính toàn vẹn Sinh sản của Chó",
+      "image": "/Knowledge Hub/Canine Semen Analysis Guide/Canine Semen Analysis Guide.webp",
+      "alt": "Hướng dẫn Phân tích Tinh dịch Chó với tiêu chuẩn Thú y SFT, hệ thống CASA, Khả năng Vận động Tinh trùng, Hình thái Tinh trùng, và Bàn gia nhiệt tích hợp cho khả năng sinh sản chó",
+      "link": "/faq/faq-canine-semen-analysis",
+      "intro": "Hướng dẫn toàn diện này cung cấp cho các chuyên gia thú y và nhà nhân giống các tiêu chuẩn lâm sàng và phương pháp cần thiết để thực hiện Kiểm tra Sức khỏe Sinh sản Chó (BSE) và phân tích tinh dịch hoàn chỉnh.",
+      "chapters": [
+        {
+          "title": "Chương 1: Lựa chọn và Chu kỳ Sinh sản",
+          "content": "Đánh giá một con chó đực bắt đầu với gia phả và lịch sử phát triển của nó. Trong nam khoa chó, tuổi dậy thì thường xảy ra từ 6 đến 12 tháng, tùy thuộc vào giống (các giống lớn hơn thường trưởng thành muộn hơn). Tuy nhiên, chúng tôi thường khuyến nghị rằng Kiểm tra Sức khỏe Sinh sản (BSE) đầy đủ không được coi là xác định cho đến khi chó ít nhất 18 đến 24 tháng tuổi. Khả năng sinh sản đỉnh ở chó nhà thường được quan sát từ 2 đến 5 tuổi.",
+          "subsections": [
+            {
+              "title": "Tiêu chí Lựa chọn",
+              "content": "Lựa chọn cũng liên quan đến sàng lọc di truyền nghiêm ngặt. Không giống như gia súc, chó đực thường được đánh giá về các tình trạng di truyền như loạn sản hông (OFA/PennHIP) và bệnh mắt di truyền (CERF). Chúng tôi tìm kiếm các đặc điểm tình dục thứ cấp: đầu nam tính, tính khí tự tin và bộ lông khỏe mạnh. Ham muốn tình dục của chó bị ảnh hưởng rất nhiều bởi môi trường xã hội và kinh nghiệm nhân giống trước đó. Trong chương này, chúng tôi xác lập rằng \"cửa sổ sinh học\" cho một con chó đực là hữu hạn; khi chó già hơn 7 tuổi, chúng tôi mong đợi sự suy giảm tự nhiên về nồng độ tinh trùng và tăng các khiếm khuyết hình thái. Thiết lập cơ sở khả năng sinh sản sớm trong sự nghiệp của chó là cần thiết cho quản lý sinh sản dài hạn."
+            }
+          ]
+        },
+        {
+          "title": "Chương 2: Kiểm tra Vật lý và Sức khỏe Cơ xương",
+          "content": "Một con chó đực phải có khả năng vật lý để thực hiện \"vũ điệu giao phối\", điều này liên quan đến nỗ lực thể thao đáng kể. Kiểm tra vật lý bắt đầu với Hệ thống Cơ xương. Chúng tôi đặc biệt chú ý đến chi sau và cột sống thắt lưng. Nếu một con chó bị viêm khớp, vấn đề dây chằng chéo hoặc đau lưng, nó sẽ không thể leo lên hoặc duy trì \"liên kết\" với chó cái. Đau là một chất ức chế mạnh của testosterone và có thể dẫn đến từ chối nhân giống.",
+          "subsections": [
+            {
+              "title": "Tình trạng Cơ thể và Sức khỏe",
+              "content": "Chúng tôi cũng đánh giá sức khỏe tổng thể của chó, bao gồm Điểm Tình trạng Cơ thể (BCS) của nó. Một con chó đực nên ở BCS 4 hoặc 5 trên thang điểm 9 điểm. Béo phì là nguyên nhân chính của khả năng sinh sản dưới mức ở chó, vì nó dẫn đến tăng nhiệt độ bìu và giảm sức chịu đựng. Sức khỏe cảm giác—thị giác và thính giác—là quan trọng để chó phản ứng với các tín hiệu do chó cái động dục cung cấp. Chương này nhấn mạnh rằng một con chó đực là một vận động viên; sức khỏe hệ thống của nó là nền tảng mà thành công sinh sản của nó được xây dựng."
+            }
+          ]
+        },
+        {
+          "title": "Chương 3: Kiểm tra Sinh dục — Tinh hoàn và Bìu",
+          "content": "Tinh hoàn của chó nằm trong bìu dưới hậu môn và nên được định hướng ngang. Trong quá trình sờ nắn, chúng tôi tìm kiếm tính đối xứng, kích thước và độ nhất quán. Tinh hoàn chó khỏe mạnh nên chắc và đàn hồi, tương tự như cảm giác của một quả trứng luộc chín đã bóc vỏ. Không đối xứng là một dấu hiệu cảnh báo chính; nó có thể chỉ ra u tinh hoàn (u tế bào Sertoli hoặc u tế bào kẽ), phổ biến ở con đực nguyên vẹn già hơn.",
+          "subsections": [
+            {
+              "title": "Sức khỏe Bìu và Mào tinh",
+              "content": "Bìu tự nó nên mỏng da và di chuyển tự do. Chúng tôi kiểm tra viêm da bìu, có thể gây nhiệt cục bộ và phá hủy chất lượng tinh trùng. Chúng tôi cũng sờ nắn Mào tinh, đặc biệt là đuôi, nên nổi bật và chắc. Bất kỳ sưng hoặc đau nào trong mào tinh cho thấy Viêm mào tinh, thường do Brucella canis hoặc các nhiễm trùng vi khuẩn khác gây ra. Chương này cung cấp các tiêu chuẩn xúc giác để xác định các vấn đề sinh sản \"cấp nhà máy\". Nếu tinh hoàn thiếu trương lực hoặc khác biệt đáng kể về kích thước, chó có khả năng bị thoái hóa tinh hoàn."
+            }
+          ]
+        },
+        {
+          "title": "Chương 4: Thể tích Tinh hoàn và Sản xuất Tinh trùng Hàng ngày",
+          "content": "Ở chó, chúng tôi sử dụng Thể tích Tinh hoàn như một yếu tố dự đoán chính về khả năng sản xuất tinh trùng của chó. Chúng tôi đo chiều dài, chiều rộng và độ sâu của mỗi tinh hoàn bằng thước cặp. Có mối tương quan toán học trực tiếp giữa tổng thể tích tinh hoàn và Tổng số Tinh trùng (TSC) trong tinh dịch. Một con chó có tinh hoàn nhỏ hơn trung bình cho giống của nó sẽ có \"dự trữ tinh trùng\" thấp hơn và có thể không đạt được tỷ lệ thụ thai cao khi nhân giống nhiều lần trong một tuần.",
+          "subsections": [
+            {
+              "title": "Chỉ số Sản xuất",
+              "content": "Chúng tôi sử dụng các phép đo này để xác định xem một con chó có đáp ứng mức sản xuất \"mong đợi\" của nó hay không. Ví dụ, nếu một con chó có tinh hoàn lớn, cảm giác khỏe mạnh nhưng phân tích tinh dịch cho thấy nồng độ thấp, chúng tôi tìm kiếm các vấn đề trong quá trình thu thập hoặc \"xuất tinh ngược\" tiềm ẩn (nơi tinh trùng chảy ngược vào bàng quang). Chương này tập trung vào định lượng khách quan của mô sinh sản, cung cấp các chỉ số sản xuất cho phép nhà nhân giống quản lý \"tải trọng nhân giống\" của chó đực một cách hiệu quả."
+            }
+          ]
+        },
+        {
+          "title": "Chương 5: Kiểm tra Tuyến tiền liệt — Phần Tuyến tiền liệt",
+          "content": "Chó là duy nhất trong số động vật nhà vì nó chỉ có một tuyến sinh dục phụ: Tuyến tiền liệt. Sức khỏe của tuyến tiền liệt là trung tâm của khả năng sinh sản chó. Trong quá trình kiểm tra trực tràng, tuyến tiền liệt nên có hai thùy, đối xứng và không đau. Ở con đực nguyên vẹn trên 5 tuổi, Tăng sản Tuyến tiền liệt Lành tính (BPH) cực kỳ phổ biến, thường gây tuyến mở rộng và chảy máu.",
+          "subsections": [
+            {
+              "title": "Động lực học Chất lỏng Tuyến tiền liệt",
+              "content": "Tuyến tiền liệt sản xuất phần thứ ba (và lớn nhất) của tinh dịch chó. Chất lỏng tuyến tiền liệt này hoạt động như một phương tiện vận chuyển và cung cấp chất dinh dưỡng cho tinh trùng. Tuy nhiên, nếu tuyến tiền liệt bị nhiễm trùng (Viêm tuyến tiền liệt) hoặc nang, chất lỏng trở nên độc hại đối với tinh trùng. Chúng tôi tìm kiếm sự hiện diện của máu hoặc mủ trong phần tuyến tiền liệt trong quá trình thu thập. Chương này làm nổi bật \"động lực học chất lỏng\" của tinh dịch chó; vì chất lỏng tuyến tiền liệt chiếm phần lớn thể tích, sức khỏe hóa học của nó là quan trọng cho sự sống còn của tế bào tinh trùng trong hành trình của chúng đến ống dẫn trứng."
+            }
+          ]
+        },
+        {
+          "title": "Chương 6: Sức khỏe Dương vật và \"Bulbus Glandis\"",
+          "content": "Dương vật chó có hai đặc điểm chuyên biệt: Os Penis (một xương) và Bulbus Glandis. Bulbus glandis chịu trách nhiệm cho \"liên kết\" hoặc \"khóa\" xảy ra trong quá trình giao phối, nơi dương vật trở nên cương cứng và bị mắc kẹt bởi cơ âm đạo của chó cái. Chúng tôi kiểm tra dương vật về tính đúng đắn giải phẫu, tìm kiếm dây hãm bền bỉ (một dải mô ngăn mở rộng hoàn toàn) hoặc khối u dương vật (như Khối u Lây truyền qua Đường tình dục/TVT).",
+          "subsections": [
+            {
+              "title": "Sức khỏe Bao quy đầu",
+              "content": "Chúng tôi cũng xem xét kỹ Bao quy đầu về dịch tiết quá mức hoặc \"viêm quy đầu và bao quy đầu\". Một vấn đề phổ biến ở chó đực là lông quấn quanh dương vật bên trong bao quy đầu, gây nghẹt hoặc nhiễm trùng. Trong quá trình Kiểm tra Sức khỏe Sinh sản, chúng tôi phải đảm bảo rằng chó có thể mở rộng hoàn toàn dương vật mà không có lệch hoặc đau. Chương này đảm bảo rằng hệ thống giao hàng cơ học hoạt động và chó có thể an toàn đạt được và duy trì một liên kết mà không bị thương."
+            }
+          ]
+        },
+        {
+          "title": "Chương 7: Thu thập Tinh dịch — Tinh dịch Phân đoạn",
+          "content": "Thu thập tinh dịch ở chó được thực hiện thông qua Kích thích Kỹ thuật số (thu thập thủ công). Chó xuất tinh trong ba phần riêng biệt:",
+          "lists": [
+            {
+              "type": "ul",
+              "items": [
+                {
+                  "label": "Phần Đầu tiên (Tiền tinh trùng):",
+                  "text": "Một thể tích nhỏ (0.5–2 ml) chất lỏng trong suốt, thường không chứa tinh trùng."
+                },
+                {
+                  "label": "Phần Thứ hai (Giàu tinh trùng):",
+                  "text": "\"Mục tiêu\" cho phân tích. Nó thường có màu trắng đục và dao động từ 0.5 đến 4 ml."
+                },
+                {
+                  "label": "Phần Thứ ba (Tuyến tiền liệt):",
+                  "text": "Một thể tích lớn (lên đến 30 ml hoặc hơn) chất lỏng trong suốt."
+                }
+              ]
+            }
+          ],
+          "subsections": [
+            {
+              "title": "Giao thức Thu thập",
+              "content": "Là các bác sĩ lâm sàng, chúng tôi phải thành thạo trong việc \"phân đoạn\" tinh dịch. Chúng tôi chủ yếu thu thập phần thứ hai để phân tích và AI, trong khi chỉ một phần nhỏ của phần thứ ba thường được giữ để cung cấp thể tích. Ô nhiễm với nước tiểu là một rủi ro đáng kể và phải tránh. Chương này thiết lập các giao thức \"Cửa vào Phòng thí nghiệm\", tập trung vào độ chính xác cần thiết để thu hoạch một mẫu giàu tinh trùng, chất lượng cao."
+            }
+          ]
+        },
+        {
+          "title": "Chương 8: Phân tích Phòng thí nghiệm — Tiêu chuẩn SFT 70/70",
+          "content": "SFT đã thiết lập quy tắc \"70/70\" như tiêu chuẩn cho một chó đực Đạt yêu cầu: 70% Khả năng Vận động Tiến tới và 70% Hình thái Bình thường.",
+          "lists": [
+            {
+              "type": "ul",
+              "items": [
+                {
+                  "label": "Khả năng Vận động:",
+                  "text": "Chúng tôi tìm kiếm tinh trùng di chuyển theo đường thẳng có mục đích. Chó thường có khả năng vận động cao, và bất cứ điều gì dưới 70% được coi là dấu hiệu của stress, nhiễm trùng hoặc tuổi tác."
+                },
+                {
+                  "label": "Nồng độ:",
+                  "text": "Một con chó đực điển hình sản xuất từ 200 triệu đến 2 tỷ tinh trùng mỗi lần xuất tinh. Chúng tôi đo Tổng số Tinh trùng (TSC). Nếu số đếm của chó thấp, chúng tôi điều tra tần suất sử dụng hoặc sức khỏe tinh hoàn."
+                }
+              ]
+            }
+          ],
+          "subsections": [
+            {
+              "title": "Dữ liệu Khách quan",
+              "content": "Chương này là nơi chuyển đổi từ \"quan sát lâm sàng\" sang \"dữ liệu khách quan\" xảy ra. Chúng tôi nhấn mạnh rằng khả năng vận động cho chúng tôi biết tinh trùng còn sống, nhưng nồng độ cho chúng tôi biết nếu chó có \"liều lượng\" cần thiết để đạt được mang thai."
+            }
+          ]
+        },
+        {
+          "title": "Chương 9: Hình thái Tinh trùng — Đầu, Phần giữa và Đuôi",
+          "content": "Hình thái là yếu tố dự đoán quan trọng nhất về khả năng thụ tinh trứng của chó. Chúng tôi sử dụng vết bẩn Eosin-Nigrosin và kiểm tra tinh trùng ở độ phóng đại 1000x. Chúng tôi phân loại khiếm khuyết thành Nguyên phát (phát sinh trong tinh hoàn trong quá trình sản xuất) và Thứ phát (phát sinh trong mào tinh hoặc trong quá trình xử lý).",
+          "lists": [
+            {
+              "type": "ul",
+              "items": [
+                {
+                  "label": "Khiếm khuyết Đầu:",
+                  "text": "(ví dụ: đầu nhỏ, hình quả lê) thường chỉ ra tổn thương DNA."
+                },
+                {
+                  "label": "Khiếm khuyết Phần giữa:",
+                  "text": "(ví dụ: giọt gần) cho thấy vấn đề trưởng thành trong mào tinh."
+                },
+                {
+                  "label": "Khiếm khuyết Đuôi:",
+                  "text": "(ví dụ: đuôi cuộn hoặc cong) thường chỉ ra stress môi trường hoặc sốc lạnh."
+                }
+              ]
+            }
+          ],
+          "subsections": [
+            {
+              "title": "Vi kiến trúc",
+              "content": "Chương này đi sâu vào \"vi kiến trúc\" của tế bào. Một con chó có 90% khả năng vận động nhưng chỉ 30% hình thái bình thường sẽ có tỷ lệ thụ thai rất thấp vì tinh trùng có thể bơi nhưng không thể xâm nhập trứng."
+            }
+          ]
+        },
+        {
+          "title": "Chương 10: An toàn Sinh học và Brucella Canis",
+          "content": "Chương cuối cùng giải quyết mối đe dọa sinh học nghiêm trọng nhất đối với sinh sản chó: Brucella canis. Đây là một nhiễm trùng vi khuẩn rất dễ lây lan gây sảy thai muộn, vô sinh và viêm mào tinh. Nó là bệnh lây truyền từ động vật sang người (có thể lây sang người) và hầu như không thể chữa được ở chó nguyên vẹn. Chúng tôi yêu cầu tất cả chó đực được xét nghiệm B. canis thông qua Xét nghiệm Ngưng kết Phiến Nhanh (RSAT) hoặc ELISA mỗi 6 tháng hoặc trước mỗi lần nhân giống.",
+          "subsections": [
+            {
+              "title": "Giám sát Bổ sung",
+              "content": "Chúng tôi cũng giám sát Herpesvirus Chó (CHV), có thể gây \"Hội chứng Chó con Fading\" và tử vong sơ sinh. Chương này củng cố rằng một chó đực \"Đạt yêu cầu\" phải \"An toàn\". Một con chó có khả năng sinh sản cao mang Brucellosis là mối nguy sinh học cho toàn bộ chuồng và chủ sở hữu. An toàn sinh học là lớp cuối cùng và quan trọng nhất của chương trình nhân giống chó chuyên nghiệp."
+            }
+          ]
+        },
+        {
+          "title": "Vai trò của SQA-6100VET trong Phân tích Tinh dịch Chó Chuyên nghiệp",
+          "content": "Trong thế giới chuyên biệt cao của sinh sản chó—nơi một lần nhân giống giá trị cao có thể tốn hàng nghìn đô la—độ chính xác là không thể thương lượng. SQA-6100VET phục vụ như đối tác chẩn đoán cuối cùng, chuyển đổi các quan sát lâm sàng được mô tả trong 10 chương trên thành dữ liệu khách quan, xác định.",
+          "subsections": [
+            {
+              "title": "1. Độ chính xác trong \"Phần Giàu Tinh trùng\" (Chương 7 & 8)",
+              "content": "Xuất tinh chó là duy nhất vì nó được phân đoạn. Để có kết quả chính xác, bác sĩ lâm sàng phải phân tích phần thứ hai, giàu tinh trùng.",
+              "lists": [
+                {
+                  "type": "ul",
+                  "items": [
+                    {
+                      "label": "Lợi thế:",
+                      "text": "SQA-6100VET được hiệu chuẩn đặc biệt cho bản chất mật độ cao của phần thứ hai chó. Nó cung cấp Tổng số Tinh trùng (TSC) chính xác, cho phép bác sĩ thú y xác nhận nếu chó đực đang đáp ứng tiềm năng sinh học của nó hoặc nếu \"xuất tinh ngược\" (tinh dịch chảy vào bàng quang) đã xảy ra."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "2. Xác thực Tiêu chuẩn \"70/70\" Khách quan (Chương 8)",
+              "content": "Hiệp hội Theriogenology (SFT) yêu cầu ít nhất 70% khả năng vận động và hình thái.",
+              "lists": [
+                {
+                  "type": "ul",
+                  "items": [
+                    {
+                      "label": "Lợi thế:",
+                      "text": "Kỹ thuật viên con người dễ bị \"thiên vị chủ quan\"—thường đánh giá quá cao khả năng vận động trong các mẫu hoạt động. SQA-6100VET sử dụng cảm biến điện-quang để cung cấp số đếm Tinh trùng Di động Tiến tới (PMS) không thiên vị. Nó lọc ra tinh trùng \"co giật\" hoặc \"tròn\" không thể đạt được thụ tinh, đảm bảo chỉ các tế bào thực sự màu mỡ được đếm."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Lợi thế \"Tính toàn vẹn Nhiệt\": Tại sao SQA-6100VET là Cần thiết cho Phân tích Chó",
+          "content": "Tính năng kỹ thuật quan trọng nhất của SQA-6100VET là bàn gia nhiệt nội bộ, thời gian thực của nó. Đối với nam khoa chó, đây không chỉ là một \"tính năng\"—nó là yêu cầu lâm sàng.",
+          "lists": [
+            {
+              "type": "ul",
+              "items": [
+                {
+                  "label": "Vấn đề: Hiện tượng \"Sốc Lạnh\"",
+                  "text": "Tinh trùng chó được xuất tinh ở nhiệt độ cơ thể 38.5°C (101.3°F). Trong một phòng khám thú y điển hình, nhiệt độ phòng thường là 20°C–22°C. Sự khác biệt 16 độ này gây Sốc Nhiệt ngay lập tức. Khi tinh trùng chó chạm vào phiến kính lạnh hoặc buồng phân tích lạnh, chúng ngừng di chuyển ngay lập tức hoặc bắt đầu bơi trong các vòng tròn chặt chẽ, không đều (dấu hiệu tổn thương màng)."
+                },
+                {
+                  "label": "Giải pháp SQA-6100VET:",
+                  "text": "Thiết bị có bàn gia nhiệt tích hợp, được điều chỉnh duy trì mẫu ở nhiệt độ không đổi 37.5°C–38.5°C trong toàn bộ quá trình thử nghiệm."
+                },
+                {
+                  "label": "Kết quả:",
+                  "text": "Bằng cách tái tạo môi trường \"giống như sống\" của đường sinh sản chó, SQA-6100VET tiết lộ khả năng vận động tiến tới thực sự của chó đực. Không có kiểm soát nhiệt độ thời gian thực này, nhiều chó màu mỡ bị chẩn đoán sai là \"khả năng sinh sản dưới mức\" đơn giản vì môi trường phòng thí nghiệm quá lạnh. Đối với chủ sở hữu chó đực chuyên nghiệp, tính năng này cung cấp sự yên tâm rằng danh tiếng của chó của họ được bảo vệ bởi công nghệ chính xác nhất có sẵn."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "conclusion": "Phân tích tinh dịch chó đại diện cho một lĩnh vực chuyên môn trong nam khoa thú y, nơi độ chính xác và khách quan là tối quan trọng cho các chương trình nhân giống giá trị cao. Việc tích hợp công nghệ CASA hiện đại, chẳng hạn như SQA-6100VET, biến đổi các quan sát lâm sàng chủ quan thành dữ liệu xác định, có thể lặp lại. Bằng cách tuân thủ các tiêu chuẩn SFT và duy trì các giao thức an toàn sinh học nghiêm ngặt, các chuyên gia thú y có thể đảm bảo rằng chó đực được đánh giá với mức độ chính xác chẩn đoán cao nhất, bảo vệ cả khoản đầu tư di truyền và sức khỏe của các thế hệ tương lai.<br/><br/><strong>Từ chối trách nhiệm:</strong> Hướng dẫn này dành cho mục đích giáo dục. Tất cả các chẩn đoán lâm sàng phải được thực hiện bởi các chuyên gia thú y có trình độ phù hợp với các quy định địa phương.",
+      "references": [
+        "Hiệp hội Theriogenology (SFT). Sổ tay Kiểm tra Sức khỏe Sinh sản của Chó đực. https://www.theriogenology.org",
+        "Johnston, S. D., Root Kustritz, M. V., & Olson, P. N. S. (2001). Canine and Feline Theriogenology. WB Saunders. (Sách giáo khoa xác định cho sinh sản chó).",
+        "Amann, R. P., & Waberski, D. (2014). Phân tích tinh trùng hỗ trợ máy tính (CASA): khả năng và phát triển tiềm năng. Theriogenology.",
+        "Root Kustritz, M. V. (2007). Nhà Nhân giống Chó Lâm sàng."
+      ]
+    },
+    "faq-poultry-semen-analysis": {
+      "title": "Hướng dẫn Chuyên nghiệp về Phân tích Tinh dịch Gia cầm",
+      "subtitle": "Tiêu chuẩn Lâm sàng cho Khả năng Sinh sản Gà trống",
+      "image": "/Knowledge Hub/Poultry Semen Analysis Guide/Poultry Semen Analysis Guide.webp",
+      "alt": "Hướng dẫn Phân tích Tinh dịch Gia cầm với tiêu chuẩn Thú y SFT, hệ thống CASA, Khả năng Vận động Tinh trùng, Hình thái Tinh trùng, và Bàn gia nhiệt tích hợp cho khả năng sinh sản gà trống",
+      "link": "/faq/faq-poultry-semen-analysis",
+      "intro": "Trong ngành công nghiệp gia cầm, cụ thể cho gà thịt và gà đẻ, đánh giá khả năng sinh sản của gà trống là nền tảng của thành công trại ấp và thay thế đàn. Không giống như động vật có vú, không có \"Sổ tay SFT\" duy nhất cho gia cầm; thay vào đó, các tiêu chuẩn được quản lý bởi hướng dẫn của Hiệp hội Khoa học Gia cầm Thế giới (WPSA), giao thức FAO cho Tài nguyên Di truyền Động vật, và sổ tay kỹ thuật của các nhà nhân giống chính (như Aviagen và Cobb).",
+      "chapters": [
+        {
+          "title": "Chương 1: Lựa chọn và Hiệu suất Di truyền của Bò đực",
+          "content": "Trong lĩnh vực gia cầm thương mại, gà trống không chỉ là nhà nhân giống; nó là động cơ của trại ấp. Lựa chọn bắt đầu với đánh giá di truyền \"Dòng Bò đực\", nơi chúng tôi cân bằng tăng trưởng nhanh và chuyển đổi thức ăn với tuổi thọ sinh sản. Không giống như gia súc có vú, gà trống có tỷ lệ trao đổi chất rất cao, và cửa sổ khả năng sinh sản đỉnh của chúng tương đối hẹp, thường từ 25 đến 45 tuần tuổi. Chúng tôi ưu tiên các con đực thể hiện các đặc điểm tình dục thứ cấp: mào và yếm đỏ sáp sáng, là chỉ số trực tiếp của mức testosterone lưu thông cao."
+        },
+        {
+          "title": "Chương 2: Kiểm tra Vật lý và Sức khỏe Xương",
+          "content": "Sức khỏe vật lý của gà trống tập trung vào khả năng thực hiện \"vũ điệu giao phối\" và đạt được tiếp xúc huyệt thành công. Vì giao phối gia cầm là một sự kiện thể thao, tốc độ cao, Hệ thống Cơ xương là trọng tâm chính của chúng tôi. Chúng tôi kiểm tra chân, khớp cổ chân và bàn chân (\"đệm chân\") để tìm dấu hiệu bệnh chân (viêm da chân) hoặc viêm khớp. Một con gà trống thậm chí chỉ hơi què sẽ bị cạnh tranh trong hệ thống nuôi sàn và cuối cùng sẽ ngừng giao phối."
+        },
+        {
+          "title": "Chương 3: Đánh giá Hành vi và Phản ứng Massage",
+          "content": "Ở gia cầm, thu thập tinh dịch là quá trình hợp tác giữa chim và kỹ thuật viên. Không giống như bò đực hoặc lợn đực leo lên giả, gà trống phải được huấn luyện để phản ứng với Kỹ thuật Massage Bụng. Chúng tôi đánh giá phản ứng hành vi của gà trống đối với xử lý con người. Một \"người cho\" tốt là một con vẫn bình tĩnh và thể hiện phản xạ \"lộn huyệt\" nhanh chóng khi được kích thích. Sự sẵn sàng hành vi này là phản ứng học được, và chúng tôi nhấn mạnh tầm quan trọng của \"Giai đoạn Huấn luyện\" cho gà trống con."
+        },
+        {
+          "title": "Chương 4: Thu thập Tinh dịch — Phương pháp Burrows và Quinn",
+          "content": "Tiêu chuẩn cho thu thập tinh dịch chim là Phương pháp Massage Bụng, được tiên phong bởi Burrows và Quinn. Là một nhà nam khoa, tôi nhấn mạnh rằng đây là một thủ tục tinh tế yêu cầu hai người: một người giữ gà trống và một người \"vắt\" tinh dịch. Kỹ thuật viên áp dụng massage nhịp nhàng cho cơ bụng đồng thời kích thích gốc đuôi. Điều này kích hoạt sự lộn của dương vật (một cơ quan nhỏ, không đưa vào) và xuất tinh tinh dịch."
+        },
+        {
+          "title": "Chương 5: Đánh giá Vĩ mô — Thể tích và Độ đục",
+          "content": "Tinh dịch chim là duy nhất vì thể tích thấp và nồng độ cao. Một lần xuất tinh gà trống điển hình dao động từ 0.1 đến 0.8 ml—một lượng nhỏ so với bò đực hoặc lợn đực. Tuy nhiên, thể tích nhỏ này cực kỳ dày đặc. Chúng tôi đầu tiên đánh giá Màu sắc và Độ nhớt. Tinh dịch gà trống chất lượng cao nên \"trắng ngọc trai\" hoặc \"kem\" và có độ đặc của sữa đặc. Một mẫu loãng hoặc \"trong suốt\" cho thấy nồng độ tinh trùng rất thấp, thường thấy ở gà trống trẻ hoặc sử dụng quá mức."
+        },
+        {
+          "title": "Chương 6: Nồng độ Tinh trùng — Chỉ số Tỷ Tỷ/mL",
+          "content": "Nồng độ là chỉ số quan trọng nhất trong ngành công nghiệp gia cầm vì nó quyết định \"Tỷ lệ Pha loãng\". Tinh dịch gà trống có thể chứa từ 3 tỷ đến 8 tỷ tinh trùng mỗi mililit. Do mật độ cực cao này, đếm thủ công truyền thống với máy đếm tế bào nổi tiếng là chậm và không chính xác. Hầu hết các phòng thí nghiệm gia cầm hiện đại sử dụng máy đo màu, máy đo quang hoặc máy đếm tế bào tự động (CASA) để xác định nồng độ."
+        },
+        {
+          "title": "Chương 7: Khả năng Vận động Chim — Chuyển động Giun",
+          "content": "Tinh trùng chim trông và di chuyển khác với tinh trùng có vú. Chúng dài, mỏng và \"giun\" (giống giun). Dưới kính hiển vi, tinh dịch gà trống chất lượng cao thể hiện Chuyển động Xoáy Mạnh (Khả năng Vận động Sóng). Chúng tôi đánh giá cả \"Khả năng Vận động Tổng\" của mẫu không pha loãng và \"Khả năng Vận động Tiến tới Cá nhân\" sau khi pha loãng. Mục tiêu của chúng tôi cho một gà trống màu mỡ là >80% khả năng vận động tiến tới."
+        },
+        {
+          "title": "Chương 8: Hình thái và Khả năng Sống — Tính toàn vẹn Acrosome",
+          "content": "Hình thái là thước đo xác định về \"Năng lực\" của gà trống. Tinh trùng chim có đầu rất dài, nhọn và đuôi dài, khiến chúng dễ bị tổn thương vật lý trong quá trình thu thập hoặc ly tâm. Chúng tôi sử dụng vết bẩn Nigrosin-Eosin để đánh giá hình thái và khả năng sống đồng thời. Tinh trùng sống vẫn trắng (không bị nhuộm), trong khi tinh trùng chết hoặc bị tổn thương hấp thụ thuốc nhuộm hồng. Tiêu chuẩn của chúng tôi là >85% hình thái bình thường."
+        },
+        {
+          "title": "Chương 9: Pha loãng Tinh dịch và Thụ tinh Nhân tạo (AI)",
+          "content": "Tinh dịch gà trống phải được sử dụng nhanh chóng. Bên ngoài cơ thể, khả năng sống của tinh trùng chim giảm đáng kể trong vòng 30 đến 60 phút trừ khi sử dụng Chất pha loãng Chim chuyên biệt. Pha loãng phục vụ ba mục đích: nó cung cấp năng lượng (glucose/fructose), duy trì pH (chất đệm), và tăng thể tích để có thể đo chính xác vào gà mái. Tỷ lệ pha loãng tiêu chuẩn thường là 1:2 hoặc 1:3."
+        },
+        {
+          "title": "Chương 10: An toàn Sinh học và Giám sát Mầm bệnh",
+          "content": "Gà trống có thể là \"Siêu Lây lan\" bệnh. Vì huyệt là lối ra cho cả hệ thống sinh sản và tiêu hóa, mầm bệnh phân như Salmonella và E. coli có thể dễ dàng xâm nhập vào tinh dịch. Chương này giải quyết \"An toàn Sinh học\" của chương trình AI. Chúng tôi giám sát các bò đực về Cúm Gia cầm (AI), Mycoplasma và Bạch cầu Lymphoid."
+        },
+        {
+          "title": "Vai trò của SQA-6100vet trong Phân tích Tinh dịch Gia cầm",
+          "content": "SQA-6100VET cung cấp hỗ trợ quan trọng cho các yêu cầu tốc độ cao của ngành công nghiệp gia cầm:",
+          "lists": [
+            {
+              "type": "ul",
+              "items": [
+                {
+                  "label": "Nồng độ Khách quan (Chương 6):",
+                  "text": "Nó xử lý mật độ cực cao (lên đến 8 tỷ/mL) của tinh dịch gà trống, cung cấp số đếm chính xác không thể đạt được thủ công trong khung thời gian thương mại."
+                },
+                {
+                  "label": "Khả năng Vận động Tự động (Chương 7):",
+                  "text": "Thiết bị đo MSC (Nồng độ Tinh trùng Di động) và PMS (Tinh trùng Di động Tiến tới) sử dụng cảm biến điện-quang, loại bỏ tính chủ quan của con người thường làm phiền đánh giá \"sóng\" chim."
+                },
+                {
+                  "label": "Tính toán Liều lượng:",
+                  "text": "Nó tự động tính Tỷ lệ Pha loãng, đảm bảo mỗi gà mái nhận được chính xác 50-100 triệu tinh trùng cần thiết cho khả năng sinh sản 95%+."
+                },
+                {
+                  "label": "Cài đặt Theo loài:",
+                  "text": "SQA-6100VET bao gồm thuật toán được hiệu chuẩn cho hình dạng giun độc đáo và vận tốc cao của tinh trùng chim."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Lợi thế \"Tính toàn vẹn Nhiệt\": Tại sao SQA-6100VET là Cần thiết trên các Loài",
+          "content": "Một trong những tính năng kỹ thuật nổi bật của SQA-6100VET là bàn gia nhiệt nội bộ, thời gian thực của nó. Trong thế giới nam khoa, \"Khả năng Vận động là Nhiệt độ.\" Nếu môi trường phân tích không khớp với trạng thái sinh lý của động vật, dữ liệu là không hợp lệ về mặt lâm sàng.",
+          "lists": [
+            {
+              "type": "ul",
+              "items": [
+                {
+                  "label": "Thách thức:",
+                  "text": "Nhiệt độ cơ thể chim cao hơn đáng kể so với động vật có vú (~41°C). Tinh trùng gà trống có tỷ lệ trao đổi chất rất cao và \"cháy hết\" nếu được phân tích ở nhiệt độ phòng."
+                },
+                {
+                  "label": "Lợi thế:",
+                  "text": "SQA-6100VET có thể được hiệu chuẩn cho yêu cầu nhiệt cụ thể của chim. Bằng cách tái tạo môi trường nhiệt độ cao của cơ thể chim, nó nắm bắt chuyển động \"giun\" vận tốc cao cần thiết cho khả năng sinh sản gia cầm, điều này sẽ hoàn toàn mất trên bàn kính hiển vi tiêu chuẩn, không được làm nóng."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "conclusion": "Phân tích tinh dịch gia cầm đại diện cho một thách thức độc đáo trong nam khoa thú y, yêu cầu các giao thức cụ thể theo loài và thiết bị được hiệu chuẩn cho tỷ lệ trao đổi chất cao và hình thái độc đáo của tinh trùng gia cầm. Việc tích hợp công nghệ CASA hiện đại, chẳng hạn như SQA-6100VET, cung cấp độ chính xác và tốc độ cần thiết cho các hoạt động ấp trứng thương mại, đảm bảo rằng mỗi gà trống được đánh giá theo cùng các tiêu chuẩn khách quan. Bằng cách tuân thủ các hướng dẫn WPSA và duy trì các giao thức an toàn sinh học nghiêm ngặt, các nhà sản xuất có thể tối đa hóa tỷ lệ khả năng sinh sản và bảo vệ tính toàn vẹn di truyền của đàn của họ.<br/><br/><strong>Từ chối trách nhiệm:</strong> Hướng dẫn này dành cho mục đích giáo dục. Tất cả các chẩn đoán lâm sàng phải được thực hiện bởi các chuyên gia thú y có trình độ phù hợp với các quy định địa phương.",
+      "references": [
+        "Bakst, M. R., & Cecil, H. C. (1997). Kỹ thuật Đánh giá Tinh dịch, Nhân giống Gia cầm và Bảo quản Tinh dịch. Hiệp hội Khoa học Gia cầm Thế giới (WPSA). https://midwestpoultry.com/wp-content/uploads/2022/01/Semen-Techniques-Manual-2nd-edition-2014-2022.pdf",
+        "Thư viện Kỹ thuật Aviagen. Giao thức Quản lý Gà trống và Thu thập Tinh dịch. https://aviagen.com",
+        "FAO (2012). Bảo quản Lạnh Tài nguyên Di truyền Động vật — Phần về Loài Chim. https://www.fao.org/4/i3017e/i3017e00.htm",
+        "Brillard, J. P. (2003). Lưu trữ và Vận chuyển Tinh trùng trong Đường sinh sản Cái của Chim. Khoa học Gia cầm. https://www.sciencedirect.com/science/article/pii/S0032579119438583?via%3Dihub"
+      ]
+    },
+    "faq-stallion-semen-analysis": {
+      "title": "Hướng dẫn Chuyên nghiệp về Phân tích Tinh dịch Ngựa đực",
+      "subtitle": "Tiêu chuẩn Lâm sàng cho Sức khỏe Sinh sản Ngựa (EBSE)",
+      "image": "/Knowledge Hub/Stallion Semen Analysis Guide/Stallion Semen Analysis Guide.webp",
+      "alt": "Hướng dẫn Phân tích Tinh dịch Ngựa đực với tiêu chuẩn Thú y SFT, hệ thống CASA, Khả năng Vận động Tinh trùng, Hình thái Tinh trùng, và Bàn gia nhiệt tích hợp cho sức khỏe sinh sản ngựa",
+      "link": "/faq/faq-stallion-semen-analysis",
+      "intro": "Hướng dẫn toàn diện này cung cấp cho các chuyên gia thú y và nhà nhân giống các tiêu chuẩn lâm sàng và phương pháp cần thiết để thực hiện Đánh giá Sức khỏe Sinh sản Ngựa (EBSE) và phân tích tinh dịch hoàn chỉnh.",
+      "chapters": [
+        {
+          "title": "Chương 1: Lựa chọn Ngựa đực và Hành vi Sinh sản",
+          "content": "Đánh giá một con ngựa đực bắt đầu với gia phả di truyền của nó và đánh giá kỹ lưỡng về hành vi sinh sản. Trong ngành công nghiệp ngựa, một con ngựa đực phải sở hữu ham muốn tình dục mạnh mẽ, có thể kiểm soát. Chúng tôi đánh giá phản ứng của ngựa đực đối với \"ngựa cái khiêu khích\", tìm kiếm sự quan tâm ngay lập tức, phát âm và cương cứng dương vật. Không giống như các loài khác, ngựa đực rất nhạy cảm với môi trường của chúng; stress hoặc xử lý kém trong chuồng nhân giống có thể dẫn đến ức chế tâm lý biểu hiện như từ chối leo lên."
+        },
+        {
+          "title": "Chương 2: Kiểm tra Vật lý và Sức khỏe Thể thao",
+          "content": "Ngựa đực là vận động viên sinh sản. Để leo lên và xuất tinh thành công, chúng yêu cầu sức mạnh to lớn ở phần sau và cột sống thắt lưng ổn định. Kiểm tra vật lý tập trung vào việc xác định bất kỳ vấn đề cơ xương nào, chẳng hạn như viêm khớp, đau cổ chân hoặc chấn thương gân trước đó, có thể ngăn ngựa đực hỗ trợ trọng lượng của nó trong quá trình leo lên. Đau mãn tính là một chất ức chế đáng kể của ham muốn tình dục và có thể dẫn đến hành vi hung dữ hoặc phòng thủ."
+        },
+        {
+          "title": "Chương 3: Kiểm tra Bìu và Tính toàn vẹn Tinh hoàn",
+          "content": "Tinh hoàn của ngựa đực được định hướng ngang trong một bìu tương đối chặt. Trong quá trình sờ nắn lâm sàng, chúng tôi đánh giá tính đối xứng, kích thước và độ nhất quán. Tinh hoàn ngựa khỏe mạnh nên mịn, chắc và đàn hồi—tương tự như cảm giác của một quả mận chín. Chúng tôi đặc biệt chú ý đến Trương lực Tinh hoàn; độ mềm thường là chỉ số sớm của thoái hóa tinh hoàn, phổ biến ở ngựa đực già hơn hoặc những con đang hồi phục sau bệnh hệ thống."
+        },
+        {
+          "title": "Chương 4: Chiều rộng Bìu và Sản lượng Tinh trùng Dự đoán",
+          "content": "Trong nam khoa ngựa, Tổng Chiều rộng Bìu (TSW) là phép đo khách quan có thể lặp lại và đáng tin cậy nhất. Chúng tôi sử dụng thước cặp để đo chiều rộng của cả hai tinh hoàn cùng nhau ở điểm rộng nhất của chúng. TSW là yếu tố dự đoán trực tiếp về Sản lượng Tinh trùng Hàng ngày (DSO) của ngựa đực. Đối với một con ngựa đực trưởng thành (trên 4 tuổi), chúng tôi mong đợi TSW tối thiểu 8.0 cm, với các bò đực ưu tú thường vượt quá 10.0 cm."
+        },
+        {
+          "title": "Chương 5: Tuyến Sinh dục Nội bộ (Tuyến Phụ)",
+          "content": "Kiểm tra nội bộ của ngựa đực được thực hiện thông qua sờ nắn trực tràng và siêu âm. Chúng tôi tập trung vào tuyến tiền liệt, túi tinh (tuyến túi) và ống dẫn tinh. Ngựa đực sản xuất một lượng đáng kể chất lỏng tinh dịch, và tuyến túi chịu trách nhiệm cho \"phần gel\" của tinh dịch. Chúng tôi tìm kiếm bất kỳ dấu hiệu nào của Viêm Túi tinh, điều này đưa các tế bào viêm (mủ) vào tinh dịch, giết chết tinh trùng và giảm khả năng sinh sản."
+        },
+        {
+          "title": "Chương 6: Giải phẫu Dương vật và Vệ sinh",
+          "content": "Dương vật của ngựa đực là một cơ quan lớn, cơ hang động yêu cầu bảo trì vệ sinh thường xuyên. Chúng tôi kiểm tra Quy đầu Dương vật và Quá trình Niệu đạo để tìm bất kỳ dấu hiệu chấn thương, mụn cóc (u nhú) hoặc SCC (Ung thư Tế bào Vảy). Trọng tâm chính là Túi thừa Bao quy đầu (Hạt đậu); chúng tôi kiểm tra sự tích tụ của \"smegma\" (dịch tiết khô và mảnh vỡ) có thể chứa vi khuẩn và gây kích ứng."
+        },
+        {
+          "title": "Chương 7: Thu thập Tinh dịch và Độ nhạy Nhiệt độ",
+          "content": "Thu thập tinh dịch ở ngựa đực được thực hiện sử dụng Âm đạo Nhân tạo (AV)—thường là mô hình Missouri hoặc Colorado. AV phải được chuẩn bị cẩn thận để khớp với sở thích của ngựa đực về Nhiệt độ (45°C–50°C) và Áp lực. Nếu AV quá lạnh, ngựa đực sẽ không xuất tinh; nếu quá nóng, tinh trùng sẽ bị giết ngay lập tức (sốc nhiệt)."
+        },
+        {
+          "title": "Chương 8: Chất lượng Tinh trùng — Tiêu chuẩn Làm mát-Vận chuyển",
+          "content": "Đây là trái tim khoa học của nam khoa ngựa. Vì hầu hết nhân giống ngựa thể thao dựa vào vận chuyển, chúng tôi đánh giá tinh dịch không chỉ cho khả năng vận động ngay lập tức, mà còn cho Tuổi thọ.",
+          "lists": [
+            {
+              "type": "ul",
+              "items": [
+                {
+                  "label": "Khả năng Vận động Tiến tới:",
+                  "text": "Tiêu chuẩn SFT cho một ngựa đực \"Đạt yêu cầu\" là >60% khả năng vận động tiến tới trong tinh dịch thô."
+                },
+                {
+                  "label": "Khả năng Vận động Làm mát:",
+                  "text": "Chúng tôi pha loãng tinh dịch với Chất pha loãng chuyên biệt và kiểm tra khả năng vận động lại ở 24 và 48 giờ (lưu trữ ở 4°C). Nếu khả năng vận động giảm xuống dưới 30% sau 24 giờ, ngựa đực được coi là \"làm mát kém\"."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Chương 9: Hình thái Tinh trùng và Tính toàn vẹn Tế bào",
+          "content": "Hình thái được đánh giá sử dụng nhuộm Eosin-Nigrosin dưới kính hiển vi ngâm dầu 1000x. Chúng tôi đếm ít nhất 100 đến 200 tế bào, tìm kiếm khiếm khuyết đầu (hình quả lê, đầu nhỏ) và khiếm khuyết đuôi (cuộn, cong). Tiêu chuẩn SFT yêu cầu >70% hình thái bình thường."
+        },
+        {
+          "title": "Chương 10: Bệnh Lây truyền qua Đường tình dục và An toàn Sinh học",
+          "content": "Chương cuối cùng giải quyết các rủi ro an toàn sinh học vốn có trong ngành công nghiệp ngựa. Chúng tôi giám sát Viêm Tử cung Ngựa Lây truyền (CEM), một bệnh vi khuẩn rất dễ lây lan có thể được mang không triệu chứng bởi ngựa đực. Chúng tôi cũng xét nghiệm Viêm Động mạch Virus Ngựa (EVA), có thể được thải ra trong tinh dịch và gây sảy thai ở ngựa cái mang thai."
+        },
+        {
+          "title": "Lợi thế \"Tính toàn vẹn Nhiệt\" cho Ngựa đực",
+          "content": "Một trong những tính năng kỹ thuật quan trọng nhất của SQA-6100VET cho ngành công nghiệp ngựa là bàn gia nhiệt nội bộ, thời gian thực của nó.",
+          "lists": [
+            {
+              "type": "ul",
+              "items": [
+                {
+                  "label": "Thách thức:",
+                  "text": "Tinh trùng ngựa đực đặc biệt nhạy cảm với \"Sốc Lạnh\". Trong một phòng thí nghiệm điển hình, nhiệt độ phòng là ~20°C, trong khi cơ thể ngựa đực là ~38°C. Sự giảm 18 độ này khiến màng plasma tinh trùng chuyển từ trạng thái lỏng sang trạng thái tinh thể, dẫn đến mất khả năng vận động đột ngột, vĩnh viễn."
+                },
+                {
+                  "label": "Lợi thế:",
+                  "text": "SQA-6100VET có bàn gia nhiệt tích hợp duy trì môi trường không đổi 37°C–38°C trong suốt quá trình phân tích."
+                },
+                {
+                  "label": "Kết quả:",
+                  "text": "Điều này đảm bảo rằng khả năng vận động tiến tới của ngựa đực được đo trong điều kiện \"giống như sống\". Không có bộ gia nhiệt tích hợp này, một con ngựa đực màu mỡ có thể bị gắn nhãn sai là khả năng sinh sản dưới mức đơn giản vì tinh trùng của nó \"sụp đổ\" trên phiến kính hiển vi lạnh. Đối với các bò đực thuần chủng và ngựa thể thao giá trị cao, tính năng này là chính sách bảo hiểm cuối cùng cho độ chính xác chẩn đoán."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "conclusion": "Đánh giá Sức khỏe Sinh sản Ngựa (EBSE) là một đánh giá toàn diện kết hợp kiểm tra vật lý, đánh giá hành vi và phân tích tinh dịch chính xác để xác định khả năng sinh sản của ngựa đực. Việc tích hợp công nghệ CASA hiện đại, chẳng hạn như SQA-6100VET, cung cấp khả năng kiểm soát nhiệt và đo lường khách quan cần thiết cho việc đánh giá chính xác tinh dịch ngựa. Bằng cách tuân thủ các tiêu chuẩn SFT và duy trì các giao thức an toàn sinh học nghiêm ngặt, các chuyên gia thú y có thể đảm bảo rằng ngựa đực được đánh giá với mức độ chính xác chẩn đoán cao nhất, bảo vệ cả khoản đầu tư di truyền và sức khỏe của ngành nhân giống ngựa.<br/><br/><strong>Từ chối trách nhiệm:</strong> Hướng dẫn này dành cho mục đích giáo dục. Tất cả các chẩn đoán lâm sàng phải được thực hiện bởi các chuyên gia thú y có trình độ phù hợp với các quy định địa phương.",
+      "references": [
+        "Hiệp hội Theriogenology (SFT). Sổ tay Đánh giá Sức khỏe Sinh sản Ngựa.",
+        "Varner, D. D., et al. (1991). Bệnh và Quản lý Ngựa đực Nhân giống. Ấn phẩm Thú y Hoa Kỳ. (Sách giáo khoa chính cho nam khoa ngựa).",
+        "Love, C. C. (2011). Nồng độ, hình thái và khả năng vận động tinh trùng của ngựa đực. Phòng khám Thú y: Thực hành Ngựa.",
+        "Samper, J. C. (2009). Quản lý Nhân giống Ngựa và Thụ tinh Nhân tạo. Saunders. https://books.google.co.jp/books?hl=en&lr=&id=Fypi11lCeiAC&oi=fnd&pg=PP1&dq=Equine+Breeding+Management+Samper&ots=j2bhaQAvMR&sig=XEN_y9BnhixpT6EfiurwV6MpEDg&redir_esc=y#v=onepage&q=Equine%20Breeding%20Management%20Samper&f=false"
+      ]
+    },
+    "faq-camelid-andrology": {
+      "title": "Tiêu chuẩn Chuyên nghiệp cho Nam khoa Lạc đà",
+      "subtitle": "Hướng dẫn Đánh giá Lâm sàng & Phân tích Kỹ thuật số cho Khả năng Sinh sản Lạc đà",
+      "image": "/Knowledge Hub/Camelid Andrology Guide/Camelid Andrology Guide.webp",
+      "alt": "Hướng dẫn Nam khoa Lạc đà với tiêu chuẩn Thú y SFT, hệ thống CASA, Khả năng Vận động Tinh trùng, Hình thái Tinh trùng, và Bàn gia nhiệt tích hợp cho đánh giá khả năng sinh sản lạc đà",
+      "link": "/faq/faq-camelid-andrology",
+      "intro": "Nam khoa lạc đà là một trong những lĩnh vực thách thức và chuyên biệt nhất trong sinh sản thú y. Cho dù xử lý Lạc đà một bướu (Dromedary) hay Lạc đà hai bướu (Bactrian), các đặc điểm sinh lý độc đáo của những \"con tàu sa mạc\" này—đặc biệt là tính mùa vụ dữ dội và độ nhớt cực cao của tinh dịch của chúng—yêu cầu một cách tiếp cận chẩn đoán chuyên biệt.",
+      "chapters": [
+        {
+          "title": "Chương 1: Tính mùa vụ và Sinh lý của \"Rut\"",
+          "content": "Trong sinh sản lạc đà, tính mùa vụ là yếu tố bao trùm quyết định mọi kết quả lâm sàng. Lạc đà là nhà nhân giống theo mùa, với hoạt động sinh sản của chúng chủ yếu được kích hoạt bởi độ dài ngày giảm và nhiệt độ mát hơn—một khoảng thời gian được gọi là \"Rut\". Trong mùa rut, một con lạc đà đực trải qua những biến đổi sinh lý và hành vi sâu sắc. Mức testosterone tăng vọt, và \"tuyến poll\" (tuyến chẩm) ở phía sau cổ trở nên hoạt động cao, tiết ra một chất lỏng tối, có mùi hăng được sử dụng để đánh dấu lãnh thổ."
+        },
+        {
+          "title": "Chương 2: Sức khỏe Vật lý và Tính toàn vẹn Leo lên",
+          "content": "Hành vi giao phối ở lạc đà là duy nhất trong số gia súc; nó xảy ra ở vị trí \"nằm ngửa xương ức\" (ngồi) và có thể kéo dài từ 5 đến 20 phút. Điều này gây stress to lớn lên hệ thống cơ xương của lạc đà, đặc biệt là cổ chân, khớp gối và đệm chân. Kiểm tra vật lý phải bắt đầu với khả năng \"cush\" (ngồi) và đứng dậy mượt mà của lạc đà. Bất kỳ dấu hiệu viêm khớp, què hoặc vấn đề đốt sống nào sẽ ngăn con đực duy trì vị trí leo lên kéo dài cần thiết cho xuất tinh thành công."
+        },
+        {
+          "title": "Chương 3: Kiểm tra Bìu và Tinh hoàn",
+          "content": "Giải phẫu bìu lạc đà khác biệt đáng kể so với bò đực hoặc cừu đực. Nó nằm ở vùng đáy chậu, và tinh hoàn được giữ gần cơ thể hơn, hướng về phía đuôi. Trong quá trình sờ nắn, chúng tôi tìm kiếm tính đối xứng và độ nhất quán chắc, đàn hồi. Tinh hoàn của một con Lạc đà một bướu trưởng thành dài khoảng 7–10 cm trong rut. Chúng tôi tìm kiếm \"trương lực tinh hoàn\"—một tinh hoàn khỏe mạnh nên cảm thấy đàn hồi. Độ mềm là một cờ đỏ chính cho thoái hóa tinh hoàn, phổ biến ở lạc đà già hơn hoặc những con tiếp xúc với nhiệt độ cực cao mà không có bóng râm đầy đủ."
+        },
+        {
+          "title": "Chương 4: Chu vi Bìu và Kích thước",
+          "content": "Trong khi Chu vi Bìu (SC) là \"tiêu chuẩn vàng\" cho gia súc, nó khó đo hơn ở lạc đà do vị trí đáy chậu và thiếu \"cổ\" rõ ràng trong bìu. Thay vì một phép đo chu vi duy nhất, chúng tôi thường sử dụng Thể tích Tinh hoàn hoặc Tổng Chiều rộng Tinh hoàn. Chúng tôi sử dụng thước cặp để đo chiều dài, chiều rộng và độ sâu của mỗi tinh hoàn. Một con lạc đà rut trưởng thành nên có tổng chiều rộng tinh hoàn ít nhất 12–15 cm."
+        },
+        {
+          "title": "Chương 5: Kiểm tra Trực tràng Tuyến Phụ",
+          "content": "Sờ nắn nội bộ ở lạc đà là một thủ tục tinh tế nhưng cần thiết. Không giống như bò đực, lạc đà thiếu túi tinh. Các tuyến phụ chính là Tuyến tiền liệt (có hình chữ H hoặc hình bướm và dễ sờ nắn) và Tuyến Bulbourethral. Những tuyến này chịu trách nhiệm sản xuất huyết tương tinh dịch, ở lạc đà cực kỳ nhớt—gần như gel—do nồng độ cao của mucopolysaccharides."
+        },
+        {
+          "title": "Chương 6: Giải phẫu Dương vật và Sức khỏe Bao quy đầu",
+          "content": "Dương vật của lạc đà là sợi đàn hồi và có đặc điểm là quy đầu \"hình móc\" độc đáo (quá trình niệu đạo). Móc này được thiết kế để điều hướng cổ tử cung, vì lạc đà là động vật rụng trứng cảm ứng—kích thích vật lý của cổ tử cung và sự hiện diện của Yếu tố Cảm ứng trong Huyết tương Tinh dịch (Ovine Induction Factor/OIF) là cần thiết để con cái giải phóng trứng. Chúng tôi kiểm tra Túi thừa Bao quy đầu, một túi có thể bẫy nước tiểu và mảnh vỡ, dẫn đến \"viêm quy đầu và bao quy đầu\" (viêm dương vật và bao quy đầu)."
+        },
+        {
+          "title": "Chương 7: Thu thập Tinh dịch — Thách thức của Người Xuất tinh Dài",
+          "content": "Thu thập tinh dịch từ lạc đà yêu cầu kiên nhẫn và thiết bị chuyên biệt. Phương pháp thành công nhất là Âm đạo Nhân tạo (AV), thường được đặt bên trong một \"giả nhân giống\" hoặc một con cái bị kiềm chế. Không giống như xuất tinh \"một cú đẩy\" của bò đực, lạc đà là người xuất tinh kéo dài. Hành vi giao phối kéo dài 5 đến 20 phút, trong đó lạc đà xuất tinh trong nhiều sóng. Điều này có nghĩa là AV phải có thể duy trì nhiệt độ của nó (38–40°C) trong một khoảng thời gian dài."
+        },
+        {
+          "title": "Chương 8: Rào cản Độ nhớt — Hóa lỏng và Enzyme",
+          "content": "Đây là chương kỹ thuật đòi hỏi nhất trong nam khoa lạc đà. Tinh dịch lạc đà được xuất tinh như một gel dày, đông tụ. Dưới kính hiển vi, tinh trùng ban đầu bị \"mắc kẹt\" trong một ma trận giống fibrin và không thể thể hiện khả năng vận động tiến tới. Chúng chỉ thể hiện chuyển động \"dao động\" hoặc \"rung\". Đối với bất kỳ phân tích chính xác nào—đặc biệt sử dụng hệ thống CASA—tinh dịch phải trải qua hóa lỏng."
+        },
+        {
+          "title": "Chương 9: Chất lượng Tinh dịch — Khả năng Vận động, Hình thái và Khả năng Sống",
+          "content": "Một khi được hóa lỏng, tinh trùng lạc đà được đánh giá cho tiêu chuẩn \"30/70\" hoặc \"40/80\", mặc dù lạc đà thường có khả năng vận động thấp hơn so với loài bò. Chúng tôi tìm kiếm Khả năng Vận động Tiến tới Cá nhân. Một bò đực lạc đà \"Đạt yêu cầu\" nên có ít nhất 40% khả năng vận động tiến tới trong rut. Chuyển động thường \"xoay\" hơn chuyển động tuyến tính trực tiếp được thấy ở bò đực."
+        },
+        {
+          "title": "Chương 10: An toàn Sinh học và Mầm bệnh Cụ thể Lạc đà",
+          "content": "Chương cuối cùng giải quyết an toàn sinh học của lạc đà đực. Lạc đà dễ bị một số bệnh có thể được truyền qua tinh dịch hoặc tiếp xúc gần trong quá trình nhân giống. Chúng tôi giám sát Brucellosis (Brucella melitensis), là nguyên nhân chính của vô sinh và sảy thai ở lạc đà. Chúng tôi cũng xét nghiệm Trypanosomiasis (Surra), một ký sinh trùng máu gây yếu hệ thống và thất bại sinh sản."
+        },
+        {
+          "title": "Vai trò của SQA-6100VET trong Phân tích Tinh dịch Lạc đà",
+          "content": "SQA-6100VET cung cấp một giải pháp chuyên biệt cho thế giới phức tạp của sinh sản lạc đà:",
+          "lists": [
+            {
+              "type": "ul",
+              "items": [
+                {
+                  "label": "Bàn gia nhiệt Thời gian thực Tích hợp (Lợi thế Quan trọng):",
+                  "text": "Tinh trùng lạc đà được xuất tinh ở nhiệt độ cơ thể khoảng 38°C. Trong hầu hết các phòng thí nghiệm hoặc phòng khám thực địa, nhiệt độ môi trường thấp hơn đáng kể (20°C–25°C). Không có bàn gia nhiệt tích hợp của SQA-6100VET, khả năng vận động tinh trùng giảm gần như ngay lập tức khi tiếp xúc với buồng thử nghiệm, dẫn đến chẩn đoán \"Không đạt yêu cầu\" sai."
+                },
+                {
+                  "label": "Vượt qua Độ nhớt (Chương 8):",
+                  "text": "Một khi mẫu được xử lý với enzyme (Hóa lỏng), SQA-6100VET cung cấp số đếm tự động, không thiên vị. Nó loại bỏ lỗi con người liên quan đến việc cố gắng đếm tinh trùng trong môi trường nhớt một phần."
+                },
+                {
+                  "label": "Tham số Khả năng Vận động Chính xác (Chương 9):",
+                  "text": "Tinh trùng lạc đà có chuyển động dao động độc đáo. Cảm biến điện-quang của SQA-6100VET được hiệu chuẩn để phát hiện các hồ sơ vận tốc cụ thể này, cung cấp MSC (Nồng độ Tinh trùng Di động) chính xác."
+                },
+                {
+                  "label": "Tối ưu hóa Liều lượng cho AI:",
+                  "text": "Với thể tích thấp của tinh dịch lạc đà, mỗi tế bào tinh trùng đều quý giá. SQA-6100VET cho phép đo Nồng độ chính xác, đảm bảo rằng liều AI không bị lãng phí cũng không thiếu năng lượng."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "conclusion": "Nam khoa lạc đà trình bày những thách thức độc đáo đòi hỏi kiến thức chuyên môn và thiết bị. Độ nhớt cực đoan của tinh dịch lạc đà, kết hợp với tính mùa vụ dữ dội và các đặc điểm giải phẫu độc đáo, đòi hỏi một cách tiếp cận toàn diện để đánh giá khả năng sinh sản. Việc tích hợp công nghệ CASA hiện đại, chẳng hạn như SQA-6100VET, cung cấp khả năng kiểm soát nhiệt và phân tích tự động cần thiết để vượt qua những thách thức này. Bằng cách tuân thủ các giao thức đã được thiết lập và duy trì các biện pháp an toàn sinh học nghiêm ngặt, các chuyên gia thú y có thể đảm bảo đánh giá chính xác khả năng sinh sản của lạc đà, hỗ trợ quản lý di truyền và sức khỏe của những động vật quý giá này.<br/><br/><strong>Từ chối trách nhiệm:</strong> Hướng dẫn này dành cho mục đích giáo dục. Tất cả các chẩn đoán lâm sàng phải được thực hiện bởi các chuyên gia thú y có trình độ phù hợp với các quy định địa phương.",
+      "references": [
+        "Skidmore, J. A. (2000). Sinh sản ở lạc đà một bướu.",
+        "Nagy, P., et al. (2013). Chuẩn bị Tinh dịch và Thụ tinh Nhân tạo ở lạc đà một bướu.",
+        "Mulugeta, M., et al. (2015). Đánh giá về Thu thập và Đánh giá Tinh dịch Lạc đà.",
+        "Al-Bulushi, S., et al. (2019). Đặc điểm của tinh dịch lạc đà một bướu.",
+        "Malpaux, B. (2006). Tính mùa vụ của sinh sản ở động vật có vú. https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1439-0531.2008.01141.x"
+      ]
+    },
+    "faq-fish-semen-analysis": {
+      "title": "Hướng dẫn Có thẩm quyền về Phân tích Tinh dịch Cá",
+      "subtitle": "Tiêu chuẩn Lâm sàng cho Quản lý Bố mẹ và Thành công Sinh sản",
+      "image": "/Knowledge Hub/Fish Semen Analysis Guide/Fish Semen Analysis Guide.webp",
+      "alt": "Hướng dẫn Phân tích Tinh dịch Cá với tiêu chuẩn Thú y SFT, hệ thống CASA, Khả năng Vận động Tinh trùng, Hình thái Tinh trùng, và Bàn gia nhiệt tích hợp cho quản lý bố mẹ",
+      "link": "/faq/faq-fish-semen-analysis",
+      "intro": "Nền tảng của một trại ấp thành công nằm ở việc lựa chọn \"Bố mẹ\". Không giống như động vật có vú, khả năng sinh sản của cá gắn liền sâu sắc với chu kỳ môi trường và trưởng thành theo tuổi. Hướng dẫn toàn diện này giải quyết các thách thức độc đáo của phân tích tinh dịch cá và quản lý bố mẹ.",
+      "chapters": [
+        {
+          "title": "Chương 1: Lựa chọn và Quản lý Bố mẹ Đực",
+          "content": "Chúng tôi đánh giá các bò đực dựa trên \"Sẵn sàng Kiểu hình\" của chúng—các chỉ số như đặc điểm tình dục thứ cấp (ví dụ: cục nhân giống ở cá chép hoặc phát triển kype ở cá hồi). Lựa chọn cũng phải tính đến đa dạng di truyền để ngăn chặn suy giảm giao phối cận huyết, biểu hiện như giảm chất lượng tinh trùng và tỷ lệ sống sót ấu trùng kém. \"Cửa sổ Sinh học\" cho milt thường hẹp và được quyết định bởi quang kỳ và nhiệt độ nước."
+        },
+        {
+          "title": "Chương 2: Sức khỏe Vật lý và Stress Môi trường",
+          "content": "Cá là động vật biến nhiệt, có nghĩa là trao đổi chất và sức khỏe sinh sản của chúng hoàn toàn phụ thuộc vào môi trường. Kiểm tra vật lý của một con đực bố mẹ bắt đầu với đánh giá \"Mang và Da\". Bất kỳ dấu hiệu nhiễm trùng ký sinh trùng hoặc bệnh mang vi khuẩn nào sẽ gây phản ứng stress hệ thống, làm tăng mức cortisol. Cortisol là một chất ức chế mạnh của trục hạ đồi-tuyến yên-tuyến sinh dục (HPG) ở cá, dẫn đến \"milt loãng\" và nồng độ tinh trùng thấp."
+        },
+        {
+          "title": "Chương 3: Giải phẫu Hệ thống Niệu sinh dục và Sản xuất Milt",
+          "content": "Giải phẫu tinh hoàn cá khác biệt đáng kể giữa các loài. Trong mùa nhân giống, tinh hoàn mở rộng để chiếm một phần đáng kể của khoang bụng. Không giống như động vật có vú, hầu hết cá không có bìu; tinh hoàn là nội bộ. Chúng tôi sử dụng siêu âm hoặc sờ nắn bụng nhẹ nhàng để đánh giá \"độ đầy\" của tuyến sinh dục. Sản xuất milt xảy ra trong ống sinh tinh, và tinh trùng trưởng thành được lưu trữ trong \"ống dẫn tinh trùng\"."
+        },
+        {
+          "title": "Chương 4: Thu thập Milt — Kỹ thuật \"Stripping\"",
+          "content": "Thu thập tinh dịch cá, được gọi là \"stripping\", là một quá trình thủ công tinh tế. Kỹ thuật viên áp dụng áp lực nhẹ nhàng lên thành bụng, di chuyển từ phía trước đến phía sau (lỗ sinh dục). Thách thức chính trong nam khoa cá là Ô nhiễm. Vì lỗ sinh dục nằm gần hậu môn và lỗ tiểu, milt dễ bị ô nhiễm với phân, chất nhầy hoặc nước tiểu."
+        },
+        {
+          "title": "Chương 5: Đánh giá Vĩ mô — Thể tích và Ô nhiễm",
+          "content": "Tinh dịch chim và động vật có vú được đo bằng mililit, nhưng milt cá có thể dao động từ microlit (ở cá cảnh nhỏ) đến hàng trăm mililit (ở cá tầm lớn). Chúng tôi đánh giá Màu sắc và Độ đục. Milt chất lượng cao nên \"trắng kem\" và dày. Vẻ ngoài trong suốt hoặc \"loãng\" cho thấy nồng độ tinh trùng thấp, thường thấy ở đầu hoặc cuối mùa sinh sản."
+        },
+        {
+          "title": "Chương 6: Nồng độ Tinh trùng — Thách thức \"Triệu/µL\"",
+          "content": "Milt cá là một trong những chất lỏng cô đặc nhất trong tự nhiên, thường chứa 10 đến 40 tỷ tinh trùng mỗi mililit. Vì thể tích nhỏ và mật độ cực cao, đếm thủ công với máy đếm tế bào gần như không thể mà không có lỗi pha loãng lớn. Độ chính xác trong nồng độ là quan trọng cho \"Tỷ lệ Thụ tinh Tối ưu\" trong trại ấp—đảm bảo đủ tinh trùng để thụ tinh 100% trứng mà không lãng phí milt bố mẹ quý giá."
+        },
+        {
+          "title": "Chương 7: Kích hoạt Tinh trùng và \"Cửa sổ Khả năng Vận động\"",
+          "content": "Tinh trùng cá là duy nhất vì chúng Bất động khi xuất tinh. Chúng chỉ được \"kích hoạt\" khi tiếp xúc với nước hoặc môi trường kích hoạt cụ thể. Quan trọng nhất, khả năng vận động này Cực kỳ Ngắn—ở nhiều loài (như cá hồi), tinh trùng chỉ bơi trong 30 đến 90 giây. \"Cửa sổ Khả năng Vận động\" này là thách thức lớn nhất trong nam khoa thủy sản."
+        },
+        {
+          "title": "Chương 8: Hình thái và Tính toàn vẹn Tế bào",
+          "content": "Hình thái tinh trùng cá khác biệt rất nhiều so với động vật có vú. Hầu hết tinh trùng cá xương thiếu acrosome (mũ enzyme) vì trứng cá có \"micropyle\"—một lỗ nhỏ cho phép tinh trùng vào. Hình thái tập trung vào \"Hình dạng Đầu\" (thường hình cầu hoặc hình trứng) và \"Flagellum\" (đuôi). Chúng tôi tìm kiếm khiếm khuyết như \"đuôi gãy\", \"nhiều đầu\" hoặc \"sưng phần giữa\"."
+        },
+        {
+          "title": "Chương 9: Ngân hàng Sinh học và Bảo quản Lạnh",
+          "content": "Trong nuôi trồng thủy sản hiện đại, chúng tôi hiếm khi sử dụng milt ngay lập tức. Chúng tôi sử dụng \"Chất pha loãng\" để giữ tinh trùng sống nhưng bất động trong vài ngày (Lưu trữ Ngắn hạn) hoặc nitơ lỏng cho Bảo quản Lạnh (Lưu trữ Dài hạn). Điều này cho phép \"đồng bộ hóa\" milt với lô trứng và bảo tồn các dòng di truyền ưu tú."
+        },
+        {
+          "title": "Chương 10: An toàn Sinh học và Giám sát Mầm bệnh",
+          "content": "Chương cuối cùng giải quyết rủi ro \"Truyền Dọc\" của bệnh. Mầm bệnh như IPN (Hoại tử Tụy Truyền nhiễm) hoặc VHS (Nhiễm trùng Huyết Xuất huyết Virus) có thể được mang trong milt và lây nhiễm thế hệ cá tiếp theo. Chúng tôi duy trì giao thức an toàn sinh học nghiêm ngặt trong cơ sở bố mẹ."
+        },
+        {
+          "title": "Vai trò của SQA-6100VET trong Phân tích Tinh dịch Cá",
+          "content": "SQA-6100VET cung cấp hỗ trợ quan trọng cho các yêu cầu độc đáo, tốc độ cao của nam khoa thủy sản:",
+          "lists": [
+            {
+              "type": "ul",
+              "items": [
+                {
+                  "label": "Nồng độ Khách quan (Chương 6):",
+                  "text": "Nó xử lý mật độ cực cao của milt cá (lên đến 40 tỷ/mL), cung cấp số đếm chính xác không thể đạt được thủ công trong khung thời gian ngắn được yêu cầu trong quá trình chạy sinh sản."
+                },
+                {
+                  "label": "Nắm bắt \"Cửa sổ Ngắn\" (Chương 7):",
+                  "text": "Vì tinh trùng cá chỉ bơi trong vài giây, xét nghiệm tự động 75 giây của SQA-6100VET là cần thiết. Nó cung cấp MSC (Nồng độ Tinh trùng Di động) khách quan trước khi tế bào cạn kiệt năng lượng của chúng."
+                },
+                {
+                  "label": "Tính toán Liều lượng cho AI:",
+                  "text": "Nó tính toán lượng milt chính xác cần thiết để thụ tinh một lô trứng cụ thể, tối đa hóa hiệu quả của các bò đực bố mẹ đắt tiền."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "conclusion": "Phân tích tinh dịch cá đại diện cho một trong những lĩnh vực đòi hỏi kỹ thuật nhất trong nam khoa thủy sản, nơi cửa sổ khả năng vận động cực kỳ ngắn và nồng độ tinh trùng cao đòi hỏi thiết bị chuyên dụng và các giao thức phân tích nhanh. Việc tích hợp công nghệ CASA hiện đại, chẳng hạn như SQA-6100VET, cung cấp tốc độ và độ chính xác cần thiết để nắm bắt dữ liệu khả năng vận động chính xác trong những giây quan trọng của kích hoạt tinh trùng. Bằng cách tuân thủ các giao thức đã được thiết lập và duy trì các biện pháp an toàn sinh học nghiêm ngặt, các chuyên gia ấp trứng có thể đảm bảo quản lý cá bố mẹ tối ưu, tối đa hóa tỷ lệ thụ tinh và bảo vệ tính toàn vẹn di truyền của quần thể cá.<br/><br/><strong>Từ chối trách nhiệm:</strong> Hướng dẫn này dành cho mục đích giáo dục. Tất cả các chẩn đoán lâm sàng phải được thực hiện bởi các chuyên gia có trình độ phù hợp với các quy định địa phương.",
+      "references": [
+        "FAO (2012). Bảo quản Lạnh Tài nguyên Di truyền Động vật — Phần về Loài Thủy sản. https://www.fao.org/4/i3017e/i3017e00.htm",
+        "Cosson, J. (2019). Khả năng Vận động của Tinh trùng Cá. Trong: Tinh trùng học Cá.",
+        "Cabrita, E., et al. (2008). Phương pháp trong Nuôi trồng Thủy sản Sinh sản. CRC Press. (Sách giáo khoa chính cho nam khoa cá). https://scholar.google.com/scholar?q=Methods+in+Reproductive+Aquaculture+Cabrita",
+        "Babiak, I., et al. (2006). Chuẩn hóa đo lường nồng độ tinh trùng ở cá. Theriogenology."
+      ]
+    },
+    "faq-ram-breeding-soundness": {
+      "title": "Kiểm tra Sức khỏe Sinh sản Cừu đực (RBSE)",
+      "subtitle": "Tiêu chuẩn Lâm sàng cho Đánh giá Khả năng Sinh sản Cừu đực",
+      "image": "/Knowledge Hub/Ram Breeding Soundness Examination (RBSE)/Ram Breeding Soundness Examination (RBSE).webp",
+      "alt": "Hướng dẫn Kiểm tra Sức khỏe Sinh sản Cừu đực với tiêu chuẩn Thú y SFT, hệ thống CASA, Khả năng Vận động Tinh trùng, Hình thái Tinh trùng, và Bàn gia nhiệt tích hợp cho đánh giá khả năng sinh sản cừu đực",
+      "link": "/faq/faq-ram-breeding-soundness",
+      "intro": "Một trong những yếu tố quan trọng nhất trong khả năng sinh sản cừu đực phân biệt nó với các gia súc khác là tính mùa vụ dữ dội của nó. Cừu đực là nhà nhân giống \"ngày ngắn\"; hệ thống nội tiết sinh sản của chúng được quản lý bởi quang kỳ. Hướng dẫn toàn diện này cung cấp cho các chuyên gia thú y và nhà sản xuất các tiêu chuẩn lâm sàng cần thiết để thực hiện Kiểm tra Sức khỏe Sinh sản Cừu đực (RBSE) hoàn chỉnh.",
+      "chapters": [
+        {
+          "title": "Chương 1: Tính mùa vụ, Quang kỳ và Tuổi dậy thì",
+          "content": "Khi độ dài ngày giảm vào mùa thu, sản xuất melatonin tăng, kích hoạt sự tăng vọt trong GnRH, FSH và LH. Sự chuyển đổi sinh lý này dẫn đến sự tăng đột biến về kích thước tinh hoàn, ham muốn tình dục và chất lượng tinh trùng. Ngược lại, trong mùa xuân và mùa hè (mùa không nhân giống), cừu đực có thể trải qua \"teo theo mùa\", nơi sản xuất tinh trùng giảm đáng kể. Do đó, RBSE phải được thực hiện trong vòng 6 đến 8 tuần trước mùa nhân giống dự định để có giá trị lâm sàng."
+        },
+        {
+          "title": "Chương 2: Kiểm tra Vật lý và Tính toàn vẹn Thể thao",
+          "content": "Trong ngành công nghiệp cừu đực, chúng tôi thường nói rằng \"khả năng sinh sản bắt đầu từ bàn chân\". Một con cừu đực phải là một vận động viên ưu tú để điều hướng địa hình gồ ghề, xác định cừu cái động dục và leo lên hàng chục lần mỗi ngày. Kiểm tra vật lý bắt đầu với đánh giá kỹ lưỡng về Hệ thống Cơ xương. Chúng tôi xem xét kỹ móng và khớp để tìm dấu hiệu thối chân, viêm khớp hoặc lỗi cấu trúc như \"chân sau\". Bất kỳ tình trạng nào gây què sẽ dẫn đến từ chối leo lên, hiệu quả làm cho cừu đực vô sinh trong môi trường phục vụ tự nhiên, bất kể chất lượng tinh dịch của nó."
+        },
+        {
+          "title": "Chương 3: Kiểm tra Bìu và Trương lực Tinh hoàn",
+          "content": "Bìu của cừu đực là một cơ quan điều hòa nhiệt độ tiến hóa cao. Trong quá trình sờ nắn lâm sàng, chúng tôi tìm kiếm tính đối xứng, khả năng phục hồi và khả năng di chuyển. Tinh hoàn nên giống hệt nhau về kích thước và hình dạng, treo tự do trong túi bìu mà không có dính. Chúng tôi mô tả độ nhất quán lý tưởng của tinh hoàn cừu đực màu mỡ là \"đàn hồi\"—chắc như cơ căng, nhưng có độ đàn hồi có thể sờ nắn. Nếu tinh hoàn cảm thấy mềm hoặc \"nhão\", đó là dấu hiệu cổ điển của thoái hóa tinh hoàn hoặc stress nhiệt."
+        },
+        {
+          "title": "Chương 4: Chu vi Bìu (SC) — Chỉ số Khả năng Sinh sản",
+          "content": "Trong RBSE, Chu vi Bìu (SC) là phép đo khách quan mạnh mẽ và có thể lặp lại nhất mà chúng tôi có. Nó tương quan cao với cả trọng lượng tinh hoàn và Sản xuất Tinh trùng Hàng ngày (DSP). Theo tiêu chuẩn SFT, SC tối thiểu cho một cừu đực được xác định bởi tuổi và thời gian trong năm. Đối với hầu hết các giống, chúng tôi mong đợi tối thiểu 30 cm cho một con một tuổi và 34 cm hoặc hơn cho một cừu đực trưởng thành trong mùa nhân giống."
+        },
+        {
+          "title": "Chương 5: Mào tinh và Sàng lọc Brucella Ovis",
+          "content": "Chương 5 tập trung vào trung tâm \"lưu trữ và trưởng thành\"—mào tinh. Ở cừu đực, đây là phần quan trọng nhất của kiểm tra lâm sàng do tỷ lệ phổ biến của Viêm mào tinh, thường gây ra bởi Brucella ovis. Chúng tôi đặc biệt chú ý đến Đuôi (Cauda) của mào tinh. Nó nên lớn, chắc và khác biệt với tinh hoàn. Bất kỳ mở rộng, thiếu đối xứng hoặc độ cứng \"đá\" nào là dấu hiệu đặc trưng của nhiễm trùng."
+        },
+        {
+          "title": "Chương 6: Tính toàn vẹn Dương vật và Bao quy đầu",
+          "content": "Hệ thống giao hàng của cừu đực có một đặc điểm giải phẫu độc đáo: Quá trình Niệu đạo (Phụ lục Filiform). Phần mở rộng nhỏ, giống tóc này ở đầu dương vật đóng vai trò trong việc phun tinh dịch qua lỗ ngoài cổ tử cung trong quá trình xuất tinh. Trong quá trình kiểm tra, chúng tôi phải đảm bảo rằng quá trình này còn nguyên vẹn và không có viêm. Một vấn đề phổ biến chúng tôi gặp phải là \"Sỏi niệu\" (sỏi tiểu), nơi quá trình niệu đạo thường được loại bỏ để cho phép sỏi đi qua."
+        },
+        {
+          "title": "Chương 7: Thu thập Tinh dịch — Xử lý Mẫu Mật độ Cao",
+          "content": "Thu thập tinh dịch ở cừu đực có thể đạt được thông qua Âm đạo Nhân tạo (AV) hoặc Điện xuất tinh (EE). AV là lý tưởng cho cừu đực được huấn luyện và cung cấp một mẫu thực sự đại diện cho chất lượng giao phối tự nhiên. Tuy nhiên, đối với hầu hết đánh giá thực địa của cừu đực đồng cỏ, EE là tiêu chuẩn. Chúng tôi nhấn mạnh rằng tinh dịch cừu đực cực kỳ cô đặc—một trong những mật độ cao nhất trong vương quốc động vật, với nồng độ thường đạt 2 đến 5 tỷ tinh trùng mỗi mililit."
+        },
+        {
+          "title": "Chương 8: Đánh giá Chất lượng Tinh dịch — Sóng và Tế bào",
+          "content": "Do nồng độ cực cao của tinh dịch cừu đực, đánh giá phòng thí nghiệm tuân theo một hệ thống phân cấp cụ thể.",
+          "lists": [
+            {
+              "type": "ul",
+              "items": [
+                {
+                  "label": "Khả năng Vận động Tổng:",
+                  "text": "Chúng tôi đầu tiên nhìn vào chuyển động \"xoáy\" hoặc \"sóng\" dưới công suất thấp (40x). Xếp hạng \"Rất Tốt\" được trao cho các mẫu có đám mây xoáy nhanh, tối."
+                },
+                {
+                  "label": "Khả năng Vận động Tiến tới Cá nhân:",
+                  "text": "Mẫu phải được pha loãng (thường với nước muối ấm hoặc chất pha loãng) để thấy các tế bào cá nhân. Tối thiểu SFT cho xếp hạng \"Đạt yêu cầu\" là 30% khả năng vận động tiến tới."
+                },
+                {
+                  "label": "Hình thái:",
+                  "text": "Chúng tôi yêu cầu ít nhất 70% hình thái bình thường. Chúng tôi sử dụng vết bẩn Eosin-Nigrosin để xác định khiếm khuyết đầu, phần giữa và đuôi."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Chương 9: Phân loại Cuối cùng và Kiểm tra lại 60 Ngày",
+          "content": "RBSE kết thúc với phân loại lâm sàng. Một cừu đực là:",
+          "lists": [
+            {
+              "type": "ul",
+              "items": [
+                {
+                  "label": "Nhà Nhân giống Tiềm năng Đạt yêu cầu:",
+                  "text": "Nó đã vượt qua tất cả các ngưỡng vật lý, SC và tinh dịch."
+                },
+                {
+                  "label": "Nhà Nhân giống Tiềm năng Không đạt yêu cầu:",
+                  "text": "Nó có khiếm khuyết vĩnh viễn, chẳng hạn như nhiễm trùng B. ovis hoặc teo tinh hoàn."
+                },
+                {
+                  "label": "Phân loại Hoãn lại:",
+                  "text": "Điều này phổ biến cho cừu đực gần đây đã bị sốt, thối chân hoặc nhiệt độ cực cao."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Chương 10: An toàn Sinh học và Quản lý Brucella Ovis",
+          "content": "Chương cuối cùng giải quyết mối đe dọa \"im lặng\" đối với sản xuất cừu: bệnh lây truyền qua đường tình dục. Chúng tôi ủng hộ một giao thức an toàn sinh học toàn diện nơi RBSE chỉ là một phần. Xét nghiệm ELISA Brucella ovis nên là một phần bổ sung tiêu chuẩn cho kiểm tra vật lý. Chúng tôi nhấn mạnh rằng một cừu đực \"Đạt yêu cầu\" phải hơn cả màu mỡ—nó phải \"sạch\"."
+        },
+        {
+          "title": "Vai trò của SQA-6100VET trong Phân tích Tinh dịch Cừu đực",
+          "content": "SQA-6100VET cung cấp hỗ trợ chuyên biệt cho các thách thức độc đáo của tinh dịch cừu đực:",
+          "lists": [
+            {
+              "type": "ul",
+              "items": [
+                {
+                  "label": "Độ chính xác Mật độ Cao:",
+                  "text": "Tinh dịch cừu đực quá dày đặc cho đếm thủ công truyền thống mà không có lỗi lớn. Hệ thống điện-quang của SQA-6100VET được tối ưu hóa cho các nồng độ cao này, cung cấp TSC (Tổng Nồng độ Tinh trùng) chính xác."
+                },
+                {
+                  "label": "Khả năng Vận động Tiến tới Khách quan:",
+                  "text": "Mắt người thường gặp khó khăn trong việc phân biệt giữa chuyển động \"xoáy\" và chuyển động \"tiến tới\" ở cừu đực. SQA-6100VET cung cấp MSC (Nồng độ Tinh trùng Di động) không thiên vị."
+                },
+                {
+                  "label": "Tính di động Thực địa:",
+                  "text": "Vì nhiều RBSE được thực hiện tại chỗ tại trang trại, SQA-6100VET cho phép kết quả cấp phòng thí nghiệm ngay lập tức mà không cần vận chuyển mẫu nhạy cảm."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "conclusion": "Kiểm tra Sức khỏe Sinh sản Cừu đực (RBSE) là một đánh giá toàn diện phải tính đến tính mùa vụ dữ dội của sinh sản cừu. Việc tích hợp công nghệ CASA hiện đại, chẳng hạn như SQA-6100VET, cung cấp độ chính xác và tính di động cần thiết cho việc đánh giá chính xác tại hiện trường tinh dịch cừu đực, là một trong những loại cô đặc nhất trong vương quốc động vật. Bằng cách tuân thủ các tiêu chuẩn SFT và duy trì các giao thức an toàn sinh học nghiêm ngặt, các chuyên gia thú y có thể đảm bảo rằng cừu đực được đánh giá với mức độ chính xác chẩn đoán cao nhất, bảo vệ cả khoản đầu tư của nhà sản xuất và tương lai di truyền của đàn.<br/><br/><strong>Từ chối trách nhiệm:</strong> Hướng dẫn này dành cho mục đích giáo dục. Tất cả các chẩn đoán lâm sàng phải được thực hiện bởi các chuyên gia thú y có trình độ phù hợp với các quy định địa phương.",
+      "references": [
+        "Hiệp hội Theriogenology (SFT). Sổ tay Kiểm tra Sức khỏe Sinh sản của Cừu đực.",
+        "Barth, A. D. (2000). Đánh giá sức khỏe sinh sản Bò đực và Cừu đực: Kiểm tra hình thái.",
+        "Amann, R. P., & Waberski, D. (2014). Phân tích tinh trùng hỗ trợ máy tính (CASA): khả năng và phát triển tiềm năng.",
+        "Nhiễm trùng Brucella ovis ở cừu đực. Tổ chức Thế giới về Sức khỏe Động vật (WOAH).",
+        "Evans, G., & Maxwell, W. M. C. (1987). Thụ tinh Nhân tạo của Cừu và Dê của Salamon. https://www.cabidigitallibrary.org/doi/full/10.5555/19890169622"
+      ]
+    },
+    "faq-boar-semen-evaluation": {
+      "title": "Tiêu chuẩn Đánh giá và Xử lý Tinh dịch Lợn đực",
+      "subtitle": "Kiểm tra Sức khỏe Sinh sản Lợn đực (BBSE)",
+      "image": "/Knowledge Hub/Boar Semen Evaluation Guide/Boar Semen Evaluation Guide.webp",
+      "alt": "Hướng dẫn Đánh giá Tinh dịch Lợn đực với tiêu chuẩn Thú y SFT, hệ thống CASA, Khả năng Vận động Tinh trùng, Hình thái Tinh trùng, và Bàn gia nhiệt tích hợp cho kiểm tra sức khỏe sinh sản lợn đực",
+      "link": "/faq/faq-boar-semen-evaluation",
+      "intro": "Hành trình của một bò đực hiệu suất cao bắt đầu với lựa chọn. Không giống như gia súc, nơi phục vụ tự nhiên vẫn phổ biến, lợn đực hiện đại gần như độc quyền là người cho Thụ tinh Nhân tạo (AI). Hướng dẫn toàn diện này cung cấp cho các chuyên gia thú y và nhà sản xuất các tiêu chuẩn lâm sàng cần thiết để thực hiện Kiểm tra Sức khỏe Sinh sản Lợn đực (BBSE) và đánh giá tinh dịch hoàn chỉnh.",
+      "chapters": [
+        {
+          "title": "Chương 1: Lựa chọn và Tuổi dậy thì — Nền tảng Di truyền",
+          "content": "Chúng tôi ưu tiên lựa chọn dựa trên ba trụ cột: giá trị di truyền, sức khỏe cấu trúc và tiềm năng sinh sản. Tuổi dậy thì ở lợn đực thường xảy ra từ 5 đến 7 tháng tuổi, nhưng chúng tôi nhấn mạnh rằng một con lợn đực phải ít nhất 8 tháng tuổi trước khi được đưa vào vòng quay sản xuất AI quy mô lớn. Tính di truyền của các đặc điểm sinh sản là một cân nhắc quan trọng. Trong khi các đặc điểm như tốc độ tăng trưởng và mỡ lưng dễ đo lường, chúng tôi tập trung vào tính di truyền của \"dấu hiệu khả năng sinh sản\" như tuổi dậy thì và kích thước tinh hoàn."
+        },
+        {
+          "title": "Chương 2: Kiểm tra Vật lý — Tính toàn vẹn Xương và Cảm giác",
+          "content": "Ở lợn, sức khỏe cấu trúc không chỉ là sở thích; nó là yêu cầu lâm sàng. Vì lợn đực phải leo lên một giả thu thập (phantom) hàng trăm lần trong suốt cuộc đời của chúng, hệ thống cơ xương của chúng phải hoàn hảo. Chúng tôi đặc biệt chú ý đến \"cấu hình của bàn chân và chân\". Các vấn đề như \"đầu gối cong\", \"khớp hông thẳng\" hoặc \"chân xòe\" không chỉ là lỗi thẩm mỹ—chúng dẫn đến què mãn tính, là nguyên nhân số một của loại bỏ sớm trong lợn đực đực."
+        },
+        {
+          "title": "Chương 3: Kiểm tra Cơ quan Sinh dục — Tinh hoàn và Bìu",
+          "content": "Tinh hoàn là \"cơ sở sản xuất\", và kích thước của chúng tương quan trực tiếp với sản xuất tinh trùng hàng ngày (DSP). Trong quá trình BBSE, chúng tôi sờ nắn tinh hoàn về tính đối xứng, trương lực và kích thước. Tinh hoàn nên chắc và đàn hồi—tương tự như độ nhất quán của một quả cam chín. Tinh hoàn mềm là dấu hiệu của thoái hóa, có thể do sốt, nhiệt môi trường hoặc độc tố gây ra. Chúng tôi nhấn mạnh tính đối xứng; sự khác biệt hơn 1 cm về chiều rộng tinh hoàn thường chỉ ra bệnh lý tiềm ẩn như khối u, nang hoặc nhiễm trùng trước đó (viêm tinh hoàn)."
+        },
+        {
+          "title": "Chương 4: Ham muốn tình dục và Đánh giá Hành vi — Động lực Tình dục",
+          "content": "Ham muốn tình dục ở lợn đực là sự tương tác phức tạp của hormone và hành vi học được. Một con lợn đực có \"ham muốn tình dục cao\" là một con vào chuồng thu thập với sự tự tin, thể hiện sự quan tâm đến giả ngay lập tức và leo lên mà không do dự. Chúng tôi đánh giá \"hành vi trước giao phối\" của lợn đực, bao gồm tiếng kêu nhịp nhàng, nghiến hàm (tạo ra bọt giàu pheromone) và hành vi \"đào bới\". Nước bọt này chứa pheromone androstenol, quan trọng cho việc kích thích cả động lực của lợn đực và phản xạ đứng ở lợn cái."
+        },
+        {
+          "title": "Chương 5: Thu thập Tinh dịch — Kỹ thuật Găng tay",
+          "content": "\"Kỹ thuật Găng tay\" là tiêu chuẩn phổ quát cho thu thập tinh dịch lợn đực. Không giống như âm đạo nhân tạo được sử dụng cho bò đực, lợn đực phản ứng với \"áp lực kỹ thuật số\" được áp dụng cho đầu xoắn ốc của dương vật. Chúng tôi nhấn mạnh việc sử dụng Găng tay Vinyl, vì latex có thể diệt tinh trùng. Quá trình thu thập được chia thành các giai đoạn: phần tiền tinh trùng, phần giàu tinh trùng và phần sau tinh trùng. Chúng tôi hướng dẫn người thu thập \"chuyển hướng\" phần tiền tinh trùng (trong suốt và có tải vi khuẩn cao) và chỉ thu thập phần trắng đục, giàu tinh trùng."
+        },
+        {
+          "title": "Chương 6: Đánh giá Tinh dịch Ban đầu — Thể tích và Nồng độ",
+          "content": "Một khi tinh dịch ở trong phòng thí nghiệm, chúng tôi thực hiện đánh giá vĩ mô. Một lần xuất tinh lợn đực bình thường có thể tích lớn, dao động từ 150 ml đến hơn 400 ml. Màu sắc nên \"trắng đục\" đến \"kem\". Bất kỳ màu vàng nào cho thấy ô nhiễm nước tiểu, điều này có tính diệt tinh trùng ngay lập tức. Vẻ ngoài loãng cho thấy nồng độ tinh trùng thấp. Định lượng Nồng độ là bước quan trọng nhất cho kinh tế của lợn đực đực. Vì một lần xuất tinh có thể được pha loãng để tạo 20 đến 50 \"liều\" tinh dịch, lỗi trong đo nồng độ có thể dẫn đến lãng phí di truyền (pha loãng dưới) hoặc thất bại mang thai (pha loãng quá)."
+        },
+        {
+          "title": "Chương 7: Khả năng Vận động Tinh trùng — Tiêu chuẩn 70% Tiến tới",
+          "content": "Khả năng vận động là chỉ số phổ biến nhất cho \"đạt\" hoặc \"không đạt\" một lần xuất tinh. Trong ngành công nghiệp lợn, ngưỡng \"tiêu chuẩn vàng\" của chúng tôi là 70% Khả năng Vận động Tiến tới. Tinh trùng đang bơi trong vòng tròn, co giật hoặc di chuyển ngược lại không được đếm. Chúng tôi tìm kiếm các tế bào \"tiến tới\" thể hiện sức mạnh cần thiết để vượt qua sừng tử cung dài của lợn cái. Kiểm soát môi trường là tối quan trọng ở đây. Tinh trùng lợn đực nổi tiếng nhạy cảm với \"sốc lạnh\". Chúng tôi yêu cầu tất cả phiến kính, chất pha loãng và ống được duy trì ở 37°C."
+        },
+        {
+          "title": "Chương 8: Hình thái Tinh trùng — Ngưỡng 80% Bình thường",
+          "content": "Hình thái là yếu tố dự đoán đáng tin cậy nhất của tỷ lệ đẻ và kích thước lứa. Trong khi khả năng vận động cho thấy tinh trùng còn sống, hình thái cho thấy chúng \"có năng lực\". Tiêu chuẩn của chúng tôi là một lần xuất tinh phải chứa ít nhất 80% tế bào tinh trùng bình thường. Chúng tôi sử dụng kính hiển vi tương phản pha độ phân giải cao hoặc vết bẩn chuyên biệt (như Eosin-Nigrosin) để xác định khiếm khuyết. Chúng tôi đặc biệt chú ý đến Giọt Tế bào chất. Tỷ lệ cao \"giọt gần\" (gần đầu) thường chỉ ra rằng lợn đực đang được thu thập quá mức và tinh trùng đang được \"thu hoạch\" trước khi chúng có thể trưởng thành hoàn toàn trong mào tinh."
+        },
+        {
+          "title": "Chương 9: Xử lý và Pha loãng Tinh dịch — Liều AI",
+          "content": "Tinh dịch lợn đực hiếm khi được sử dụng \"thô\". Nó được pha loãng với chất pha loãng để cung cấp chất dinh dưỡng, duy trì pH và kiểm soát sự phát triển vi khuẩn. Quá trình này cho phép chúng tôi biến một lần xuất tinh thành nhiều liều. \"Liều tiêu chuẩn\" trong ngành thường là 2 đến 3 tỷ tinh trùng di động trong thể tích 60 đến 80 ml. Pha loãng phải được thực hiện cẩn thận: chúng tôi luôn thêm chất pha loãng vào tinh dịch, không phải ngược lại, và cả hai chất lỏng phải trong vòng 1°C của nhau để tránh sốc thẩm thấu."
+        },
+        {
+          "title": "Chương 10: An toàn Sinh học và Quản lý Bệnh — Bảo vệ Đàn",
+          "content": "Lợn đực đực là \"trái tim\" của hệ thống sản xuất; nếu nó bị nhiễm trùng, bệnh được lan truyền đến mọi trang trại trong mạng lưới thông qua tinh dịch. Chương này giải quyết \"An toàn Sinh học\" của lợn đực. Mối đe dọa đáng kể nhất là PRRS (Hội chứng Sinh sản và Hô hấp Lợn), có thể được thải ra trong tinh dịch trước khi lợn đực thể hiện bất kỳ dấu hiệu lâm sàng nào. Chúng tôi yêu cầu tất cả lợn đực được xét nghiệm qua PCR (Phản ứng Chuỗi Polymerase) hàng tuần."
+        },
+        {
+          "title": "Vai trò của SQA-6100VET trong Phân tích Tinh dịch Lợn đực",
+          "content": "Theo các tiêu chuẩn được nêu trong 10 chương này, SQA-6100VET phục vụ như \"cầu phân tích\" quan trọng giữa thu thập thô và sản xuất một liều AI chất lượng cao."
+        }
+      ],
+      "conclusion": "Tiêu chuẩn Đánh giá và Xử lý Tinh dịch Lợn đực đại diện cho nền tảng của các chương trình thụ tinh nhân tạo lợn hiện đại. Việc tích hợp công nghệ CASA hiện đại, chẳng hạn như SQA-6100VET, cung cấp độ chính xác và khách quan cần thiết cho việc đánh giá chính xác tinh dịch lợn đực, đảm bảo tỷ lệ pha loãng tối ưu và chuẩn bị liều AI. Bằng cách tuân thủ các tiêu chuẩn SFT và duy trì các giao thức an toàn sinh học nghiêm ngặt, các chuyên gia thú y và nhà sản xuất có thể đảm bảo rằng lợn đực được đánh giá với mức độ chính xác chẩn đoán cao nhất, tối đa hóa tỷ lệ thụ thai và bảo vệ sức khỏe của toàn bộ hệ thống sản xuất.<br/><br/><strong>Từ chối trách nhiệm:</strong> Hướng dẫn này dành cho mục đích giáo dục. Tất cả các chẩn đoán lâm sàng phải được thực hiện bởi các chuyên gia thú y có trình độ phù hợp với các quy định địa phương.",
+      "references": []
+    },
+    "who-6th-edition-semen-analysis-standards": {
+      "title": "Xuất sắc trong Phân tích Tinh dịch: Hướng dẫn Toàn diện về Tiêu chuẩn WHO Phiên bản thứ 6 và Công nghệ CASA",
+      "subtitle": "Nắm vững tiêu chuẩn WHO Phiên bản thứ 6 với công nghệ CASA tiên tiến để đánh giá khả năng sinh sản nam chính xác",
+      "image": "/WHO6.webp",
+      "alt": "Hướng dẫn Tiêu chuẩn Phân tích Tinh dịch WHO Phiên bản thứ 6 với hệ thống CASA, Nexus Dx1, Khả năng Vận động Tinh trùng, Hình thái Tinh trùng, và Bàn gia nhiệt tích hợp",
+      "link": "/faq/who-6th-edition-semen-analysis-standards",
+      "intro": "Trong lĩnh vực y học sinh sản, phân tích tinh dịch vẫn là nền tảng của đánh giá khả năng sinh sản nam. Với việc phát hành WHO Phiên bản thứ 6 (2021), ngành công nghiệp đã chuyển hướng sang độ chính xác cao hơn, kiểm soát chất lượng nghiêm ngặt hơn, và tích hợp các hệ thống Phân tích Tinh trùng Hỗ trợ Máy tính (CASA) tiên tiến. Bài viết này khám phá sự tiến hóa của các tiêu chuẩn này và các yêu cầu kỹ thuật cho chẩn đoán lâm sàng hiện đại.",
+      "chapters": [
+        {
+          "title": "Chương 1: Vai trò của CASA trong Nam khoa Hiện đại",
+          "content": "Kính hiển vi thủ công truyền thống, mặc dù lâu đời, dễ bị biến đổi đáng kể giữa các nhà điều hành và giữa các phòng thí nghiệm. Các hệ thống Phân tích Tinh trùng Hỗ trợ Máy tính (CASA), chẳng hạn như Nexus Dx1, sử dụng hình ảnh y tế độ phân giải cao và thuật toán AI để cung cấp:<br/><br/><strong>Tính khách quan:</strong> Loại bỏ sự thiên vị của con người trong việc đếm và phân loại khả năng vận động.<br/><br/><strong>Tính tái tạo:</strong> Đảm bảo kết quả nhất quán giữa các ca làm việc và phòng khám khác nhau.<br/><br/><strong>Độ sâu Động học:</strong> Cung cấp dữ liệu vận tốc và quỹ đạo chi tiết (VCL, VSL, VAP) mà mắt người không thể định lượng."
+        },
+        {
+          "title": "Chương 2: Sự Tiến hóa của Giới hạn Tham chiếu (WHO Phiên bản thứ 5 vs. thứ 6)",
+          "content": "WHO Phiên bản thứ 6 đã cập nhật các giới hạn tham chiếu dưới (phân vị thứ 5) dựa trên dữ liệu toàn cầu rộng hơn và gần đây hơn. Hiểu được những thay đổi này là rất quan trọng cho chẩn đoán lâm sàng chính xác.<br/><br/><table style=\"width:100%; border-collapse: collapse;\"><thead><tr><th style=\"border: 1px solid #ddd; padding: 8px;\">Thông số</th><th style=\"border: 1px solid #ddd; padding: 8px;\">WHO Phiên bản thứ 5 (2010)</th><th style=\"border: 1px solid #ddd; padding: 8px;\">WHO Phiên bản thứ 6 (2021)</th></tr></thead><tbody><tr><td style=\"border: 1px solid #ddd; padding: 8px;\">Nồng độ Tinh trùng</td><td style=\"border: 1px solid #ddd; padding: 8px;\">15 x 10⁶/mL</td><td style=\"border: 1px solid #ddd; padding: 8px;\">16 x 10⁶/mL</td></tr><tr><td style=\"border: 1px solid #ddd; padding: 8px;\">Khả năng Vận động Tổng (PR + NP)</td><td style=\"border: 1px solid #ddd; padding: 8px;\">40%</td><td style=\"border: 1px solid #ddd; padding: 8px;\">42%</td></tr><tr><td style=\"border: 1px solid #ddd; padding: 8px;\">Khả năng Vận động Tiến tới (PR)</td><td style=\"border: 1px solid #ddd; padding: 8px;\">32%</td><td style=\"border: 1px solid #ddd; padding: 8px;\">30%</td></tr><tr><td style=\"border: 1px solid #ddd; padding: 8px;\">Hình thái Bình thường</td><td style=\"border: 1px solid #ddd; padding: 8px;\">4%</td><td style=\"border: 1px solid #ddd; padding: 8px;\">4%</td></tr><tr><td style=\"border: 1px solid #ddd; padding: 8px;\">Khả năng Sống (Tinh trùng Sống)</td><td style=\"border: 1px solid #ddd; padding: 8px;\">58%</td><td style=\"border: 1px solid #ddd; padding: 8px;\">54%</td></tr><tr><td style=\"border: 1px solid #ddd; padding: 8px;\">Thể tích Tinh dịch</td><td style=\"border: 1px solid #ddd; padding: 8px;\">1.5 mL</td><td style=\"border: 1px solid #ddd; padding: 8px;\">1.4 mL</td></tr></tbody></table><br/><br/><strong>Điểm Quan trọng:</strong><br/><br/>Mặc dù một số giới hạn đã giảm nhẹ (như khả năng vận động PR), Phiên bản thứ 6 nhấn mạnh nhiều hơn vào Tổng số Tinh trùng và chất lượng tổng thể của đánh giá, thay vì chỉ các tỷ lệ riêng lẻ."
+        },
+        {
+          "title": "Chương 3: Định nghĩa lại Đánh giá Khả năng Vận động",
+          "content": "WHO Phiên bản thứ 6 tiếp tục rời xa hệ thống \"cấp a, b, c, d\" cũ (tiến tới nhanh/chậm) được sử dụng trong các sổ tay trước đó, tập trung vào phân loại ba loại:<br/><br/><strong>Khả năng Vận động Tiến tới (PR):</strong> Tinh trùng di chuyển tích cực, theo đường thẳng hoặc trong vòng tròn lớn.<br/><br/><strong>Khả năng Vận động Không tiến tới (NP):</strong> Tất cả các mẫu khả năng vận động khác không có sự tiến tới (ví dụ, bơi trong vòng tròn nhỏ hoặc đập roi).<br/><br/><strong>Bất động (IM):</strong> Không có chuyển động.<br/><br/>Các hệ thống CASA hiện đại tinh chỉnh điều này hơn nữa bằng cách tính toán Vận tốc Cong (VCL) và Tính Tuyến tính (LIN), cho phép các bác sĩ lâm sàng xác định tinh trùng \"siêu kích hoạt\", đây là chỉ số quan trọng cho thụ tinh thành công trong môi trường IVF."
+        },
+        {
+          "title": "Chương 4: Ba Trụ cột Kỹ thuật của Chẩn đoán Đáng tin cậy",
+          "content": "Để tuân thủ các tiêu chuẩn nghiêm ngặt của Phiên bản thứ 6, một Máy Phân tích Tinh dịch phải nắm vững ba thách thức kỹ thuật:<br/><br/><strong>1. Ổn định Nhiệt (Yêu cầu 37°C)</strong><br/><br/>Khả năng vận động của tinh trùng phụ thuộc rất nhiều vào nhiệt độ. WHO Phiên bản thứ 6 yêu cầu đánh giá khả năng vận động được thực hiện ở 37°C.<br/><br/>Giải pháp Kỹ thuật: Các máy phân tích phải có Bàn Gia nhiệt Tích hợp. Làm nóng bên ngoài là không đủ; buồng chứa chính nó phải duy trì nhiệt độ sinh lý trong quá trình phân tích thực tế để ngăn chặn \"Sốc Lạnh\" và chẩn đoán sai về Thiểu năng Vận động Tinh trùng.<br/><br/><strong>2. Độ chính xác Thể tích (Vi lưu Độ sâu Cố định)</strong><br/><br/>Tính toán nồng độ là một hàm của thể tích. Nếu độ sâu của mẫu không xác định hoặc thay đổi, kết quả không hợp lệ.<br/><br/>Giải pháp Kỹ thuật: Việc sử dụng Buồng Đếm Độ sâu Cố định (thường là 10μm hoặc 20μm) là tiêu chuẩn vàng. Các buồng dùng một lần, được chế tạo chính xác loại bỏ các lỗi trục Z được tìm thấy trong các phiến kính và lam kính tiêu chuẩn, đảm bảo các chỉ số nồng độ chính xác trong phạm vi lâm sàng.<br/><br/><strong>3. Hình thái Khách quan (AI & Quang học Chuyên biệt)</strong><br/><br/>Hình thái tinh trùng có lẽ là phần chủ quan nhất của phân tích thủ công. \"Tiêu chí Nghiêm ngặt Kruger\" yêu cầu xác định các khiếm khuyết tinh tế ở đầu, phần giữa và đuôi.<br/><br/>Giải pháp Kỹ thuật: Vì các tế bào tinh trùng gần như trong suốt, cần có mô-đun quang học kính hiển vi chuyên biệt. Khi kết hợp với Thuật toán Hình ảnh AI, hệ thống có thể tự động đo chiều dài, chiều rộng và diện tích đầu tinh trùng và phát hiện các cặn tế bào chất, tuân thủ nghiêm ngặt đánh giá hình thái WHO Phiên bản thứ 6 mà không có lỗi của con người."
+        },
+        {
+          "title": "Chương 5: Kiểm soát Chất lượng và ISO 23162:2021",
+          "content": "Một tiến bộ lớn trong Phiên bản thứ 6 là sự liên kết của nó với ISO 23162:2021, quy định các yêu cầu cho việc kiểm tra tinh dịch người. Điều này nhấn mạnh nhu cầu:<br/><br/>• Đào tạo chuẩn hóa cho nhân viên phòng thí nghiệm.<br/>• Kiểm soát chất lượng (QC) nội bộ và bên ngoài thường xuyên.<br/>• Các hệ thống tự động được xác nhận có thể theo dõi và lưu trữ hồ sơ kỹ thuật số cho mục đích kiểm toán."
+        },
+        {
+          "title": "Tóm tắt: Danh sách Kiểm tra cho Xuất sắc Lâm sàng",
+          "content": "Khi lựa chọn hoặc kiểm toán một giải pháp phân tích tinh dịch, các chuyên gia lâm sàng nên đảm bảo hệ thống cung cấp:<br/><br/>• <strong>Tuân thủ Đầy đủ:</strong> Xác nhận liên kết với WHO Phiên bản thứ 6 / ISO 23162.<br/>• <strong>Kiểm soát Môi trường:</strong> Bàn nhiệt 37°C tích hợp.<br/>• <strong>Vật tư Tiêu hao Chuẩn hóa:</strong> Phiến kính vi lưu độ sâu cố định được xác nhận.<br/>• <strong>Tích hợp Lâm sàng:</strong> Chuyển dữ liệu liền mạch đến Hệ thống Thông tin Phòng thí nghiệm (LIS).<br/>• <strong>Báo cáo Dựa trên Bằng chứng:</strong> Bản đồ quỹ đạo độ phân giải cao và hình ảnh hình thái cho mỗi bệnh nhân."
+        }
+      ],
+      "conclusion": "Sự chuyển đổi từ WHO Phiên bản thứ 5 sang WHO Phiên bản thứ 6 đại diện cho một bước tiến hướng tới một kỷ nguyên y học sinh sản được chuẩn hóa, khoa học và dựa trên dữ liệu hơn. Bằng cách áp dụng công nghệ CASA thông minh, các phòng thí nghiệm có thể cung cấp mức độ chính xác chẩn đoán cao nhất, cuối cùng cải thiện kết quả cho bệnh nhân trên hành trình của họ hướng tới làm cha mẹ.<br/><br/><strong>Từ chối trách nhiệm:</strong> Hướng dẫn này chỉ dành cho mục đích giáo dục. Tất cả các chẩn đoán lâm sàng nên được thực hiện bởi các chuyên gia y tế có trình độ phù hợp với quy định chăm sóc sức khỏe địa phương.<br/><br/><em>relatedProduct: \"nexus-dx1\"</em>",
+      "references": [
+        "World Health Organization. WHO laboratory manual for the examination and processing of human semen, Sixth Edition. Geneva: World Health Organization; 2021. Available at: https://iris.who.int/server/api/core/bitstreams/4038e736-37b3-4064-a39a-60475e0ccecc/content"
+      ]
+    },
+    "iso-23162-2021-laboratory-competence-guide": {
+      "title": "Kết nối Tiêu chuẩn Toàn cầu: Tìm hiểu Sâu về ISO 23162:2021 và Năng lực Phòng thí nghiệm",
+      "subtitle": "Nắm vững yêu cầu kỹ thuật ISO 23162:2021 và khung quản lý chất lượng cho kết quả kiểm tra tinh dịch có thể so sánh toàn cầu",
+      "image": "/ISO.webp",
+      "alt": "Hướng dẫn Năng lực Phòng thí nghiệm ISO 23162:2021 với hệ thống CASA, Nexus Dx1, Yêu cầu kiểm tra tinh dịch, Kiểm soát chất lượng, và Tiêu chuẩn phòng thí nghiệm",
+      "link": "/faq/iso-23162-2021-laboratory-competence-guide",
+      "intro": "Bài viết này tập trung vào ISO 23162:2021, tiêu chuẩn quốc tế quy định các yêu cầu và phương pháp kiểm tra cho kiểm tra tinh dịch người cơ bản. Trong khi WHO Phiên bản thứ 6 cung cấp sổ tay lâm sàng, ISO 23162 cung cấp khung kỹ thuật và quản lý chất lượng cho các phòng thí nghiệm để đảm bảo kết quả của họ có thể so sánh toàn cầu. Việc phát hành ISO 23162:2021 đánh dấu một cột mốc trong y học sinh sản, là tiêu chuẩn quốc tế đầu tiên dành riêng cho kiểm tra tinh dịch cơ bản. Đối với các phòng khám và phòng thí nghiệm, tuân thủ ISO 23162 không còn chỉ là một lựa chọn—nó là biểu tượng của năng lực kỹ thuật và độ tin cậy chẩn đoán. Hướng dẫn này phác thảo các thông số kỹ thuật cốt lõi của tiêu chuẩn và cách nó tích hợp với công nghệ CASA hiện đại.",
+      "chapters": [
+        {
+          "title": "Chương 1: Khung Thống nhất (ISO 23162 vs. WHO Phiên bản thứ 6)",
+          "content": "ISO 23162 được phát triển song song với Sổ tay Phòng thí nghiệm WHO Phiên bản thứ 6. Hai tài liệu bổ sung cho nhau:<br/><br/><strong>WHO Phiên bản thứ 6:</strong> Tập trung vào các khía cạnh sinh học và lâm sàng của phân tích tinh trùng (\"cách làm\" và giải thích lâm sàng).<br/><br/><strong>ISO 23162:2021:</strong> Tập trung vào thông số kỹ thuật và phương pháp kiểm tra (\"yêu cầu kỹ thuật\").<br/><br/>Cùng nhau, chúng đảm bảo rằng một phân tích tinh dịch được thực hiện ở Tokyo giống hệt về độ chính xác và phương pháp với một phân tích được thực hiện ở Berlin hoặc New York."
+        },
+        {
+          "title": "Chương 2: Thông số Kỹ thuật Cốt lõi cho Phương pháp Kiểm tra",
+          "content": "ISO 23162 đặt ra các yêu cầu nghiêm ngặt cho việc đo lường bốn thông số tinh dịch chính. Mỗi phòng thí nghiệm phải xác nhận phương pháp của họ—dù thủ công hay tự động—so với các tiêu chí này.<br/><br/><strong>1. Nồng độ và Số lượng Tinh trùng</strong><br/><br/>ISO 23162 yêu cầu sử dụng các phương pháp đếm được cải thiện để giảm Hệ số Biến thiên (CV).<br/><br/>Yêu cầu: Các phòng thí nghiệm phải tính đến thể tích và độ sâu chính xác của mẫu.<br/><br/>Ưu điểm CASA: Các hệ thống tự động như Nexus Dx1 sử dụng buồng đếm độ sâu cố định được chế tạo chính xác (10μm/20μm) theo yêu cầu của tiêu chuẩn để loại bỏ lỗi thể tích.<br/><br/><strong>2. Phân loại Khả năng Vận động Tinh trùng</strong><br/><br/>Tiêu chuẩn thực thi hệ thống phân loại ba loại (PR, NP, IM) để giảm thiểu sự khác biệt chủ quan giữa các kỹ thuật viên.<br/><br/>Yêu cầu: Đánh giá phải được thực hiện ở 37°C ± 0.5°C.<br/><br/>Ưu điểm CASA: Các bàn gia nhiệt tích hợp đảm bảo rằng phân loại khả năng vận động dựa trên hoạt động sinh lý thực tế thay vì phản ứng của mẫu với nhiệt độ phòng.<br/><br/><strong>3. Hình thái Tinh trùng</strong><br/><br/>Hình thái vẫn là thông số phức tạp nhất. ISO 23162 yêu cầu tuân thủ nghiêm ngặt các tiêu chí \"nghiêm ngặt\" (tiêu chí Kruger).<br/><br/>Yêu cầu: Đánh giá ít nhất 200 tinh trùng và tính toán các chỉ số như Chỉ số Dị dạng Tinh trùng (TZI)."
+        },
+        {
+          "title": "Chương 3: Vai trò của Hệ thống Tự động (CASA)",
+          "content": "ISO 23162:2021 công nhận rõ ràng việc sử dụng các hệ thống Phân tích Tinh trùng Hỗ trợ Máy tính (CASA) nhưng thêm một lớp trách nhiệm cho phòng thí nghiệm:<br/><br/><strong>Xác nhận:</strong> Các hệ thống tự động phải được xác nhận so với các phương pháp thủ công chuẩn hóa.<br/><br/><strong>Minh bạch Thuật toán:</strong> Hệ thống phải có khả năng phân biệt tế bào tinh trùng với \"tế bào tròn\" hoặc mảnh vỡ (các phần tử không phải tinh trùng).<br/><br/><strong>Khả năng Truy vết:</strong> Dữ liệu phải được lưu trữ kỹ thuật số, cho phép xem xét các quỹ đạo và phân loại hình thái nếu một kết quả bị nghi ngờ."
+        },
+        {
+          "title": "Chương 4: Đảm bảo Chất lượng và Chuẩn hóa (IQC & EQC)",
+          "content": "Một phần đáng kể của ISO 23162 dành cho Kiểm soát Chất lượng Nội bộ (IQC) và Đánh giá Chất lượng Bên ngoài (EQA).<br/><br/><strong>IQC:</strong> Các phòng thí nghiệm phải thực hiện kiểm tra thường xuyên bằng cách sử dụng hạt hoặc mẫu tinh trùng ổn định để đảm bảo thiết bị không \"trôi\" về độ chính xác.<br/><br/><strong>EQA:</strong> Tham gia vào các chương trình kiểm tra năng lực là bắt buộc để so sánh hiệu suất của phòng thí nghiệm với các đồng nghiệp trên toàn cầu.<br/><br/><strong>Chuẩn hóa:</strong> Tiêu chuẩn nhấn mạnh rằng việc sử dụng thiết bị được xác nhận (như hệ thống CASA Nexus) giảm nhu cầu hiệu chuẩn lại thủ công liên tục, vì AI và phần cứng được hiệu chuẩn trước theo các tiêu chuẩn WHO/ISO."
+        },
+        {
+          "title": "Chương 5: Yêu cầu Báo cáo Chuẩn hóa",
+          "content": "Theo ISO 23162, một báo cáo phân tích tinh dịch chuyên nghiệp không chỉ là danh sách các con số. Nó phải bao gồm:<br/><br/>• <strong>Thông tin Khả năng Truy vết:</strong> Thời gian thu thập mẫu, thời gian hóa lỏng và nhiệt độ phân tích.<br/>• <strong>Giới hạn Tham chiếu Dưới:</strong> So sánh với các giá trị phân vị thứ 5 WHO Phiên bản thứ 6.<br/>• <strong>Ghi chú Phương pháp:</strong> Phân tích là thủ công hay được thực hiện thông qua hệ thống CASA được xác nhận.<br/>• <strong>Nhận xét Lâm sàng:</strong> Rõ ràng về việc mẫu có \"hoàn chỉnh\" hay có bất kỳ bất thường xử lý nào."
+        },
+        {
+          "title": "Danh sách Kiểm tra Tóm tắt: Đạt được Tuân thủ ISO 23162",
+          "content": "Để một phòng thí nghiệm được coi là tuân thủ ISO 23162, nó nên tìm kiếm những điều sau trong các đối tác chẩn đoán của mình:<br/><br/>• <strong>Phần cứng Được xác nhận:</strong> Thiết bị hỗ trợ phân tích vi lưu độ sâu cố định.<br/>• <strong>Phần mềm Chuẩn hóa:</strong> Thuật toán AI được cập nhật theo tiêu chí WHO Phiên bản thứ 6 cho hình thái và khả năng vận động.<br/>• <strong>Tính toàn vẹn Môi trường:</strong> Kiểm soát nhiệt độ tích hợp để duy trì 37°C.<br/>• <strong>Tính toàn vẹn Dữ liệu:</strong> Lưu trữ an toàn video phân tích và kết quả cho kiểm toán và tích hợp LIS.<br/>• <strong>Tài liệu:</strong> Hỗ trợ nhà sản xuất rõ ràng cho các thủ tục xác nhận và kiểm soát chất lượng."
+        }
+      ],
+      "conclusion": "ISO 23162:2021 không chỉ là một tài liệu kỹ thuật; nó là lộ trình đến xuất sắc chẩn đoán. Bằng cách áp dụng các công nghệ được xây dựng với các tiêu chuẩn quốc tế này trong tâm trí, các phòng khám có thể đảm bảo mức độ chăm sóc bệnh nhân cao nhất, giảm lỗi phòng thí nghiệm, và dẫn đầu trong tương lai của khoa học sinh sản.<br/><br/><strong>Từ chối trách nhiệm:</strong> Hướng dẫn này dành cho mục đích giáo dục và tài nguyên chuyên nghiệp. Chứng nhận phòng thí nghiệm nên được tìm kiếm thông qua các cơ quan chứng nhận quốc gia và quốc tế có liên quan.<br/><br/><em>relatedProduct: \"nexus-dx1\"</em>",
+      "references": [
+        "ISO 23162:2021. Biotechnology — Requirements for evaluating the performance of quantification methods for nucleic acid target sequences — qPCR and dPCR. Geneva: International Organization for Standardization; 2021. Available at: https://www.iso.org/standard/74800.html"
+      ]
+    },
+    "eshre-guidelines-clinical-semen-examination": {
+      "title": "Xuất sắc Lâm sàng: Hướng dẫn ESHRE cho Kiểm tra Tinh dịch và Quản lý Bệnh nhân",
+      "subtitle": "Hướng dẫn ESHRE dựa trên bằng chứng kết nối kết quả phòng thí nghiệm và quyết định lâm sàng cho kết quả ART tối ưu",
+      "image": "/ESHRE.webp",
+      "alt": "Hướng dẫn Kiểm tra Tinh dịch Lâm sàng ESHRE với hệ thống CASA, Nexus Dx1, Xuất sắc ART, IVF, ICSI, và Công nghệ Hỗ trợ Sinh sản",
+      "link": "/faq/eshre-guidelines-clinical-semen-examination",
+      "intro": "Trong khi Sổ tay WHO cung cấp \"cách làm\" và ISO 23162 cung cấp \"thông số kỹ thuật\", ESHRE tập trung vào Tiêu chuẩn Chăm sóc—cách các chẩn đoán này nên được tích hợp vào thực hành lâm sàng để cải thiện kết quả trong Công nghệ Hỗ trợ Sinh sản (ART). Là cơ quan hàng đầu trong y học sinh sản châu Âu, ESHRE cung cấp các hướng dẫn dựa trên bằng chứng kết nối khoảng cách giữa kết quả phòng thí nghiệm và quyết định lâm sàng. Đối với các phòng khám khả năng sinh sản hiện đại, tuân thủ các khuyến nghị ESHRE đảm bảo rằng phân tích tinh dịch không chỉ là một bài tập thu thập dữ liệu, mà là một công cụ quan trọng để tối ưu hóa tỷ lệ thành công IVF, ICSI và IUI.",
+      "chapters": [
+        {
+          "title": "Chương 1: Tiện ích Lâm sàng của Phân tích Tinh dịch",
+          "content": "ESHRE nhấn mạnh rằng một phân tích tinh dịch chuẩn hóa là bước đầu tiên và quan trọng nhất trong công việc đánh giá khả năng sinh sản nam. Theo ESHRE, các mục tiêu chính của phân tích là:<br/><br/><strong>Lựa chọn Điều trị:</strong> Xác định con đường ART phù hợp nhất (ví dụ, đề xuất ICSI cho thiểu tinh trùng nặng).<br/><br/><strong>Giá trị Tiên lượng:</strong> Sử dụng dữ liệu khả năng vận động và hình thái để tư vấn cho bệnh nhân về triển vọng thụ thai tự nhiên và hỗ trợ của họ.<br/><br/><strong>An toàn:</strong> Xác định các vấn đề sức khỏe tiềm ẩn hoặc nhiễm trùng có thể ảnh hưởng đến sự phát triển phôi hoặc sức khỏe đối tác."
+        },
+        {
+          "title": "Chương 2: Áp dụng \"Tiêu chuẩn Chăm sóc\"",
+          "content": "ESHRE mạnh mẽ ủng hộ việc áp dụng các tiêu chuẩn toàn cầu mới nhất (WHO Phiên bản thứ 6) để đảm bảo một \"Tiêu chuẩn Chăm sóc\" thống nhất trên tất cả các phòng khám thành viên.<br/><br/><strong>Nghiêm ngặt Phương pháp:</strong> ESHRE khuyến nghị rằng các phòng thí nghiệm chỉ sử dụng các phương pháp được xác nhận chịu kiểm soát chất lượng nghiêm ngặt.<br/><br/><strong>Tích hợp CASA:</strong> ESHRE công nhận rằng các hệ thống Phân tích Tinh trùng Hỗ trợ Máy tính (CASA), chẳng hạn như Nexus Dx1, cung cấp tính khách quan cần thiết để đáp ứng các tiêu chuẩn lâm sàng này, với điều kiện chúng được xác nhận so với các phương pháp tham chiếu."
+        },
+        {
+          "title": "Chương 3: Hiệu suất Phòng thí nghiệm và Chứng nhận",
+          "content": "Một trong các sứ mệnh cốt lõi của ESHRE là thúc đẩy các tiêu chuẩn SIG (Nhóm Quan tâm Đặc biệt) trong Phôi học. Các yêu cầu phòng thí nghiệm chính bao gồm:<br/><br/><strong>Kiểm tra Năng lực:</strong> ESHRE nhấn mạnh rằng ngay cả với tự động hóa, nhân viên phải được đào tạo để giải thích dữ liệu CASA và xác định các bất thường (như mảnh vỡ hoặc tế bào tròn) mà hệ thống đánh dấu.<br/><br/><strong>Kiểm soát Môi trường:</strong> Phù hợp với ISO 23162, ESHRE nhấn mạnh tầm quan trọng của việc duy trì \"chuỗi sinh lý\", cụ thể là yêu cầu 37°C cho kiểm tra khả năng vận động để tránh các quyết định lâm sàng dưới mức tối ưu dựa trên tinh trùng \"sốc lạnh\"."
+        },
+        {
+          "title": "Chương 4: Vượt ra ngoài Cơ bản – Chẩn đoán Mở rộng",
+          "content": "Hướng dẫn ESHRE thường thảo luận khi phân tích \"cơ bản\" (Nồng độ, Khả năng Vận động, Hình thái) nên được bổ sung bằng kiểm tra tiên tiến.<br/><br/><strong>Phân mảnh DNA Tinh trùng (SDF):</strong> ESHRE lưu ý rằng mặc dù không bắt buộc cho mọi bệnh nhân, kiểm tra SDF được khuyến nghị cao cho các trường hợp mất thai tái phát hoặc thất bại IVF không giải thích được.<br/><br/><strong>Ứng suất Oxy hóa:</strong> Các hướng dẫn khám phá tác động của các loại oxy phản ứng (ROS) đối với chất lượng tinh trùng, khuyến khích các phòng khám sử dụng các công cụ chẩn đoán cung cấp cái nhìn toàn diện hơn về sức khỏe tinh trùng.<br/><br/><strong>Vai trò của CASA:</strong> Các hệ thống CASA tiên tiến hiện cho phép theo dõi Siêu kích hoạt, một trạng thái quan trọng cho thụ tinh thường được thảo luận trong các bài báo nghiên cứu ESHRE."
+        },
+        {
+          "title": "Chương 5: Báo cáo Tập trung Bệnh nhân",
+          "content": "ESHRE đặt ưu tiên cao về cách dữ liệu được truyền đạt. Một báo cáo lâm sàng không nên là một bảng tính gây nhầm lẫn; nó nên là một lộ trình chẩn đoán.<br/><br/><strong>Rõ ràng:</strong> Báo cáo phải nêu rõ các giới hạn tham chiếu được sử dụng.<br/><br/><strong>Khả năng Hành động:</strong> Dữ liệu nên được trình bày theo cách cho phép bác sĩ lâm sàng ngay lập tức xác định nếu một mẫu yêu cầu xử lý chuyên biệt (như \"rửa\" cho IUI).<br/><br/><strong>Khả năng Truy vết:</strong> Hồ sơ kỹ thuật số (video và hình ảnh) được cung cấp bởi các hệ thống CASA được khuyến khích cho kiểm toán y tế và cho việc hiển thị cho bệnh nhân bằng chứng trực quan về trạng thái chẩn đoán của họ."
+        },
+        {
+          "title": "Danh sách Kiểm tra Tóm tắt: Thực hành Lâm sàng Phù hợp ESHRE",
+          "content": "Để đảm bảo phòng khám của bạn đáp ứng tiêu chuẩn ESHRE cho chẩn đoán tinh dịch, quy trình làm việc của bạn nên bao gồm:<br/><br/>• <strong>Đánh giá Khách quan:</strong> Sử dụng công nghệ CASA được xác nhận để loại bỏ tính chủ quan của con người trong khả năng vận động và hình thái.<br/>• <strong>Tuân thủ Nghiêm ngặt WHO Phiên bản thứ 6:</strong> Đảm bảo tất cả các giới hạn tham chiếu dưới phù hợp với các tiêu chuẩn quốc tế mới nhất.<br/>• <strong>Đảm bảo Chất lượng:</strong> Tham gia tích cực vào các chương trình Kiểm soát Chất lượng Nội bộ và Bên ngoài.<br/>• <strong>Thông số Tiên tiến:</strong> Khả năng định lượng dữ liệu động học (VCL, ALH, LIN) cho các trường hợp lâm sàng phức tạp.<br/>• <strong>Vật tư Tiêu hao Chuẩn hóa:</strong> Sử dụng buồng vi lưu chính xác để đảm bảo độ chính xác thể tích."
+        }
+      ],
+      "conclusion": "Hướng dẫn của ESHRE nhắc nhở chúng ta rằng phòng thí nghiệm là trái tim của phòng khám khả năng sinh sản. Bằng cách kết hợp trí tuệ lâm sàng của ESHRE với độ chính xác kỹ thuật của các hệ thống CASA hiện đại, các bác sĩ có thể cung cấp cho bệnh nhân hành trình khả năng sinh sản chính xác, minh bạch và hiệu quả nhất có thể.<br/><br/><strong>Từ chối trách nhiệm:</strong> Tóm tắt này dựa trên các tuyên bố vị trí và hướng dẫn ESHRE cho mục đích tài nguyên chuyên nghiệp. Các giao thức lâm sàng nên luôn được xác minh so với các ấn phẩm chính thức mới nhất của ESHRE.<br/><br/><em>relatedProduct: \"nexus-dx1\"</em>",
+      "references": [
+        "European Society of Human Reproduction and Embryology (ESHRE). Guidelines and Legal Documents. Available at: https://www.eshre.eu/Guidelines-and-Legal"
+      ]
+    },
+    "asrm-male-infertility-evaluation-protocols": {
+      "title": "Tính toàn vẹn Lâm sàng: Hướng dẫn ASRM cho Đánh giá Vô sinh Nam và Phân tích Tinh dịch",
+      "subtitle": "Giao thức ASRM dựa trên bằng chứng tích hợp phân tích tinh dịch vào chẩn đoán và con đường điều trị vô sinh nam toàn diện",
+      "image": "/ASRM.webp",
+      "alt": "Giao thức Đánh giá Vô sinh Nam ASRM với hệ thống CASA, Nexus Dx1, Đánh giá vô sinh nam, IUI, IVF, ICSI, và Tiêu chuẩn Phòng thí nghiệm Lâm sàng",
+      "link": "/faq/asrm-male-infertility-evaluation-protocols",
+      "intro": "Trong khi Sổ tay WHO cung cấp \"cách làm\" và ISO 23162 cung cấp \"tiêu chuẩn kỹ thuật\", ASRM tập trung vào Con đường Lâm sàng—hướng dẫn cách kết quả phân tích tinh dịch nên hướng dẫn công việc chẩn đoán và điều trị nam giới vô sinh trong môi trường lâm sàng. Là cơ quan hàng đầu về y học sinh sản ở Hoa Kỳ, ASRM thiết lập các giao thức dựa trên bằng chứng định nghĩa chăm sóc khả năng sinh sản hiện đại. Đối với các bác sĩ lâm sàng và giám đốc phòng thí nghiệm, tuân theo ý kiến ủy ban ASRM đảm bảo rằng phân tích tinh dịch được tích hợp vào cách tiếp cận toàn diện để chẩn đoán bệnh nhân, tối đa hóa cơ hội kết quả thành công thông qua thụ tinh trong tử cung (IUI), IVF hoặc ICSI.",
+      "chapters": [
+        {
+          "title": "Chương 1: Phân tích Tinh dịch như Nền tảng Chẩn đoán",
+          "content": "ASRM nhấn mạnh rằng đánh giá đối tác nam nên đồng thời với đối tác nữ. Phân tích tinh dịch được công nhận là xét nghiệm \"nền tảng\". Theo ASRM:<br/><br/><strong>Công việc Đánh giá Ban đầu:</strong> Ít nhất hai phân tích tinh dịch được thực hiện đúng cách được khuyến nghị để thiết lập đường cơ sở, do sự biến đổi sinh học tự nhiên của sản xuất tinh trùng.<br/><br/><strong>Chuẩn hóa:</strong> ASRM ủng hộ các phòng thí nghiệm tuân thủ nghiêm ngặt các tiêu chí WHO mới nhất để đảm bảo rằng các phát hiện \"bình thường\" và \"bất thường\" nhất quán trên toàn Hoa Kỳ.<br/><br/><strong>Vai trò của CASA:</strong> ASRM thừa nhận rằng các hệ thống tự động (CASA) cung cấp mức định lượng động học và hình thái khách quan cần thiết cho các phòng khám khối lượng lớn yêu cầu dữ liệu chuẩn hóa."
+        },
+        {
+          "title": "Chương 2: Giải thích Giới hạn \"Bình thường\" trong Bối cảnh Lâm sàng",
+          "content": "Hướng dẫn lâm sàng ASRM nhắc nhở các bác sĩ rằng các thông số phân tích tinh dịch không phải là \"xét nghiệm khả năng sinh sản\" mà là \"đo lường chất lượng tinh dịch\".<br/><br/><strong>Khoảng Tham chiếu:</strong> ASRM phù hợp với các giới hạn tham chiếu dưới WHO Phiên bản thứ 6 nhưng lưu ý rằng nam giới có thông số dưới các giới hạn này vẫn có thể có khả năng sinh sản, trong khi nam giới trong phạm vi bình thường có thể vô sinh.<br/><br/><strong>Sức mạnh của PR (Khả năng Vận động Tiến tới):</strong> ASRM đặt trọng lượng lâm sàng đáng kể vào Tổng số Tinh trùng Di động (TMSC), một phép tính dễ dàng tự động hóa bởi các hệ thống CASA, như một yếu tố dự đoán chính của thành công trong IUI và thụ thai tự nhiên."
+        },
+        {
+          "title": "Chương 3: Chẩn đoán Tiên tiến – Khi nào Vượt ra ngoài Phân tích Cơ bản",
+          "content": "Một trong những khía cạnh có giá trị nhất của hướng dẫn ASRM là xác định khi nào một bệnh nhân yêu cầu kiểm tra tiên tiến.<br/><br/><strong>Phân mảnh DNA Tinh trùng (SDF):</strong> Ý kiến ủy ban ASRM gợi ý rằng kiểm tra SDF là một công cụ có giá trị cho bệnh nhân mất thai tái phát (RPL), vô sinh không giải thích được, hoặc chu kỳ ART thất bại.<br/><br/><strong>Bạch cầu Tinh dịch:</strong> ASRM cung cấp ngưỡng rõ ràng cho số lượng bạch cầu trong tinh dịch, lưu ý rằng phát hiện tự động phải có khả năng phân biệt giữa tế bào tròn và bạch cầu thực sự để tránh điều trị kháng sinh không cần thiết.<br/><br/><strong>CASA & Động học:</strong> Các thông số động học tiên tiến (VAP, VCL, STR) được cung cấp bởi các hệ thống như Nexus Dx1 được nổi bật trong các bối cảnh được nghiên cứu hỗ trợ để xác định các bệnh lý tinh tế mà một đếm thủ công tiêu chuẩn có thể bỏ sót."
+        },
+        {
+          "title": "Chương 4: Tuân thủ Quy định và Quản lý Chất lượng (CLIA/CAP)",
+          "content": "Trong thị trường Hoa Kỳ, hướng dẫn ASRM thường là cơ sở cho chứng nhận bởi các cơ quan như Trường Cao đẳng Bác sĩ Bệnh lý Hoa Kỳ (CAP) và tuân thủ CLIA (Sửa đổi Cải thiện Phòng thí nghiệm Lâm sàng).<br/><br/><strong>Tài liệu:</strong> ASRM nhấn mạnh nhu cầu ghi chép nghiêm ngặt. Các hệ thống CASA cung cấp một lợi thế đáng kể ở đây bằng cách cung cấp \"bằng chứng\" kỹ thuật số của phân tích, bản đồ quỹ đạo và hình ảnh được lưu trữ có thể được xem xét trong quá trình kiểm toán phòng thí nghiệm.<br/><br/><strong>Xác nhận:</strong> Bất kỳ hệ thống tự động nào được sử dụng trong môi trường lâm sàng phải trải qua quá trình xác nhận ban đầu để đảm bảo kết quả của nó tương quan với các phương pháp tham chiếu đã được thiết lập của phòng thí nghiệm."
+        },
+        {
+          "title": "Chương 5: Tư vấn Bệnh nhân và Lựa chọn Điều trị",
+          "content": "Hướng dẫn ASRM được thiết kế để giúp các bác sĩ lâm sàng biến các con số phòng thí nghiệm thành hy vọng bệnh nhân.<br/><br/><strong>Can thiệp Phẫu thuật:</strong> Nếu phân tích cho thấy vô tinh trùng hoặc thiểu tinh trùng nặng, ASRM hướng dẫn con đường hướng tới đánh giá tiết niệu cho các vấn đề tắc nghẽn có thể xảy ra hoặc sửa chữa giãn tĩnh mạch thừng tinh.<br/><br/><strong>Chiến lược ART:</strong> Dữ liệu phân tích tinh dịch là động lực chính để quyết định giữa IVF thông thường và ICSI. Dữ liệu hình thái độ chính xác cao được cung cấp bởi các hệ thống CASA điều khiển AI cho phép quyết định sáng suốt hơn về sự cần thiết của ICSI."
+        },
+        {
+          "title": "Danh sách Kiểm tra Tóm tắt: Giao thức Lâm sàng Phù hợp ASRM",
+          "content": "Để đảm bảo một trung tâm khả năng sinh sản đáp ứng tiêu chuẩn ASRM cho đánh giá yếu tố nam:<br/><br/>• <strong>Đường cơ sở Khách quan:</strong> Sử dụng công nghệ CASA để đảm bảo rằng đường cơ sở \"hai mẫu\" được đo với độ nhất quán tuyệt đối.<br/>• <strong>Tiêu chí Nghiêm ngặt WHO Phiên bản thứ 6:</strong> Tuân thủ các giới hạn quốc tế mới nhất để cung cấp cho bệnh nhân nhãn chẩn đoán được công nhận toàn cầu.<br/>• <strong>Công việc Đánh giá Toàn diện:</strong> Sử dụng phân tích như một cửa ngõ để kiểm tra tiết niệu hoặc di truyền thêm khi các thông số giảm xuống dưới phân vị thứ 5.<br/>• <strong>Kiểm soát Nhiệt Tích hợp:</strong> Đảm bảo tất cả đánh giá khả năng vận động được thực hiện ở 37°C để duy trì độ chính xác lâm sàng, vì mẫu lạnh có thể dẫn đến con đường điều trị không chính xác.<br/>• <strong>Khả năng Truy vết Kỹ thuật số:</strong> Duy trì hồ sơ kỹ thuật số của theo dõi tinh trùng và hình thái cho mỗi chu kỳ chẩn đoán để hỗ trợ đảm bảo chất lượng và minh bạch bệnh nhân."
+        }
+      ],
+      "conclusion": "Hướng dẫn ASRM phục vụ như một cầu nối giữa bàn phòng thí nghiệm và giường bệnh nhân. Bằng cách sử dụng các hệ thống CASA tiên tiến được xây dựng theo các tiêu chuẩn nghiêm ngặt này, các bác sĩ lâm sàng có thể vượt ra ngoài \"đếm tế bào\" và bắt đầu cung cấp chăm sóc sinh sản dựa trên bằng chứng, được cá nhân hóa cao.<br/><br/><strong>Từ chối trách nhiệm:</strong> Tóm tắt này dựa trên ý kiến ủy ban ASRM/SMRU và hướng dẫn thực hành cho mục đích tài nguyên chuyên nghiệp. Các bác sĩ lâm sàng nên luôn tham khảo các ấn phẩm chính thức mới nhất trên trang web ASRM cho các giao thức y tế cụ thể.<br/><br/><em>relatedProduct: \"nexus-dx1\"</em>",
+      "references": [
+        "American Society for Reproductive Medicine (ASRM). Practice Committee Documents. Available at: https://www.asrm.org/practice-guidance/practice-committee-documents/practice-document-pdfs/"
+      ]
+    }
+  },
+  "footer": {
+    "company": "iSperm Medical",
+    "description": "iSperm Medical Ltd. cam kết cung cấp các giải pháp công nghệ tiên tiến trong phân tích tinh dịch.",
+    "quickLinks": "Liên kết Nhanh",
+    "contact": "Liên hệ",
+    "email": "Email:",
+    "address": "Địa chỉ:",
+    "fullAddress": "Tầng 2, Khối B, Công viên Khoa học Sự sống Shenchengtou & Zhongcheng, Quận Pingshan, Thâm Quyến, Quảng Đông, Trung Quốc",
+    "rights": "© 2024 iSperm Medical Ltd. Bảo lưu mọi quyền."
+  },
+  "errors": {
+    "articleNotFound": {
+      "title": "Không tìm thấy Bài viết",
+      "message": "Không thể tìm thấy bài viết được yêu cầu."
+    }
+  },
+  "ui": {
+    "articlePlaceholder": {
+      "title": "Bài viết đang được Chuẩn bị",
+      "message": "Bài viết này hiện đang được chuẩn bị. Nội dung đầy đủ sẽ sớm có sẵn.",
+      "contactMessage": "Vui lòng kiểm tra lại sau hoặc liên hệ với chúng tôi để biết thêm thông tin."
+    },
+    "conclusion": {
+      "title": "Kết luận: Con đường đến Độ chính xác"
+    },
+    "references": {
+      "title": "Tài liệu Tham khảo & Tài nguyên Kỹ thuật"
+    }
+  }
+}
+

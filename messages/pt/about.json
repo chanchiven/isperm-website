@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "title": "Sobre a iSperm Medical | Fabricante de Sistema CASA",
+    "description": "Fabricante líder de sistemas CASA e analisadores de sêmen. Analisadores de morfologia espermática conformes com a 6ª edição da OMS para uso humano e veterinário desde 2010."
+  },
+  "nav": {
+    "home": "Início",
+    "products": "Produtos",
+    "about": "Sobre Nós",
+    "knowledgeHub": "Centro de Conhecimento",
+    "contact": "Contato"
+  },
+  "hero": {
+    "title": "Quem Somos",
+    "subtitle": "Liderando o Padrão Global em Tecnologia CASA"
+  },
+  "description": {
+    "text": "A iSperm Medical é uma inovadora global dedicada a diagnósticos reprodutivos avançados, eficientes e acessíveis. Ao combinar algoritmos impulsionados por IA com microfluídica, oferecemos precisão de nível laboratorial a profissionais em todo o mundo. Nossa missão é redefinir a avaliação reprodutiva através de sistemas CASA totalmente automatizados e tecnologia de analisadores de qualidade espermática."
+  },
+  "founder": {
+    "title": "Fundador e Desenvolvedor Chefe",
+    "name": "Benjamin Zhuang",
+    "education": {
+      "title": "Educação",
+      "item1": "B.Eng. em Mecatrônica, Universidade de Aeronáutica e Astronáutica de Nanjing",
+      "item2": "M.Eng. em Engenharia Biomédica (Microfluídica), UNSW, Austrália"
+    },
+    "career": {
+      "title": "Carreira",
+      "item1": "Trabalho inicial em manufatura aeroespacial e gravação micro/nano",
+      "item2": "Ingressou na Mindray, desenvolveu o primeiro analisador de hematologia de 5 partes da China",
+      "item3": "Liderou P&D em microfluídica em uma empresa de chips afiliada à CAS"
+    },
+    "entrepreneurship": {
+      "title": "Empreendedorismo",
+      "item1": "Fundou Create&Care (2016), focada na industrialização de chips microfluídicos",
+      "item2": "Lançou Bemaner(SQA-900), um analisador de sêmen portátil com IA (prêmio iF & Red Dot); 100K+ usuários; validado por NUL (PMC7714652)",
+      "item3": "Expandiu a tecnologia para cuidados primários, diagnósticos domésticos e uso veterinário"
+    },
+    "achievements": {
+      "title": "Conquistas",
+      "item1": "Especialista do Plano Nacional \"10.000 Talentos\"; Talento de Alto Nível de Shenzhen",
+      "item2": "Prêmios: Prêmio de Ouro de Inovação da Juventude da China, Prêmio de Inovação de Dispositivos Médicos",
+      "item3": "30+ patentes globais; apelidado de \"Inventor de Chips Microfluídicos de Nível Celular\""
+    }
+  },
+  "showcase": {
+    "title": "Nossa Equipe e Eventos",
+    "subtitle": "Apresentações profissionais e exposições mostrando nossos sistemas CASA inovadores",
+    "images": {
+      "image1": {
+        "alt": "Equipe iSperm Medical apresentando sistema CASA totalmente automatizado e analisador de qualidade do esperma em exposição"
+      },
+      "image2": {
+        "alt": "Profissionais iSperm Medical discutindo analisador de sêmen veterinário e soluções de criação animal"
+      },
+      "image3": {
+        "alt": "Equipe e eventos iSperm Medical mostrando tecnologia CASA e soluções de saúde reprodutiva"
+      },
+      "image4": {
+        "alt": "Apresentações e exposições da equipe iSperm Medical com sistemas automatizados de análise de sêmen"
+      },
+      "image5": {
+        "alt": "Eventos e equipe iSperm Medical mostrando sistemas CASA inovadores e analisadores de qualidade do esperma"
+      }
+    }
+  },
+  "footer": {
+    "company": "iSperm Medical",
+    "description": "A iSperm Medical Ltd. está comprometida em oferecer soluções tecnológicas de ponta em análise de sêmen.",
+    "quickLinks": "Links Rápidos",
+    "contact": "Contato",
+    "email": "E-mail:",
+    "address": "Endereço:",
+    "fullAddress": "2º andar, Bloco B, Parque de Ciências da Vida Shenchengtou & Zhongcheng, Distrito de Pingshan, Shenzhen, Guangdong, China",
+    "rights": "© 2024 iSperm Medical Ltd. Todos os direitos reservados."
+  }
+}

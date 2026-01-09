@@ -1,0 +1,75 @@
+{
+  "meta": {
+    "title": "CASA Sistemi ve Sperm Analizörü | iSperm Medical",
+    "description": "İnsan ve veteriner kullanımı için tam otomatik CASA sistemleri ve sperm morfoloji analizörleri. WHO 6. baskı uyumlu. Önde gelen semen analizörü üreticisi."
+  },
+  "nav": {
+    "home": "Ana Sayfa",
+    "products": "Ürünler",
+    "about": "Hakkımızda",
+    "knowledgeHub": "Bilgi Merkezi",
+    "contact": "İletişim"
+  },
+  "hero": {
+    "title": "Semen Analizinde Devrim",
+    "subtitle": "CASA Otomasyonunun Geleceğine Öncülük",
+    "description": "İnsan ve veteriner semen analizi için tam otomatik CASA sistemleri",
+    "exploreProducts": "Ürünleri Keşfet",
+    "learnMore": "Hikayemizi Oku"
+  },
+  "about": {
+    "title": "iSperm Medical Hakkında",
+    "tagline": "Üreme Tanıda Geleceğe Öncülük",
+    "description": "2010 yılından beri iSperm Medical, semen analizi araştırmalarında ön saflarda yer almaktadır. Çin pazarına tam otomatik CASA sistemlerini tanıtan ilk şirket olarak, hassasiyet ve teknoloji aracılığıyla doğurganlık tanısını dönüştürmeye adadık.",
+    "description2": "Çığır açan klinik çözümlerimizden sektör lideri SQA-6100vet'e kadar, dünya çapındaki profesyonellere laboratuvar düzeyinde doğruluk sağlamak için AI destekli algoritmaları mikroakışkan teknolojilerle birleştiriyoruz.",
+    "ourStory": "Hikayemiz",
+    "heroImage": {
+      "alt": "iSperm Medical - Üreme tanısı için önde gelen CASA sistemi ve sperm kalite analizörü üreticisi"
+    }
+  },
+  "features": {
+    "title": "Bilimsel İnovasyon",
+    "subtitle": "Üreme Tanıda Geleceğe Öncülük",
+    "automated": {
+      "title": "Standardize Edilmiş İş Akışı",
+      "description": "Yüklemeden raporlamaya kadar tam süreç otomasyonu sağlayın. Sistemlerimiz öznel yanlılığı ortadan kaldırarak klinik tutarlılığı garanti eder ve laboratuvar verimliliğini maksimize eder."
+    },
+    "aiPowered": {
+      "title": "Akıllı AI Tanıma",
+      "description": "Gaussian dinamik AI algoritmaları ile desteklenen iSperm, yüksek hassasiyetli morfolojik ve kinematik takip sunarak, benzeri görülmemiş tanı doğruluğu ile ince anormallikleri tespit eder.",
+      "compliance": "WHO 6. Baskı Standartlarına Uyumlu"
+    },
+    "standalone": {
+      "title": "Entegre Çok Yönlülük",
+      "description": "Dahili termal aşama ve sezgisel dokunmatik ekran içeren klinik düzeyde, her şey dahil mimari. Hem üst düzey laboratuvarlar hem de zorlu saha ortamlarında kusursuz performans için tasarlandı."
+    },
+    "comprehensive": {
+      "title": "Gelişmiş Analitik",
+      "description": "Konsantrasyon, çok sınıflı motilite ve WHO 6. baskı morfolojisi dahil tam spektrum tanı parametreleri, üreme sağlığının eksiksiz bir profilini sağlar."
+    }
+  },
+  "timeline": {
+    "title": "Yolculuğumuz",
+    "subtitle": "İnovasyon Mirası",
+    "2010": "Çin'de öncü CASA araştırmalarına odaklanarak kuruldu.",
+    "2016": "Çin'in ilk ev kullanımı CASA sistemini geliştirdi, gelişmiş tanıyı tüketici seviyesine getirdi.",
+    "2017": "Çin'de ilk tam otomatik profesyonel CASA sistemini piyasaya sürdü.",
+    "today": "Bayrak gemisi CASA serimiz (Nexus Dx1 / SQA-6100vet), dünya çapında otomatik üreme değerlendirmesi için güvenilir tercih olarak hizmet vermektedir."
+  },
+  "footer": {
+    "company": "iSperm Medical",
+    "description": "iSperm Medical Ltd., semen analizinde en son teknoloji çözümler sunmaya kararlıdır.",
+    "quickLinks": "Hızlı Bağlantılar",
+    "contact": "İletişim",
+    "email": "E-posta:",
+    "address": "Adres:",
+    "fullAddress": "2F, Block B, Shenchengtou & Zhongcheng Life Science Park, Pingshan District, Shenzhen, Guangdong, Çin",
+    "rights": "© 2024 iSperm Medical Ltd. Tüm hakları saklıdır."
+  },
+  "notFound": {
+    "title": "Sayfa bulunamadı",
+    "description": "Aradığınız sayfa mevcut değil veya taşınmış.",
+    "backToHome": "Ana sayfaya dön",
+    "statusCode": "404"
+  }
+}

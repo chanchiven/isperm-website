@@ -1,0 +1,364 @@
+{
+  "meta": {
+    "title": "Hệ thống CASA & Máy phân tích Tinh dịch | iSperm Medical",
+    "description": "Khám phá hệ thống CASA & máy phân tích hình thái tinh trùng của chúng tôi cho sử dụng ở người & thú y. Giải pháp máy phân tích tinh dịch tuân thủ WHO phiên bản thứ 6."
+  },
+  "nav": {
+    "home": "Trang chủ",
+    "products": "Sản phẩm",
+    "about": "Về chúng tôi",
+    "knowledgeHub": "Trung tâm Kiến thức",
+    "contact": "Liên hệ"
+  },
+  "hero": {
+    "title": "Sản phẩm của Chúng tôi",
+    "subtitle": "Hệ thống CASA Chuyên nghiệp cho Y học Sinh sản"
+  },
+  "section": {
+    "title": "Chọn Hệ thống CASA của Bạn",
+    "subtitle": "Chọn một sản phẩm để xem thông số kỹ thuật và tính năng chi tiết"
+  },
+  "products": {
+    "nexus": {
+      "name": "Nexus Dx1",
+      "tag": "Người",
+      "badge": "Hệ thống CASA Chuyên nghiệp",
+      "heroSubtitle": "Hệ thống CASA Người Tự động Hoàn toàn",
+      "subtitle": "Hệ thống CASA Người Tự động Hoàn toàn",
+      "description": "Hệ thống CASA tự động hoàn toàn được thiết kế cho sử dụng lâm sàng và phòng thí nghiệm, có thuật toán AI tiên tiến và phân tích tham số toàn diện.",
+      "feature1": "Phân tích tự động hoàn toàn",
+      "feature2": "Bàn gia nhiệt tích hợp",
+      "feature3": "Hỗ trợ trạm làm việc PC",
+      "button": "Xem Chi tiết",
+      "detail": {
+        "description": "Hệ thống CASA chuyên nghiệp được thiết kế cho sử dụng lâm sàng và phòng thí nghiệm, có thuật toán AI tiên tiến và phân tích tham số toàn diện cho đánh giá tinh dịch người.",
+        "keyFeatures": {
+          "title": "Tính năng Chính",
+          "items": [
+            "Tự động hoàn toàn",
+            "Màn hình cảm ứng",
+            "Bàn gia nhiệt tích hợp",
+            "Hệ thống tất cả trong một độc lập",
+            "Thuật toán AI hình ảnh động Gaussian tiên tiến",
+            "Buồng đếm: 2 buồng Nâng cao/Phủ, độ sâu cố định 10μm",
+            "Nhiều trường quan sát tùy chỉnh, lên đến 1500 tinh trùng mỗi trường quan sát",
+            "Hỗ trợ phát lại video",
+            "Hỗ trợ máy quét mã vạch ngoài",
+            "Trạm làm việc PC"
+          ]
+        },
+        "analysisParameters": {
+          "title": "Tham số Phân tích",
+          "groups": [
+            {
+              "title": "Nồng độ và Khả năng Vận động",
+              "items": [
+                "Tổng số tinh trùng",
+                "Tinh trùng di động",
+                "Tinh trùng bất động",
+                "Tinh trùng tiến tới và chậm",
+                "Tinh trùng không tiến tới"
+              ]
+            },
+            {
+              "title": "Động học",
+              "items": [
+                "DCL, DSL, DAP",
+                "VCL, VSL, VAP",
+                "ALH, MAD, BCF",
+                "LIN, WOB, STR"
+              ]
+            },
+            {
+              "title": "Hình thái",
+              "items": [
+                "Tinh trùng Bình thường và Bất thường",
+                "Khiếm khuyết đầu",
+                "DMR",
+                "Giọt xa",
+                "Giọt gần",
+                "Khiếm khuyết đuôi",
+                "Cặn tế bào chất",
+                "TZI, SDI"
+              ]
+            },
+            {
+              "title": "Bổ sung",
+              "items": [
+                "Tế bào tròn"
+              ]
+            }
+          ]
+        },
+        "complianceStandards": {
+          "title": "Tuân thủ & Tiêu chuẩn",
+          "standards": [
+            {
+              "slug": "who-6th-edition-semen-analysis-standards",
+              "name": "WHO 6th",
+              "title": "Hướng dẫn WHO Phiên bản thứ 6",
+              "description": "<strong>Nexus Dx1</strong> tuân thủ đầy đủ các hướng dẫn <strong>WHO Phiên bản thứ 6</strong>. Đọc phân tích chi tiết của chúng tôi."
+            },
+            {
+              "slug": "iso-23162-2021-laboratory-competence-guide",
+              "name": "ISO 23162",
+              "title": "Hướng dẫn ISO 23162",
+              "description": "<strong>Nexus Dx1</strong> tuân thủ đầy đủ các hướng dẫn <strong>ISO 23162</strong>. Đọc phân tích chi tiết của chúng tôi."
+            },
+            {
+              "slug": "eshre-guidelines-clinical-semen-examination",
+              "name": "ESHRE",
+              "title": "Hướng dẫn ESHRE",
+              "description": "<strong>Nexus Dx1</strong> tuân thủ đầy đủ các hướng dẫn <strong>ESHRE</strong>. Đọc phân tích chi tiết của chúng tôi."
+            },
+            {
+              "slug": "asrm-male-infertility-evaluation-protocols",
+              "name": "ASRM",
+              "title": "Hướng dẫn ASRM",
+              "description": "<strong>Nexus Dx1</strong> tuân thủ đầy đủ các hướng dẫn <strong>ASRM</strong>. Đọc phân tích chi tiết của chúng tôi."
+            }
+          ],
+          "learnMore": "Tìm hiểu thêm →"
+        }
+      }
+    },
+    "msqa": {
+      "name": "MSQA-100",
+      "tag": "Người",
+      "badge": "CASA Sử dụng Tại nhà Di động",
+      "heroSubtitle": "Hệ thống CASA Sử dụng Tại nhà Di động",
+      "subtitle": "Máy phân tích Tinh dịch CASA Di động",
+      "description": "Hệ thống CASA di động, sử dụng tại nhà với khả năng tương thích smartphone, mang lại hiệu suất cấp phòng thí nghiệm trong định dạng nhỏ gọn.",
+      "feature1": "Tương thích smartphone",
+      "feature2": "Kiểm soát nhiệt độ tích hợp",
+      "feature3": "Phân tích AI dựa trên đám mây",
+      "button": "Xem Chi tiết",
+      "detail": {
+        "description": "MSQA-100 là hệ thống Phân tích Tinh trùng Hỗ trợ Máy tính (CASA) di động, sử dụng tại nhà được thiết kế cho đánh giá tinh dịch nhanh, chính xác và thân thiện với người dùng. Bằng cách kết hợp công nghệ vi lưu chất, sản xuất chính xác và phân tích hình ảnh AI, MSQA-100 mang lại hiệu suất cấp phòng thí nghiệm trong định dạng nhỏ gọn và dễ tiếp cận.",
+        "keyTechnologies": {
+          "title": "Công nghệ & Tính năng Chính",
+          "items": [
+            {
+              "label": "Phiến Vi lưu chất:",
+              "text": "Phiến vi lưu chất độc quyền tạo buồng quan sát cố định 7 μm khi hai lớp được lắp ráp. Thiết kế độ sâu cố định này loại bỏ nhu cầu lấy nét thủ công và đảm bảo kết quả nhất quán, có thể tái tạo."
+            },
+            {
+              "label": "Tương thích Smartphone & Máy tính bảng Phổ quát:",
+              "text": "Tương thích với hầu hết camera sau của smartphone và máy tính bảng chính thống, cho phép hình ảnh linh hoạt và chi phí thấp mà không cần kính hiển vi chuyên dụng."
+            },
+            {
+              "label": "Kiểm soát Nhiệt độ Tích hợp:",
+              "text": "Mô-đun nhiệt tích hợp duy trì mẫu ở 37°C trong quá trình phân tích, bảo tồn khả năng vận động của tinh trùng và đảm bảo kết quả chính xác về mặt sinh lý."
+            },
+            {
+              "label": "Chip sinh học Polymer Siêu Vi lưu chất:",
+              "text": "Thiết kế vi lưu chất tiên tiến để xử lý mẫu chính xác và đặc tính dòng chảy tối ưu."
+            },
+            {
+              "label": "Phân tích AI Dựa trên Đám mây:",
+              "text": "Được hỗ trợ bởi thuật toán thông minh hình ảnh động Gaussian máy chủ đám mây để xử lý dữ liệu chính xác và tự động."
+            },
+            {
+              "label": "Hệ thống Tầm nhìn Kính hiển vi Tự động Lấy nét:",
+              "text": "Đảm bảo chất lượng hình ảnh tối ưu cho phân tích với khả năng lấy nét tự động."
+            },
+            {
+              "label": "Phân tích Tự động Hoàn toàn:",
+              "text": "Vận hành người dùng tối thiểu, phù hợp cho cả cài đặt chuyên nghiệp và tại nhà."
+            }
+          ]
+        },
+        "measuredParameters": {
+          "title": "Tham số Đo lường",
+          "groups": [
+            {
+              "title": "Nồng độ & Số lượng",
+              "items": [
+                "Nồng độ tinh trùng",
+                "Tổng số tinh trùng"
+              ]
+            },
+            {
+              "title": "Khả năng Vận động",
+              "items": [
+                "Khả năng vận động tổng",
+                "Khả năng vận động tiến tới",
+                "Khả năng vận động không tiến tới",
+                "Tinh trùng bất động"
+              ]
+            },
+            {
+              "title": "Động học",
+              "items": [
+                "Vận tốc đường thẳng (VSL)",
+                "Tỷ lệ tinh trùng di động đường thẳng",
+                "Vận tốc cong (VCL)",
+                "Tham số chuyển động khác"
+              ]
+            }
+          ]
+        },
+        "physicalSpecs": {
+          "title": "Thông số Vật lý",
+          "items": [
+            {
+              "label": "Kích thước:",
+              "text": "174.8 × 113.5 × 50.5 mm"
+            },
+            {
+              "label": "Trọng lượng:",
+              "text": "Thiết kế nhẹ và di động"
+            },
+            {
+              "label": "Nguồn điện:",
+              "text": "Chạy bằng pin cho sử dụng thực địa"
+            }
+          ]
+        },
+        "applications": {
+          "title": "Ứng dụng",
+          "intro": "MSQA-100 lý tưởng cho:",
+          "items": [
+            "Giám sát khả năng sinh sản tại nhà",
+            "Phòng khám chăm sóc sơ cấp",
+            "Kiểm tra thực địa và đơn vị y tế di động",
+            "Tổ chức nghiên cứu và giáo dục",
+            "Y học từ xa và chẩn đoán từ xa"
+          ]
+        }
+      }
+    },
+    "sqavet": {
+      "name": "SQA-6100vet",
+      "tag": "Thú y",
+      "badge": "Hệ thống CASA Thú y",
+      "heroSubtitle": "Hệ thống CASA Thú y Tự động Hoàn toàn",
+      "subtitle": "Hệ thống CASA Thú y Tự động Hoàn toàn",
+      "description": "Hệ thống CASA tự động hoàn toàn cách mạng cho đánh giá sinh sản động vật, hỗ trợ phân tích đa loài với khả năng thực địa di động.",
+      "feature1": "Hỗ trợ đa loài",
+      "feature2": "Thời gian phân tích 15 giây",
+      "feature3": "Thiết kế tất cả trong một di động",
+      "button": "Xem Chi tiết",
+      "detail": {
+        "description": "SQA-6100vet đại diện cho đỉnh cao của công nghệ sinh sản thú y. Hệ thống CASA tự động hoàn toàn cách mạng này mang lại độ chính xác và khả năng tái tạo không thể so sánh trong đánh giá tham số tinh trùng động vật, nó có thể hoạt động như một hệ thống tất cả trong một độc lập có lợi thế lớn trong tình huống thực địa và di động và cũng có thể hoạt động với phần mềm PC chuyên dụng để quản lý dữ liệu thân thiện hơn với người dùng.",
+        "keyFeatures": {
+          "title": "Tính năng Chính",
+          "items": [
+            "Tự động hoàn toàn",
+            "Màn hình cảm ứng",
+            "Bàn gia nhiệt tích hợp",
+            "Hệ thống tất cả trong một độc lập",
+            "Thuật toán AI hình ảnh động Gaussian tiên tiến",
+            "Buồng đếm: 6 buồng Nâng cao/Phủ, độ sâu cố định 20μm",
+            "Nhanh như thời gian phân tích 15 giây, nhiều trường quan sát có thể chọn",
+            "Hỗ trợ phát lại video",
+            "Hỗ trợ máy quét mã vạch ngoài",
+            "Trạm làm việc PC",
+            "Hỗ trợ đa loài"
+          ]
+        },
+        "analysisParameters": {
+          "title": "Tham số Phân tích",
+          "groups": [
+            {
+              "title": "Nồng độ và Khả năng Vận động",
+              "items": [
+                "Tổng số tinh trùng",
+                "Tinh trùng di động",
+                "Tinh trùng bất động",
+                "Tinh trùng tiến tới và chậm",
+                "Tinh trùng không tiến tới"
+              ]
+            },
+            {
+              "title": "Động học",
+              "items": [
+                "DCL, DSL, DAP",
+                "VCL, VSL, VAP",
+                "ALH, MAD, BCF",
+                "LIN, WOB, STR"
+              ]
+            },
+            {
+              "title": "Hình thái",
+              "items": [
+                "Tinh trùng Bình thường và Bất thường",
+                "Khiếm khuyết đầu",
+                "DMR",
+                "Giọt xa",
+                "Giọt gần",
+                "Đuôi cong",
+                "Đuôi cuộn"
+              ]
+            },
+            {
+              "title": "Định liều",
+              "items": [
+                "Tự động tính số liều dựa trên thời gian chất pha loãng, thể tích mẫu, số tinh trùng, v.v."
+              ]
+            }
+          ]
+        },
+        "thermalIntegrity": {
+          "title": "Lợi thế Tính toàn vẹn Nhiệt",
+          "subtitle": "Tại sao kiểm soát nhiệt độ tích hợp là cần thiết cho phân tích CASA chính xác",
+          "intro": "Trong thế giới nam khoa, \"Khả năng Vận động là Nhiệt độ.\" SQA-6100vet có bàn gia nhiệt nội bộ, thời gian thực duy trì mẫu ở nhiệt độ sinh lý (37°C) trong suốt quá trình phân tích. Tính năng quan trọng này đảm bảo rằng khả năng vận động của tinh trùng được đo trong điều kiện giống như sống, ngăn chặn chẩn đoán \"Không đạt yêu cầu\" sai do sốc lạnh.",
+          "challenge": {
+            "title": "Thách thức",
+            "text": "Tinh trùng động vật cực kỳ nhạy cảm với thay đổi nhiệt độ. Giảm chỉ 2-3°C có thể gây mất khả năng vận động ngay lập tức, dẫn đến kết quả không chính xác."
+          },
+          "solution": {
+            "title": "Giải pháp",
+            "text": "Bàn gia nhiệt tích hợp của SQA-6100vet duy trì 37°C không đổi trong suốt quá trình phân tích, tiết lộ khả năng vận động tiến tới thực sự như nó tồn tại trong đường sinh sản của động vật."
+          }
+        },
+        "scientificStandards": {
+          "title": "Tuân thủ Tiêu chuẩn Khoa học",
+          "description": "SQA-6100vet được thiết kế để phù hợp với các tiêu chuẩn và hướng dẫn nam khoa thú y hàng đầu. Hệ thống của chúng tôi hỗ trợ tuân thủ các giao thức đã được thiết lập cho kiểm tra sức khỏe sinh sản trên nhiều loài.",
+          "standards": [
+            {
+              "title": "Hiệp hội Theriogenology (SFT)",
+              "text": "Tuân thủ hướng dẫn SFT cho Kiểm tra Sức khỏe Sinh sản Bò đực, Cừu đực và Ngựa (BSE/EBSE). Hỗ trợ giao thức đánh giá chuẩn hóa."
+            },
+            {
+              "title": "Giao thức Đa loài",
+              "text": "Thuật toán theo loài đảm bảo đánh giá tham số chính xác."
+            },
+            {
+              "title": "Sử dụng Thực địa & Phòng thí nghiệm",
+              "text": "Thiết kế di động cho phép kiểm tra BSE tại chỗ trong khi duy trì độ chính xác cấp phòng thí nghiệm. Lý tưởng cho nhà sản xuất giống và phòng khám thú y."
+            },
+            {
+              "title": "Xác thực Nghiên cứu",
+              "text": "Công nghệ được xác thực bởi nghiên cứu đánh giá ngang hàng và được sử dụng trong các tổ chức học thuật trên toàn thế giới cho nghiên cứu sinh sản và thực hành lâm sàng."
+            }
+          ],
+          "footer": "Khám phá Tiêu chuẩn Thú y: Ghé thăm Trung tâm Kiến thức của chúng tôi để xem hướng dẫn chi tiết về tiêu chuẩn kiểm tra sức khỏe sinh sản và thực hành tốt nhất."
+        }
+      }
+    },
+    "nexusMeta": {
+      "title": "Hệ thống CASA Nexus Dx1 | WHO Phiên bản thứ 6 | iSperm Medical",
+      "description": "Hệ thống CASA người tự động hoàn toàn Nexus Dx1. Máy phân tích tinh dịch tuân thủ WHO phiên bản thứ 6 với phân tích hình thái tinh trùng hỗ trợ AI."
+    },
+    "msqaMeta": {
+      "title": "Hệ thống CASA Di động MSQA-100 | iSperm Medical",
+      "description": "Hệ thống CASA sử dụng tại nhà di động MSQA-100. Máy phân tích tinh dịch tương thích smartphone với AI đám mây cho phân tích hình thái tinh trùng."
+    },
+    "sqavetMeta": {
+      "title": "Hệ thống CASA Thú y SQA-6100vet | iSperm Medical",
+      "description": "Hệ thống CASA thú y đa loài SQA-6100vet. Máy phân tích tinh dịch tự động cho bò đực, cừu đực, ngựa và các loài khác. Thiết kế sẵn sàng thực địa."
+    }
+  },
+  "footer": {
+    "company": "iSperm Medical",
+    "description": "iSperm Medical Ltd. cam kết cung cấp các giải pháp công nghệ tiên tiến trong phân tích tinh dịch.",
+    "quickLinks": "Liên kết Nhanh",
+    "contact": "Liên hệ",
+    "email": "Email:",
+    "address": "Địa chỉ:",
+    "fullAddress": "Tầng 2, Khối B, Công viên Khoa học Sự sống Shenchengtou & Zhongcheng, Quận Pingshan, Thâm Quyến, Quảng Đông, Trung Quốc",
+    "rights": "© 2024 iSperm Medical Ltd. Bảo lưu mọi quyền."
+  }
+}
+

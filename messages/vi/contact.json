@@ -1,0 +1,76 @@
+{
+  "meta": {
+    "title": "Liên hệ iSperm Medical | Hỗ trợ Hệ thống CASA",
+    "description": "Liên hệ nhà sản xuất hệ thống CASA & máy phân tích tinh dịch hàng đầu. Nhận hỗ trợ cho máy phân tích hình thái tinh trùng tuân thủ WHO phiên bản thứ 6."
+  },
+  "nav": {
+    "home": "Trang chủ",
+    "products": "Sản phẩm",
+    "about": "Về chúng tôi",
+    "knowledgeHub": "Trung tâm Kiến thức",
+    "contact": "Liên hệ"
+  },
+  "hero": {
+    "title": "Liên hệ Chuyên gia iSperm Medical",
+    "subtitle": "Đối với giải pháp lâm sàng hoặc quan hệ đối tác phân phối toàn cầu, đội ngũ của chúng tôi sẵn sàng hỗ trợ"
+  },
+  "actionCards": {
+    "partner": {
+      "title": "Trở thành Đối tác Toàn cầu",
+      "description": "Tham gia mạng lưới toàn cầu của chúng tôi và mang công nghệ CASA tiên tiến đến thị trường của bạn.",
+      "emailSubject": "Trở thành Đối tác Toàn cầu"
+    },
+    "consultation": {
+      "title": "Nhận Tư vấn Chuyên nghiệp",
+      "description": "Hướng dẫn chuyên gia cho nhu cầu lâm sàng hoặc nghiên cứu của bạn về sức khỏe sinh sản.",
+      "emailSubject": "Yêu cầu Tư vấn Chuyên nghiệp"
+    },
+    "button": "Gửi Email cho Đội ngũ"
+  },
+  "form": {
+    "emailTitle": "Email Liên hệ",
+    "responsePromise": "Chúng tôi cam kết phản hồi trong vòng 24 giờ.",
+    "name": "Tên",
+    "company": "Công ty",
+    "email": "Email",
+    "productInterest": "Quan tâm Sản phẩm",
+    "selectProduct": "Chọn một danh mục sản phẩm",
+    "humanProducts": "Sản phẩm cho người",
+    "animalProducts": "Sản phẩm cho động vật",
+    "message": "Tin nhắn",
+    "submitButton": "Gửi Tin nhắn",
+    "submitting": "Đang gửi...",
+    "successMessage": "Cảm ơn! Tin nhắn của bạn đã được gửi thành công. Chúng tôi sẽ phản hồi trong vòng 24 giờ.",
+    "errorMessage": "Xin lỗi, đã có lỗi khi gửi tin nhắn của bạn. Vui lòng thử lại hoặc liên hệ trực tiếp với chúng tôi tại market@isperm.com",
+    "errors": {
+      "nameRequired": "Tên là bắt buộc",
+      "emailRequired": "Email là bắt buộc",
+      "emailInvalid": "Vui lòng nhập địa chỉ email hợp lệ"
+    }
+  },
+  "trust": {
+    "globalSupport": "Hỗ trợ Toàn cầu",
+    "response24h": "Phản hồi 24h"
+  },
+  "contact": {
+    "fullAddress": "Tầng 2, Khối B, Công viên Khoa học Sự sống Shenchengtou & Zhongcheng, Quận Pingshan, Thâm Quyến, Quảng Đông, Trung Quốc"
+  },
+  "footer": {
+    "company": "iSperm Medical",
+    "description": "iSperm Medical Ltd. cam kết cung cấp các giải pháp công nghệ tiên tiến trong phân tích tinh dịch.",
+    "quickLinks": "Liên kết Nhanh",
+    "contact": "Liên hệ",
+    "email": "Email:",
+    "address": "Địa chỉ:",
+    "fullAddress": "2F, Block B, Shenchengtou & Zhongcheng Life Science Park, Pingshan District, Shenzhen, Guangdong, China",
+    "rights": "© 2024 iSperm Medical Ltd. Bảo lưu mọi quyền."
+  }
+}
+
+
+
+
+
+
+
+

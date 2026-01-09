@@ -1,0 +1,121 @@
+[
+  {
+    "type": "missing_translation",
+    "severity": "warning",
+    "issue": "es 语言缺少 404 页面翻译",
+    "location": "messages/es/faq.json",
+    "description": "需要为 es 语言添加 404 页面翻译"
+  },
+  {
+    "type": "missing_translation",
+    "severity": "warning",
+    "issue": "ar 语言缺少 404 页面翻译",
+    "location": "messages/ar/faq.json",
+    "description": "需要为 ar 语言添加 404 页面翻译"
+  },
+  {
+    "type": "missing_translation",
+    "severity": "warning",
+    "issue": "de 语言缺少 404 页面翻译",
+    "location": "messages/de/faq.json",
+    "description": "需要为 de 语言添加 404 页面翻译"
+  },
+  {
+    "type": "missing_translation",
+    "severity": "warning",
+    "issue": "it 语言缺少 404 页面翻译",
+    "location": "messages/it/faq.json",
+    "description": "需要为 it 语言添加 404 页面翻译"
+  },
+  {
+    "type": "missing_translation",
+    "severity": "warning",
+    "issue": "pt 语言缺少 404 页面翻译",
+    "location": "messages/pt/faq.json",
+    "description": "需要为 pt 语言添加 404 页面翻译"
+  },
+  {
+    "type": "missing_translation",
+    "severity": "warning",
+    "issue": "ru 语言缺少 404 页面翻译",
+    "location": "messages/ru/faq.json",
+    "description": "需要为 ru 语言添加 404 页面翻译"
+  },
+  {
+    "type": "missing_translation",
+    "severity": "warning",
+    "issue": "tr 语言缺少 404 页面翻译",
+    "location": "messages/tr/faq.json",
+    "description": "需要为 tr 语言添加 404 页面翻译"
+  },
+  {
+    "type": "missing_translation",
+    "severity": "warning",
+    "issue": "fr 语言缺少 404 页面翻译",
+    "location": "messages/fr/faq.json",
+    "description": "需要为 fr 语言添加 404 页面翻译"
+  },
+  {
+    "type": "missing_translation",
+    "severity": "warning",
+    "issue": "pl 语言缺少 404 页面翻译",
+    "location": "messages/pl/faq.json",
+    "description": "需要为 pl 语言添加 404 页面翻译"
+  },
+  {
+    "type": "missing_translation",
+    "severity": "warning",
+    "issue": "nl 语言缺少 404 页面翻译",
+    "location": "messages/nl/faq.json",
+    "description": "需要为 nl 语言添加 404 页面翻译"
+  },
+  {
+    "type": "missing_translation",
+    "severity": "warning",
+    "issue": "ko 语言缺少 404 页面翻译",
+    "location": "messages/ko/faq.json",
+    "description": "需要为 ko 语言添加 404 页面翻译"
+  },
+  {
+    "type": "missing_translation",
+    "severity": "warning",
+    "issue": "ja 语言缺少 404 页面翻译",
+    "location": "messages/ja/faq.json",
+    "description": "需要为 ja 语言添加 404 页面翻译"
+  },
+  {
+    "type": "missing_translation",
+    "severity": "warning",
+    "issue": "vi 语言缺少 404 页面翻译",
+    "location": "messages/vi/faq.json",
+    "description": "需要为 vi 语言添加 404 页面翻译"
+  },
+  {
+    "type": "missing_translation",
+    "severity": "warning",
+    "issue": "id 语言缺少 404 页面翻译",
+    "location": "messages/id/faq.json",
+    "description": "需要为 id 语言添加 404 页面翻译"
+  },
+  {
+    "type": "missing_translation",
+    "severity": "warning",
+    "issue": "uk 语言缺少 404 页面翻译",
+    "location": "messages/uk/faq.json",
+    "description": "需要为 uk 语言添加 404 页面翻译"
+  },
+  {
+    "type": "missing_translation",
+    "severity": "warning",
+    "issue": "bg 语言缺少 404 页面翻译",
+    "location": "messages/bg/faq.json",
+    "description": "需要为 bg 语言添加 404 页面翻译"
+  },
+  {
+    "type": "missing_translation",
+    "severity": "warning",
+    "issue": "ro 语言缺少 404 页面翻译",
+    "location": "messages/ro/faq.json",
+    "description": "需要为 ro 语言添加 404 页面翻译"
+  }
+]

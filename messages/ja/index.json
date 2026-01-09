@@ -1,0 +1,75 @@
+{
+  "meta": {
+    "title": "CASAシステム & 精液分析装置 | iSperm Medical",
+    "description": "ヒト・動物用の完全自動化CASAシステム & 精子形態分析装置。WHO第6版準拠。精液分析装置のリーディングメーカー。"
+  },
+  "nav": {
+    "home": "ホーム",
+    "products": "製品",
+    "about": "会社概要",
+    "knowledgeHub": "ナレッジハブ",
+    "contact": "お問い合わせ"
+  },
+  "hero": {
+    "title": "精液分析の革新",
+    "subtitle": "CASA自動化の未来を開拓",
+    "description": "ヒトおよび動物用精液分析のための完全自動化CASAシステム",
+    "exploreProducts": "製品を探す",
+    "learnMore": "私たちのストーリーを読む"
+  },
+  "about": {
+    "title": "iSperm Medicalについて",
+    "tagline": "生殖診断の未来を開拓",
+    "description": "2010年設立以来、iSperm Medicalは精液分析研究の最前線に立ってきました。中国市場に完全自動化CASAシステムを初めて導入した企業として、精密さと技術を通じて不妊診断の変革に専念しています。",
+    "description2": "画期的な臨床ソリューションから業界をリードするSQA-6100vetまで、AI駆動アルゴリズムとマイクロ流体工学を組み合わせ、世界中の専門家に実験室レベルの精度を提供しています。",
+    "ourStory": "私たちのストーリー",
+    "heroImage": {
+      "alt": "iSperm Medical - 生殖診断のための主要なCASAシステムおよび精子品質分析器メーカー"
+    }
+  },
+  "features": {
+    "title": "科学的イノベーション",
+    "subtitle": "生殖診断の未来を開拓",
+    "automated": {
+      "title": "標準化ワークフロー",
+      "description": "ローディングからレポート作成まで全プロセスの自動化を実現。当社のシステムは主観的バイアスを排除し、臨床的一貫性を確保し、実験室のスループットを最大化します。"
+    },
+    "aiPowered": {
+      "title": "インテリジェントAI認識",
+      "description": "ガウス動的AIアルゴリズムを搭載したiSpermは、高精度の形態学的および運動学的追跡を提供し、前例のない診断精度で微細な異常を識別します。",
+      "compliance": "WHO第6版基準準拠"
+    },
+    "standalone": {
+      "title": "統合型多機能性",
+      "description": "内蔵熱ステージと直感的なタッチスクリーンを備えた臨床グレードのオールインワンアーキテクチャ。ハイエンドラボと過酷な現場環境の両方でシームレスな性能を発揮するように設計されています。"
+    },
+    "comprehensive": {
+      "title": "高度な分析",
+      "description": "濃度、多クラス運動性、WHO第6版形態学を含む全スペクトル診断パラメータを提供し、生殖健康の完全なプロファイルを提供します。"
+    }
+  },
+  "timeline": {
+    "title": "私たちの歩み",
+    "subtitle": "イノベーションの遺産",
+    "2010": "中国におけるCASA研究の開拓に焦点を当てて設立。",
+    "2016": "中国初の家庭用CASAシステムを開発し、高度な診断を消費者レベルにもたらしました。",
+    "2017": "中国初の完全自動化プロフェッショナルCASAシステムを発売。",
+    "today": "当社のフラッグシップCASAシリーズ（Nexus Dx1 / SQA-6100vet）は、世界中で自動化生殖評価の信頼できる選択肢として機能しています。"
+  },
+  "footer": {
+    "company": "iSperm Medical",
+    "description": "iSperm Medical Ltd.は、精液分析における最先端技術ソリューションの提供に取り組んでいます。",
+    "quickLinks": "クイックリンク",
+    "contact": "お問い合わせ",
+    "email": "メール：",
+    "address": "住所：",
+    "fullAddress": "中国広東省深圳市坪山区深城投&中城生命科学園B棟2階",
+    "rights": "© 2024 iSperm Medical Ltd. 全著作権所有。"
+  },
+  "notFound": {
+    "title": "ページが見つかりません",
+    "description": "お探しのページは存在しないか、移動された可能性があります。",
+    "backToHome": "ホームに戻る",
+    "statusCode": "404"
+  }
+}

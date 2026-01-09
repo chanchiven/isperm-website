@@ -1,0 +1,69 @@
+{
+  "meta": {
+    "title": "Hubungi iSperm Medical | Dukungan Sistem CASA",
+    "description": "Hubungi produsen sistem CASA & analisis semen terkemuka. Dapatkan dukungan untuk analisis morfologi sperma sesuai dengan WHO edisi ke-6."
+  },
+  "nav": {
+    "home": "Beranda",
+    "products": "Produk",
+    "about": "Tentang Kami",
+    "knowledgeHub": "Pusat Pengetahuan",
+    "contact": "Kontak"
+  },
+  "hero": {
+    "title": "Hubungi Spesialis iSperm Medical",
+    "subtitle": "Untuk solusi klinis atau kemitraan distribusi global, tim kami siap membantu"
+  },
+  "actionCards": {
+    "partner": {
+      "title": "Menjadi Mitra Global",
+      "description": "Bergabunglah dengan jaringan global kami dan bawa teknologi CASA canggih ke pasar Anda.",
+      "emailSubject": "Menjadi Mitra Global"
+    },
+    "consultation": {
+      "title": "Dapatkan Konsultasi Profesional",
+      "description": "Panduan ahli untuk kebutuhan klinis atau penelitian Anda dalam kesehatan reproduksi.",
+      "emailSubject": "Permintaan Konsultasi Profesional"
+    },
+    "button": "Email Tim Kami"
+  },
+  "form": {
+    "emailTitle": "Email Kontak",
+    "responsePromise": "Kami berjanji akan merespons dalam 24 jam.",
+    "name": "Nama",
+    "company": "Perusahaan",
+    "email": "Email",
+    "productInterest": "Minat Produk",
+    "selectProduct": "Pilih kategori produk",
+    "humanProducts": "Produk manusia",
+    "animalProducts": "Produk hewan",
+    "message": "Pesan",
+    "submitButton": "Kirim Pesan",
+    "submitting": "Mengirim...",
+    "successMessage": "Terima kasih! Pesan Anda telah berhasil dikirim. Kami akan merespons dalam 24 jam.",
+    "errorMessage": "Maaf, terjadi kesalahan saat mengirim pesan Anda. Silakan coba lagi atau hubungi kami langsung di market@isperm.com",
+    "errors": {
+      "nameRequired": "Nama wajib diisi",
+      "emailRequired": "Email wajib diisi",
+      "emailInvalid": "Harap masukkan alamat email yang valid"
+    }
+  },
+  "trust": {
+    "globalSupport": "Dukungan Global",
+    "response24h": "Respon 24 Jam"
+  },
+  "contact": {
+    "fullAddress": "2F, Block B, Shenchengtou & Zhongcheng Life Science Park, Pingshan District, Shenzhen, Guangdong, China"
+  },
+  "footer": {
+    "company": "iSperm Medical",
+    "description": "iSperm Medical Ltd. berkomitmen untuk memberikan solusi teknologi mutakhir dalam analisis semen.",
+    "quickLinks": "Tautan Cepat",
+    "contact": "Kontak",
+    "email": "Email:",
+    "address": "Alamat:",
+    "fullAddress": "2F, Block B, Shenchengtou & Zhongcheng Life Science Park, Pingshan District, Shenzhen, Guangdong, China",
+    "rights": "© 2024 iSperm Medical Ltd. Hak cipta dilindungi."
+  }
+}
+

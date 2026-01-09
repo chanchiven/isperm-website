@@ -1,0 +1,364 @@
+{
+  "meta": {
+    "title": "Sistem CASA & Analisis Sperma | iSperm Medical",
+    "description": "Jelajahi sistem CASA & analisis morfologi sperma kami untuk penggunaan manusia & hewan. Solusi analisis semen sesuai dengan WHO edisi ke-6."
+  },
+  "nav": {
+    "home": "Beranda",
+    "products": "Produk",
+    "about": "Tentang Kami",
+    "knowledgeHub": "Pusat Pengetahuan",
+    "contact": "Kontak"
+  },
+  "hero": {
+    "title": "Produk Kami",
+    "subtitle": "Sistem CASA Profesional untuk Kedokteran Reproduksi"
+  },
+  "section": {
+    "title": "Pilih Sistem CASA Anda",
+    "subtitle": "Pilih produk untuk melihat spesifikasi dan fitur detail"
+  },
+  "products": {
+    "nexus": {
+      "name": "Nexus Dx1",
+      "tag": "Manusia",
+      "badge": "Sistem CASA Profesional",
+      "heroSubtitle": "Sistem CASA Manusia Otomatis Penuh",
+      "subtitle": "Sistem CASA Manusia Otomatis Penuh",
+      "description": "Sistem CASA otomatis penuh yang dirancang untuk penggunaan klinis dan laboratorium, menampilkan algoritma AI canggih dan analisis parameter komprehensif.",
+      "feature1": "Analisis otomatis penuh",
+      "feature2": "Panggung pemanas built-in",
+      "feature3": "Dukungan workstation PC",
+      "button": "Lihat Detail",
+      "detail": {
+        "description": "Sistem CASA profesional yang dirancang untuk penggunaan klinis dan laboratorium, menampilkan algoritma AI canggih dan analisis parameter komprehensif untuk evaluasi semen manusia.",
+        "keyFeatures": {
+          "title": "Fitur Utama",
+          "items": [
+            "Otomatis penuh",
+            "Layar sentuh",
+            "Panggung Pemanas Built-in",
+            "Sistem all-in-one standalone",
+            "Algoritma AI gambar dinamis Gaussian canggih",
+            "Ruang hitung: Enhanced/Coated 2-chamber, kedalaman tetap 10μm",
+            "Bidang pandang ganda yang dapat disesuaikan, hingga 1500 hitungan sperma per bidang pandang",
+            "Mendukung pemutaran video",
+            "Mendukung pemindai barcode eksternal",
+            "Workstation PC"
+          ]
+        },
+        "analysisParameters": {
+          "title": "Parameter Analisis",
+          "groups": [
+            {
+              "title": "Konsentrasi dan Motilitas",
+              "items": [
+                "Jumlah sperma total",
+                "Sperma motil",
+                "Sperma non-motil",
+                "Sperma progresif dan lambat",
+                "Sperma non-progresif"
+              ]
+            },
+            {
+              "title": "Kinematika",
+              "items": [
+                "DCL, DSL, DAP",
+                "VCL, VSL, VAP",
+                "ALH, MAD, BCF",
+                "LIN, WOB, STR"
+              ]
+            },
+            {
+              "title": "Morfologi",
+              "items": [
+                "Sperma normal dan abnormal",
+                "Cacat kepala",
+                "DMR",
+                "Droplet distal",
+                "Droplet proksimal",
+                "Cacat ekor",
+                "Residu sitoplasma",
+                "TZI, SDI"
+              ]
+            },
+            {
+              "title": "Tambahan",
+              "items": [
+                "Sel Bulat"
+              ]
+            }
+          ]
+        },
+        "complianceStandards": {
+          "title": "Kepatuhan & Standar",
+          "standards": [
+            {
+              "slug": "who-6th-edition-semen-analysis-standards",
+              "name": "WHO 6th",
+              "title": "Panduan WHO Edisi ke-6",
+              "description": "<strong>Nexus Dx1</strong> sepenuhnya mematuhi panduan <strong>WHO Edisi ke-6</strong>. Baca analisis detail kami."
+            },
+            {
+              "slug": "iso-23162-2021-laboratory-competence-guide",
+              "name": "ISO 23162",
+              "title": "Panduan ISO 23162",
+              "description": "<strong>Nexus Dx1</strong> sepenuhnya mematuhi panduan <strong>ISO 23162</strong>. Baca analisis detail kami."
+            },
+            {
+              "slug": "eshre-guidelines-clinical-semen-examination",
+              "name": "ESHRE",
+              "title": "Panduan ESHRE",
+              "description": "<strong>Nexus Dx1</strong> sepenuhnya mematuhi panduan <strong>ESHRE</strong>. Baca analisis detail kami."
+            },
+            {
+              "slug": "asrm-male-infertility-evaluation-protocols",
+              "name": "ASRM",
+              "title": "Panduan ASRM",
+              "description": "<strong>Nexus Dx1</strong> sepenuhnya mematuhi panduan <strong>ASRM</strong>. Baca analisis detail kami."
+            }
+          ],
+          "learnMore": "Pelajari lebih lanjut →"
+        }
+      }
+    },
+    "msqa": {
+      "name": "MSQA-100",
+      "tag": "Manusia",
+      "badge": "CASA Penggunaan Rumah Portabel",
+      "heroSubtitle": "Sistem CASA Penggunaan Rumah Portabel",
+      "subtitle": "Analisis Semen CASA Portabel",
+      "description": "Sistem CASA penggunaan rumah portabel dengan kompatibilitas smartphone, memberikan kinerja tingkat laboratorium dalam format kompak.",
+      "feature1": "Kompatibel smartphone",
+      "feature2": "Kontrol suhu built-in",
+      "feature3": "Analisis AI berbasis cloud",
+      "button": "Lihat Detail",
+      "detail": {
+        "description": "MSQA-100 adalah sistem Computer-Assisted Sperm Analysis (CASA) penggunaan rumah portabel yang dirancang untuk evaluasi semen yang cepat, akurat, dan ramah pengguna. Dengan menggabungkan teknologi mikrofluida, manufaktur presisi, dan analisis gambar berbasis AI, MSQA-100 memberikan kinerja tingkat laboratorium dalam format yang kompak dan mudah diakses.",
+        "keyTechnologies": {
+          "title": "Teknologi & Fitur Utama",
+          "items": [
+            {
+              "label": "Slide Mikrofluida:",
+              "text": "Slide mikrofluida proprietary menciptakan ruang observasi tetap 7 μm ketika dua lapisan dirakit. Desain kedalaman tetap ini menghilangkan kebutuhan untuk fokus manual dan memastikan hasil yang konsisten dan dapat direproduksi."
+            },
+            {
+              "label": "Kompatibilitas Universal Smartphone & Tablet:",
+              "text": "Kompatibel dengan hampir semua kamera belakang smartphone dan tablet mainstream, memungkinkan pencitraan fleksibel dan berbiaya rendah tanpa mikroskop khusus."
+            },
+            {
+              "label": "Kontrol Suhu Built-in:",
+              "text": "Modul termal terintegrasi mempertahankan sampel pada 37°C selama analisis, melestarikan motilitas sperma dan memastikan hasil yang akurat secara fisiologis."
+            },
+            {
+              "label": "Biochip Polimer Ultra-Mikrofluida:",
+              "text": "Desain mikrofluida canggih untuk penanganan sampel yang presisi dan karakteristik aliran optimal."
+            },
+            {
+              "label": "Analisis AI Berbasis Cloud:",
+              "text": "Didukung oleh algoritma cerdas gambar dinamis Gaussian server cloud untuk pemrosesan data yang akurat dan otomatis."
+            },
+            {
+              "label": "Sistem Visi Mikroskopis Fokus Otomatis:",
+              "text": "Memastikan kualitas gambar optimal untuk analisis dengan kemampuan fokus otomatis."
+            },
+            {
+              "label": "Analisis Otomatis Penuh:",
+              "text": "Operasi pengguna minimal, cocok untuk pengaturan profesional dan rumah."
+            }
+          ]
+        },
+        "measuredParameters": {
+          "title": "Parameter yang Diukur",
+          "groups": [
+            {
+              "title": "Konsentrasi & Hitungan",
+              "items": [
+                "Konsentrasi sperma",
+                "Jumlah sperma total"
+              ]
+            },
+            {
+              "title": "Motilitas",
+              "items": [
+                "Motilitas total",
+                "Motilitas progresif",
+                "Motilitas non-progresif",
+                "Sperma non-motil"
+              ]
+            },
+            {
+              "title": "Kinematika",
+              "items": [
+                "Kecepatan garis lurus (VSL)",
+                "Persentase sperma motil garis lurus",
+                "Kecepatan kurvilinear (VCL)",
+                "Parameter gerak lainnya"
+              ]
+            }
+          ]
+        },
+        "physicalSpecs": {
+          "title": "Spesifikasi Fisik",
+          "items": [
+            {
+              "label": "Dimensi:",
+              "text": "174.8 × 113.5 × 50.5 mm"
+            },
+            {
+              "label": "Berat:",
+              "text": "Desain ringan dan portabel"
+            },
+            {
+              "label": "Daya:",
+              "text": "Bertenaga baterai untuk penggunaan lapangan"
+            }
+          ]
+        },
+        "applications": {
+          "title": "Aplikasi",
+          "intro": "MSQA-100 ideal untuk:",
+          "items": [
+            "Pemantauan kesuburan berbasis rumah",
+            "Klinik perawatan primer",
+            "Pengujian lapangan dan unit kesehatan mobile",
+            "Institusi penelitian dan pendidikan",
+            "Telemedicine dan diagnostik jarak jauh"
+          ]
+        }
+      }
+    },
+    "sqavet": {
+      "name": "SQA-6100vet",
+      "tag": "Hewan",
+      "badge": "Sistem CASA Hewan",
+      "heroSubtitle": "Sistem CASA Hewan Otomatis Penuh",
+      "subtitle": "Sistem CASA Hewan Otomatis Penuh",
+      "description": "Sistem CASA otomatis penuh revolusioner untuk penilaian reproduksi hewan, mendukung analisis multi-spesies dengan kemampuan lapangan portabel.",
+      "feature1": "Dukungan multi-spesies",
+      "feature2": "Waktu analisis 15 detik",
+      "feature3": "Desain all-in-one portabel",
+      "button": "Lihat Detail",
+      "detail": {
+        "description": "SQA-6100vet mewakili puncak teknologi reproduksi hewan. Sistem CASA otomatis penuh revolusioner ini memberikan akurasi dan reproduksibilitas yang tak tertandingi dalam evaluasi parameter sperma hewan, dapat bekerja sebagai sistem all-in-one standalone yang memiliki keuntungan besar dalam situasi lapangan dan portabel dan juga dapat bekerja dengan perangkat lunak PC khusus untuk manajemen data yang lebih ramah pengguna.",
+        "keyFeatures": {
+          "title": "Fitur Utama",
+          "items": [
+            "Otomatis penuh",
+            "Layar sentuh",
+            "Panggung Pemanas Built-in",
+            "Sistem all-in-one standalone",
+            "Algoritma AI gambar dinamis Gaussian canggih",
+            "Ruang hitung: Enhanced/Coated 6-chamber, kedalaman tetap 20μm",
+            "Secepat waktu analisis 15 detik, bidang pandang ganda yang dapat dipilih",
+            "Mendukung pemutaran video",
+            "Mendukung pemindai barcode eksternal",
+            "Workstation PC",
+            "Mendukung multi-spesies"
+          ]
+        },
+        "analysisParameters": {
+          "title": "Parameter Analisis",
+          "groups": [
+            {
+              "title": "Konsentrasi dan Motilitas",
+              "items": [
+                "Jumlah sperma total",
+                "Sperma motil",
+                "Sperma non-motil",
+                "Sperma progresif dan lambat",
+                "Sperma non-progresif"
+              ]
+            },
+            {
+              "title": "Kinematika",
+              "items": [
+                "DCL, DSL, DAP",
+                "VCL, VSL, VAP",
+                "ALH, MAD, BCF",
+                "LIN, WOB, STR"
+              ]
+            },
+            {
+              "title": "Morfologi",
+              "items": [
+                "Sperma normal dan abnormal",
+                "Cacat kepala",
+                "DMR",
+                "Droplet distal",
+                "Droplet proksimal",
+                "Ekor Bengkok",
+                "Ekor Melingkar"
+              ]
+            },
+            {
+              "title": "Dosis",
+              "items": [
+                "Hitung otomatis jumlah dosis berdasarkan kali pengencer, volume sampel, jumlah sperma, dll."
+              ]
+            }
+          ]
+        },
+        "thermalIntegrity": {
+          "title": "Keuntungan Integritas Termal",
+          "subtitle": "Mengapa kontrol suhu built-in penting untuk analisis CASA yang akurat",
+          "intro": "Dalam dunia andrologi, \"Motilitas adalah Suhu.\" SQA-6100vet menampilkan panggung pemanas internal, real-time yang mempertahankan sampel pada suhu fisiologis (37°C) sepanjang analisis. Fitur kritis ini memastikan bahwa motilitas sperma diukur dalam kondisi seperti kehidupan, mencegah diagnosis \"Tidak Memuaskan\" palsu yang disebabkan oleh cold shock.",
+          "challenge": {
+            "title": "Tantangan",
+            "text": "Sperma hewan sangat sensitif terhadap perubahan suhu. Penurunan hanya 2-3°C dapat menyebabkan kehilangan motilitas segera, menyebabkan hasil yang tidak akurat."
+          },
+          "solution": {
+            "title": "Solusi",
+            "text": "Panggung pemanas terintegrasi SQA-6100vet mempertahankan 37°C konstan sepanjang analisis, mengungkapkan motilitas progresif sejati sebagaimana adanya di saluran reproduksi hewan."
+          }
+        },
+        "scientificStandards": {
+          "title": "Kesesuaian Standar Ilmiah",
+          "description": "SQA-6100vet dirancang untuk selaras dengan standar dan pedoman andrologi hewan terkemuka. Sistem kami mendukung kepatuhan dengan protokol yang mapan untuk pemeriksaan kesehatan pembiakan di berbagai spesies.",
+          "standards": [
+            {
+              "title": "Society for Theriogenology (SFT)",
+              "text": "Sesuai dengan pedoman SFT untuk Pemeriksaan Kesehatan Pembiakan Sapi, Domba, dan Kuda (BSE/EBSE). Mendukung protokol evaluasi terstandarisasi."
+            },
+            {
+              "title": "Protokol Multi-Spesies",
+              "text": "Algoritma spesifik spesies memastikan evaluasi parameter yang akurat."
+            },
+            {
+              "title": "Penggunaan Lapangan & Laboratorium",
+              "text": "Desain portabel memungkinkan pemeriksaan BSE di lokasi sambil mempertahankan presisi tingkat laboratorium. Ideal untuk produsen seedstock dan klinik hewan."
+            },
+            {
+              "title": "Validasi Penelitian",
+              "text": "Teknologi divalidasi oleh penelitian peer-reviewed dan digunakan di institusi akademik di seluruh dunia untuk penelitian reproduksi dan praktik klinis."
+            }
+          ],
+          "footer": "Jelajahi Standar Hewan: Kunjungi Pusat Pengetahuan kami untuk panduan detail tentang standar pemeriksaan kesehatan pembiakan dan praktik terbaik."
+        }
+      }
+    },
+    "nexusMeta": {
+      "title": "Sistem CASA Nexus Dx1 | WHO Edisi ke-6 | iSperm Medical",
+      "description": "Sistem CASA manusia otomatis penuh Nexus Dx1. Analisis semen sesuai dengan WHO edisi ke-6 dengan analisis morfologi sperma berbasis AI."
+    },
+    "msqaMeta": {
+      "title": "Sistem CASA Portabel MSQA-100 | iSperm Medical",
+      "description": "Sistem CASA penggunaan rumah portabel MSQA-100. Analisis semen kompatibel smartphone dengan AI cloud untuk analisis morfologi sperma."
+    },
+    "sqavetMeta": {
+      "title": "Sistem CASA Hewan SQA-6100vet | iSperm Medical",
+      "description": "Sistem CASA hewan multi-spesies SQA-6100vet. Analisis semen otomatis untuk sapi, domba, kuda, dan spesies lainnya. Desain siap lapangan."
+    }
+  },
+  "footer": {
+    "company": "iSperm Medical",
+    "description": "iSperm Medical Ltd. berkomitmen untuk memberikan solusi teknologi mutakhir dalam analisis semen.",
+    "quickLinks": "Tautan Cepat",
+    "contact": "Kontak",
+    "email": "Email:",
+    "address": "Alamat:",
+    "fullAddress": "2F, Block B, Shenchengtou & Zhongcheng Life Science Park, Pingshan District, Shenzhen, Guangdong, China",
+    "rights": "© 2024 iSperm Medical Ltd. Hak cipta dilindungi."
+  }
+}
+

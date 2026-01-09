@@ -1,0 +1,75 @@
+{
+  "meta": {
+    "title": "CASA Systeem & Sperma Analysator | iSperm Medical",
+    "description": "Volledig geautomatiseerde CASA systemen & sperma morfologie analysatoren voor menselijk & veterinair gebruik. WHO 6e editie conform. Toonaangevende fabrikant van sperma analysatoren."
+  },
+  "nav": {
+    "home": "Home",
+    "products": "Producten",
+    "about": "Over Ons",
+    "knowledgeHub": "Kenniscentrum",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Revolutie in Sperma Analyse",
+    "subtitle": "Baanbrekend in de Toekomst van CASA Automatisering",
+    "description": "Volledig geautomatiseerde CASA systemen voor menselijke en veterinaire sperma analyse",
+    "exploreProducts": "Bekijk Producten",
+    "learnMore": "Lees Ons Verhaal"
+  },
+  "about": {
+    "title": "Over iSperm Medical",
+    "tagline": "Baanbrekend in de Toekomst van Reproductieve Diagnostiek",
+    "description": "Sinds 2010 staat iSperm Medical aan de voorgrond van sperma analyse onderzoek. Als het eerste bedrijf dat volledig geautomatiseerde CASA systemen op de Chinese markt introduceerde, zijn we toegewijd aan het transformeren van vruchtbaarheidsdiagnostiek door precisie en technologie.",
+    "description2": "Van onze baanbrekende klinische oplossingen tot ons industrieleidende SQA-6100vet, combineren we AI-gedreven algoritmen met microfluidica om laboratoriumnauwkeurigheid te leveren aan professionals wereldwijd.",
+    "ourStory": "Ons Verhaal",
+    "heroImage": {
+      "alt": "iSperm Medical - Toonaangevende fabrikant van CASA-systemen en spermakwaliteitsanalysatoren voor reproductieve diagnostiek"
+    }
+  },
+  "features": {
+    "title": "Wetenschappelijke Innovatie",
+    "subtitle": "Baanbrekend in de Toekomst van Reproductieve Diagnostiek",
+    "automated": {
+      "title": "Gestandaardiseerde Workflow",
+      "description": "Bereik volledige procesautomatisering van laden tot rapportage. Onze systemen elimineren subjectieve bias, zorgen voor klinische consistentie en maximaliseren laboratoriumdoorvoer."
+    },
+    "aiPowered": {
+      "title": "Intelligente AI Herkenning",
+      "description": "Aangedreven door Gaussiaanse dynamische AI algoritmen, levert iSperm hoogprecisie morfologische en kinematische tracking, waarbij subtiele anomalieën worden geïdentificeerd met ongekende diagnostische nauwkeurigheid.",
+      "compliance": "Conform WHO 6e Editie Standaarden"
+    },
+    "standalone": {
+      "title": "Geïntegreerde Veelzijdigheid",
+      "description": "Een klinisch niveau, alles-in-één architectuur met een ingebouwde thermische stage en intuïtief touchscreen. Ontworpen voor naadloze prestaties in zowel high-end laboratoria als veeleisende veldomgevingen."
+    },
+    "comprehensive": {
+      "title": "Geavanceerde Analytics",
+      "description": "Volledig spectrum diagnostische parameters inclusief concentratie, multi-klasse beweeglijkheid en WHO 6e editie morfologie, biedend een compleet profiel van reproductieve gezondheid."
+    }
+  },
+  "timeline": {
+    "title": "Onze Reis",
+    "subtitle": "Een Erfenis van Innovatie",
+    "2010": "Opgericht met focus op baanbrekend CASA onderzoek in China.",
+    "2016": "Ontwikkeld China's eerste thuisgebruik CASA systeem, waardoor geavanceerde diagnostiek op consumentenniveau beschikbaar kwam.",
+    "2017": "Gelanceerd het eerste volledig geautomatiseerde professionele CASA systeem in China.",
+    "today": "Onze vlaggenschip CASA serie (Nexus Dx1 / SQA-6100vet) dient als de vertrouwde keuze voor geautomatiseerde reproductieve beoordeling wereldwijd."
+  },
+  "footer": {
+    "company": "iSperm Medical",
+    "description": "iSperm Medical Ltd. is toegewijd aan het leveren van geavanceerde technologische oplossingen in sperma analyse.",
+    "quickLinks": "Snelle Links",
+    "contact": "Contact",
+    "email": "E-mail:",
+    "address": "Adres:",
+    "fullAddress": "2F, Block B, Shenchengtou & Zhongcheng Life Science Park, Pingshan District, Shenzhen, Guangdong, China",
+    "rights": "© 2024 iSperm Medical Ltd. Alle rechten voorbehouden."
+  },
+  "notFound": {
+    "title": "Pagina niet gevonden",
+    "description": "De pagina die u zoekt bestaat niet of is verplaatst.",
+    "backToHome": "Terug naar home",
+    "statusCode": "404"
+  }
+}
