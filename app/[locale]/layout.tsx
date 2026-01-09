@@ -17,7 +17,27 @@ export async function generateMetadata({
   params: Promise<{locale: string}>;
 }): Promise<Metadata> {
   try {
-    const {locale} = await params;
+    // 防御性检查：确保 params 存在
+    if (!params) {
+      console.error('Params is undefined in generateMetadata');
+      return {
+        title: 'iSperm Medical',
+        description: 'CASA systems and semen analyzers',
+      };
+    }
+    
+    const resolvedParams = await params;
+    
+    // 防御性检查：确保 resolvedParams 存在且有 locale 属性
+    if (!resolvedParams || !resolvedParams.locale) {
+      console.error('Resolved params is invalid in generateMetadata:', resolvedParams);
+      return {
+        title: 'iSperm Medical',
+        description: 'CASA systems and semen analyzers',
+      };
+    }
+    
+    const {locale} = resolvedParams;
     
     // 验证路径中的 locale 是否合法
     if (!routing.locales.includes(locale as any)) {
@@ -62,7 +82,35 @@ export default async function LocaleLayout({
   params: Promise<{locale: string}>; // 注意：Next.js 15 中 params 是 Promise
 }) {
   try {
-    const {locale} = await params;
+    // 防御性检查：确保 params 存在
+    if (!params) {
+      console.error('Params is undefined in LocaleLayout');
+      // 使用默认语言
+      const defaultMessages = await getMessages({locale: routing.defaultLocale});
+      return (
+        <NextIntlClientProvider messages={defaultMessages} locale={routing.defaultLocale}>
+          <HtmlLangDir />
+          {children}
+        </NextIntlClientProvider>
+      );
+    }
+    
+    const resolvedParams = await params;
+    
+    // 防御性检查：确保 resolvedParams 存在且有 locale 属性
+    if (!resolvedParams || !resolvedParams.locale) {
+      console.error('Resolved params is invalid in LocaleLayout:', resolvedParams);
+      // 使用默认语言
+      const defaultMessages = await getMessages({locale: routing.defaultLocale});
+      return (
+        <NextIntlClientProvider messages={defaultMessages} locale={routing.defaultLocale}>
+          <HtmlLangDir />
+          {children}
+        </NextIntlClientProvider>
+      );
+    }
+    
+    const {locale} = resolvedParams;
 
     // 验证路径中的 locale 是否合法
     if (!routing.locales.includes(locale as any)) {
