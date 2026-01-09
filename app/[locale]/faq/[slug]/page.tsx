@@ -4,6 +4,7 @@ import {notFound} from 'next/navigation';
 import {Link} from '@/i18n/routing';
 import {Navigation} from '@/components/Navigation';
 import {generateHreflangAlternates} from '@/i18n/hreflang';
+import {routing} from '@/i18n/routing';
 
 // Helper function to add internal links for CASA and Nexus Dx1 in HTML content
 function processContentWithInternalLinks(content: string, locale: string): string {
@@ -84,6 +85,23 @@ const VALID_SLUGS = [
   'eshre-guidelines-clinical-semen-examination',
   'asrm-male-infertility-evaluation-protocols'
 ];
+
+/**
+ * 生成静态参数 - 为静态导出生成所有语言和所有 slug 的组合
+ * 这是静态导出模式下动态路由的必需函数
+ */
+export function generateStaticParams() {
+  const params: Array<{locale: string; slug: string}> = [];
+  
+  // 为每种语言和每个 slug 生成参数组合
+  for (const locale of routing.locales) {
+    for (const slug of VALID_SLUGS) {
+      params.push({locale, slug});
+    }
+  }
+  
+  return params;
+}
 
 export async function generateMetadata({
   params
