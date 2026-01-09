@@ -11,14 +11,42 @@ export async function generateMetadata({
 }: {
   params: Promise<{locale: string}>;
 }): Promise<Metadata> {
-  const {locale} = await params;
-  const t = await getTranslations({locale, namespace: 'products'});
+  try {
+    if (!params) {
+      return {
+        title: 'Nexus Dx1 | iSperm Medical',
+        description: 'Advanced CASA system for human semen analysis.',
+      };
+    }
+    const resolvedParams = await params;
+    if (!resolvedParams || !resolvedParams.locale) {
+      return {
+        title: 'Nexus Dx1 | iSperm Medical',
+        description: 'Advanced CASA system for human semen analysis.',
+      };
+    }
+    const {locale} = resolvedParams;
+    const t = await getTranslations({locale, namespace: 'products'});
 
-  return {
-    title: t('products.nexusMeta.title'),
-    description: t('products.nexusMeta.description'),
-    alternates: generateHreflangAlternates('/products/nexus-dx1'),
-  };
+    return {
+      title: t('products.nexusMeta.title'),
+      description: t('products.nexusMeta.description'),
+      alternates: generateHreflangAlternates('/products/nexus-dx1'),
+    };
+  } catch (error) {
+    console.error('Error in nexus-dx1 generateMetadata:', error);
+    return {
+      title: 'Nexus Dx1 | iSperm Medical',
+      description: 'Advanced CASA system for human semen analysis.',
+    };
+  }
+} catch (error) {
+    console.error('Error in nexus-dx1 generateMetadata:', error);
+    return {
+      title: 'Nexus Dx1 | iSperm Medical',
+      description: 'Advanced CASA system for human semen analysis.',
+    };
+  }
 }
 
 export default async function NexusDx1Page({
@@ -26,9 +54,17 @@ export default async function NexusDx1Page({
 }: {
   params: Promise<{locale: string}>;
 }) {
-  const {locale} = await params;
-  setRequestLocale(locale);
-  const t = await getTranslations({locale, namespace: 'products'});
+  try {
+    if (!params) {
+      throw new Error('Params is undefined in NexusDx1Page');
+    }
+    const resolvedParams = await params;
+    if (!resolvedParams || !resolvedParams.locale) {
+      throw new Error('Resolved params is invalid in NexusDx1Page');
+    }
+    const {locale} = resolvedParams;
+    setRequestLocale(locale);
+    const t = await getTranslations({locale, namespace: 'products'});
   // Fallback to English if current locale doesn't have detail data
   const tEn = await getTranslations({locale: 'en', namespace: 'products'});
   // Get FAQ translations for compliance articles
@@ -365,4 +401,13 @@ export default async function NexusDx1Page({
       </footer>
     </div>
   );
+  } catch (error) {
+    console.error('Error in NexusDx1Page:', error);
+    // 返回一个基本的错误页面
+    return (
+      <div>
+        <p>Error loading page. Please try again later.</p>
+      </div>
+    );
+  }
 }

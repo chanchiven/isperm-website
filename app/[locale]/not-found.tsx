@@ -9,14 +9,35 @@ export async function generateMetadata({
 }: {
   params: Promise<{locale: string}>;
 }): Promise<Metadata> {
-  const {locale} = await params;
-  const t = await getTranslations({locale, namespace: 'index'});
-  
-  return {
-    title: t('notFound.title'),
-    description: t('notFound.description'),
-    alternates: generateHreflangAlternates('/404'),
-  };
+  try {
+    if (!params) {
+      return {
+        title: '404 - Page Not Found | iSperm Medical',
+        description: 'The page you are looking for does not exist.',
+      };
+    }
+    const resolvedParams = await params;
+    if (!resolvedParams || !resolvedParams.locale) {
+      return {
+        title: '404 - Page Not Found | iSperm Medical',
+        description: 'The page you are looking for does not exist.',
+      };
+    }
+    const {locale} = resolvedParams;
+    const t = await getTranslations({locale, namespace: 'index'});
+    
+    return {
+      title: t('notFound.title'),
+      description: t('notFound.description'),
+      alternates: generateHreflangAlternates('/404'),
+    };
+  } catch (error) {
+    console.error('Error in not-found generateMetadata:', error);
+    return {
+      title: '404 - Page Not Found | iSperm Medical',
+      description: 'The page you are looking for does not exist.',
+    };
+  }
 }
 
 export default async function NotFoundPage({
@@ -24,8 +45,16 @@ export default async function NotFoundPage({
 }: {
   params: Promise<{locale: string}>;
 }) {
-  const {locale} = await params;
-  const t = await getTranslations({locale, namespace: 'index'});
+  try {
+    if (!params) {
+      throw new Error('Params is undefined in NotFoundPage');
+    }
+    const resolvedParams = await params;
+    if (!resolvedParams || !resolvedParams.locale) {
+      throw new Error('Resolved params is invalid in NotFoundPage');
+    }
+    const {locale} = resolvedParams;
+    const t = await getTranslations({locale, namespace: 'index'});
   
   return (
     <div>
@@ -132,4 +161,13 @@ export default async function NotFoundPage({
       </footer>
     </div>
   );
+  } catch (error) {
+    console.error('Error in NotFoundPage:', error);
+    // 返回一个基本的错误页面
+    return (
+      <div>
+        <p>Error loading page. Please try again later.</p>
+      </div>
+    );
+  }
 }

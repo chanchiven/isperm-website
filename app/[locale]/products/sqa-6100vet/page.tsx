@@ -10,14 +10,35 @@ export async function generateMetadata({
 }: {
   params: Promise<{locale: string}>;
 }): Promise<Metadata> {
-  const {locale} = await params;
-  const t = await getTranslations({locale, namespace: 'products'});
+  try {
+    if (!params) {
+      return {
+        title: 'SQA-6100VET | iSperm Medical',
+        description: 'Veterinary CASA system for animal semen analysis.',
+      };
+    }
+    const resolvedParams = await params;
+    if (!resolvedParams || !resolvedParams.locale) {
+      return {
+        title: 'SQA-6100VET | iSperm Medical',
+        description: 'Veterinary CASA system for animal semen analysis.',
+      };
+    }
+    const {locale} = resolvedParams;
+    const t = await getTranslations({locale, namespace: 'products'});
 
-  return {
-    title: t('products.sqavetMeta.title'),
-    description: t('products.sqavetMeta.description'),
-    alternates: generateHreflangAlternates('/products/sqa-6100vet'),
-  };
+    return {
+      title: t('products.sqavetMeta.title'),
+      description: t('products.sqavetMeta.description'),
+      alternates: generateHreflangAlternates('/products/sqa-6100vet'),
+    };
+  } catch (error) {
+    console.error('Error in sqa-6100vet generateMetadata:', error);
+    return {
+      title: 'SQA-6100VET | iSperm Medical',
+      description: 'Veterinary CASA system for animal semen analysis.',
+    };
+  }
 }
 
 export default async function SQA6100VetPage({
@@ -25,9 +46,17 @@ export default async function SQA6100VetPage({
 }: {
   params: Promise<{locale: string}>;
 }) {
-  const {locale} = await params;
-  setRequestLocale(locale);
-  const t = await getTranslations({locale, namespace: 'products'});
+  try {
+    if (!params) {
+      throw new Error('Params is undefined in SQA6100VetPage');
+    }
+    const resolvedParams = await params;
+    if (!resolvedParams || !resolvedParams.locale) {
+      throw new Error('Resolved params is invalid in SQA6100VetPage');
+    }
+    const {locale} = resolvedParams;
+    setRequestLocale(locale);
+    const t = await getTranslations({locale, namespace: 'products'});
   // Fallback to English if current locale doesn't have detail data
   const tEn = await getTranslations({locale: 'en', namespace: 'products'});
   
@@ -295,4 +324,13 @@ export default async function SQA6100VetPage({
       </footer>
     </div>
   );
+  } catch (error) {
+    console.error('Error in SQA6100VetPage:', error);
+    // 返回一个基本的错误页面
+    return (
+      <div>
+        <p>Error loading page. Please try again later.</p>
+      </div>
+    );
+  }
 }

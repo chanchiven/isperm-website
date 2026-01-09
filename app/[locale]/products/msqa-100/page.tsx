@@ -10,14 +10,35 @@ export async function generateMetadata({
 }: {
   params: Promise<{locale: string}>;
 }): Promise<Metadata> {
-  const {locale} = await params;
-  const t = await getTranslations({locale, namespace: 'products'});
+  try {
+    if (!params) {
+      return {
+        title: 'MSQA-100 | iSperm Medical',
+        description: 'Mobile CASA system for semen analysis.',
+      };
+    }
+    const resolvedParams = await params;
+    if (!resolvedParams || !resolvedParams.locale) {
+      return {
+        title: 'MSQA-100 | iSperm Medical',
+        description: 'Mobile CASA system for semen analysis.',
+      };
+    }
+    const {locale} = resolvedParams;
+    const t = await getTranslations({locale, namespace: 'products'});
 
-  return {
-    title: t('products.msqaMeta.title'),
-    description: t('products.msqaMeta.description'),
-    alternates: generateHreflangAlternates('/products/msqa-100'),
-  };
+    return {
+      title: t('products.msqaMeta.title'),
+      description: t('products.msqaMeta.description'),
+      alternates: generateHreflangAlternates('/products/msqa-100'),
+    };
+  } catch (error) {
+    console.error('Error in msqa-100 generateMetadata:', error);
+    return {
+      title: 'MSQA-100 | iSperm Medical',
+      description: 'Mobile CASA system for semen analysis.',
+    };
+  }
 }
 
 export default async function MSQA100Page({
@@ -25,9 +46,17 @@ export default async function MSQA100Page({
 }: {
   params: Promise<{locale: string}>;
 }) {
-  const {locale} = await params;
-  setRequestLocale(locale);
-  const t = await getTranslations({locale, namespace: 'products'});
+  try {
+    if (!params) {
+      throw new Error('Params is undefined in MSQA100Page');
+    }
+    const resolvedParams = await params;
+    if (!resolvedParams || !resolvedParams.locale) {
+      throw new Error('Resolved params is invalid in MSQA100Page');
+    }
+    const {locale} = resolvedParams;
+    setRequestLocale(locale);
+    const t = await getTranslations({locale, namespace: 'products'});
   // Fallback to English if current locale doesn't have detail data
   const tEn = await getTranslations({locale: 'en', namespace: 'products'});
   
@@ -309,4 +338,13 @@ export default async function MSQA100Page({
       </footer>
     </div>
   );
+  } catch (error) {
+    console.error('Error in MSQA100Page:', error);
+    // 返回一个基本的错误页面
+    return (
+      <div>
+        <p>Error loading page. Please try again later.</p>
+      </div>
+    );
+  }
 }

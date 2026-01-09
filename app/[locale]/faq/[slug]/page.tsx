@@ -108,8 +108,22 @@ export async function generateMetadata({
 }: {
   params: Promise<{locale: string; slug: string}>;
 }): Promise<Metadata> {
-  const {locale, slug} = await params;
-  const t = await getTranslations({locale, namespace: 'faq'});
+  try {
+    if (!params) {
+      return {
+        title: 'Article | iSperm Medical',
+        description: 'FAQ article from iSperm Medical.',
+      };
+    }
+    const resolvedParams = await params;
+    if (!resolvedParams || !resolvedParams.locale || !resolvedParams.slug) {
+      return {
+        title: 'Article | iSperm Medical',
+        description: 'FAQ article from iSperm Medical.',
+      };
+    }
+    const {locale, slug} = resolvedParams;
+    const t = await getTranslations({locale, namespace: 'faq'});
 
   // Validate slug - if invalid, trigger 404
   if (!VALID_SLUGS.includes(slug)) {
@@ -138,11 +152,18 @@ export async function generateMetadata({
     notFound();
   }
 
-  return {
-    title: `${title} | ${t('meta.title', {default: 'Knowledge Hub | CASA System FAQs | iSperm Medical'})}`,
-    description: subtitle,
-    alternates: generateHreflangAlternates(`/faq/${slug}`),
-  };
+    return {
+      title: `${title} | ${t('meta.title', {default: 'Knowledge Hub | CASA System FAQs | iSperm Medical'})}`,
+      description: subtitle,
+      alternates: generateHreflangAlternates(`/faq/${slug}`),
+    };
+  } catch (error) {
+    console.error('Error in faq/[slug] generateMetadata:', error);
+    return {
+      title: 'Article | iSperm Medical',
+      description: 'FAQ article from iSperm Medical.',
+    };
+  }
 }
 
 // Helper function to check if a value is an invalid translation key path
@@ -159,9 +180,17 @@ export default async function FAQArticlePage({
 }: {
   params: Promise<{locale: string; slug: string}>;
 }) {
-  const {locale, slug} = await params;
-  setRequestLocale(locale);
-  const t = await getTranslations({locale, namespace: 'faq'});
+  try {
+    if (!params) {
+      throw new Error('Params is undefined in FAQArticlePage');
+    }
+    const resolvedParams = await params;
+    if (!resolvedParams || !resolvedParams.locale || !resolvedParams.slug) {
+      throw new Error('Resolved params is invalid in FAQArticlePage');
+    }
+    const {locale, slug} = resolvedParams;
+    setRequestLocale(locale);
+    const t = await getTranslations({locale, namespace: 'faq'});
 
   // Validate slug - if invalid, trigger 404
   if (!VALID_SLUGS.includes(slug)) {
@@ -807,4 +836,13 @@ export default async function FAQArticlePage({
       </footer>
     </div>
   );
+  } catch (error) {
+    console.error('Error in FAQArticlePage:', error);
+    // 返回一个基本的错误页面
+    return (
+      <div>
+        <p>Error loading page. Please try again later.</p>
+      </div>
+    );
+  }
 }
