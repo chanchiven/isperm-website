@@ -8,7 +8,9 @@
     "products": "Ürünler",
     "about": "Hakkımızda",
     "knowledgeHub": "Bilgi Merkezi",
-    "contact": "İletişim"
+    "contact": "İletişim",
+    "openMenu": "Menüyü aç",
+    "closeMenu": "Menüyü kapat"
   },
   "hero": {
     "title": "Semen Analizinde Devrim",

@@ -113,6 +113,11 @@ body {
     flex-direction: column;
     cursor: pointer;
     gap: 4px;
+    background: transparent;
+    border: none;
+    padding: 0.5rem;
+    z-index: 1001;
+    position: relative;
 }
 
 .hamburger span {
@@ -120,6 +125,21 @@ body {
     height: 3px;
     background: var(--dark-color);
     transition: all 0.3s ease;
+    display: block;
+    border-radius: 2px;
+}
+
+/* 汉堡菜单激活状态 - 变成 X */
+.hamburger.active span:nth-child(1) {
+    transform: rotate(45deg) translate(6px, 6px);
+}
+
+.hamburger.active span:nth-child(2) {
+    opacity: 0;
+}
+
+.hamburger.active span:nth-child(3) {
+    transform: rotate(-45deg) translate(6px, -6px);
 }
 
 /* Language Selector */
@@ -1312,6 +1332,10 @@ section:not(.about-hero):not(.timeline-section):not(.founder-section) {
 @media (max-width: 768px) {
     .hamburger {
         display: flex;
+    }
+    
+    .hamburger:hover span {
+        background: var(--primary-color);
     }
     
     .language-selector {

@@ -8,7 +8,9 @@
     "products": "Productos",
     "about": "Nosotros",
     "knowledgeHub": "Centro de Conocimiento",
-    "contact": "Contacto"
+    "contact": "Contacto",
+    "openMenu": "Abrir menú",
+    "closeMenu": "Cerrar menú"
   },
   "hero": {
     "title": "Revolucionando el Análisis de Semen",

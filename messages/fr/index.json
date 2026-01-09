@@ -8,7 +8,9 @@
     "products": "Produits",
     "about": "À propos",
     "knowledgeHub": "Centre de Connaissances",
-    "contact": "Contact"
+    "contact": "Contact",
+    "openMenu": "Ouvrir le menu",
+    "closeMenu": "Fermer le menu"
   },
   "hero": {
     "title": "Révolutionner l'Analyse du Sperme",

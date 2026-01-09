@@ -8,7 +8,9 @@
     "products": "Produtos",
     "about": "Sobre Nós",
     "knowledgeHub": "Centro de Conhecimento",
-    "contact": "Contato"
+    "contact": "Contato",
+    "openMenu": "Abrir menu",
+    "closeMenu": "Fechar menu"
   },
   "hero": {
     "title": "Revolucionando a Análise de Sêmen",

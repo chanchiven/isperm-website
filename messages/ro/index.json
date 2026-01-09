@@ -8,7 +8,9 @@
     "products": "Produse",
     "about": "Despre Noi",
     "knowledgeHub": "Centru de Cunoștințe",
-    "contact": "Contact"
+    "contact": "Contact",
+    "openMenu": "Deschide meniul",
+    "closeMenu": "Închide meniul"
   },
   "hero": {
     "title": "Revoluționând Analiza Spermei",

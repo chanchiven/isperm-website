@@ -8,7 +8,9 @@
     "products": "Produkty",
     "about": "O nas",
     "knowledgeHub": "Centrum wiedzy",
-    "contact": "Kontakt"
+    "contact": "Kontakt",
+    "openMenu": "Otwórz menu",
+    "closeMenu": "Zamknij menu"
   },
   "hero": {
     "title": "Rewolucja w Analizie Nasienia",

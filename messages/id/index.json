@@ -8,7 +8,9 @@
     "products": "Produk",
     "about": "Tentang Kami",
     "knowledgeHub": "Pusat Pengetahuan",
-    "contact": "Kontak"
+    "contact": "Kontak",
+    "openMenu": "Buka menu",
+    "closeMenu": "Tutup menu"
   },
   "hero": {
     "title": "Revolusi Analisis Semen",

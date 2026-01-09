@@ -8,7 +8,9 @@
     "products": "Products",
     "about": "About Us",
     "knowledgeHub": "Knowledge Hub",
-    "contact": "Contact"
+    "contact": "Contact",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu"
   },
   "hero": {
     "title": "Revolutionizing Semen Analysis",

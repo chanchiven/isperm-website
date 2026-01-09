@@ -1,8 +1,8 @@
 'use client';
 
 import {useTranslations, useLocale} from 'next-intl';
-import {LanguageSwitcher} from '@/components/LanguageSwitcher';
 import {Link} from '@/i18n/routing';
+import {Navigation} from '@/components/Navigation';
 import AnimatedSection from '@/components/AnimatedSection';
 import {Activity, Brain, Package, BarChart3} from 'lucide-react';
 import Image from 'next/image';
@@ -18,23 +18,7 @@ export default function HomePage() {
   return (
     <div>
       {/* Navigation */}
-      <nav className="navbar">
-        <div className="container">
-          <div className="nav-wrapper">
-            <div className="logo">
-              <Link href="/">iSperm<span className="logo-medical">Medical</span></Link>
-            </div>
-            <ul className="nav-menu">
-              <li><Link href="/">{t('nav.home')}</Link></li>
-              <li><Link href="/products">{t('nav.products')}</Link></li>
-              <li><Link href="/about">{t('nav.about')}</Link></li>
-              <li><Link href="/faq">{t('nav.knowledgeHub')}</Link></li>
-              <li><Link href="/contact">{t('nav.contact')}</Link></li>
-            </ul>
-            <LanguageSwitcher />
-          </div>
-        </div>
-      </nav>
+      <Navigation />
 
       {/* Hero Section */}
       <section className="hero">

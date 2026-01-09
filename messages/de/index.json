@@ -8,7 +8,9 @@
     "products": "Produkte",
     "about": "Über uns",
     "knowledgeHub": "Wissensdatenbank",
-    "contact": "Kontakt"
+    "contact": "Kontakt",
+    "openMenu": "Menü öffnen",
+    "closeMenu": "Menü schließen"
   },
   "hero": {
     "title": "Revolutionierung der Samenanalyse",

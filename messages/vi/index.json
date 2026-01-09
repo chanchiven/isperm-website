@@ -8,7 +8,9 @@
     "products": "Sản phẩm",
     "about": "Về chúng tôi",
     "knowledgeHub": "Trung tâm Kiến thức",
-    "contact": "Liên hệ"
+    "contact": "Liên hệ",
+    "openMenu": "Mở menu",
+    "closeMenu": "Đóng menu"
   },
   "hero": {
     "title": "Cách mạng hóa Phân tích Tinh dịch",

@@ -8,7 +8,9 @@
     "products": "제품",
     "about": "회사 소개",
     "knowledgeHub": "지식 허브",
-    "contact": "문의하기"
+    "contact": "문의하기",
+    "openMenu": "메뉴 열기",
+    "closeMenu": "메뉴 닫기"
   },
   "hero": {
     "title": "정액 분석의 혁신",

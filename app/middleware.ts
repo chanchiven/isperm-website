@@ -58,6 +58,20 @@ export default function middleware(request: NextRequest) {
   //   );
   // }
   
+  // 显式处理根路径 - 重定向到默认语言或检测到的语言
+  if (pathname === '/') {
+    // 先让 next-intl 中间件处理，它会根据 Accept-Language 和 Cookie 决定重定向到哪个语言
+    const response = intlMiddleware(request);
+    // 如果 next-intl 没有重定向（理论上不应该发生），手动重定向到默认语言
+    if (response.status === 200 || response.status === 404) {
+      const defaultLocale = routing.defaultLocale;
+      const redirectUrl = new URL(`/${defaultLocale}`, request.url);
+      redirectUrl.search = request.nextUrl.search;
+      return NextResponse.redirect(redirectUrl);
+    }
+    return response;
+  }
+  
   // 处理重复语言代码的情况，如 /es/es -> /es
   const pathSegments = pathname.split('/').filter(Boolean);
   if (pathSegments.length >= 2) {
@@ -86,6 +100,9 @@ export default function middleware(request: NextRequest) {
 export const config = {
   // 匹配所有路径，但排除以下后缀：
   // _next (内部文件), api (接口), 所有带点的文件 (图片, favicon, robots.txt 等)
-  // next-intl 推荐的 matcher 配置
-  matcher: ['/((?!api|_next|.*\\..*).*)']
+  // 显式包含根路径 / 以确保中间件正确处理根路径重定向
+  matcher: [
+    '/',
+    '/((?!api|_next|.*\\..*).*)'
+  ]
 };

@@ -8,7 +8,9 @@
     "products": "Producten",
     "about": "Over Ons",
     "knowledgeHub": "Kenniscentrum",
-    "contact": "Contact"
+    "contact": "Contact",
+    "openMenu": "Menu openen",
+    "closeMenu": "Menu sluiten"
   },
   "hero": {
     "title": "Revolutie in Sperma Analyse",

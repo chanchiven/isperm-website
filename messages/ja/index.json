@@ -8,7 +8,9 @@
     "products": "製品",
     "about": "会社概要",
     "knowledgeHub": "ナレッジハブ",
-    "contact": "お問い合わせ"
+    "contact": "お問い合わせ",
+    "openMenu": "メニューを開く",
+    "closeMenu": "メニューを閉じる"
   },
   "hero": {
     "title": "精液分析の革新",
