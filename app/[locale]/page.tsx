@@ -6,15 +6,6 @@ import {Navigation} from '@/components/Navigation';
 import AnimatedSection from '@/components/AnimatedSection';
 import {Activity, Brain, Package, BarChart3} from 'lucide-react';
 import Image from 'next/image';
-import {routing} from '@/i18n/routing';
-
-/**
- * 生成静态参数 - 为静态导出生成所有语言的首页
- * 这是静态导出模式下动态路由的必需函数
- */
-export function generateStaticParams() {
-  return routing.locales.map((locale) => ({locale}));
-}
 
 export default function HomePage() {
   const t = useTranslations('index');
