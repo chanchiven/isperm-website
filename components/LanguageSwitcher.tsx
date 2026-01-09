@@ -4,16 +4,58 @@ import {useLocale} from 'next-intl';
 import {useState, useEffect, useRef} from 'react';
 import {routing} from '@/i18n/routing';
 
+// 固定的语言列表，确保服务器端和客户端一致
+const ALL_LANGUAGES = [
+  { code: 'en', name: 'English' },
+  { code: 'ar', name: 'العربية' },
+  { code: 'bg', name: 'Български' },
+  { code: 'de', name: 'Deutsch' },
+  { code: 'es', name: 'Español' },
+  { code: 'fr', name: 'Français' },
+  { code: 'id', name: 'Bahasa Indonesia' },
+  { code: 'it', name: 'Italiano' },
+  { code: 'ja', name: '日本語' },
+  { code: 'ko', name: '한국어' },
+  { code: 'nl', name: 'Nederlands' },
+  { code: 'pl', name: 'Polski' },
+  { code: 'pt', name: 'Português' },
+  { code: 'ro', name: 'Română' },
+  { code: 'ru', name: 'Русский' },
+  { code: 'tr', name: 'Türkçe' },
+  { code: 'uk', name: 'Українська' },
+  { code: 'vi', name: 'Tiếng Việt' }
+];
+
 export function LanguageSwitcher() {
   const locale = useLocale();
   const [isOpen, setIsOpen] = useState(false);
+  const [currentLangName, setCurrentLangName] = useState('English');
+  const [clientLocale, setClientLocale] = useState<string | null>(null);
+  const [mounted, setMounted] = useState(false);
   const menuRef = useRef<HTMLDivElement>(null);
-  // 直接使用 useLocale() 返回的值，确保服务器端和客户端一致
-  const currentLocale = locale;
+  
+  // 在客户端 hydration 后更新 locale 和语言名称，避免 hydration 不匹配
+  useEffect(() => {
+    setMounted(true);
+    
+    // 从 URL 路径中获取 locale，确保与服务器端一致
+    let detectedLocale = locale;
+    if (typeof window !== 'undefined') {
+      const pathSegments = window.location.pathname.split('/').filter(Boolean);
+      if (pathSegments.length > 0 && routing.locales.includes(pathSegments[0] as any)) {
+        detectedLocale = pathSegments[0];
+      }
+    }
+    
+    // 在客户端更新 locale 和语言名称
+    setClientLocale(detectedLocale);
+    const langName = ALL_LANGUAGES.find(lang => lang.code === detectedLocale)?.name || 'English';
+    setCurrentLangName(langName);
+  }, [locale]);
 
   const switchLanguage = (newLocale: string) => {
     // 如果已经是当前语言，不进行切换
-    if (newLocale === currentLocale) {
+    if (newLocale === locale) {
       setIsOpen(false);
       return;
     }
@@ -62,35 +104,45 @@ export function LanguageSwitcher() {
     };
   }, [isOpen]);
 
-  // English first, then sort the rest alphabetically by language name
-  const allLanguages = [
-    { code: 'en', name: 'English' },
-    { code: 'es', name: 'Español' },
-    { code: 'ar', name: 'العربية' },
-    { code: 'de', name: 'Deutsch' },
-    { code: 'it', name: 'Italiano' },
-    { code: 'pt', name: 'Português' },
-    { code: 'ru', name: 'Русский' },
-    { code: 'tr', name: 'Türkçe' },
-    { code: 'fr', name: 'Français' },
-    { code: 'pl', name: 'Polski' },
-    { code: 'nl', name: 'Nederlands' },
-    { code: 'ko', name: '한국어' },
-    { code: 'ja', name: '日本語' },
-    { code: 'vi', name: 'Tiếng Việt' },
-    { code: 'id', name: 'Bahasa Indonesia' },
-    { code: 'uk', name: 'Українська' },
-    { code: 'bg', name: 'Български' },
-    { code: 'ro', name: 'Română' }
-  ];
-  
-  // Separate English from others, then sort others alphabetically
-  const englishLang = allLanguages.find(lang => lang.code === 'en') || allLanguages[0];
-  const otherLanguages = allLanguages
-    .filter(lang => lang.code !== 'en')
-    .sort((a, b) => a.name.localeCompare(b.name));
-  
-  const languages = [englishLang, ...otherLanguages];
+  // 使用固定的语言列表，确保服务器端和客户端完全一致
+  const languages = ALL_LANGUAGES;
+
+  // 服务器端和客户端初始渲染时都使用相同的默认值，避免 hydration 不匹配
+  // 只在客户端 hydration 完成后才显示实际的语言名称和 active 状态
+  if (!mounted) {
+    return (
+      <div className="language-selector" ref={menuRef}>
+        <button 
+          className="lang-toggle" 
+          id="langToggle" 
+          aria-label="Select language"
+          onClick={() => setIsOpen(!isOpen)}
+        >
+          <span id="currentLang">
+            English
+          </span>
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" aria-hidden="true">
+            <path d="M6 9l6 6 6-6"/>
+          </svg>
+        </button>
+        <div className={`lang-menu ${isOpen ? 'active' : ''}`} id="langMenu">
+          {languages.map((lang) => (
+            <a
+              key={lang.code}
+              href="#"
+              className="lang-option"
+              onClick={(e) => {
+                e.preventDefault();
+                switchLanguage(lang.code);
+              }}
+            >
+              <span style={{whiteSpace: 'nowrap'}}>{lang.name}</span>
+            </a>
+          ))}
+        </div>
+      </div>
+    );
+  }
 
   return (
     <div className="language-selector" ref={menuRef}>
@@ -100,8 +152,8 @@ export function LanguageSwitcher() {
         aria-label="Select language"
         onClick={() => setIsOpen(!isOpen)}
       >
-        <span id="currentLang" suppressHydrationWarning>
-          {languages.find(lang => lang.code === currentLocale)?.name || 'English'}
+        <span id="currentLang">
+          {currentLangName}
         </span>
         <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" aria-hidden="true">
           <path d="M6 9l6 6 6-6"/>
@@ -112,7 +164,7 @@ export function LanguageSwitcher() {
           <a
             key={lang.code}
             href="#"
-            className={`lang-option ${currentLocale === lang.code ? 'active' : ''}`}
+            className={`lang-option ${clientLocale !== null && clientLocale === lang.code ? 'active' : ''}`}
             onClick={(e) => {
               e.preventDefault();
               switchLanguage(lang.code);

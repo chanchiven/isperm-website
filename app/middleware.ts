@@ -33,29 +33,30 @@ function isChineseUser(request: NextRequest): boolean {
 export default function middleware(request: NextRequest) {
   const {pathname} = request.nextUrl;
   
+  // 暂时关闭地域和语言阻止功能 - 允许所有用户访问
   // 检测中文用户（简体或繁体）或中国/台湾IP（不包括香港），直接返回简单404页面
-  if (isChineseUser(request)) {
-    // 返回最简单的404页面
-    return new NextResponse(
-      `<!DOCTYPE html>
-<html>
-<head>
-  <meta charset="utf-8">
-  <title>404</title>
-</head>
-<body>
-  <h1>404</h1>
-  <p>Not Found</p>
-</body>
-</html>`,
-      {
-        status: 404,
-        headers: {
-          'Content-Type': 'text/html; charset=utf-8',
-        },
-      }
-    );
-  }
+  // if (isChineseUser(request)) {
+  //   // 返回最简单的404页面
+  //   return new NextResponse(
+  //     `<!DOCTYPE html>
+  // <html>
+  // <head>
+  //   <meta charset="utf-8">
+  //   <title>404</title>
+  // </head>
+  // <body>
+  //   <h1>404</h1>
+  //   <p>Not Found</p>
+  // </body>
+  // </html>`,
+  //     {
+  //       status: 404,
+  //       headers: {
+  //         'Content-Type': 'text/html; charset=utf-8',
+  //       },
+  //     }
+  //   );
+  // }
   
   // 处理重复语言代码的情况，如 /es/es -> /es
   const pathSegments = pathname.split('/').filter(Boolean);
@@ -76,13 +77,15 @@ export default function middleware(request: NextRequest) {
   
   // 调用 next-intl 中间件，它会自动处理：
   // - 检测浏览器语言 (Accept-Language header)
-  // - 重定向到匹配的语言路径
+  // - 重定向到匹配的语言路径（如 / -> /en 或 /es 等）
   // - 设置语言 cookie
+  // - 处理根路径重定向
   return intlMiddleware(request);
 }
 
 export const config = {
   // 匹配所有路径，但排除以下后缀：
   // _next (内部文件), api (接口), 所有带点的文件 (图片, favicon, robots.txt 等)
+  // next-intl 推荐的 matcher 配置
   matcher: ['/((?!api|_next|.*\\..*).*)']
 };

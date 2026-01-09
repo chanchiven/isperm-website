@@ -3,7 +3,6 @@
 import {useTranslations, useLocale} from 'next-intl';
 import {LanguageSwitcher} from '@/components/LanguageSwitcher';
 import {Link} from '@/i18n/routing';
-import {useEffect} from 'react';
 import AnimatedSection from '@/components/AnimatedSection';
 import {Activity, Brain, Package, BarChart3} from 'lucide-react';
 import Image from 'next/image';
@@ -13,29 +12,8 @@ export default function HomePage() {
   const locale = useLocale();
 
   // Hero carousel functionality - DISABLED
-  // useEffect(() => {
-  //   // Ensure we're in the browser environment
-  //   if (typeof window === 'undefined') return;
-
-  //   const slides = document.querySelectorAll('.carousel-slide');
-  //   if (slides.length === 0) return;
-
-  //   let currentIndex = 0;
-
-  //   const showSlide = (index: number) => {
-  //     slides.forEach((slide, i) => {
-  //       slide.classList.toggle('active', i === index);
-  //     });
-  //   };
-
-  //   const nextSlide = () => {
-  //     currentIndex = (currentIndex + 1) % slides.length;
-  //     showSlide(currentIndex);
-  //   };
-
-  //   const interval = setInterval(nextSlide, 5000);
-  //   return () => clearInterval(interval);
-  // }, []);
+  // Banner is now fixed to display only the first image (banner (1).webp)
+  // See: 如何修复网页到现在的状态.md - Section 7
 
   return (
     <div>
@@ -60,15 +38,10 @@ export default function HomePage() {
 
       {/* Hero Section */}
       <section className="hero">
+        {/* Banner - Fixed display of first image (carousel disabled) */}
         <div className="hero-carousel">
           <div className="carousel-slides">
-            <div className="carousel-slide active" style={{backgroundImage: `url('/banner (1).webp')`}}>
-              <div className="hero-overlay"></div>
-            </div>
-            <div className="carousel-slide" style={{backgroundImage: `url('/banner (2).webp')`}}>
-              <div className="hero-overlay"></div>
-            </div>
-            <div className="carousel-slide" style={{backgroundImage: `url('/banner (3).webp')`}}>
+            <div className="carousel-slide active" style={{backgroundImage: `url('/banner%20(1).webp')`}}>
               <div className="hero-overlay"></div>
             </div>
           </div>
