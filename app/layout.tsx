@@ -2,6 +2,7 @@ import Script from 'next/script';
 import {Metadata} from 'next';
 
 export const metadata: Metadata = {
+  metadataBase: new URL('https://www.isperm.com'),
   title: 'iSperm Semen analyzer - Revolutionizing Semen Analysis',
   description: 'Fully automated semen analysis system designed for clinical and animal breeding use, featuring advanced AI algorithms.',
   icons: {

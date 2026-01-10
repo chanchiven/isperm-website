@@ -302,7 +302,7 @@ export default async function FAQArticlePage({
   }
   
   // Build canonical URL for structured data
-  const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || 'https://isperm.com';
+  const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || 'https://www.isperm.com';
   const articleUrl = `${baseUrl}/${locale}/faq/${slug}`;
   const breadcrumbUrl = `${baseUrl}/${locale}`;
   const knowledgeHubUrl = `${baseUrl}/${locale}/faq`;
