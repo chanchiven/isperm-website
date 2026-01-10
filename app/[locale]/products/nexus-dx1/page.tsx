@@ -122,7 +122,7 @@ export default async function NexusDx1Page({
       {/* Product Header */}
       <section className="hero" style={{minHeight: '40vh'}}>
         <div className="hero-background" style={{
-          backgroundImage: `url('/banner (2).webp')`,
+          backgroundImage: `url('/banner%20(1).webp')`,
           backgroundSize: 'cover',
           backgroundPosition: 'center',
           backgroundRepeat: 'no-repeat',
@@ -210,7 +210,12 @@ export default async function NexusDx1Page({
               </div>
             </div>
             <div className="product-detail-image">
-              <div className="product-images-list">
+              <div className="product-images-list product-images-grid-2x2" style={{
+                display: 'grid',
+                gridTemplateColumns: 'repeat(2, 1fr)',
+                gap: '2rem',
+                padding: '2rem'
+              }}>
                 <div className="product-image-item" style={{position: 'relative', aspectRatio: '16/9'}}>
                   <Image 
                     src="/nexus-dx1.webp" 
@@ -219,7 +224,7 @@ export default async function NexusDx1Page({
                     priority
                     quality={85}
                     style={{objectFit: 'contain', padding: '1rem'}}
-                    sizes="(max-width: 768px) 100vw, (max-width: 968px) 50vw, 33vw"
+                    sizes="(max-width: 768px) 100vw, (max-width: 968px) 50vw, 50vw"
                   />
                 </div>
                 <div className="product-image-item" style={{position: 'relative', aspectRatio: '16/9'}}>
@@ -229,7 +234,7 @@ export default async function NexusDx1Page({
                     fill
                     quality={85}
                     style={{objectFit: 'contain', padding: '1rem'}}
-                    sizes="(max-width: 768px) 100vw, (max-width: 968px) 50vw, 33vw"
+                    sizes="(max-width: 768px) 100vw, (max-width: 968px) 50vw, 50vw"
                   />
                 </div>
                 <div className="product-image-item" style={{position: 'relative', aspectRatio: '16/9'}}>
@@ -239,7 +244,17 @@ export default async function NexusDx1Page({
                     fill
                     quality={85}
                     style={{objectFit: 'contain', padding: '1rem'}}
-                    sizes="(max-width: 768px) 100vw, (max-width: 968px) 50vw, 33vw"
+                    sizes="(max-width: 768px) 100vw, (max-width: 968px) 50vw, 50vw"
+                  />
+                </div>
+                <div className="product-image-item" style={{position: 'relative', aspectRatio: '16/9'}}>
+                  <Image 
+                    src="/nexus-dx1-4.webp" 
+                    alt={`${getT('products.nexus.name')} advanced CASA system with high-resolution imaging and automated sperm analysis capabilities`}
+                    fill
+                    quality={85}
+                    style={{objectFit: 'contain', padding: '1rem'}}
+                    sizes="(max-width: 768px) 100vw, (max-width: 968px) 50vw, 50vw"
                   />
                 </div>
               </div>

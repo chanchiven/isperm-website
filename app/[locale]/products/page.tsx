@@ -59,7 +59,7 @@ export default function ProductsPage() {
       {/* Products Hero Section with Banner */}
       <section className="hero" style={{minHeight: '60vh', position: 'relative'}}>
         <div className="hero-background" style={{
-          backgroundImage: `url('/banner%20(2).webp')`,
+          backgroundImage: `url('/banner%20(1).webp')`,
           backgroundSize: 'cover',
           backgroundPosition: 'center',
           backgroundRepeat: 'no-repeat',

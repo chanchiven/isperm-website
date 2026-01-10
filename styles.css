@@ -1627,11 +1627,20 @@ section:not(.about-hero):not(.timeline-section):not(.founder-section) {
     font-size: 1.1rem;
 }
 
+/* Product images 2x2 grid layout */
+.product-images-grid-2x2 {
+    grid-template-columns: repeat(2, 1fr) !important;
+}
+
 @media (max-width: 968px) {
     .product-images-list {
         grid-template-columns: 1fr;
         gap: 1.5rem;
         padding: 1rem;
+    }
+
+    .product-images-grid-2x2 {
+        grid-template-columns: 1fr !important;
     }
 
     .product-image-item {

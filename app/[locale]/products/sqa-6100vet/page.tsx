@@ -107,7 +107,7 @@ export default async function SQA6100VetPage({
       {/* Product Header */}
       <section className="hero" style={{minHeight: '40vh'}}>
         <div className="hero-background" style={{
-          backgroundImage: `url('/banner (2).webp')`,
+          backgroundImage: `url('/banner%20(1).webp')`,
           backgroundSize: 'cover',
           backgroundPosition: 'center',
           backgroundRepeat: 'no-repeat',
@@ -195,7 +195,12 @@ export default async function SQA6100VetPage({
               </div>
             </div>
             <div className="product-detail-image">
-              <div className="product-images-list">
+              <div className="product-images-list product-images-grid-2x2" style={{
+                display: 'grid',
+                gridTemplateColumns: 'repeat(2, 1fr)',
+                gap: '2rem',
+                padding: '2rem'
+              }}>
                 <div className="product-image-item" style={{position: 'relative', aspectRatio: '4/3'}}>
                   <Image 
                     src="/sqa-6100vet-1.webp" 
@@ -204,27 +209,37 @@ export default async function SQA6100VetPage({
                     priority
                     quality={85}
                     style={{objectFit: 'contain', padding: '1rem'}}
-                    sizes="(max-width: 768px) 100vw, (max-width: 968px) 50vw, 33vw"
+                    sizes="(max-width: 768px) 100vw, (max-width: 968px) 50vw, 50vw"
                   />
                 </div>
                 <div className="product-image-item" style={{position: 'relative', aspectRatio: '4/3'}}>
                   <Image 
                     src="/sqa-6100vet-2.webp" 
-                    alt={`${t('products.sqavet.name')} portable veterinary CASA analyzer for field breeding soundness evaluation with all-in-one design and touch screen interface`}
+                    alt={`${getT('products.sqavet.name')} portable veterinary CASA analyzer for field breeding soundness evaluation with all-in-one design and touch screen interface`}
                     fill
                     quality={85}
                     style={{objectFit: 'contain', padding: '1rem'}}
-                    sizes="(max-width: 768px) 100vw, (max-width: 968px) 50vw, 33vw"
+                    sizes="(max-width: 768px) 100vw, (max-width: 968px) 50vw, 50vw"
                   />
                 </div>
                 <div className="product-image-item" style={{position: 'relative', aspectRatio: '4/3'}}>
                   <Image 
                     src="/sqa-6100vet-3.webp" 
-                    alt={`${t('products.sqavet.name')} CASA system touch screen interface displaying automated sperm motility and morphology analysis results for multi-species veterinary assessment`}
+                    alt={`${getT('products.sqavet.name')} CASA system touch screen interface displaying automated sperm motility and morphology analysis results for multi-species veterinary assessment`}
                     fill
                     quality={85}
                     style={{objectFit: 'contain', padding: '1rem'}}
-                    sizes="(max-width: 768px) 100vw, (max-width: 968px) 50vw, 33vw"
+                    sizes="(max-width: 768px) 100vw, (max-width: 968px) 50vw, 50vw"
+                  />
+                </div>
+                <div className="product-image-item" style={{position: 'relative', aspectRatio: '4/3'}}>
+                  <Image 
+                    src="/sqa-6100vet-4.webp" 
+                    alt={`${getT('products.sqavet.name')} veterinary CASA system with advanced imaging capabilities and multi-species semen analysis features`}
+                    fill
+                    quality={85}
+                    style={{objectFit: 'contain', padding: '1rem'}}
+                    sizes="(max-width: 768px) 100vw, (max-width: 968px) 50vw, 50vw"
                   />
                 </div>
               </div>

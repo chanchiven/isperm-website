@@ -114,7 +114,7 @@ export default async function FAQPage({
       {/* Knowledge Hub Header */}
       <section className="hero" style={{minHeight: '40vh'}}>
         <div className="hero-background" style={{
-          backgroundImage: `url('/banner (2).webp')`,
+          backgroundImage: `url('/banner%20(3).webp')`,
           backgroundSize: 'cover',
           backgroundPosition: 'center',
           backgroundRepeat: 'no-repeat',
