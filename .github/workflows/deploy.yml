@@ -53,6 +53,13 @@ jobs:
           echo "Build completed successfully"
           echo "Checking output directory..."
           ls -la out/ | head -20
+          
+      - name: Ensure .nojekyll exists
+        run: |
+          # 确保 .nojekyll 文件存在于构建输出中（禁用 Jekyll）
+          touch out/.nojekyll
+          echo ".nojekyll file created/verified"
+          ls -la out/.nojekyll
 
       - name: Setup Pages
         uses: actions/configure-pages@v4
