@@ -5,7 +5,7 @@
 """
 
 LANGUAGES = ['en', 'es', 'ar', 'de', 'it', 'pt', 'ru', 'tr', 'fr', 'pl', 'nl', 'ko', 'ja', 'vi', 'id', 'uk', 'bg', 'ro']
-BASE_URL = 'https://isperm-medical.github.io'
+BASE_URL = 'https://www.isperm.com'
 
 # 主要页面路径（不包含语言前缀）
 PAGES = [
@@ -63,7 +63,7 @@ def generate_url_entry(path: str, priority: str = '0.8', changefreq: str = 'mont
     return f'''  <url>
     <loc>{main_url}</loc>
 {hreflang_links}
-    <lastmod>2024-01-01</lastmod>
+    <lastmod>2026-01-10</lastmod>
     <changefreq>{changefreq}</changefreq>
     <priority>{priority}</priority>
   </url>'''
