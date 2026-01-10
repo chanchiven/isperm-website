@@ -107,7 +107,7 @@ export default async function MSQA100Page({
       {/* Product Header */}
       <section className="hero" style={{minHeight: '40vh'}}>
         <div className="hero-background" style={{
-          backgroundImage: `url('/banner (2).webp')`,
+          backgroundImage: `url('/MSQA-100/msqa-100-7.webp')`,
           backgroundSize: 'cover',
           backgroundPosition: 'center',
           backgroundRepeat: 'no-repeat',
