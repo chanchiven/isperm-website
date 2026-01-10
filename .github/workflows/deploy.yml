@@ -57,9 +57,51 @@ jobs:
       - name: Ensure .nojekyll exists
         run: |
           # 确保 .nojekyll 文件存在于构建输出中（禁用 Jekyll）
+          # Next.js 会自动复制 public/.nojekyll，但为了确保，我们也手动创建
+          if [ -f "public/.nojekyll" ]; then
+            echo "✓ Found public/.nojekyll, copying to out/"
+            cp public/.nojekyll out/.nojekyll || true
+          fi
           touch out/.nojekyll
           echo ".nojekyll file created/verified"
           ls -la out/.nojekyll
+          
+      - name: Verify root index.html exists
+        run: |
+          # 验证根路径的 index.html 文件存在
+          if [ -f "out/index.html" ]; then
+            echo "✓ Root index.html exists"
+            echo "First 30 lines of index.html:"
+            head -30 out/index.html
+          else
+            echo "⚠ Warning: out/index.html not found"
+            echo "Listing out/ directory:"
+            ls -la out/ | head -20
+          fi
+          
+      - name: Verify build output structure
+        run: |
+          echo "Build output structure:"
+          echo "======================"
+          ls -la out/ | head -30
+          echo ""
+          echo "Checking for .nojekyll:"
+          if [ -f "out/.nojekyll" ]; then
+            echo "✓ .nojekyll found in out/"
+            cat out/.nojekyll || echo "(empty file)"
+          else
+            echo "⚠ .nojekyll not found in out/"
+          fi
+          echo ""
+          echo "Checking for index.html:"
+          if [ -f "out/index.html" ]; then
+            echo "✓ index.html found in out/"
+          else
+            echo "⚠ index.html not found in out/"
+          fi
+          echo ""
+          echo "Checking for locale directories:"
+          ls -la out/ | grep -E "^d" | head -10 || echo "No directories found"
 
       - name: Setup Pages
         uses: actions/configure-pages@v4

@@ -447,13 +447,16 @@ export default async function FAQArticlePage({
             borderRadius: '12px',
             boxShadow: 'var(--shadow)'
           }}>
-            <h1 style={{
+            <h2 style={{
               marginBottom: '1.5rem',
               overflowWrap: 'break-word',
               wordWrap: 'break-word',
               wordBreak: 'break-word',
-              hyphens: locale === 'ar' ? 'none' : 'auto'
-            }}>{article.title}: {article.subtitle}</h1>
+              hyphens: locale === 'ar' ? 'none' : 'auto',
+              fontSize: '2rem',
+              fontWeight: 600,
+              color: 'var(--text-color)'
+            }}>{article.title}: {article.subtitle}</h2>
             
             {(() => {
                 try {

@@ -2,6 +2,8 @@ import Script from 'next/script';
 import {Metadata} from 'next';
 
 export const metadata: Metadata = {
+  title: 'CASA System & Sperm Analyzer | iSperm Medical',
+  description: 'Fully automated CASA systems & sperm morphology analyzers for human & veterinary use. WHO 6th edition compliant. Leading semen analyzer manufacturer.',
   icons: {
     icon: {
       url: 'data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y=".9em" font-size="90">🧬</text></svg>',
