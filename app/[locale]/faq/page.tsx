@@ -112,7 +112,7 @@ export default async function FAQPage({
       <Navigation />
 
       {/* Knowledge Hub Header */}
-      <section className="hero" style={{minHeight: '40vh'}}>
+      <section className="hero" style={{minHeight: '60vh', position: 'relative'}}>
         <div className="hero-background" style={{
           backgroundImage: `url('/banner%20(3).webp')`,
           backgroundSize: 'cover',
@@ -134,7 +134,7 @@ export default async function FAQPage({
           background: 'linear-gradient(135deg, rgba(0, 0, 0, 0.5) 0%, rgba(0, 0, 0, 0.3) 100%)',
           zIndex: -1
         }}></div>
-        <div className="container">
+        <div className="container" style={{position: 'relative', zIndex: 1}}>
           <div className="hero-content">
             <h1 className="hero-title">{t('hero.title')}</h1>
             <p className="hero-subtitle">{t('hero.subtitle')}</p>
