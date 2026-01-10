@@ -8,7 +8,7 @@ import {routing} from './routing';
  * @returns alternates 对象，包含所有语言的 hreflang 链接
  */
 export function generateHreflangAlternates(currentPath: string = '/') {
-  const baseUrl = 'https://isperm-medical.github.io';
+  const baseUrl = 'https://www.isperm.com';
   const alternates: {languages: Record<string, string>} = {
     languages: {}
   };
