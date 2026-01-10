@@ -2,8 +2,8 @@ import Script from 'next/script';
 import {Metadata} from 'next';
 
 export const metadata: Metadata = {
-  title: 'CASA System & Sperm Analyzer | iSperm Medical',
-  description: 'Fully automated CASA systems & sperm morphology analyzers for human & veterinary use. WHO 6th edition compliant. Leading semen analyzer manufacturer.',
+  title: 'iSperm Semen analyzer - Revolutionizing Semen Analysis',
+  description: 'Fully automated semen analysis system designed for clinical and animal breeding use, featuring advanced AI algorithms.',
   icons: {
     icon: {
       url: 'data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y=".9em" font-size="90">🧬</text></svg>',
@@ -30,6 +30,143 @@ export default function RootLayout({
   return (
     <html>
       <head>
+        {/* JSON-LD Structured Data */}
+        {/* Organization Schema */}
+        <Script
+          id="json-ld-organization"
+          type="application/ld+json"
+          strategy="afterInteractive"
+        >
+          {JSON.stringify({
+            "@context": "https://schema.org",
+            "@type": "Organization",
+            "name": "Semen analyzer, CASA - iSperm Medical",
+            "url": "https://www.isperm.com",
+            "logo": "https://www.isperm.com/logo.png",
+            "contactPoint": {
+              "@type": "ContactPoint",
+              "email": "market@isperm.com",
+              "contactType": "Sales"
+            },
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "2F, Block B, Shenchengtou & Zhongcheng Life Science Park",
+              "addressLocality": "Pingshan District",
+              "addressRegion": "Shenzhen",
+              "addressCountry": "CN"
+            },
+            "sameAs": [
+              "https://www.isperm.com"
+            ]
+          })}
+        </Script>
+        {/* WebSite Schema for Sitelinks */}
+        <Script
+          id="json-ld-website"
+          type="application/ld+json"
+          strategy="afterInteractive"
+        >
+          {JSON.stringify({
+            "@context": "https://schema.org",
+            "@type": "WebSite",
+            "name": "Semen analyzer, CASA - iSperm Medical",
+            "url": "https://www.isperm.com",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Semen analyzer, CASA - iSperm Medical",
+              "url": "https://www.isperm.com"
+            },
+            "potentialAction": {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "https://www.isperm.com/en/faq?q={search_term_string}"
+              },
+              "query-input": "required name=search_term_string"
+            }
+          })}
+        </Script>
+        {/* SiteNavigationElement Schema for Main Navigation Links */}
+        <Script
+          id="json-ld-navigation"
+          type="application/ld+json"
+          strategy="afterInteractive"
+        >
+          {JSON.stringify({
+            "@context": "https://schema.org",
+            "@type": "ItemList",
+            "itemListElement": [
+              {
+                "@type": "SiteNavigationElement",
+                "position": 1,
+                "name": "Home",
+                "url": "https://www.isperm.com/en/"
+              },
+              {
+                "@type": "SiteNavigationElement",
+                "position": 2,
+                "name": "Products",
+                "url": "https://www.isperm.com/en/products"
+              },
+              {
+                "@type": "SiteNavigationElement",
+                "position": 3,
+                "name": "Nexus Dx1",
+                "url": "https://www.isperm.com/en/products/nexus-dx1"
+              },
+              {
+                "@type": "SiteNavigationElement",
+                "position": 4,
+                "name": "MSQA-100",
+                "url": "https://www.isperm.com/en/products/msqa-100"
+              },
+              {
+                "@type": "SiteNavigationElement",
+                "position": 5,
+                "name": "SQA-6100Vet",
+                "url": "https://www.isperm.com/en/products/sqa-6100vet"
+              },
+              {
+                "@type": "SiteNavigationElement",
+                "position": 6,
+                "name": "About Us",
+                "url": "https://www.isperm.com/en/about"
+              },
+              {
+                "@type": "SiteNavigationElement",
+                "position": 7,
+                "name": "Knowledge Hub",
+                "url": "https://www.isperm.com/en/faq"
+              },
+              {
+                "@type": "SiteNavigationElement",
+                "position": 8,
+                "name": "Contact",
+                "url": "https://www.isperm.com/en/contact"
+              }
+            ]
+          })}
+        </Script>
+        {/* MedicalDevice Schema */}
+        <Script
+          id="json-ld-medical-device"
+          type="application/ld+json"
+          strategy="afterInteractive"
+        >
+          {JSON.stringify({
+            "@context": "https://schema.org",
+            "@type": "MedicalDevice",
+            "name": "iSperm Medical Semen Analyzer",
+            "description": "Fully automated semen analysis system designed for clinical and animal breeding use, featuring advanced AI algorithms.",
+            "manufacturer": {
+              "@type": "Organization",
+              "name": "iSperm Medical Ltd.",
+              "url": "https://www.isperm.com"
+            },
+            "applicationCategory": "MedicalDevice",
+            "medicalUse": "Semen analysis and fertility diagnostics"
+          })}
+        </Script>
         {/* Banner image preload removed - CSS backgroundImage cannot effectively utilize preload */}
         {/* The banner image is loaded via CSS backgroundImage, which browsers cannot immediately recognize as using the preloaded resource */}
         {/* Google tag (gtag.js) */}
