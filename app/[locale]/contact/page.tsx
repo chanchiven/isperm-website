@@ -52,12 +52,14 @@ export default function ContactPage() {
     setSubmitStatus('idle');
 
     try {
-      // 优先使用 Formspree，如果没有配置则使用 Web3Forms
-      const formspreeId = process.env.NEXT_PUBLIC_FORMSPREE_ID;
+      // 优先使用 Formspree，如果没有配置则使用默认值或 Web3Forms
+      // 默认使用表单 ID: meeejqka (https://formspree.io/f/meeejqka)
+      const formspreeId = process.env.NEXT_PUBLIC_FORMSPREE_ID || 'meeejqka';
       const web3formsKey = process.env.NEXT_PUBLIC_WEB3FORMS_KEY;
       
       let response: Response;
       
+      // 优先使用 Formspree（默认值确保表单总是可用）
       if (formspreeId) {
         // 使用 Formspree
         response = await fetch(`https://formspree.io/f/${formspreeId}`, {
@@ -76,7 +78,7 @@ export default function ContactPage() {
           }),
         });
       } else if (web3formsKey) {
-        // 使用 Web3Forms
+        // 使用 Web3Forms（备选方案）
         response = await fetch('https://api.web3forms.com/submit', {
           method: 'POST',
           headers: {
@@ -96,7 +98,7 @@ export default function ContactPage() {
           }),
         });
       } else {
-        // 如果没有配置任何服务，显示错误
+        // 如果都没有配置，显示错误（实际上不应该到达这里，因为有默认值）
         throw new Error('Form service not configured. Please set NEXT_PUBLIC_FORMSPREE_ID or NEXT_PUBLIC_WEB3FORMS_KEY');
       }
 
