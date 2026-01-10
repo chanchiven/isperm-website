@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>iSperm Medical - CASA Systems & Semen Analysis Solutions</title>
+  <subtitle>Advanced Computer-Assisted Sperm Analysis (CASA) systems for clinical and veterinary applications</subtitle>
+  <link href="https://www.isperm.com/" rel="alternate"/>
+  <link href="https://www.isperm.com/atom.xml" rel="self"/>
+  <id>https://www.isperm.com/</id>
+  <updated>2026-01-10T00:00:00Z</updated>
+  <author>
+    <name>iSperm Medical Ltd.</name>
+    <email>market@isperm.com</email>
+  </author>
+  <rights>© 2026 iSperm Medical Ltd. All rights reserved.</rights>
+  
+  <entry>
+    <title>iSperm Medical - Home</title>
+    <link href="https://www.isperm.com/en/" rel="alternate"/>
+    <id>https://www.isperm.com/en/</id>
+    <updated>2026-01-10T00:00:00Z</updated>
+    <summary>Leading provider of Computer-Assisted Sperm Analysis (CASA) systems for clinical and veterinary applications.</summary>
+  </entry>
+  
+  <entry>
+    <title>About Us - iSperm Medical</title>
+    <link href="https://www.isperm.com/en/about" rel="alternate"/>
+    <id>https://www.isperm.com/en/about</id>
+    <updated>2026-01-10T00:00:00Z</updated>
+    <summary>Learn about iSperm Medical and our commitment to delivering cutting-edge technology solutions in semen analysis.</summary>
+  </entry>
+  
+  <entry>
+    <title>Products - CASA Systems</title>
+    <link href="https://www.isperm.com/en/products" rel="alternate"/>
+    <id>https://www.isperm.com/en/products</id>
+    <updated>2026-01-10T00:00:00Z</updated>
+    <summary>Explore our comprehensive range of CASA systems including Nexus Dx1, MSQA-100, and SQA-6100vet.</summary>
+  </entry>
+  
+  <entry>
+    <title>Nexus Dx1 - Professional CASA System</title>
+    <link href="https://www.isperm.com/en/products/nexus-dx1" rel="alternate"/>
+    <id>https://www.isperm.com/en/products/nexus-dx1</id>
+    <updated>2026-01-10T00:00:00Z</updated>
+    <summary>Fully automated professional CASA system for human semen analysis with WHO 6th Edition compliance and advanced AI morphology analysis.</summary>
+  </entry>
+  
+  <entry>
+    <title>MSQA-100 - Portable Home-Use CASA System</title>
+    <link href="https://www.isperm.com/en/products/msqa-100" rel="alternate"/>
+    <id>https://www.isperm.com/en/products/msqa-100</id>
+    <updated>2026-01-10T00:00:00Z</updated>
+    <summary>Portable, home-use Computer-Assisted Sperm Analysis system designed for fast, accurate, and user-friendly semen evaluation.</summary>
+  </entry>
+  
+  <entry>
+    <title>SQA-6100VET - Veterinary CASA System</title>
+    <link href="https://www.isperm.com/en/products/sqa-6100vet" rel="alternate"/>
+    <id>https://www.isperm.com/en/products/sqa-6100vet</id>
+    <updated>2026-01-10T00:00:00Z</updated>
+    <summary>Multi-species CASA system for professional veterinary breeding soundness examination with built-in heating stage and automated sperm analysis.</summary>
+  </entry>
+  
+  <entry>
+    <title>Knowledge Hub - CASA Standards & Guidelines</title>
+    <link href="https://www.isperm.com/en/faq" rel="alternate"/>
+    <id>https://www.isperm.com/en/faq</id>
+    <updated>2026-01-10T00:00:00Z</updated>
+    <summary>Comprehensive knowledge hub covering WHO 6th Edition standards, ISO guidelines, and veterinary semen analysis protocols.</summary>
+  </entry>
+  
+  <entry>
+    <title>Contact Us - iSperm Medical</title>
+    <link href="https://www.isperm.com/en/contact" rel="alternate"/>
+    <id>https://www.isperm.com/en/contact</id>
+    <updated>2026-01-10T00:00:00Z</updated>
+    <summary>Get in touch with iSperm Medical for product inquiries, technical support, and partnership opportunities.</summary>
+  </entry>
+</feed>
