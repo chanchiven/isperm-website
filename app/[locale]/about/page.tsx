@@ -94,9 +94,9 @@ export default async function AboutPage({
       </section>
 
       {/* About Description Section */}
-      <section style={{padding: '80px 0', background: 'var(--white)'}}>
+      <section className="about-description-section" style={{padding: '80px 0', background: 'var(--white)'}}>
         <div className="container">
-          <div style={{maxWidth: '900px', margin: '0 auto', textAlign: 'center'}}>
+          <div style={{maxWidth: '900px', margin: '0 auto', textAlign: 'center', padding: '0 1rem'}}>
             <p style={{fontSize: '1.2rem', color: 'var(--text-color)', lineHeight: '1.8', margin: 0}}>
               {t('description.text')}
             </p>
@@ -157,13 +157,13 @@ export default async function AboutPage({
       </section>
 
       {/* Company Showcase Images */}
-      <section style={{padding: '80px 0', background: 'var(--light-color)'}}>
+      <section className="showcase-section" style={{padding: '80px 0', background: 'var(--light-color)'}}>
         <div className="container">
           <div className="section-header">
             <h2>{t('showcase.title')}</h2>
             <p>{t('showcase.subtitle')}</p>
           </div>
-          <div className="product-images-list" style={{maxWidth: '1200px', margin: '0 auto'}}>
+          <div className="product-images-list showcase-images" style={{maxWidth: '1200px', margin: '0 auto'}}>
             <div className="product-image-item" style={{position: 'relative', minHeight: '300px'}}>
               <img src="/About%20us%20(1).webp" alt={t('showcase.images.image1.alt')} loading="lazy" decoding="async" style={{width: '100%', height: '100%', objectFit: 'cover'}} />
             </div>
