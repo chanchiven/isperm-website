@@ -8,6 +8,16 @@ export const metadata: Metadata = {
       type: 'image/svg+xml',
     },
   },
+  alternates: {
+    types: {
+      'application/atom+xml': [
+        {
+          url: 'https://www.isperm.com/atom.xml',
+          title: 'iSperm Medical RSS Feed',
+        },
+      ],
+    },
+  },
 };
 
 export default function RootLayout({

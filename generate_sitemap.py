@@ -4,6 +4,8 @@
 生成包含所有18种语言 hreflang 的 sitemap.xml
 """
 
+from datetime import datetime
+
 LANGUAGES = ['en', 'es', 'ar', 'de', 'it', 'pt', 'ru', 'tr', 'fr', 'pl', 'nl', 'ko', 'ja', 'vi', 'id', 'uk', 'bg', 'ro']
 BASE_URL = 'https://www.isperm.com'
 
@@ -60,10 +62,13 @@ def generate_url_entry(path: str, priority: str = '0.8', changefreq: str = 'mont
     
     hreflang_links = generate_hreflang_links(path)
     
+    # 使用完整的 ISO 8601 格式（包含时间）
+    lastmod = datetime.now().strftime('%Y-%m-%dT%H:%M:%S+00:00')
+    
     return f'''  <url>
     <loc>{main_url}</loc>
 {hreflang_links}
-    <lastmod>2026-01-10</lastmod>
+    <lastmod>{lastmod}</lastmod>
     <changefreq>{changefreq}</changefreq>
     <priority>{priority}</priority>
   </url>'''
