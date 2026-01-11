@@ -5,7 +5,7 @@ import {Link} from '@/i18n/routing';
 import {Navigation} from '@/components/Navigation';
 import {HoverableDiv} from '@/components/HoverableDiv';
 import {HoverableLink} from '@/components/HoverableLink';
-import {useState} from 'react';
+import {useState, useEffect} from 'react';
 
 export default function ContactPage() {
   const t = useTranslations('contact');
@@ -21,6 +21,17 @@ export default function ContactPage() {
   const [isSubmitting, setIsSubmitting] = useState(false);
   const [submitStatus, setSubmitStatus] = useState<'idle' | 'success' | 'error'>('idle');
   const [errors, setErrors] = useState<{name?: string; email?: string}>({});
+  const [isMobile, setIsMobile] = useState(false);
+
+  useEffect(() => {
+    const checkMobile = () => {
+      setIsMobile(window.innerWidth <= 768);
+    };
+    
+    checkMobile();
+    window.addEventListener('resize', checkMobile);
+    return () => window.removeEventListener('resize', checkMobile);
+  }, []);
 
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
@@ -202,7 +213,7 @@ export default function ContactPage() {
                   fontWeight: 600,
                   color: '#333333',
                   marginBottom: '1rem',
-                  minHeight: '4.32rem',
+                  minHeight: isMobile ? 'auto' : '4.32rem',
                   display: 'flex',
                   alignItems: 'center',
                   justifyContent: 'center'
@@ -214,7 +225,7 @@ export default function ContactPage() {
                   color: '#666666',
                   lineHeight: '1.6',
                   marginBottom: 0,
-                  minHeight: '5.5rem'
+                  minHeight: isMobile ? 'auto' : '5.5rem'
                 }}>
                   {t('actionCards.partner.description')}
                 </p>
@@ -285,7 +296,7 @@ export default function ContactPage() {
                   fontWeight: 600,
                   color: '#333333',
                   marginBottom: '1rem',
-                  minHeight: '4.32rem',
+                  minHeight: isMobile ? 'auto' : '4.32rem',
                   display: 'flex',
                   alignItems: 'center',
                   justifyContent: 'center'
@@ -297,7 +308,7 @@ export default function ContactPage() {
                   color: '#666666',
                   lineHeight: '1.6',
                   marginBottom: 0,
-                  minHeight: '5.5rem'
+                  minHeight: isMobile ? 'auto' : '5.5rem'
                 }}>
                   {t('actionCards.consultation.description')}
                 </p>

@@ -2593,6 +2593,16 @@ section:not(.about-hero):not(.timeline-section):not(.founder-section) {
     .contact-grid {
         gap: 3rem;
     }
+
+    /* 移动端修改首页和Products页面的banner为nexus-dx1-4.webp */
+    .carousel-slide.active {
+        background-image: url('/nexus-dx1-4.webp') !important;
+    }
+
+    .hero-background {
+        background-image: url('/nexus-dx1-4.webp') !important;
+    }
+
 }
 
 @media (max-width: 768px) {
