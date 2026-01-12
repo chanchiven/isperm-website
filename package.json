@@ -4,7 +4,8 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "next build",
+    "build": "npm run build:search-index && next build",
+    "build:search-index": "tsx scripts/build-search-index.ts",
     "start": "next start",
     "lint": "next lint",
     "type-check": "tsc --noEmit",
@@ -14,6 +15,7 @@
   },
   "dependencies": {
     "framer-motion": "^12.23.26",
+    "fuse.js": "^7.1.0",
     "lucide-react": "^0.562.0",
     "next": "^14.0.4",
     "next-intl": "^3.5.0",
@@ -28,6 +30,7 @@
     "@types/react-dom": "^18.2.17",
     "cross-env": "^10.1.0",
     "sharp": "^0.34.5",
+    "tsx": "^4.7.0",
     "typescript": "^5.3.3"
   }
 }

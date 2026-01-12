@@ -4,6 +4,7 @@ import {useState, useEffect, useRef} from 'react';
 import {Link} from '@/i18n/routing';
 import {useTranslations, useLocale} from 'next-intl';
 import {LanguageSwitcher} from '@/components/LanguageSwitcher';
+import {SearchBar} from '@/components/SearchBar';
 
 /**
  * 客户端导航组件，确保正确保留当前语言
@@ -97,7 +98,10 @@ export function Navigation() {
             <li><Link href="/contact" locale={locale as any} onClick={closeMenu}>{t('nav.contact')}</Link></li>
           </ul>
           
-          <LanguageSwitcher />
+          <div style={{ display: 'flex', alignItems: 'center', gap: '1rem' }}>
+            <SearchBar />
+            <LanguageSwitcher />
+          </div>
         </div>
       </div>
     </nav>

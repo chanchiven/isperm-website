@@ -1,0 +1,714 @@
+{
+  "products": [
+    {
+      "id": "nexus-dx1",
+      "slug": "nexus-dx1",
+      "name": "Nexus Dx1",
+      "description": "Sistem CASA otomatis penuh yang dirancang untuk penggunaan klinis dan laboratorium, menampilkan algoritma AI canggih dan analisis parameter komprehensif.",
+      "subtitle": "Sistem CASA Manusia Otomatis Penuh",
+      "images": [
+        "/nexus-dx1-cover.webp",
+        "/nexus-dx1.webp",
+        "/nexus-dx1-2.webp",
+        "/nexus-dx1-3.webp",
+        "/nexus-dx1-4.webp"
+      ],
+      "features": [
+        "Otomatis penuh",
+        "Layar sentuh",
+        "Panggung Pemanas Built-in",
+        "Sistem all-in-one standalone",
+        "Algoritma AI gambar dinamis Gaussian canggih",
+        "Ruang hitung: Enhanced/Coated 2-chamber, kedalaman tetap 10μm",
+        "Bidang pandang ganda yang dapat disesuaikan, hingga 1500 hitungan sperma per bidang pandang",
+        "Mendukung pemutaran video",
+        "Mendukung pemindai barcode eksternal",
+        "Workstation PC",
+        "Analisis otomatis penuh",
+        "Panggung pemanas built-in",
+        "Dukungan workstation PC"
+      ],
+      "locale": "id"
+    },
+    {
+      "id": "msqa-100",
+      "slug": "msqa-100",
+      "name": "MSQA-100",
+      "description": "Sistem CASA penggunaan rumah portabel dengan kompatibilitas smartphone, memberikan kinerja tingkat laboratorium dalam format kompak.",
+      "subtitle": "Analisis Semen CASA Portabel",
+      "images": [
+        "/MSQA-100/msqa-100-cover.webp",
+        "/MSQA-100/msqa-100-1.webp",
+        "/MSQA-100/msqa-100-2.webp"
+      ],
+      "features": [
+        "Kompatibel smartphone",
+        "Kontrol suhu built-in",
+        "Analisis AI berbasis cloud"
+      ],
+      "locale": "id"
+    },
+    {
+      "id": "sqa-6100vet",
+      "slug": "sqa-6100vet",
+      "name": "SQA-6100vet",
+      "description": "Sistem CASA otomatis penuh revolusioner untuk penilaian reproduksi hewan, mendukung analisis multi-spesies dengan kemampuan lapangan portabel.",
+      "subtitle": "Sistem CASA Hewan Otomatis Penuh",
+      "images": [
+        "/sqa-6100vet-cover.webp",
+        "/sqa-6100vet-1.webp",
+        "/sqa-6100vet-2.webp"
+      ],
+      "features": [
+        "Otomatis penuh",
+        "Layar sentuh",
+        "Panggung Pemanas Built-in",
+        "Sistem all-in-one standalone",
+        "Algoritma AI gambar dinamis Gaussian canggih",
+        "Ruang hitung: Enhanced/Coated 6-chamber, kedalaman tetap 20μm",
+        "Secepat waktu analisis 15 detik, bidang pandang ganda yang dapat dipilih",
+        "Mendukung pemutaran video",
+        "Mendukung pemindai barcode eksternal",
+        "Workstation PC",
+        "Mendukung multi-spesies",
+        "Dukungan multi-spesies",
+        "Waktu analisis 15 detik",
+        "Desain all-in-one portabel"
+      ],
+      "locale": "id"
+    }
+  ],
+  "articles": [
+    {
+      "id": "faq-human-semen-standards",
+      "slug": "faq-human-semen-standards",
+      "title": "Standar Global untuk Analisis Semen Manusia",
+      "subtitle": "Panduan Perbandingan (WHO Edisi ke-6, ISO 23162, ESHRE, & ASRM)",
+      "content": "Pada tahun 2021, lanskap andrologi manusia didefinisikan ulang oleh rilis ganda Manual WHO Edisi ke-6 dan standar ISO 23162:2021. Dokumen-dokumen ini telah menggerakkan bidang menuju standardisasi yang ketat, menekankan bahwa akurasi hanya mungkin dicapai melalui kontrol kualitas yang ketat dan pengurangan subjektivitas manusia. 1. Fase Pre-analitik: Dasar Kualitas Standardisasi dimulai sebelum sampel mencapai mikroskop. Baik WHO Edisi ke-6 maupun ISO 23162 menekankan bahwa variabel pre-analitik",
+      "image": "/Knowledge Hub/Human Semen Analysis Standards/Human Semen Analysis Standards.webp",
+      "alt": "Panduan Standar Analisis Semen WHO Edisi ke-6 dengan sistem CASA, Motilitas Sperma, Morfologi Sperma, dan panggung pemanas built-in untuk andrologi manusia",
+      "category": "human",
+      "locale": "id"
+    },
+    {
+      "id": "who-6th-edition-semen-analysis-standards",
+      "slug": "who-6th-edition-semen-analysis-standards",
+      "title": "Keunggulan Analisis Semen: Panduan Komprehensif untuk Standar Edisi ke-6 WHO dan Teknologi CASA",
+      "subtitle": "Menguasai standar Edisi ke-6 WHO dengan teknologi CASA canggih untuk penilaian kesuburan pria yang presisi",
+      "content": "Dalam bidang kedokteran reproduksi, analisis semen tetap menjadi landasan penilaian kesuburan pria. Dengan rilis Edisi ke-6 WHO (2021), industri telah bergeser menuju presisi yang lebih tinggi, kontrol kualitas yang lebih ketat, dan integrasi sistem Analisis Sperma Berbantuan Komputer (CASA) canggih. Artikel ini mengeksplorasi evolusi standar ini dan persyaratan teknis untuk diagnostik klinis modern. Bab 1: Peran CASA dalam Andrologi Modern Mikroskopi manual tradisional, meskipun sudah lama ada,",
+      "image": "/WHO6.webp",
+      "alt": "Panduan Standar Analisis Semen Edisi ke-6 WHO dengan sistem CASA, Nexus Dx1, Motilitas Sperma, Morfologi Sperma, dan panggung pemanas built-in",
+      "category": "human",
+      "locale": "id"
+    },
+    {
+      "id": "iso-23162-2021-laboratory-competence-guide",
+      "slug": "iso-23162-2021-laboratory-competence-guide",
+      "title": "Menjembatani Standar Global: Panduan Mendalam tentang ISO 23162:2021 dan Kompetensi Laboratorium",
+      "subtitle": "Menguasai persyaratan teknis ISO 23162:2021 dan kerangka manajemen kualitas untuk hasil pemeriksaan semen yang dapat dibandingkan secara global",
+      "content": "Artikel ini berfokus pada ISO 23162:2021, standar internasional yang menentukan persyaratan dan metode uji untuk pemeriksaan semen manusia dasar. Sementara Edisi ke-6 WHO menyediakan manual klinis, ISO 23162 menyediakan kerangka teknis dan manajemen kualitas untuk laboratorium untuk memastikan hasil mereka dapat dibandingkan secara global. Rilis ISO 23162:2021 menandai tonggak dalam kedokteran reproduksi, menjadi standar internasional pertama yang didedikasikan untuk pemeriksaan semen dasar. Unt",
+      "image": "/ISO.webp",
+      "alt": "Panduan Kompetensi Laboratorium ISO 23162:2021 dengan sistem CASA, Nexus Dx1, Persyaratan pemeriksaan semen, Kontrol kualitas, dan Standar laboratorium",
+      "category": "human",
+      "locale": "id"
+    },
+    {
+      "id": "eshre-guidelines-clinical-semen-examination",
+      "slug": "eshre-guidelines-clinical-semen-examination",
+      "title": "Keunggulan Klinis: Pedoman ESHRE untuk Pemeriksaan Semen dan Manajemen Pasien",
+      "subtitle": "Pedoman ESHRE berbasis bukti yang menjembatani hasil laboratorium dan pengambilan keputusan klinis untuk hasil ART yang optimal",
+      "content": "Sementara Manual WHO menyediakan \"cara\" dan ISO 23162 menyediakan \"spesifikasi teknis\", ESHRE fokus pada Standar Perawatan—bagaimana diagnostik ini harus diintegrasikan ke dalam praktik klinis untuk meningkatkan hasil dalam Teknologi Reproduksi Berbantuan (ART). Sebagai otoritas terkemuka dalam kedokteran reproduksi Eropa, ESHRE menyediakan pedoman berbasis bukti yang menjembatani kesenjangan antara hasil laboratorium dan pengambilan keputusan klinis. Untuk klinik kesuburan modern, mengikuti rek",
+      "image": "/ESHRE.webp",
+      "alt": "Panduan Pemeriksaan Semen Klinis ESHRE dengan sistem CASA, Nexus Dx1, Keunggulan ART, IVF, ICSI, dan Teknologi Reproduksi Berbantuan",
+      "category": "human",
+      "locale": "id"
+    },
+    {
+      "id": "asrm-male-infertility-evaluation-protocols",
+      "slug": "asrm-male-infertility-evaluation-protocols",
+      "title": "Integritas Klinis: Pedoman ASRM untuk Evaluasi Infertilitas Pria dan Analisis Semen",
+      "subtitle": "Protokol ASRM berbasis bukti yang mengintegrasikan analisis semen ke dalam diagnosis holistik infertilitas pria dan jalur perawatan",
+      "content": "Sementara Manual WHO menyediakan \"cara\" dan ISO 23162 menyediakan \"standar teknis\", ASRM fokus pada Jalur Klinis—mengarahkan bagaimana hasil analisis semen harus memandu evaluasi diagnostik dan perawatan pria yang tidak subur dalam pengaturan klinis. Sebagai otoritas utama dalam kedokteran reproduksi di Amerika Serikat, ASRM menetapkan protokol berbasis bukti yang mendefinisikan perawatan kesuburan modern. Untuk klinisi dan direktur laboratorium, mengikuti pendapat komite ASRM memastikan bahwa a",
+      "image": "/ASRM.webp",
+      "alt": "Panduan Protokol Evaluasi Infertilitas Pria ASRM dengan sistem CASA, Nexus Dx1, Evaluasi infertilitas pria, IUI, IVF, ICSI, dan Standar laboratorium klinis",
+      "category": "human",
+      "locale": "id"
+    },
+    {
+      "id": "faq-bull-breeding-soundness",
+      "slug": "faq-bull-breeding-soundness",
+      "title": "Panduan Definitif untuk Kesehatan Pembiakan Sapi",
+      "subtitle": "Standar Klinis & Metodologi Modern",
+      "content": "Panduan komprehensif ini memberikan profesional hewan dan produsen dengan standar klinis dan metodologi modern yang diperlukan untuk melakukan Pemeriksaan Kesehatan Pembiakan Sapi (BSE) lengkap sesuai dengan pedoman Society for Theriogenology (SFT). Bab 1: Penilaian Bio-Perilaku Pejantan Dalam praktik klinis kami sebagai andrologis, kami sering mengingatkan produsen bahwa nilai seekor sapi tidak ditemukan dalam tabung reaksi, tetapi dalam kemampuannya untuk melayani sapi betina di padang rumput.",
+      "image": "/Knowledge Hub/Bull Breeding Soundness Guide/Bull Breeding Soundness Guide.webp",
+      "alt": "Panduan Pemeriksaan Kesehatan Pembiakan Sapi dengan Pedoman Analisis Semen Hewan SFT, sistem CASA, Motilitas Sperma, dan panggung pemanas built-in",
+      "category": "veterinary",
+      "locale": "id"
+    },
+    {
+      "id": "faq-canine-semen-analysis",
+      "slug": "faq-canine-semen-analysis",
+      "title": "Panduan Profesional untuk Analisis Semen Anjing",
+      "subtitle": "Standar Klinis untuk Kesuburan dan Integritas Reproduksi Anjing",
+      "content": "Panduan komprehensif ini memberikan profesional hewan dan peternak dengan standar klinis dan metodologi yang diperlukan untuk melakukan Pemeriksaan Kesehatan Pembiakan Anjing (BSE) lengkap dan analisis semen. Bab 1: Seleksi dan Siklus Hidup Reproduksi Evaluasi anjing pejantan dimulai dengan silsilah dan riwayat perkembangannya. Dalam andrologi anjing, pubertas biasanya terjadi antara 6 dan 12 bulan, tergantung pada ras (ras yang lebih besar sering matang lebih lambat). Namun, kami umumnya mereko",
+      "image": "/Knowledge Hub/Canine Semen Analysis Guide/Canine Semen Analysis Guide.webp",
+      "alt": "Panduan Analisis Semen Anjing dengan standar hewan SFT, sistem CASA, Motilitas Sperma, Morfologi Sperma, dan panggung pemanas built-in untuk kesuburan anjing",
+      "category": "veterinary",
+      "locale": "id"
+    },
+    {
+      "id": "faq-poultry-semen-analysis",
+      "slug": "faq-poultry-semen-analysis",
+      "title": "Panduan Profesional untuk Analisis Semen Unggas",
+      "subtitle": "Standar Klinis untuk Kesuburan Ayam Jantan",
+      "content": "Dalam industri unggas, khususnya untuk pembiak broiler dan layer, evaluasi kesuburan ayam jantan adalah landasan kesuksesan penetasan dan penggantian kawanan. Tidak seperti mamalia, tidak ada \"Manual SFT\" tunggal untuk unggas; sebaliknya, standar diatur oleh pedoman World's Poultry Science Association (WPSA), protokol FAO untuk Sumber Daya Genetik Hewan, dan manual teknis pembiak primer (seperti Aviagen dan Cobb). Bab 1: Seleksi dan Kinerja Genetik Pejantan Dalam sektor unggas komersial, ayam ja",
+      "image": "/Knowledge Hub/Poultry Semen Analysis Guide/Poultry Semen Analysis Guide.webp",
+      "alt": "Panduan Analisis Semen Unggas dengan standar hewan SFT, sistem CASA, Motilitas Sperma, Morfologi Sperma, dan panggung pemanas built-in untuk kesuburan ayam jantan",
+      "category": "veterinary",
+      "locale": "id"
+    },
+    {
+      "id": "faq-stallion-semen-analysis",
+      "slug": "faq-stallion-semen-analysis",
+      "title": "Panduan Profesional untuk Analisis Semen Kuda Jantan",
+      "subtitle": "Standar Klinis untuk Kesehatan Pembiakan Kuda (EBSE)",
+      "content": "Panduan komprehensif ini memberikan profesional hewan dan peternak dengan standar klinis dan metodologi yang diperlukan untuk melakukan Evaluasi Kesehatan Pembiakan Kuda (EBSE) lengkap dan analisis semen. Bab 1: Seleksi Kuda Jantan dan Perilaku Reproduksi Evaluasi kuda jantan dimulai dengan silsilah genetiknya dan penilaian menyeluruh terhadap perilaku reproduksinya. Dalam industri kuda, seekor kuda jantan harus memiliki libido yang kuat dan dapat dikendalikan. Kami mengevaluasi respons kuda jan",
+      "image": "/Knowledge Hub/Stallion Semen Analysis Guide/Stallion Semen Analysis Guide.webp",
+      "alt": "Panduan Analisis Semen Kuda Jantan dengan standar hewan SFT, sistem CASA, Motilitas Sperma, Morfologi Sperma, dan panggung pemanas built-in untuk kesehatan pembiakan kuda",
+      "category": "veterinary",
+      "locale": "id"
+    },
+    {
+      "id": "faq-camelid-andrology",
+      "slug": "faq-camelid-andrology",
+      "title": "Standar Profesional untuk Andrologi Camelid",
+      "subtitle": "Panduan Evaluasi Klinis & Analisis Digital untuk Kesuburan Unta",
+      "content": "Andrologi camelid adalah salah satu bidang paling menantang dan terspesialisasi dalam reproduksi hewan. Baik berurusan dengan Dromedary (berpunuk satu) atau Bactrian (berpunuk dua), karakteristik fisiologis unik dari \"kapal gurun\" ini—khususnya musiman yang intens dan viskositas ekstrem semen mereka—memerlukan pendekatan diagnostik khusus. Bab 1: Musiman dan Fisiologi \"Rut\" Dalam reproduksi camelid, musiman adalah faktor utama yang menentukan setiap hasil klinis. Unta adalah pembiak musiman, den",
+      "image": "/Knowledge Hub/Camelid Andrology Guide/Camelid Andrology Guide.webp",
+      "alt": "Panduan Andrologi Camelid dengan standar hewan SFT, sistem CASA, Motilitas Sperma, Morfologi Sperma, dan panggung pemanas built-in untuk evaluasi kesuburan unta",
+      "category": "veterinary",
+      "locale": "id"
+    },
+    {
+      "id": "faq-fish-semen-analysis",
+      "slug": "faq-fish-semen-analysis",
+      "title": "Panduan Otoritatif untuk Analisis Semen Ikan",
+      "subtitle": "Standar Klinis untuk Manajemen Induk dan Kesuksesan Reproduksi",
+      "content": "Dasar dari penetasan yang sukses terletak pada seleksi \"Induk\". Tidak seperti mamalia, kesuburan ikan sangat terkait dengan siklus lingkungan dan pematangan spesifik usia. Panduan komprehensif ini membahas tantangan unik analisis semen ikan dan manajemen induk. Bab 1: Seleksi dan Manajemen Pejantan Induk Kami mengevaluasi pejantan berdasarkan \"Kesiapan Fenotipik\" mereka—indikator seperti karakteristik seksual sekunder (misalnya, tuberkel pembiakan pada cyprinids atau perkembangan kype pada salmo",
+      "image": "/Knowledge Hub/Fish Semen Analysis Guide/Fish Semen Analysis Guide.webp",
+      "alt": "Panduan Analisis Semen Ikan dengan standar hewan SFT, sistem CASA, Motilitas Sperma, Morfologi Sperma, dan panggung pemanas built-in untuk manajemen induk",
+      "category": "veterinary",
+      "locale": "id"
+    },
+    {
+      "id": "faq-ram-breeding-soundness",
+      "slug": "faq-ram-breeding-soundness",
+      "title": "Pemeriksaan Kesehatan Pembiakan Domba Jantan (RBSE)",
+      "subtitle": "Standar Klinis untuk Penilaian Kesuburan Domba Jantan",
+      "content": "Salah satu faktor paling kritis dalam kesuburan domba jantan yang membedakannya dari ternak lain adalah musimannya yang intens. Domba jantan adalah pembiak \"hari pendek\"; sistem endokrin reproduksi mereka diatur oleh fotoperiode. Panduan komprehensif ini memberikan profesional hewan dan produsen dengan standar klinis yang diperlukan untuk melakukan Pemeriksaan Kesehatan Pembiakan Domba Jantan (RBSE) lengkap. Bab 1: Musiman, Fotoperiode, dan Pubertas Ketika panjang hari menurun di musim gugur, pr",
+      "image": "/Knowledge Hub/Ram Breeding Soundness Examination (RBSE)/Ram Breeding Soundness Examination (RBSE).webp",
+      "alt": "Panduan Pemeriksaan Kesehatan Pembiakan Domba Jantan dengan standar hewan SFT, sistem CASA, Motilitas Sperma, Morfologi Sperma, dan panggung pemanas built-in untuk penilaian kesuburan domba jantan",
+      "category": "veterinary",
+      "locale": "id"
+    },
+    {
+      "id": "faq-boar-semen-evaluation",
+      "slug": "faq-boar-semen-evaluation",
+      "title": "Standar Evaluasi dan Pengolahan Semen Babi Jantan",
+      "subtitle": "Pemeriksaan Kesehatan Pembiakan Babi Jantan (BBSE)",
+      "content": "Perjalanan pejantan berkinerja tinggi dimulai dengan seleksi. Tidak seperti sapi, di mana layanan alami masih umum, babi jantan modern hampir secara eksklusif adalah donor Inseminasi Buatan (AI). Panduan komprehensif ini memberikan profesional hewan dan produsen dengan standar klinis yang diperlukan untuk melakukan Pemeriksaan Kesehatan Pembiakan Babi Jantan (BBSE) lengkap dan evaluasi semen. Bab 1: Seleksi dan Pubertas — Fondasi Genetik Kami memprioritaskan seleksi berdasarkan tiga pilar: merit",
+      "image": "/Knowledge Hub/Boar Semen Evaluation Guide/Boar Semen Evaluation Guide.webp",
+      "alt": "Panduan Evaluasi Semen Babi Jantan dengan standar hewan SFT, sistem CASA, Motilitas Sperma, Morfologi Sperma, dan panggung pemanas built-in untuk pemeriksaan kesehatan pembiakan babi jantan",
+      "category": "veterinary",
+      "locale": "id"
+    }
+  ],
+  "pages": [
+    {
+      "id": "home",
+      "path": "/",
+      "title": "iSperm Analisis Semen - Merevolusi Analisis Semen",
+      "description": "Sistem analisis semen otomatis penuh yang dirancang untuk penggunaan klinis dan peternakan hewan, dilengkapi dengan algoritma AI canggih.",
+      "locale": "id"
+    },
+    {
+      "id": "about",
+      "path": "/about",
+      "title": "Tentang iSperm Medical | Produsen Sistem CASA",
+      "description": "Produsen sistem CASA & analisis semen terkemuka. Analisis morfologi sperma sesuai dengan WHO edisi ke-6 untuk penggunaan manusia & hewan sejak 2010.",
+      "locale": "id"
+    },
+    {
+      "id": "contact",
+      "path": "/contact",
+      "title": "Hubungi iSperm Medical | Dukungan Sistem CASA",
+      "description": "Hubungi produsen sistem CASA & analisis semen terkemuka. Dapatkan dukungan untuk analisis morfologi sperma sesuai dengan WHO edisi ke-6.",
+      "locale": "id"
+    },
+    {
+      "id": "products",
+      "path": "/products",
+      "title": "Sistem CASA & Analisis Sperma | iSperm Medical",
+      "description": "Jelajahi sistem CASA & analisis morfologi sperma kami untuk penggunaan manusia & hewan. Solusi analisis semen sesuai dengan WHO edisi ke-6.",
+      "locale": "id"
+    },
+    {
+      "id": "faq",
+      "path": "/faq",
+      "title": "Pusat Pengetahuan | FAQ Sistem CASA | iSperm Medical",
+      "description": "FAQ sistem CASA komprehensif, panduan WHO edisi ke-6, dan sumber daya analisis semen. Wawasan ahli tentang analisis morfologi sperma.",
+      "locale": "id"
+    }
+  ],
+  "images": [
+    {
+      "id": "nexus-dx1-0",
+      "src": "/nexus-dx1-cover.webp",
+      "alt": "Nexus Dx1 - Product image 1",
+      "filename": "nexus-dx1-cover.webp",
+      "type": "product",
+      "associatedContent": {
+        "type": "product",
+        "id": "nexus-dx1",
+        "title": "Nexus Dx1",
+        "url": "/products/nexus-dx1"
+      },
+      "locale": "id"
+    },
+    {
+      "id": "nexus-dx1-1",
+      "src": "/nexus-dx1.webp",
+      "alt": "Nexus Dx1 - Product image 2",
+      "filename": "nexus-dx1.webp",
+      "type": "product",
+      "associatedContent": {
+        "type": "product",
+        "id": "nexus-dx1",
+        "title": "Nexus Dx1",
+        "url": "/products/nexus-dx1"
+      },
+      "locale": "id"
+    },
+    {
+      "id": "nexus-dx1-2",
+      "src": "/nexus-dx1-2.webp",
+      "alt": "Nexus Dx1 - Product image 3",
+      "filename": "nexus-dx1-2.webp",
+      "type": "product",
+      "associatedContent": {
+        "type": "product",
+        "id": "nexus-dx1",
+        "title": "Nexus Dx1",
+        "url": "/products/nexus-dx1"
+      },
+      "locale": "id"
+    },
+    {
+      "id": "nexus-dx1-3",
+      "src": "/nexus-dx1-3.webp",
+      "alt": "Nexus Dx1 - Product image 4",
+      "filename": "nexus-dx1-3.webp",
+      "type": "product",
+      "associatedContent": {
+        "type": "product",
+        "id": "nexus-dx1",
+        "title": "Nexus Dx1",
+        "url": "/products/nexus-dx1"
+      },
+      "locale": "id"
+    },
+    {
+      "id": "nexus-dx1-4",
+      "src": "/nexus-dx1-4.webp",
+      "alt": "Nexus Dx1 - Product image 5",
+      "filename": "nexus-dx1-4.webp",
+      "type": "product",
+      "associatedContent": {
+        "type": "product",
+        "id": "nexus-dx1",
+        "title": "Nexus Dx1",
+        "url": "/products/nexus-dx1"
+      },
+      "locale": "id"
+    },
+    {
+      "id": "msqa-100-0",
+      "src": "/MSQA-100/msqa-100-cover.webp",
+      "alt": "MSQA-100 - Product image 1",
+      "filename": "msqa-100-cover.webp",
+      "type": "product",
+      "associatedContent": {
+        "type": "product",
+        "id": "msqa-100",
+        "title": "MSQA-100",
+        "url": "/products/msqa-100"
+      },
+      "locale": "id"
+    },
+    {
+      "id": "msqa-100-1",
+      "src": "/MSQA-100/msqa-100-1.webp",
+      "alt": "MSQA-100 - Product image 2",
+      "filename": "msqa-100-1.webp",
+      "type": "product",
+      "associatedContent": {
+        "type": "product",
+        "id": "msqa-100",
+        "title": "MSQA-100",
+        "url": "/products/msqa-100"
+      },
+      "locale": "id"
+    },
+    {
+      "id": "msqa-100-2",
+      "src": "/MSQA-100/msqa-100-2.webp",
+      "alt": "MSQA-100 - Product image 3",
+      "filename": "msqa-100-2.webp",
+      "type": "product",
+      "associatedContent": {
+        "type": "product",
+        "id": "msqa-100",
+        "title": "MSQA-100",
+        "url": "/products/msqa-100"
+      },
+      "locale": "id"
+    },
+    {
+      "id": "sqa-6100vet-0",
+      "src": "/sqa-6100vet-cover.webp",
+      "alt": "SQA-6100vet - Product image 1",
+      "filename": "sqa-6100vet-cover.webp",
+      "type": "product",
+      "associatedContent": {
+        "type": "product",
+        "id": "sqa-6100vet",
+        "title": "SQA-6100vet",
+        "url": "/products/sqa-6100vet"
+      },
+      "locale": "id"
+    },
+    {
+      "id": "sqa-6100vet-1",
+      "src": "/sqa-6100vet-1.webp",
+      "alt": "SQA-6100vet - Product image 2",
+      "filename": "sqa-6100vet-1.webp",
+      "type": "product",
+      "associatedContent": {
+        "type": "product",
+        "id": "sqa-6100vet",
+        "title": "SQA-6100vet",
+        "url": "/products/sqa-6100vet"
+      },
+      "locale": "id"
+    },
+    {
+      "id": "sqa-6100vet-2",
+      "src": "/sqa-6100vet-2.webp",
+      "alt": "SQA-6100vet - Product image 3",
+      "filename": "sqa-6100vet-2.webp",
+      "type": "product",
+      "associatedContent": {
+        "type": "product",
+        "id": "sqa-6100vet",
+        "title": "SQA-6100vet",
+        "url": "/products/sqa-6100vet"
+      },
+      "locale": "id"
+    },
+    {
+      "id": "article-faq-human-semen-standards",
+      "src": "/Knowledge Hub/Human Semen Analysis Standards/Human Semen Analysis Standards.webp",
+      "alt": "Panduan Standar Analisis Semen WHO Edisi ke-6 dengan sistem CASA, Motilitas Sperma, Morfologi Sperma, dan panggung pemanas built-in untuk andrologi manusia",
+      "filename": "Human Semen Analysis Standards.webp",
+      "type": "article",
+      "associatedContent": {
+        "type": "article",
+        "id": "faq-human-semen-standards",
+        "title": "Standar Global untuk Analisis Semen Manusia",
+        "url": "/faq/faq-human-semen-standards"
+      },
+      "locale": "id"
+    },
+    {
+      "id": "article-who-6th-edition-semen-analysis-standards",
+      "src": "/WHO6.webp",
+      "alt": "Panduan Standar Analisis Semen Edisi ke-6 WHO dengan sistem CASA, Nexus Dx1, Motilitas Sperma, Morfologi Sperma, dan panggung pemanas built-in",
+      "filename": "WHO6.webp",
+      "type": "article",
+      "associatedContent": {
+        "type": "article",
+        "id": "who-6th-edition-semen-analysis-standards",
+        "title": "Keunggulan Analisis Semen: Panduan Komprehensif untuk Standar Edisi ke-6 WHO dan Teknologi CASA",
+        "url": "/faq/who-6th-edition-semen-analysis-standards"
+      },
+      "locale": "id"
+    },
+    {
+      "id": "article-iso-23162-2021-laboratory-competence-guide",
+      "src": "/ISO.webp",
+      "alt": "Panduan Kompetensi Laboratorium ISO 23162:2021 dengan sistem CASA, Nexus Dx1, Persyaratan pemeriksaan semen, Kontrol kualitas, dan Standar laboratorium",
+      "filename": "ISO.webp",
+      "type": "article",
+      "associatedContent": {
+        "type": "article",
+        "id": "iso-23162-2021-laboratory-competence-guide",
+        "title": "Menjembatani Standar Global: Panduan Mendalam tentang ISO 23162:2021 dan Kompetensi Laboratorium",
+        "url": "/faq/iso-23162-2021-laboratory-competence-guide"
+      },
+      "locale": "id"
+    },
+    {
+      "id": "article-eshre-guidelines-clinical-semen-examination",
+      "src": "/ESHRE.webp",
+      "alt": "Panduan Pemeriksaan Semen Klinis ESHRE dengan sistem CASA, Nexus Dx1, Keunggulan ART, IVF, ICSI, dan Teknologi Reproduksi Berbantuan",
+      "filename": "ESHRE.webp",
+      "type": "article",
+      "associatedContent": {
+        "type": "article",
+        "id": "eshre-guidelines-clinical-semen-examination",
+        "title": "Keunggulan Klinis: Pedoman ESHRE untuk Pemeriksaan Semen dan Manajemen Pasien",
+        "url": "/faq/eshre-guidelines-clinical-semen-examination"
+      },
+      "locale": "id"
+    },
+    {
+      "id": "article-asrm-male-infertility-evaluation-protocols",
+      "src": "/ASRM.webp",
+      "alt": "Panduan Protokol Evaluasi Infertilitas Pria ASRM dengan sistem CASA, Nexus Dx1, Evaluasi infertilitas pria, IUI, IVF, ICSI, dan Standar laboratorium klinis",
+      "filename": "ASRM.webp",
+      "type": "article",
+      "associatedContent": {
+        "type": "article",
+        "id": "asrm-male-infertility-evaluation-protocols",
+        "title": "Integritas Klinis: Pedoman ASRM untuk Evaluasi Infertilitas Pria dan Analisis Semen",
+        "url": "/faq/asrm-male-infertility-evaluation-protocols"
+      },
+      "locale": "id"
+    },
+    {
+      "id": "article-faq-bull-breeding-soundness",
+      "src": "/Knowledge Hub/Bull Breeding Soundness Guide/Bull Breeding Soundness Guide.webp",
+      "alt": "Panduan Pemeriksaan Kesehatan Pembiakan Sapi dengan Pedoman Analisis Semen Hewan SFT, sistem CASA, Motilitas Sperma, dan panggung pemanas built-in",
+      "filename": "Bull Breeding Soundness Guide.webp",
+      "type": "article",
+      "associatedContent": {
+        "type": "article",
+        "id": "faq-bull-breeding-soundness",
+        "title": "Panduan Definitif untuk Kesehatan Pembiakan Sapi",
+        "url": "/faq/faq-bull-breeding-soundness"
+      },
+      "locale": "id"
+    },
+    {
+      "id": "article-faq-canine-semen-analysis",
+      "src": "/Knowledge Hub/Canine Semen Analysis Guide/Canine Semen Analysis Guide.webp",
+      "alt": "Panduan Analisis Semen Anjing dengan standar hewan SFT, sistem CASA, Motilitas Sperma, Morfologi Sperma, dan panggung pemanas built-in untuk kesuburan anjing",
+      "filename": "Canine Semen Analysis Guide.webp",
+      "type": "article",
+      "associatedContent": {
+        "type": "article",
+        "id": "faq-canine-semen-analysis",
+        "title": "Panduan Profesional untuk Analisis Semen Anjing",
+        "url": "/faq/faq-canine-semen-analysis"
+      },
+      "locale": "id"
+    },
+    {
+      "id": "article-faq-poultry-semen-analysis",
+      "src": "/Knowledge Hub/Poultry Semen Analysis Guide/Poultry Semen Analysis Guide.webp",
+      "alt": "Panduan Analisis Semen Unggas dengan standar hewan SFT, sistem CASA, Motilitas Sperma, Morfologi Sperma, dan panggung pemanas built-in untuk kesuburan ayam jantan",
+      "filename": "Poultry Semen Analysis Guide.webp",
+      "type": "article",
+      "associatedContent": {
+        "type": "article",
+        "id": "faq-poultry-semen-analysis",
+        "title": "Panduan Profesional untuk Analisis Semen Unggas",
+        "url": "/faq/faq-poultry-semen-analysis"
+      },
+      "locale": "id"
+    },
+    {
+      "id": "article-faq-stallion-semen-analysis",
+      "src": "/Knowledge Hub/Stallion Semen Analysis Guide/Stallion Semen Analysis Guide.webp",
+      "alt": "Panduan Analisis Semen Kuda Jantan dengan standar hewan SFT, sistem CASA, Motilitas Sperma, Morfologi Sperma, dan panggung pemanas built-in untuk kesehatan pembiakan kuda",
+      "filename": "Stallion Semen Analysis Guide.webp",
+      "type": "article",
+      "associatedContent": {
+        "type": "article",
+        "id": "faq-stallion-semen-analysis",
+        "title": "Panduan Profesional untuk Analisis Semen Kuda Jantan",
+        "url": "/faq/faq-stallion-semen-analysis"
+      },
+      "locale": "id"
+    },
+    {
+      "id": "article-faq-camelid-andrology",
+      "src": "/Knowledge Hub/Camelid Andrology Guide/Camelid Andrology Guide.webp",
+      "alt": "Panduan Andrologi Camelid dengan standar hewan SFT, sistem CASA, Motilitas Sperma, Morfologi Sperma, dan panggung pemanas built-in untuk evaluasi kesuburan unta",
+      "filename": "Camelid Andrology Guide.webp",
+      "type": "article",
+      "associatedContent": {
+        "type": "article",
+        "id": "faq-camelid-andrology",
+        "title": "Standar Profesional untuk Andrologi Camelid",
+        "url": "/faq/faq-camelid-andrology"
+      },
+      "locale": "id"
+    },
+    {
+      "id": "article-faq-fish-semen-analysis",
+      "src": "/Knowledge Hub/Fish Semen Analysis Guide/Fish Semen Analysis Guide.webp",
+      "alt": "Panduan Analisis Semen Ikan dengan standar hewan SFT, sistem CASA, Motilitas Sperma, Morfologi Sperma, dan panggung pemanas built-in untuk manajemen induk",
+      "filename": "Fish Semen Analysis Guide.webp",
+      "type": "article",
+      "associatedContent": {
+        "type": "article",
+        "id": "faq-fish-semen-analysis",
+        "title": "Panduan Otoritatif untuk Analisis Semen Ikan",
+        "url": "/faq/faq-fish-semen-analysis"
+      },
+      "locale": "id"
+    },
+    {
+      "id": "article-faq-ram-breeding-soundness",
+      "src": "/Knowledge Hub/Ram Breeding Soundness Examination (RBSE)/Ram Breeding Soundness Examination (RBSE).webp",
+      "alt": "Panduan Pemeriksaan Kesehatan Pembiakan Domba Jantan dengan standar hewan SFT, sistem CASA, Motilitas Sperma, Morfologi Sperma, dan panggung pemanas built-in untuk penilaian kesuburan domba jantan",
+      "filename": "Ram Breeding Soundness Examination (RBSE).webp",
+      "type": "article",
+      "associatedContent": {
+        "type": "article",
+        "id": "faq-ram-breeding-soundness",
+        "title": "Pemeriksaan Kesehatan Pembiakan Domba Jantan (RBSE)",
+        "url": "/faq/faq-ram-breeding-soundness"
+      },
+      "locale": "id"
+    },
+    {
+      "id": "article-faq-boar-semen-evaluation",
+      "src": "/Knowledge Hub/Boar Semen Evaluation Guide/Boar Semen Evaluation Guide.webp",
+      "alt": "Panduan Evaluasi Semen Babi Jantan dengan standar hewan SFT, sistem CASA, Motilitas Sperma, Morfologi Sperma, dan panggung pemanas built-in untuk pemeriksaan kesehatan pembiakan babi jantan",
+      "filename": "Boar Semen Evaluation Guide.webp",
+      "type": "article",
+      "associatedContent": {
+        "type": "article",
+        "id": "faq-boar-semen-evaluation",
+        "title": "Standar Evaluasi dan Pengolahan Semen Babi Jantan",
+        "url": "/faq/faq-boar-semen-evaluation"
+      },
+      "locale": "id"
+    },
+    {
+      "id": "about-0",
+      "src": "/About%20us%20(1).webp",
+      "alt": "Tim iSperm Medical mempresentasikan sistem CASA sepenuhnya otomatis dan analisis kualitas sperma di pameran",
+      "filename": "About%20us%20(1).webp",
+      "type": "about",
+      "associatedContent": {
+        "type": "page",
+        "id": "about",
+        "title": "Tentang iSperm Medical | Produsen Sistem CASA",
+        "url": "/about"
+      },
+      "locale": "id"
+    },
+    {
+      "id": "about-1",
+      "src": "/About%20us%20(2).webp",
+      "alt": "Profesional iSperm Medical membahas analisis semen hewan dan solusi pembiakan hewan",
+      "filename": "About%20us%20(2).webp",
+      "type": "about",
+      "associatedContent": {
+        "type": "page",
+        "id": "about",
+        "title": "Tentang iSperm Medical | Produsen Sistem CASA",
+        "url": "/about"
+      },
+      "locale": "id"
+    },
+    {
+      "id": "about-2",
+      "src": "/About%20Us%202.webp",
+      "alt": "Tim dan acara iSperm Medical menampilkan teknologi CASA dan solusi kesehatan reproduksi",
+      "filename": "About%20Us%202.webp",
+      "type": "about",
+      "associatedContent": {
+        "type": "page",
+        "id": "about",
+        "title": "Tentang iSperm Medical | Produsen Sistem CASA",
+        "url": "/about"
+      },
+      "locale": "id"
+    },
+    {
+      "id": "about-3",
+      "src": "/About%20Us%204.webp",
+      "alt": "Presentasi dan pameran tim iSperm Medical dengan sistem analisis semen otomatis",
+      "filename": "About%20Us%204.webp",
+      "type": "about",
+      "associatedContent": {
+        "type": "page",
+        "id": "about",
+        "title": "Tentang iSperm Medical | Produsen Sistem CASA",
+        "url": "/about"
+      },
+      "locale": "id"
+    },
+    {
+      "id": "about-4",
+      "src": "/About%20Us%205.webp",
+      "alt": "Acara dan tim iSperm Medical menampilkan sistem CASA inovatif dan analisis kualitas sperma",
+      "filename": "About%20Us%205.webp",
+      "type": "about",
+      "associatedContent": {
+        "type": "page",
+        "id": "about",
+        "title": "Tentang iSperm Medical | Produsen Sistem CASA",
+        "url": "/about"
+      },
+      "locale": "id"
+    },
+    {
+      "id": "banner-0",
+      "src": "/banner%20(1).webp",
+      "alt": "iSperm Medical - Banner image 1",
+      "filename": "banner%20(1).webp",
+      "type": "banner",
+      "associatedContent": {
+        "type": "page",
+        "id": "home",
+        "title": "iSperm Analisis Semen - Merevolusi Analisis Semen",
+        "url": "/"
+      },
+      "locale": "id"
+    },
+    {
+      "id": "banner-1",
+      "src": "/banner%20(2).webp",
+      "alt": "iSperm Medical - Banner image 2",
+      "filename": "banner%20(2).webp",
+      "type": "banner",
+      "associatedContent": {
+        "type": "page",
+        "id": "home",
+        "title": "iSperm Analisis Semen - Merevolusi Analisis Semen",
+        "url": "/"
+      },
+      "locale": "id"
+    },
+    {
+      "id": "banner-2",
+      "src": "/banner%20(3).webp",
+      "alt": "iSperm Medical - Banner image 3",
+      "filename": "banner%20(3).webp",
+      "type": "banner",
+      "associatedContent": {
+        "type": "page",
+        "id": "home",
+        "title": "iSperm Analisis Semen - Merevolusi Analisis Semen",
+        "url": "/"
+      },
+      "locale": "id"
+    }
+  ],
+  "locale": "id"
+}

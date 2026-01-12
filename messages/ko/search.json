@@ -1,0 +1,48 @@
+{
+  "placeholder": "제품, 기사, 이미지 검색...",
+  "startTyping": "검색을 시작하려면 입력하세요...",
+  "noResults": "결과를 찾을 수 없습니다",
+  "tryDifferentQuery": "다른 검색 쿼리를 시도해보세요",
+  "searching": "검색 중...",
+  "error": "검색 중 오류가 발생했습니다. 나중에 다시 시도해주세요.",
+  "shortcutHint": "ESC를 눌러 닫기",
+  "resultsCount": "{count}개의 결과를 찾았습니다",
+  "pageTitle": "검색 결과",
+  "searchingFor": "검색 중",
+  "enterQuery": "검색 쿼리를 입력하여 제품, 기사 등을 찾으세요",
+  "foundResults": "\"{query}\"에 대한 {count}개의 결과를 찾았습니다",
+  "recentSearches": "최근 검색",
+  "clearHistory": "검색 기록 지우기",
+  "clear": "지우기",
+  "results": "개",
+  "removeFromHistory": "기록에서 제거",
+  "suggestions": "제안",
+  "popularSearches": "인기 검색",
+  "types": {
+    "product": "제품",
+    "article": "기사",
+    "image": "이미지",
+    "page": "페이지"
+  },
+  "footer": {
+    "company": "iSperm Medical",
+    "description": "iSperm Medical Ltd.는 정액 분석 분야의 최첨단 기술 솔루션을 제공하는 데 전념하고 있습니다.",
+    "quickLinks": "빠른 링크",
+    "contact": "연락처",
+    "email": "이메일:",
+    "rights": "© 2024 iSperm Medical Ltd. 모든 권리 보유."
+  },
+  "filters": {
+    "title": "Filters",
+    "type": "Type",
+    "category": "Category",
+    "sortBy": "Sort by",
+    "relevance": "Relevance",
+    "titleSort": "Title",
+    "allTypes": "All Types",
+    "allCategories": "All Categories",
+    "human": "Human Andrology",
+    "veterinary": "Animal Breeding",
+    "clearFilters": "Clear filters"
+  }
+}

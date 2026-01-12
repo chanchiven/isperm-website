@@ -1,0 +1,48 @@
+{
+  "placeholder": "Zoek producten, artikelen, afbeeldingen...",
+  "startTyping": "Begin met typen om te zoeken...",
+  "noResults": "Geen resultaten gevonden",
+  "tryDifferentQuery": "Probeer een andere zoekopdracht",
+  "searching": "Zoeken...",
+  "error": "Er is een fout opgetreden bij het zoeken. Probeer het later opnieuw.",
+  "shortcutHint": "Druk op ESC om te sluiten",
+  "resultsCount": "{count} resultaten gevonden",
+  "pageTitle": "Zoekresultaten",
+  "searchingFor": "Zoeken naar",
+  "enterQuery": "Voer een zoekopdracht in om producten, artikelen en meer te vinden",
+  "foundResults": "{count} resultaten gevonden voor \"{query}\"",
+  "recentSearches": "Recente zoekopdrachten",
+  "clearHistory": "Zoekgeschiedenis wissen",
+  "clear": "Wissen",
+  "results": "resultaten",
+  "removeFromHistory": "Verwijderen uit geschiedenis",
+  "suggestions": "Suggesties",
+  "popularSearches": "Populaire zoekopdrachten",
+  "types": {
+    "product": "Product",
+    "article": "Artikel",
+    "image": "Afbeelding",
+    "page": "Pagina"
+  },
+  "footer": {
+    "company": "iSperm Medical",
+    "description": "iSperm Medical Ltd. is toegewijd aan het leveren van geavanceerde technologische oplossingen in sperma-analyse.",
+    "quickLinks": "Snelle links",
+    "contact": "Contact",
+    "email": "E-mail:",
+    "rights": "© 2024 iSperm Medical Ltd. Alle rechten voorbehouden."
+  },
+  "filters": {
+    "title": "Filters",
+    "type": "Type",
+    "category": "Category",
+    "sortBy": "Sort by",
+    "relevance": "Relevance",
+    "titleSort": "Title",
+    "allTypes": "All Types",
+    "allCategories": "All Categories",
+    "human": "Human Andrology",
+    "veterinary": "Animal Breeding",
+    "clearFilters": "Clear filters"
+  }
+}

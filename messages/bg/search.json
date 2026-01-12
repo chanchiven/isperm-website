@@ -1,0 +1,48 @@
+{
+  "placeholder": "Търсене на продукти, статии, изображения...",
+  "startTyping": "Започнете да пишете за търсене...",
+  "noResults": "Не са намерени резултати",
+  "tryDifferentQuery": "Опитайте различна заявка за търсене",
+  "searching": "Търсене...",
+  "error": "Възникна грешка при търсенето. Моля, опитайте отново по-късно.",
+  "shortcutHint": "Натиснете ESC, за да затворите",
+  "resultsCount": "Намерени {count} резултата",
+  "pageTitle": "Резултати от търсенето",
+  "searchingFor": "Търсене на",
+  "enterQuery": "Въведете заявка за търсене, за да намерите продукти, статии и други",
+  "foundResults": "Намерени {count} резултата за \"{query}\"",
+  "recentSearches": "Последни търсения",
+  "clearHistory": "Изчисти история на търсенето",
+  "clear": "Изчисти",
+  "results": "резултата",
+  "removeFromHistory": "Премахни от историята",
+  "suggestions": "Предложения",
+  "popularSearches": "Популярни търсения",
+  "types": {
+    "product": "Продукт",
+    "article": "Статия",
+    "image": "Изображение",
+    "page": "Страница"
+  },
+  "footer": {
+    "company": "iSperm Medical",
+    "description": "iSperm Medical Ltd. се ангажира да предоставя иновативни технологични решения в анализа на сперма.",
+    "quickLinks": "Бързи връзки",
+    "contact": "Контакт",
+    "email": "Имейл:",
+    "rights": "© 2024 iSperm Medical Ltd. Всички права запазени."
+  },
+  "filters": {
+    "title": "Filters",
+    "type": "Type",
+    "category": "Category",
+    "sortBy": "Sort by",
+    "relevance": "Relevance",
+    "titleSort": "Title",
+    "allTypes": "All Types",
+    "allCategories": "All Categories",
+    "human": "Human Andrology",
+    "veterinary": "Animal Breeding",
+    "clearFilters": "Clear filters"
+  }
+}

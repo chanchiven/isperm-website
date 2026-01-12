@@ -1,0 +1,48 @@
+{
+  "placeholder": "Ürünler, makaleler, görseller ara...",
+  "startTyping": "Aramaya başlamak için yazın...",
+  "noResults": "Sonuç bulunamadı",
+  "tryDifferentQuery": "Farklı bir arama sorgusu deneyin",
+  "searching": "Aranıyor...",
+  "error": "Arama sırasında bir hata oluştu. Lütfen daha sonra tekrar deneyin.",
+  "shortcutHint": "Kapatmak için ESC'ye basın",
+  "resultsCount": "{count} sonuç bulundu",
+  "pageTitle": "Arama Sonuçları",
+  "searchingFor": "Aranıyor",
+  "enterQuery": "Ürünler, makaleler ve daha fazlasını bulmak için bir arama sorgusu girin",
+  "foundResults": "\"{query}\" için {count} sonuç bulundu",
+  "recentSearches": "Son Aramalar",
+  "clearHistory": "Arama geçmişini temizle",
+  "clear": "Temizle",
+  "results": "sonuç",
+  "removeFromHistory": "Geçmişten kaldır",
+  "suggestions": "Öneriler",
+  "popularSearches": "Popüler Aramalar",
+  "types": {
+    "product": "Ürün",
+    "article": "Makale",
+    "image": "Görsel",
+    "page": "Sayfa"
+  },
+  "footer": {
+    "company": "iSperm Medical",
+    "description": "iSperm Medical Ltd., semen analizinde çığır açan teknoloji çözümleri sunmaya kararlıdır.",
+    "quickLinks": "Hızlı Bağlantılar",
+    "contact": "İletişim",
+    "email": "E-posta:",
+    "rights": "© 2024 iSperm Medical Ltd. Tüm hakları saklıdır."
+  },
+  "filters": {
+    "title": "Filters",
+    "type": "Type",
+    "category": "Category",
+    "sortBy": "Sort by",
+    "relevance": "Relevance",
+    "titleSort": "Title",
+    "allTypes": "All Types",
+    "allCategories": "All Categories",
+    "human": "Human Andrology",
+    "veterinary": "Animal Breeding",
+    "clearFilters": "Clear filters"
+  }
+}

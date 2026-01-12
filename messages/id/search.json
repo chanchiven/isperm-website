@@ -1,0 +1,48 @@
+{
+  "placeholder": "Cari produk, artikel, gambar...",
+  "startTyping": "Mulai mengetik untuk mencari...",
+  "noResults": "Tidak ada hasil ditemukan",
+  "tryDifferentQuery": "Coba kueri pencarian yang berbeda",
+  "searching": "Mencari...",
+  "error": "Terjadi kesalahan saat mencari. Silakan coba lagi nanti.",
+  "shortcutHint": "Tekan ESC untuk menutup",
+  "resultsCount": "Ditemukan {count} hasil",
+  "pageTitle": "Hasil Pencarian",
+  "searchingFor": "Mencari",
+  "enterQuery": "Masukkan kueri pencarian untuk menemukan produk, artikel, dan lainnya",
+  "foundResults": "Ditemukan {count} hasil untuk \"{query}\"",
+  "recentSearches": "Pencarian Terbaru",
+  "clearHistory": "Hapus riwayat pencarian",
+  "clear": "Hapus",
+  "results": "hasil",
+  "removeFromHistory": "Hapus dari riwayat",
+  "suggestions": "Saran",
+  "popularSearches": "Pencarian Populer",
+  "types": {
+    "product": "Produk",
+    "article": "Artikel",
+    "image": "Gambar",
+    "page": "Halaman"
+  },
+  "footer": {
+    "company": "iSperm Medical",
+    "description": "iSperm Medical Ltd. berkomitmen untuk menyediakan solusi teknologi canggih dalam analisis semen.",
+    "quickLinks": "Tautan Cepat",
+    "contact": "Kontak",
+    "email": "Email:",
+    "rights": "© 2024 iSperm Medical Ltd. Hak cipta dilindungi."
+  },
+  "filters": {
+    "title": "Filters",
+    "type": "Type",
+    "category": "Category",
+    "sortBy": "Sort by",
+    "relevance": "Relevance",
+    "titleSort": "Title",
+    "allTypes": "All Types",
+    "allCategories": "All Categories",
+    "human": "Human Andrology",
+    "veterinary": "Animal Breeding",
+    "clearFilters": "Clear filters"
+  }
+}

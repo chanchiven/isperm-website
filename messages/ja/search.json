@@ -1,0 +1,48 @@
+{
+  "placeholder": "製品、記事、画像を検索...",
+  "startTyping": "検索を開始するには入力してください...",
+  "noResults": "結果が見つかりませんでした",
+  "tryDifferentQuery": "別の検索クエリをお試しください",
+  "searching": "検索中...",
+  "error": "検索中にエラーが発生しました。後でもう一度お試しください。",
+  "shortcutHint": "ESCキーを押して閉じる",
+  "resultsCount": "{count}件の結果が見つかりました",
+  "pageTitle": "検索結果",
+  "searchingFor": "検索中",
+  "enterQuery": "検索クエリを入力して、製品、記事などを検索",
+  "foundResults": "\"{query}\"の検索結果 {count}件",
+  "recentSearches": "最近の検索",
+  "clearHistory": "検索履歴をクリア",
+  "clear": "クリア",
+  "results": "件",
+  "removeFromHistory": "履歴から削除",
+  "suggestions": "提案",
+  "popularSearches": "人気の検索",
+  "types": {
+    "product": "製品",
+    "article": "記事",
+    "image": "画像",
+    "page": "ページ"
+  },
+  "footer": {
+    "company": "iSperm Medical",
+    "description": "iSperm Medical Ltd.は、精液分析における最先端の技術ソリューションの提供に取り組んでいます。",
+    "quickLinks": "クイックリンク",
+    "contact": "お問い合わせ",
+    "email": "メール:",
+    "rights": "© 2024 iSperm Medical Ltd. 全著作権所有。"
+  },
+  "filters": {
+    "title": "Filters",
+    "type": "Type",
+    "category": "Category",
+    "sortBy": "Sort by",
+    "relevance": "Relevance",
+    "titleSort": "Title",
+    "allTypes": "All Types",
+    "allCategories": "All Categories",
+    "human": "Human Andrology",
+    "veterinary": "Animal Breeding",
+    "clearFilters": "Clear filters"
+  }
+}

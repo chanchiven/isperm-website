@@ -23,7 +23,7 @@ export default getRequestConfig(async ({requestLocale}) => {
     }
 
     // 定义需要加载的翻译文件列表（排除备份和临时文件）
-    const translationFiles = ['index', 'about', 'contact', 'faq', 'products'];
+    const translationFiles = ['index', 'about', 'contact', 'faq', 'products', 'search'];
     
     // 加载所有翻译文件作为命名空间
     const messages: Record<string, any> = {};

@@ -1,0 +1,300 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>搜索历史功能测试工具</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 50px auto;
+            padding: 20px;
+            background: #f5f5f5;
+        }
+        .container {
+            background: white;
+            padding: 30px;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: #333;
+            margin-bottom: 20px;
+        }
+        .test-section {
+            margin-bottom: 30px;
+            padding: 20px;
+            background: #f9f9f9;
+            border-radius: 6px;
+            border-left: 4px solid #00776E;
+        }
+        .test-section h2 {
+            margin-top: 0;
+            color: #00776E;
+        }
+        button {
+            background: #00776E;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 4px;
+            cursor: pointer;
+            margin: 5px;
+            font-size: 14px;
+        }
+        button:hover {
+            background: #008080;
+        }
+        .result {
+            margin-top: 10px;
+            padding: 10px;
+            background: white;
+            border-radius: 4px;
+            border: 1px solid #ddd;
+            font-family: monospace;
+            font-size: 12px;
+            max-height: 200px;
+            overflow-y: auto;
+        }
+        .success {
+            color: #28a745;
+        }
+        .error {
+            color: #dc3545;
+        }
+        .info {
+            color: #007bff;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🔍 搜索历史功能测试工具</h1>
+        
+        <div class="test-section">
+            <h2>1. 查看当前搜索历史</h2>
+            <button onclick="viewHistory()">查看历史</button>
+            <div id="historyResult" class="result"></div>
+        </div>
+
+        <div class="test-section">
+            <h2>2. 添加测试数据</h2>
+            <input type="text" id="testQuery" placeholder="输入测试搜索词" style="padding: 8px; width: 200px; margin-right: 10px;">
+            <input type="number" id="testCount" placeholder="结果数量" style="padding: 8px; width: 100px; margin-right: 10px;">
+            <button onclick="addTestData()">添加测试数据</button>
+            <div id="addResult" class="result"></div>
+        </div>
+
+        <div class="test-section">
+            <h2>3. 清除所有历史</h2>
+            <button onclick="clearHistory()">清除历史</button>
+            <div id="clearResult" class="result"></div>
+        </div>
+
+        <div class="test-section">
+            <h2>4. 删除单条历史</h2>
+            <input type="text" id="removeQuery" placeholder="输入要删除的搜索词" style="padding: 8px; width: 200px; margin-right: 10px;">
+            <button onclick="removeItem()">删除</button>
+            <div id="removeResult" class="result"></div>
+        </div>
+
+        <div class="test-section">
+            <h2>5. 批量测试</h2>
+            <button onclick="batchTest()">执行批量测试</button>
+            <div id="batchResult" class="result"></div>
+        </div>
+    </div>
+
+    <script>
+        const STORAGE_KEY = 'isperm_search_history';
+        const MAX_HISTORY = 20;
+
+        function getHistory() {
+            try {
+                const stored = localStorage.getItem(STORAGE_KEY);
+                if (!stored) return [];
+                return JSON.parse(stored).sort((a, b) => b.timestamp - a.timestamp);
+            } catch (error) {
+                console.error('Error reading history:', error);
+                return [];
+            }
+        }
+
+        function saveHistory(history) {
+            try {
+                localStorage.setItem(STORAGE_KEY, JSON.stringify(history));
+                return true;
+            } catch (error) {
+                console.error('Error saving history:', error);
+                return false;
+            }
+        }
+
+        function viewHistory() {
+            const history = getHistory();
+            const resultDiv = document.getElementById('historyResult');
+            
+            if (history.length === 0) {
+                resultDiv.innerHTML = '<span class="info">暂无搜索历史</span>';
+                return;
+            }
+
+            let html = `<strong>共 ${history.length} 条历史记录：</strong><br><br>`;
+            history.forEach((item, index) => {
+                const date = new Date(item.timestamp);
+                html += `${index + 1}. "${item.query}" - ${item.resultCount || 0} 结果 - ${date.toLocaleString()}<br>`;
+            });
+            
+            resultDiv.innerHTML = html;
+        }
+
+        function addTestData() {
+            const query = document.getElementById('testQuery').value.trim();
+            const count = parseInt(document.getElementById('testCount').value) || 0;
+            const resultDiv = document.getElementById('addResult');
+
+            if (!query) {
+                resultDiv.innerHTML = '<span class="error">请输入搜索词</span>';
+                return;
+            }
+
+            const history = getHistory();
+            const filtered = history.filter(item => item.query.toLowerCase() !== query.toLowerCase());
+            const newItem = {
+                query: query,
+                timestamp: Date.now(),
+                resultCount: count
+            };
+            const newHistory = [newItem, ...filtered].slice(0, MAX_HISTORY);
+            
+            if (saveHistory(newHistory)) {
+                resultDiv.innerHTML = `<span class="success">✓ 成功添加: "${query}"</span>`;
+                viewHistory();
+            } else {
+                resultDiv.innerHTML = '<span class="error">✗ 保存失败</span>';
+            }
+        }
+
+        function clearHistory() {
+            const resultDiv = document.getElementById('clearResult');
+            try {
+                localStorage.removeItem(STORAGE_KEY);
+                resultDiv.innerHTML = '<span class="success">✓ 历史记录已清除</span>';
+                viewHistory();
+            } catch (error) {
+                resultDiv.innerHTML = '<span class="error">✗ 清除失败: ' + error.message + '</span>';
+            }
+        }
+
+        function removeItem() {
+            const query = document.getElementById('removeQuery').value.trim();
+            const resultDiv = document.getElementById('removeResult');
+
+            if (!query) {
+                resultDiv.innerHTML = '<span class="error">请输入要删除的搜索词</span>';
+                return;
+            }
+
+            const history = getHistory();
+            const filtered = history.filter(item => item.query.toLowerCase() !== query.toLowerCase());
+            
+            if (filtered.length === history.length) {
+                resultDiv.innerHTML = '<span class="info">未找到该搜索词</span>';
+                return;
+            }
+
+            if (saveHistory(filtered)) {
+                resultDiv.innerHTML = `<span class="success">✓ 成功删除: "${query}"</span>`;
+                viewHistory();
+            } else {
+                resultDiv.innerHTML = '<span class="error">✗ 删除失败</span>';
+            }
+        }
+
+        function batchTest() {
+            const resultDiv = document.getElementById('batchResult');
+            let results = [];
+            let passed = 0;
+            let failed = 0;
+
+            // 测试 1: 添加数据
+            results.push('测试 1: 添加搜索历史...');
+            const testQueries = ['Nexus Dx1', 'CASA system', 'WHO 6th Edition', 'Semen analysis'];
+            testQueries.forEach((q, i) => {
+                const history = getHistory();
+                const filtered = history.filter(item => item.query.toLowerCase() !== q.toLowerCase());
+                const newItem = { query: q, timestamp: Date.now() - i * 1000, resultCount: i * 5 };
+                const newHistory = [newItem, ...filtered].slice(0, MAX_HISTORY);
+                if (saveHistory(newHistory)) {
+                    results.push(`  ✓ 添加 "${q}"`);
+                    passed++;
+                } else {
+                    results.push(`  ✗ 添加 "${q}" 失败`);
+                    failed++;
+                }
+            });
+
+            // 测试 2: 读取数据
+            results.push('<br>测试 2: 读取搜索历史...');
+            const history = getHistory();
+            if (history.length > 0) {
+                results.push(`  ✓ 成功读取 ${history.length} 条记录`);
+                passed++;
+            } else {
+                results.push('  ✗ 读取失败或为空');
+                failed++;
+            }
+
+            // 测试 3: 重复搜索
+            results.push('<br>测试 3: 重复搜索处理...');
+            const duplicateQuery = 'Nexus Dx1';
+            const historyBefore = getHistory();
+            const beforeCount = historyBefore.filter(h => h.query.toLowerCase() === duplicateQuery.toLowerCase()).length;
+            const filtered = historyBefore.filter(item => item.query.toLowerCase() !== duplicateQuery.toLowerCase());
+            const newItem = { query: duplicateQuery, timestamp: Date.now(), resultCount: 10 };
+            const newHistory = [newItem, ...filtered].slice(0, MAX_HISTORY);
+            saveHistory(newHistory);
+            const historyAfter = getHistory();
+            const afterCount = historyAfter.filter(h => h.query.toLowerCase() === duplicateQuery.toLowerCase()).length;
+            if (afterCount === 1 && historyAfter[0].query === duplicateQuery) {
+                results.push(`  ✓ 重复搜索正确处理（合并为1条，移到最前）`);
+                passed++;
+            } else {
+                results.push(`  ✗ 重复搜索处理失败`);
+                failed++;
+            }
+
+            // 测试 4: 数量限制
+            results.push('<br>测试 4: 历史数量限制...');
+            const manyQueries = Array.from({ length: 25 }, (_, i) => `Test Query ${i}`);
+            manyQueries.forEach((q, i) => {
+                const h = getHistory();
+                const filtered = h.filter(item => item.query.toLowerCase() !== q.toLowerCase());
+                const newItem = { query: q, timestamp: Date.now() - i * 1000, resultCount: i };
+                const newHistory = [newItem, ...filtered].slice(0, MAX_HISTORY);
+                saveHistory(newHistory);
+            });
+            const finalHistory = getHistory();
+            if (finalHistory.length <= MAX_HISTORY) {
+                results.push(`  ✓ 数量限制正确（当前 ${finalHistory.length} 条，限制 ${MAX_HISTORY} 条）`);
+                passed++;
+            } else {
+                results.push(`  ✗ 数量限制失败（当前 ${finalHistory.length} 条，应 ≤ ${MAX_HISTORY} 条）`);
+                failed++;
+            }
+
+            // 总结
+            results.push(`<br><strong>测试总结：</strong>`);
+            results.push(`通过: ${passed} | 失败: ${failed} | 总计: ${passed + failed}`);
+            
+            resultDiv.innerHTML = results.join('<br>');
+        }
+
+        // 页面加载时自动查看历史
+        window.onload = function() {
+            viewHistory();
+        };
+    </script>
+</body>
+</html>

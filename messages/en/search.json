@@ -1,0 +1,48 @@
+{
+  "placeholder": "Search products, articles, images...",
+  "startTyping": "Start typing to search...",
+  "noResults": "No results found",
+  "tryDifferentQuery": "Try a different search query",
+  "searching": "Searching...",
+  "error": "An error occurred while searching. Please try again later.",
+  "shortcutHint": "Press ESC to close",
+  "resultsCount": "Found {count} results",
+  "pageTitle": "Search Results",
+  "searchingFor": "Searching for",
+  "enterQuery": "Enter a search query to find products, articles, and more",
+  "foundResults": "Found {count} results for \"{query}\"",
+  "recentSearches": "Recent Searches",
+  "clearHistory": "Clear search history",
+  "clear": "Clear",
+  "results": "results",
+  "removeFromHistory": "Remove from history",
+  "suggestions": "Suggestions",
+  "popularSearches": "Popular Searches",
+  "types": {
+    "product": "Product",
+    "article": "Article",
+    "image": "Image",
+    "page": "Page"
+  },
+  "filters": {
+    "title": "Filters",
+    "type": "Type",
+    "category": "Category",
+    "sortBy": "Sort by",
+    "relevance": "Relevance",
+    "titleSort": "Title",
+    "allTypes": "All Types",
+    "allCategories": "All Categories",
+    "human": "Human Andrology",
+    "veterinary": "Animal Breeding",
+    "clearFilters": "Clear filters"
+  },
+  "footer": {
+    "company": "iSperm Medical",
+    "description": "iSperm Medical Ltd. is committed to delivering cutting-edge technology solutions in semen analysis.",
+    "quickLinks": "Quick Links",
+    "contact": "Contact",
+    "email": "Email:",
+    "rights": "© 2024 iSperm Medical Ltd. All rights reserved."
+  }
+}

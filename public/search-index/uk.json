@@ -1,0 +1,714 @@
+{
+  "products": [
+    {
+      "id": "nexus-dx1",
+      "slug": "nexus-dx1",
+      "name": "Nexus Dx1",
+      "description": "Повністю автоматизована система CASA, розроблена для клінічного та лабораторного використання, з передовими алгоритмами ШІ та комплексним аналізом параметрів.",
+      "subtitle": "Повністю автоматизована людська система CASA",
+      "images": [
+        "/nexus-dx1-cover.webp",
+        "/nexus-dx1.webp",
+        "/nexus-dx1-2.webp",
+        "/nexus-dx1-3.webp",
+        "/nexus-dx1-4.webp"
+      ],
+      "features": [
+        "Повністю автоматизована",
+        "Сенсорний екран",
+        "Вбудована термостадія",
+        "Автономна система «все в одному»",
+        "Передовий динамічний алгоритм обробки зображень ШІ Гаусса",
+        "Камера підрахунку: Покращена/Покрита 2-камерна, фіксована глибина 10 мкм",
+        "Налаштовувані множинні поля зору, до 1500 сперматозоїдів на поле зору",
+        "Підтримка відтворення відео",
+        "Підтримка зовнішнього сканера штрих-кодів",
+        "Робоча станція ПК",
+        "Повністю автоматизований аналіз",
+        "Вбудована термостадія",
+        "Підтримка робочої станції ПК"
+      ],
+      "locale": "uk"
+    },
+    {
+      "id": "msqa-100",
+      "slug": "msqa-100",
+      "name": "MSQA-100",
+      "description": "Портативна система CASA для домашнього використання з сумісністю зі смартфоном, що забезпечує лабораторну продуктивність у компактному форматі.",
+      "subtitle": "Портативний аналізатор сперми CASA",
+      "images": [
+        "/MSQA-100/msqa-100-cover.webp",
+        "/MSQA-100/msqa-100-1.webp",
+        "/MSQA-100/msqa-100-2.webp"
+      ],
+      "features": [
+        "Сумісність зі смартфоном",
+        "Вбудований контроль температури",
+        "Хмарний аналіз ШІ"
+      ],
+      "locale": "uk"
+    },
+    {
+      "id": "sqa-6100vet",
+      "slug": "sqa-6100vet",
+      "name": "SQA-6100vet",
+      "description": "Революційна повністю автоматизована система CASA для оцінки репродукції тварин, що підтримує аналіз багатьох видів з портативними польовими можливостями.",
+      "subtitle": "Повністю автоматизована ветеринарна система CASA",
+      "images": [
+        "/sqa-6100vet-cover.webp",
+        "/sqa-6100vet-1.webp",
+        "/sqa-6100vet-2.webp"
+      ],
+      "features": [
+        "Повністю автоматизована",
+        "Сенсорний екран",
+        "Вбудована термостадія",
+        "Автономна система «все в одному»",
+        "Передовий динамічний алгоритм обробки зображень ШІ Гаусса",
+        "Камера підрахунку: Покращена/Покрита 6-камерна, фіксована глибина 20 мкм",
+        "Швидкість аналізу до 15 секунд, вибіркові множинні поля зору",
+        "Підтримка відтворення відео",
+        "Підтримка зовнішнього сканера штрих-кодів",
+        "Робоча станція ПК",
+        "Підтримка багатьох видів",
+        "Підтримка багатьох видів",
+        "Час аналізу 15 секунд",
+        "Портативна конструкція «все в одному»"
+      ],
+      "locale": "uk"
+    }
+  ],
+  "articles": [
+    {
+      "id": "faq-human-semen-standards",
+      "slug": "faq-human-semen-standards",
+      "title": "Глобальні стандарти аналізу сперми людини",
+      "subtitle": "Порівняльний посібник (ВООЗ 6-те видання, ISO 23162, ESHRE, & ASRM)",
+      "content": "У 2021 році ландшафт андрології людини був перевизначений подвійним випуском Посібника ВООЗ 6-го видання та стандарту ISO 23162:2021. Ці документи перемістили галузь у напрямку суворої стандартизації, підкреслюючи, що точність можлива лише через суворий контроль якості та зменшення людської суб'єктивності. 1. Преданалітична фаза: основа якості Стандартизація починається до того, як зразок потрапить під мікроскоп. Як ВООЗ 6-те видання, так і ISO 23162 підкреслюють, що преданалітичні змінні є найп",
+      "image": "/Knowledge Hub/Human Semen Analysis Standards/Human Semen Analysis Standards.webp",
+      "alt": "Посібник зі стандартів аналізу сперми 6-го видання ВООЗ з системою CASA, рухливістю сперматозоїдів, морфологією сперматозоїдів та вбудованою термостадією для андрології людини",
+      "category": "human",
+      "locale": "uk"
+    },
+    {
+      "id": "who-6th-edition-semen-analysis-standards",
+      "slug": "who-6th-edition-semen-analysis-standards",
+      "title": "Досконалість аналізу сперми: Комплексний посібник зі стандартів ВООЗ 6-го видання та технології CASA",
+      "subtitle": "Опанування стандартів ВООЗ 6-го видання за допомогою передової технології CASA для точної оцінки чоловічої фертильності",
+      "content": "У сфері репродуктивної медицини аналіз сперми залишається основою оцінки чоловічої фертильності. З випуском ВООЗ 6-го видання (2021), галузь перейшла до вищої точності, суворішого контролю якості та інтеграції передових систем комп'ютерно-допоміжного аналізу сперматозоїдів (CASA). Ця стаття досліджує еволюцію цих стандартів та технічні вимоги для сучасної клінічної діагностики. Розділ 1: Роль CASA в сучасній андрології Традиційна ручна мікроскопія, хоча й існує довго, схильна до значної варіабел",
+      "image": "/WHO6.webp",
+      "alt": "Посібник зі стандартів аналізу сперми ВООЗ 6-го видання з системою CASA, Nexus Dx1, рухливістю сперматозоїдів, морфологією сперматозоїдів та вбудованою термостадією",
+      "category": "human",
+      "locale": "uk"
+    },
+    {
+      "id": "iso-23162-2021-laboratory-competence-guide",
+      "slug": "iso-23162-2021-laboratory-competence-guide",
+      "title": "Зв'язування глобальних стандартів: Глибоке занурення в ISO 23162:2021 та лабораторну компетентність",
+      "subtitle": "Опанування технічних вимог ISO 23162:2021 та рамки управління якістю для глобально порівнянних результатів дослідження сперми",
+      "content": "Ця стаття зосереджена на ISO 23162:2021, міжнародному стандарті, який визначає вимоги та методи тестування для базового дослідження сперми людини. Поки ВООЗ 6-те видання надає клінічний посібник, ISO 23162 надає технічну рамку та рамку управління якістю для лабораторій, щоб гарантувати, що їхні результати є глобально порівнянними. Випуск ISO 23162:2021 став важливою віхою в репродуктивній медицині, будучи першим спеціалізованим міжнародним стандартом для базового дослідження сперми. Для клінік т",
+      "image": "/ISO.webp",
+      "alt": "Посібник з лабораторної компетентності ISO 23162:2021 з системою CASA, Nexus Dx1, вимогами до дослідження сперми, контролем якості та лабораторними стандартами",
+      "category": "human",
+      "locale": "uk"
+    },
+    {
+      "id": "eshre-guidelines-clinical-semen-examination",
+      "slug": "eshre-guidelines-clinical-semen-examination",
+      "title": "Клінічна досконалість: Керівні принципи ESHRE для дослідження сперми та управління пацієнтами",
+      "subtitle": "Керівні принципи ESHRE на основі доказів, що з'єднують результати лабораторії та клінічне прийняття рішень для оптимальних результатів ART",
+      "content": "Поки Посібник ВООЗ надає \"як це зробити\" та ISO 23162 надає \"технічні специфікації\", ESHRE зосереджується на Стандарті догляду—як ці діагностики повинні інтегруватися в клінічну практику для покращення результатів у допоміжній репродуктивній технології (ART). Як провідна влада в європейській репродуктивній медицині, ESHRE надає керівні принципи на основі доказів, які з'єднують прогалину між результатами лабораторії та клінічним прийняттям рішень. Для сучасних клінік фертильності дотримання реком",
+      "image": "/ESHRE.webp",
+      "alt": "Посібник з клінічного дослідження сперми ESHRE з системою CASA, Nexus Dx1, досконалістю ART, IVF, ICSI та допоміжною репродуктивною технологією",
+      "category": "human",
+      "locale": "uk"
+    },
+    {
+      "id": "asrm-male-infertility-evaluation-protocols",
+      "slug": "asrm-male-infertility-evaluation-protocols",
+      "title": "Клінічна цілісність: Керівні принципи ASRM для оцінки чоловічої безплідності та аналізу сперми",
+      "subtitle": "Протоколи ASRM на основі доказів, що інтегрують аналіз сперми в цілісну діагностику та лікувальні шляхи чоловічої безплідності",
+      "content": "Поки Посібник ВООЗ надає \"як це зробити\" та ISO 23162 надає \"технічні стандарти\", ASRM зосереджується на Клінічному шляху—направляючи, як результати аналізу сперми повинні керувати діагностичною роботою та лікуванням безплідного чоловіка в клінічному середовищі. Як провідна влада в репродуктивній медицині в Сполучених Штатах, ASRM встановлює протоколи на основі доказів, які визначають сучасну догляд за фертильністю. Для клініцистів та директорів лабораторій дотримання думок комітету ASRM гаранту",
+      "image": "/ASRM.webp",
+      "alt": "Посібник з протоколів оцінки чоловічої безплідності ASRM з системою CASA, Nexus Dx1, роботою з чоловічої безплідності, IUI, IVF, ICSI та клінічними лабораторними стандартами",
+      "category": "human",
+      "locale": "uk"
+    },
+    {
+      "id": "faq-bull-breeding-soundness",
+      "slug": "faq-bull-breeding-soundness",
+      "title": "Визначальний посібник з репродуктивного здоров'я биків",
+      "subtitle": "Клінічні стандарти та сучасна методологія",
+      "content": "Цей комплексний посібник надає ветеринарним спеціалістам та виробникам клінічні стандарти та сучасні методології, необхідні для проведення повного обстеження репродуктивного здоров'я биків (BSE) відповідно до рекомендацій Товариства теріогенології (SFT). Глава 1: Біоповедінкова оцінка плідника У нашій клінічній практиці як андрологів ми часто нагадуємо виробникам, що цінність бика полягає не в пробірці, а в його здатності обслуговувати корову на пасовищі. Ця глава розглядає основну вимогу \"лібід",
+      "image": "/Knowledge Hub/Bull Breeding Soundness Guide/Bull Breeding Soundness Guide.webp",
+      "alt": "Посібник з обстеження репродуктивного здоров'я биків з рекомендаціями SFT з ветеринарного аналізу сперми, системою CASA, рухливістю сперматозоїдів та вбудованою термостадією",
+      "category": "veterinary",
+      "locale": "uk"
+    },
+    {
+      "id": "faq-canine-semen-analysis",
+      "slug": "faq-canine-semen-analysis",
+      "title": "Професійний посібник з аналізу сперми собак",
+      "subtitle": "Клінічні стандарти для фертильності та репродуктивної цілісності собак",
+      "content": "Цей комплексний посібник надає ветеринарним спеціалістам та заводчикам клінічні стандарти та методології, необхідні для проведення повного обстеження репродуктивного здоров'я собак (BSE) та аналізу сперми. Глава 1: Відбір та репродуктивний життєвий цикл Оцінка племінного кобеля починається з його родоводу та історії розвитку. В андрології собак статеве дозрівання зазвичай відбувається у віці від 6 до 12 місяців, залежно від породи (великі породи часто дозрівають пізніше). Однак ми зазвичай реком",
+      "image": "/Knowledge Hub/Canine Semen Analysis Guide/Canine Semen Analysis Guide.webp",
+      "alt": "Посібник з аналізу сперми собак з ветеринарними стандартами SFT, системою CASA, рухливістю сперматозоїдів, морфологією сперматозоїдів та вбудованою термостадією для фертильності собак",
+      "category": "veterinary",
+      "locale": "uk"
+    },
+    {
+      "id": "faq-poultry-semen-analysis",
+      "slug": "faq-poultry-semen-analysis",
+      "title": "Професійний посібник з аналізу сперми птиці",
+      "subtitle": "Клінічні стандарти для фертильності півнів",
+      "content": "В птицеводчій галузі, особливо для бройлерів та несучок, оцінка фертильності півнів є наріжним каменем успіху інкубаторію та заміни стада. На відміну від ссавців, не існує єдиного \"Посібника SFT\" для птиці; замість цього стандарти регулюються рекомендаціями Всесвітньої асоціації птицеводчої науки (WPSA), протоколами ФАО з генетичних ресурсів тварин та технічними посібниками основних селекціонерів (таких як Aviagen та Cobb). Глава 1: Відбір та генетична продуктивність плідника В комерційному птиц",
+      "image": "/Knowledge Hub/Poultry Semen Analysis Guide/Poultry Semen Analysis Guide.webp",
+      "alt": "Посібник з аналізу сперми птиці з ветеринарними стандартами SFT, системою CASA, рухливістю сперматозоїдів, морфологією сперматозоїдів та вбудованою термостадією для фертильності півнів",
+      "category": "veterinary",
+      "locale": "uk"
+    },
+    {
+      "id": "faq-stallion-semen-analysis",
+      "slug": "faq-stallion-semen-analysis",
+      "title": "Професійний посібник з аналізу сперми жеребців",
+      "subtitle": "Клінічні стандарти для обстеження репродуктивного здоров'я коней (EBSE)",
+      "content": "Цей комплексний посібник надає ветеринарним спеціалістам та заводчикам клінічні стандарти та методології, необхідні для проведення повної оцінки репродуктивного здоров'я коней (EBSE) та аналізу сперми. Глава 1: Відбір жеребця та репродуктивна поведінка Оцінка жеребця починається з його генетичної родоводу та ретельної оцінки його репродуктивної поведінки. В кінській галузі жеребець повинен володіти сильним, контрольованим лібідо. Ми оцінюємо реакцію жеребця на \"провокаційну кобилу\", шукаючи нега",
+      "image": "/Knowledge Hub/Stallion Semen Analysis Guide/Stallion Semen Analysis Guide.webp",
+      "alt": "Посібник з аналізу сперми жеребців з ветеринарними стандартами SFT, системою CASA, рухливістю сперматозоїдів, морфологією сперматозоїдів та вбудованою термостадією для обстеження репродуктивного здоров'я коней",
+      "category": "veterinary",
+      "locale": "uk"
+    },
+    {
+      "id": "faq-camelid-andrology",
+      "slug": "faq-camelid-andrology",
+      "title": "Професійний стандарт андрології верблюдових",
+      "subtitle": "Керівні принципи клінічної оцінки та цифрового аналізу фертильності верблюдів",
+      "content": "Андрологія верблюдових є однією з найскладніших та найспеціалізованіших областей у ветеринарній репродукції. Незалежно від того, маємо ми справу з одногорбими або двогорбими верблюдами, унікальні фізіологічні характеристики цих \"кораблів пустелі\" — особливо інтенсивна сезонність та крайня в'язкість їх сперми — вимагають спеціалізованого діагностичного підходу. Глава 1: Сезонність та фізіологія \"Гону\" В репродукції верблюдових сезонність є всеосяжним фактором, який визначає кожен клінічний резуль",
+      "image": "/Knowledge Hub/Camelid Andrology Guide/Camelid Andrology Guide.webp",
+      "alt": "Посібник з андрології верблюдових з ветеринарними стандартами SFT, системою CASA, рухливістю сперматозоїдів, морфологією сперматозоїдів та вбудованою термостадією для оцінки фертильності верблюдів",
+      "category": "veterinary",
+      "locale": "uk"
+    },
+    {
+      "id": "faq-fish-semen-analysis",
+      "slug": "faq-fish-semen-analysis",
+      "title": "Авторитетний посібник з аналізу сперми риб",
+      "subtitle": "Клінічні стандарти для управління плідниками та репродуктивного успіху",
+      "content": "Основою успішного інкубаторію є відбір \"Плідників\". На відміну від ссавців, фертильність риб тісно переплетена з екологічними циклами та віково-специфічним дозріванням. Цей комплексний посібник розглядає унікальні проблеми аналізу сперми риб та управління плідниками. Глава 1: Відбір та управління плідниками-самцями Ми оцінюємо самців на основі їх \"Фенотипової готовності\" — показників, таких як вторинні статеві ознаки (наприклад, нерестові горбики у карпових або розвиток гачка у лососевих). Відбі",
+      "image": "/Knowledge Hub/Fish Semen Analysis Guide/Fish Semen Analysis Guide.webp",
+      "alt": "Посібник з аналізу сперми риб з ветеринарними стандартами SFT, системою CASA, рухливістю сперматозоїдів, морфологією сперматозоїдів та вбудованою термостадією для управління плідниками",
+      "category": "veterinary",
+      "locale": "uk"
+    },
+    {
+      "id": "faq-ram-breeding-soundness",
+      "slug": "faq-ram-breeding-soundness",
+      "title": "Обстеження репродуктивного здоров'я баранів (RBSE)",
+      "subtitle": "Клінічні стандарти для оцінки фертильності баранів",
+      "content": "Одним з найкритичніших факторів фертильності баранів, який відрізняє їх від іншої домашньої худоби, є їх інтенсивна сезонність. Барани — \"короткоденні\" розмножувачі; їх репродуктивна ендокринна система керується фотоперіодом. Цей комплексний посібник надає ветеринарним спеціалістам та виробникам клінічні стандарти, необхідні для проведення повного обстеження репродуктивного здоров'я баранів (RBSE). Глава 1: Сезонність, фотоперіод та статеве дозрівання По мірі зменшення довжини дня восени виробни",
+      "image": "/Knowledge Hub/Ram Breeding Soundness Examination (RBSE)/Ram Breeding Soundness Examination (RBSE).webp",
+      "alt": "Посібник з обстеження репродуктивного здоров'я баранів з ветеринарними стандартами SFT, системою CASA, рухливістю сперматозоїдів, морфологією сперматозоїдів та вбудованою термостадією для оцінки фертильності баранів",
+      "category": "veterinary",
+      "locale": "uk"
+    },
+    {
+      "id": "faq-boar-semen-evaluation",
+      "slug": "faq-boar-semen-evaluation",
+      "title": "Стандарти оцінки та обробки сперми кабанів",
+      "subtitle": "Обстеження репродуктивного здоров'я кабанів (BBSE)",
+      "content": "Шлях високопродуктивного плідника починається з відбору. На відміну від великої рогатої худоби, де природне обслуговування все ще поширене, сучасний кабан майже виключно донор штучного осіменіння (ШО). Цей комплексний посібник надає ветеринарним спеціалістам та виробникам клінічні стандарти, необхідні для проведення повного обстеження репродуктивного здоров'я кабанів (BBSE) та оцінки сперми. Глава 1: Відбір та статеве дозрівання — генетична основа Ми розставляємо пріоритети відбору на основі трь",
+      "image": "/Knowledge Hub/Boar Semen Evaluation Guide/Boar Semen Evaluation Guide.webp",
+      "alt": "Посібник з оцінки сперми кабанів з ветеринарними стандартами SFT, системою CASA, рухливістю сперматозоїдів, морфологією сперматозоїдів та вбудованою термостадією для обстеження репродуктивного здоров'я кабанів",
+      "category": "veterinary",
+      "locale": "uk"
+    }
+  ],
+  "pages": [
+    {
+      "id": "home",
+      "path": "/",
+      "title": "iSperm Аналізатор сперми - Революція в аналізі сперми",
+      "description": "Повністю автоматизована система аналізу сперми, розроблена для клінічного використання та розведення тварин, з передовими алгоритмами ШІ.",
+      "locale": "uk"
+    },
+    {
+      "id": "about",
+      "path": "/about",
+      "title": "Про iSperm Medical | Виробник систем CASA",
+      "description": "Провідний виробник систем CASA та аналізаторів сперми. Аналізатори морфології сперми, що відповідають 6-му виданню ВООЗ, для людського та ветеринарного використання з 2010 року.",
+      "locale": "uk"
+    },
+    {
+      "id": "contact",
+      "path": "/contact",
+      "title": "Контакти iSperm Medical | Підтримка систем CASA",
+      "description": "Зв'яжіться з провідним виробником систем CASA та аналізаторів сперми. Отримайте підтримку для аналізаторів морфології сперми, що відповідають 6-му виданню ВООЗ.",
+      "locale": "uk"
+    },
+    {
+      "id": "products",
+      "path": "/products",
+      "title": "Системи CASA та аналізатори сперми | iSperm Medical",
+      "description": "Ознайомтеся з нашими системами CASA та аналізаторами морфології сперми для людського та ветеринарного використання. Рішення аналізаторів сперми, що відповідають 6-му виданню ВООЗ.",
+      "locale": "uk"
+    },
+    {
+      "id": "faq",
+      "path": "/faq",
+      "title": "База знань | Часто задавані питання про систему CASA | iSperm Medical",
+      "description": "Комплексні часто задавані питання про систему CASA, посібники 6-го видання ВООЗ та ресурси з аналізу сперми. Експертні знання про аналізатори морфології сперматозоїдів.",
+      "locale": "uk"
+    }
+  ],
+  "images": [
+    {
+      "id": "nexus-dx1-0",
+      "src": "/nexus-dx1-cover.webp",
+      "alt": "Nexus Dx1 - Product image 1",
+      "filename": "nexus-dx1-cover.webp",
+      "type": "product",
+      "associatedContent": {
+        "type": "product",
+        "id": "nexus-dx1",
+        "title": "Nexus Dx1",
+        "url": "/products/nexus-dx1"
+      },
+      "locale": "uk"
+    },
+    {
+      "id": "nexus-dx1-1",
+      "src": "/nexus-dx1.webp",
+      "alt": "Nexus Dx1 - Product image 2",
+      "filename": "nexus-dx1.webp",
+      "type": "product",
+      "associatedContent": {
+        "type": "product",
+        "id": "nexus-dx1",
+        "title": "Nexus Dx1",
+        "url": "/products/nexus-dx1"
+      },
+      "locale": "uk"
+    },
+    {
+      "id": "nexus-dx1-2",
+      "src": "/nexus-dx1-2.webp",
+      "alt": "Nexus Dx1 - Product image 3",
+      "filename": "nexus-dx1-2.webp",
+      "type": "product",
+      "associatedContent": {
+        "type": "product",
+        "id": "nexus-dx1",
+        "title": "Nexus Dx1",
+        "url": "/products/nexus-dx1"
+      },
+      "locale": "uk"
+    },
+    {
+      "id": "nexus-dx1-3",
+      "src": "/nexus-dx1-3.webp",
+      "alt": "Nexus Dx1 - Product image 4",
+      "filename": "nexus-dx1-3.webp",
+      "type": "product",
+      "associatedContent": {
+        "type": "product",
+        "id": "nexus-dx1",
+        "title": "Nexus Dx1",
+        "url": "/products/nexus-dx1"
+      },
+      "locale": "uk"
+    },
+    {
+      "id": "nexus-dx1-4",
+      "src": "/nexus-dx1-4.webp",
+      "alt": "Nexus Dx1 - Product image 5",
+      "filename": "nexus-dx1-4.webp",
+      "type": "product",
+      "associatedContent": {
+        "type": "product",
+        "id": "nexus-dx1",
+        "title": "Nexus Dx1",
+        "url": "/products/nexus-dx1"
+      },
+      "locale": "uk"
+    },
+    {
+      "id": "msqa-100-0",
+      "src": "/MSQA-100/msqa-100-cover.webp",
+      "alt": "MSQA-100 - Product image 1",
+      "filename": "msqa-100-cover.webp",
+      "type": "product",
+      "associatedContent": {
+        "type": "product",
+        "id": "msqa-100",
+        "title": "MSQA-100",
+        "url": "/products/msqa-100"
+      },
+      "locale": "uk"
+    },
+    {
+      "id": "msqa-100-1",
+      "src": "/MSQA-100/msqa-100-1.webp",
+      "alt": "MSQA-100 - Product image 2",
+      "filename": "msqa-100-1.webp",
+      "type": "product",
+      "associatedContent": {
+        "type": "product",
+        "id": "msqa-100",
+        "title": "MSQA-100",
+        "url": "/products/msqa-100"
+      },
+      "locale": "uk"
+    },
+    {
+      "id": "msqa-100-2",
+      "src": "/MSQA-100/msqa-100-2.webp",
+      "alt": "MSQA-100 - Product image 3",
+      "filename": "msqa-100-2.webp",
+      "type": "product",
+      "associatedContent": {
+        "type": "product",
+        "id": "msqa-100",
+        "title": "MSQA-100",
+        "url": "/products/msqa-100"
+      },
+      "locale": "uk"
+    },
+    {
+      "id": "sqa-6100vet-0",
+      "src": "/sqa-6100vet-cover.webp",
+      "alt": "SQA-6100vet - Product image 1",
+      "filename": "sqa-6100vet-cover.webp",
+      "type": "product",
+      "associatedContent": {
+        "type": "product",
+        "id": "sqa-6100vet",
+        "title": "SQA-6100vet",
+        "url": "/products/sqa-6100vet"
+      },
+      "locale": "uk"
+    },
+    {
+      "id": "sqa-6100vet-1",
+      "src": "/sqa-6100vet-1.webp",
+      "alt": "SQA-6100vet - Product image 2",
+      "filename": "sqa-6100vet-1.webp",
+      "type": "product",
+      "associatedContent": {
+        "type": "product",
+        "id": "sqa-6100vet",
+        "title": "SQA-6100vet",
+        "url": "/products/sqa-6100vet"
+      },
+      "locale": "uk"
+    },
+    {
+      "id": "sqa-6100vet-2",
+      "src": "/sqa-6100vet-2.webp",
+      "alt": "SQA-6100vet - Product image 3",
+      "filename": "sqa-6100vet-2.webp",
+      "type": "product",
+      "associatedContent": {
+        "type": "product",
+        "id": "sqa-6100vet",
+        "title": "SQA-6100vet",
+        "url": "/products/sqa-6100vet"
+      },
+      "locale": "uk"
+    },
+    {
+      "id": "article-faq-human-semen-standards",
+      "src": "/Knowledge Hub/Human Semen Analysis Standards/Human Semen Analysis Standards.webp",
+      "alt": "Посібник зі стандартів аналізу сперми 6-го видання ВООЗ з системою CASA, рухливістю сперматозоїдів, морфологією сперматозоїдів та вбудованою термостадією для андрології людини",
+      "filename": "Human Semen Analysis Standards.webp",
+      "type": "article",
+      "associatedContent": {
+        "type": "article",
+        "id": "faq-human-semen-standards",
+        "title": "Глобальні стандарти аналізу сперми людини",
+        "url": "/faq/faq-human-semen-standards"
+      },
+      "locale": "uk"
+    },
+    {
+      "id": "article-who-6th-edition-semen-analysis-standards",
+      "src": "/WHO6.webp",
+      "alt": "Посібник зі стандартів аналізу сперми ВООЗ 6-го видання з системою CASA, Nexus Dx1, рухливістю сперматозоїдів, морфологією сперматозоїдів та вбудованою термостадією",
+      "filename": "WHO6.webp",
+      "type": "article",
+      "associatedContent": {
+        "type": "article",
+        "id": "who-6th-edition-semen-analysis-standards",
+        "title": "Досконалість аналізу сперми: Комплексний посібник зі стандартів ВООЗ 6-го видання та технології CASA",
+        "url": "/faq/who-6th-edition-semen-analysis-standards"
+      },
+      "locale": "uk"
+    },
+    {
+      "id": "article-iso-23162-2021-laboratory-competence-guide",
+      "src": "/ISO.webp",
+      "alt": "Посібник з лабораторної компетентності ISO 23162:2021 з системою CASA, Nexus Dx1, вимогами до дослідження сперми, контролем якості та лабораторними стандартами",
+      "filename": "ISO.webp",
+      "type": "article",
+      "associatedContent": {
+        "type": "article",
+        "id": "iso-23162-2021-laboratory-competence-guide",
+        "title": "Зв'язування глобальних стандартів: Глибоке занурення в ISO 23162:2021 та лабораторну компетентність",
+        "url": "/faq/iso-23162-2021-laboratory-competence-guide"
+      },
+      "locale": "uk"
+    },
+    {
+      "id": "article-eshre-guidelines-clinical-semen-examination",
+      "src": "/ESHRE.webp",
+      "alt": "Посібник з клінічного дослідження сперми ESHRE з системою CASA, Nexus Dx1, досконалістю ART, IVF, ICSI та допоміжною репродуктивною технологією",
+      "filename": "ESHRE.webp",
+      "type": "article",
+      "associatedContent": {
+        "type": "article",
+        "id": "eshre-guidelines-clinical-semen-examination",
+        "title": "Клінічна досконалість: Керівні принципи ESHRE для дослідження сперми та управління пацієнтами",
+        "url": "/faq/eshre-guidelines-clinical-semen-examination"
+      },
+      "locale": "uk"
+    },
+    {
+      "id": "article-asrm-male-infertility-evaluation-protocols",
+      "src": "/ASRM.webp",
+      "alt": "Посібник з протоколів оцінки чоловічої безплідності ASRM з системою CASA, Nexus Dx1, роботою з чоловічої безплідності, IUI, IVF, ICSI та клінічними лабораторними стандартами",
+      "filename": "ASRM.webp",
+      "type": "article",
+      "associatedContent": {
+        "type": "article",
+        "id": "asrm-male-infertility-evaluation-protocols",
+        "title": "Клінічна цілісність: Керівні принципи ASRM для оцінки чоловічої безплідності та аналізу сперми",
+        "url": "/faq/asrm-male-infertility-evaluation-protocols"
+      },
+      "locale": "uk"
+    },
+    {
+      "id": "article-faq-bull-breeding-soundness",
+      "src": "/Knowledge Hub/Bull Breeding Soundness Guide/Bull Breeding Soundness Guide.webp",
+      "alt": "Посібник з обстеження репродуктивного здоров'я биків з рекомендаціями SFT з ветеринарного аналізу сперми, системою CASA, рухливістю сперматозоїдів та вбудованою термостадією",
+      "filename": "Bull Breeding Soundness Guide.webp",
+      "type": "article",
+      "associatedContent": {
+        "type": "article",
+        "id": "faq-bull-breeding-soundness",
+        "title": "Визначальний посібник з репродуктивного здоров'я биків",
+        "url": "/faq/faq-bull-breeding-soundness"
+      },
+      "locale": "uk"
+    },
+    {
+      "id": "article-faq-canine-semen-analysis",
+      "src": "/Knowledge Hub/Canine Semen Analysis Guide/Canine Semen Analysis Guide.webp",
+      "alt": "Посібник з аналізу сперми собак з ветеринарними стандартами SFT, системою CASA, рухливістю сперматозоїдів, морфологією сперматозоїдів та вбудованою термостадією для фертильності собак",
+      "filename": "Canine Semen Analysis Guide.webp",
+      "type": "article",
+      "associatedContent": {
+        "type": "article",
+        "id": "faq-canine-semen-analysis",
+        "title": "Професійний посібник з аналізу сперми собак",
+        "url": "/faq/faq-canine-semen-analysis"
+      },
+      "locale": "uk"
+    },
+    {
+      "id": "article-faq-poultry-semen-analysis",
+      "src": "/Knowledge Hub/Poultry Semen Analysis Guide/Poultry Semen Analysis Guide.webp",
+      "alt": "Посібник з аналізу сперми птиці з ветеринарними стандартами SFT, системою CASA, рухливістю сперматозоїдів, морфологією сперматозоїдів та вбудованою термостадією для фертильності півнів",
+      "filename": "Poultry Semen Analysis Guide.webp",
+      "type": "article",
+      "associatedContent": {
+        "type": "article",
+        "id": "faq-poultry-semen-analysis",
+        "title": "Професійний посібник з аналізу сперми птиці",
+        "url": "/faq/faq-poultry-semen-analysis"
+      },
+      "locale": "uk"
+    },
+    {
+      "id": "article-faq-stallion-semen-analysis",
+      "src": "/Knowledge Hub/Stallion Semen Analysis Guide/Stallion Semen Analysis Guide.webp",
+      "alt": "Посібник з аналізу сперми жеребців з ветеринарними стандартами SFT, системою CASA, рухливістю сперматозоїдів, морфологією сперматозоїдів та вбудованою термостадією для обстеження репродуктивного здоров'я коней",
+      "filename": "Stallion Semen Analysis Guide.webp",
+      "type": "article",
+      "associatedContent": {
+        "type": "article",
+        "id": "faq-stallion-semen-analysis",
+        "title": "Професійний посібник з аналізу сперми жеребців",
+        "url": "/faq/faq-stallion-semen-analysis"
+      },
+      "locale": "uk"
+    },
+    {
+      "id": "article-faq-camelid-andrology",
+      "src": "/Knowledge Hub/Camelid Andrology Guide/Camelid Andrology Guide.webp",
+      "alt": "Посібник з андрології верблюдових з ветеринарними стандартами SFT, системою CASA, рухливістю сперматозоїдів, морфологією сперматозоїдів та вбудованою термостадією для оцінки фертильності верблюдів",
+      "filename": "Camelid Andrology Guide.webp",
+      "type": "article",
+      "associatedContent": {
+        "type": "article",
+        "id": "faq-camelid-andrology",
+        "title": "Професійний стандарт андрології верблюдових",
+        "url": "/faq/faq-camelid-andrology"
+      },
+      "locale": "uk"
+    },
+    {
+      "id": "article-faq-fish-semen-analysis",
+      "src": "/Knowledge Hub/Fish Semen Analysis Guide/Fish Semen Analysis Guide.webp",
+      "alt": "Посібник з аналізу сперми риб з ветеринарними стандартами SFT, системою CASA, рухливістю сперматозоїдів, морфологією сперматозоїдів та вбудованою термостадією для управління плідниками",
+      "filename": "Fish Semen Analysis Guide.webp",
+      "type": "article",
+      "associatedContent": {
+        "type": "article",
+        "id": "faq-fish-semen-analysis",
+        "title": "Авторитетний посібник з аналізу сперми риб",
+        "url": "/faq/faq-fish-semen-analysis"
+      },
+      "locale": "uk"
+    },
+    {
+      "id": "article-faq-ram-breeding-soundness",
+      "src": "/Knowledge Hub/Ram Breeding Soundness Examination (RBSE)/Ram Breeding Soundness Examination (RBSE).webp",
+      "alt": "Посібник з обстеження репродуктивного здоров'я баранів з ветеринарними стандартами SFT, системою CASA, рухливістю сперматозоїдів, морфологією сперматозоїдів та вбудованою термостадією для оцінки фертильності баранів",
+      "filename": "Ram Breeding Soundness Examination (RBSE).webp",
+      "type": "article",
+      "associatedContent": {
+        "type": "article",
+        "id": "faq-ram-breeding-soundness",
+        "title": "Обстеження репродуктивного здоров'я баранів (RBSE)",
+        "url": "/faq/faq-ram-breeding-soundness"
+      },
+      "locale": "uk"
+    },
+    {
+      "id": "article-faq-boar-semen-evaluation",
+      "src": "/Knowledge Hub/Boar Semen Evaluation Guide/Boar Semen Evaluation Guide.webp",
+      "alt": "Посібник з оцінки сперми кабанів з ветеринарними стандартами SFT, системою CASA, рухливістю сперматозоїдів, морфологією сперматозоїдів та вбудованою термостадією для обстеження репродуктивного здоров'я кабанів",
+      "filename": "Boar Semen Evaluation Guide.webp",
+      "type": "article",
+      "associatedContent": {
+        "type": "article",
+        "id": "faq-boar-semen-evaluation",
+        "title": "Стандарти оцінки та обробки сперми кабанів",
+        "url": "/faq/faq-boar-semen-evaluation"
+      },
+      "locale": "uk"
+    },
+    {
+      "id": "about-0",
+      "src": "/About%20us%20(1).webp",
+      "alt": "Команда iSperm Medical представляє повністю автоматизовану систему CASA та аналізатор якості сперми на виставці",
+      "filename": "About%20us%20(1).webp",
+      "type": "about",
+      "associatedContent": {
+        "type": "page",
+        "id": "about",
+        "title": "Про iSperm Medical | Виробник систем CASA",
+        "url": "/about"
+      },
+      "locale": "uk"
+    },
+    {
+      "id": "about-1",
+      "src": "/About%20us%20(2).webp",
+      "alt": "Фахівці iSperm Medical обговорюють ветеринарний аналізатор сперми та рішення для розведення тварин",
+      "filename": "About%20us%20(2).webp",
+      "type": "about",
+      "associatedContent": {
+        "type": "page",
+        "id": "about",
+        "title": "Про iSperm Medical | Виробник систем CASA",
+        "url": "/about"
+      },
+      "locale": "uk"
+    },
+    {
+      "id": "about-2",
+      "src": "/About%20Us%202.webp",
+      "alt": "Команда та заходи iSperm Medical демонструють технологію CASA та рішення для репродуктивного здоров'я",
+      "filename": "About%20Us%202.webp",
+      "type": "about",
+      "associatedContent": {
+        "type": "page",
+        "id": "about",
+        "title": "Про iSperm Medical | Виробник систем CASA",
+        "url": "/about"
+      },
+      "locale": "uk"
+    },
+    {
+      "id": "about-3",
+      "src": "/About%20Us%204.webp",
+      "alt": "Презентації та виставки команди iSperm Medical з автоматизованими системами аналізу сперми",
+      "filename": "About%20Us%204.webp",
+      "type": "about",
+      "associatedContent": {
+        "type": "page",
+        "id": "about",
+        "title": "Про iSperm Medical | Виробник систем CASA",
+        "url": "/about"
+      },
+      "locale": "uk"
+    },
+    {
+      "id": "about-4",
+      "src": "/About%20Us%205.webp",
+      "alt": "Заходи та команда iSperm Medical демонструють інноваційні системи CASA та аналізатори якості сперми",
+      "filename": "About%20Us%205.webp",
+      "type": "about",
+      "associatedContent": {
+        "type": "page",
+        "id": "about",
+        "title": "Про iSperm Medical | Виробник систем CASA",
+        "url": "/about"
+      },
+      "locale": "uk"
+    },
+    {
+      "id": "banner-0",
+      "src": "/banner%20(1).webp",
+      "alt": "iSperm Medical - Banner image 1",
+      "filename": "banner%20(1).webp",
+      "type": "banner",
+      "associatedContent": {
+        "type": "page",
+        "id": "home",
+        "title": "iSperm Аналізатор сперми - Революція в аналізі сперми",
+        "url": "/"
+      },
+      "locale": "uk"
+    },
+    {
+      "id": "banner-1",
+      "src": "/banner%20(2).webp",
+      "alt": "iSperm Medical - Banner image 2",
+      "filename": "banner%20(2).webp",
+      "type": "banner",
+      "associatedContent": {
+        "type": "page",
+        "id": "home",
+        "title": "iSperm Аналізатор сперми - Революція в аналізі сперми",
+        "url": "/"
+      },
+      "locale": "uk"
+    },
+    {
+      "id": "banner-2",
+      "src": "/banner%20(3).webp",
+      "alt": "iSperm Medical - Banner image 3",
+      "filename": "banner%20(3).webp",
+      "type": "banner",
+      "associatedContent": {
+        "type": "page",
+        "id": "home",
+        "title": "iSperm Аналізатор сперми - Революція в аналізі сперми",
+        "url": "/"
+      },
+      "locale": "uk"
+    }
+  ],
+  "locale": "uk"
+}

@@ -1,0 +1,48 @@
+{
+  "placeholder": "Tìm kiếm sản phẩm, bài viết, hình ảnh...",
+  "startTyping": "Bắt đầu nhập để tìm kiếm...",
+  "noResults": "Không tìm thấy kết quả",
+  "tryDifferentQuery": "Thử một truy vấn tìm kiếm khác",
+  "searching": "Đang tìm kiếm...",
+  "error": "Đã xảy ra lỗi khi tìm kiếm. Vui lòng thử lại sau.",
+  "shortcutHint": "Nhấn ESC để đóng",
+  "resultsCount": "Tìm thấy {count} kết quả",
+  "pageTitle": "Kết quả tìm kiếm",
+  "searchingFor": "Đang tìm kiếm",
+  "enterQuery": "Nhập truy vấn tìm kiếm để tìm sản phẩm, bài viết và nhiều hơn nữa",
+  "foundResults": "Tìm thấy {count} kết quả cho \"{query}\"",
+  "recentSearches": "Tìm kiếm gần đây",
+  "clearHistory": "Xóa lịch sử tìm kiếm",
+  "clear": "Xóa",
+  "results": "kết quả",
+  "removeFromHistory": "Xóa khỏi lịch sử",
+  "suggestions": "Gợi ý",
+  "popularSearches": "Tìm kiếm phổ biến",
+  "types": {
+    "product": "Sản phẩm",
+    "article": "Bài viết",
+    "image": "Hình ảnh",
+    "page": "Trang"
+  },
+  "footer": {
+    "company": "iSperm Medical",
+    "description": "iSperm Medical Ltd. cam kết cung cấp các giải pháp công nghệ tiên tiến trong phân tích tinh dịch.",
+    "quickLinks": "Liên kết nhanh",
+    "contact": "Liên hệ",
+    "email": "Email:",
+    "rights": "© 2024 iSperm Medical Ltd. Bảo lưu mọi quyền."
+  },
+  "filters": {
+    "title": "Filters",
+    "type": "Type",
+    "category": "Category",
+    "sortBy": "Sort by",
+    "relevance": "Relevance",
+    "titleSort": "Title",
+    "allTypes": "All Types",
+    "allCategories": "All Categories",
+    "human": "Human Andrology",
+    "veterinary": "Animal Breeding",
+    "clearFilters": "Clear filters"
+  }
+}

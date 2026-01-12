@@ -1,0 +1,48 @@
+{
+  "placeholder": "Căutați produse, articole, imagini...",
+  "startTyping": "Începeți să tastați pentru a căuta...",
+  "noResults": "Nu au fost găsite rezultate",
+  "tryDifferentQuery": "Încercați o altă interogare de căutare",
+  "searching": "Căutare...",
+  "error": "A apărut o eroare la căutare. Vă rugăm să încercați din nou mai târziu.",
+  "shortcutHint": "Apăsați ESC pentru a închide",
+  "resultsCount": "Au fost găsite {count} rezultate",
+  "pageTitle": "Rezultate căutare",
+  "searchingFor": "Căutare",
+  "enterQuery": "Introduceți o interogare de căutare pentru a găsi produse, articole și altele",
+  "foundResults": "Au fost găsite {count} rezultate pentru \"{query}\"",
+  "recentSearches": "Căutări recente",
+  "clearHistory": "Șterge istoricul căutării",
+  "clear": "Șterge",
+  "results": "rezultate",
+  "removeFromHistory": "Elimină din istoric",
+  "suggestions": "Sugestii",
+  "popularSearches": "Căutări populare",
+  "types": {
+    "product": "Produs",
+    "article": "Articol",
+    "image": "Imagine",
+    "page": "Pagină"
+  },
+  "footer": {
+    "company": "iSperm Medical",
+    "description": "iSperm Medical Ltd. se angajează să ofere soluții tehnologice de vârf în analiza spermei.",
+    "quickLinks": "Link-uri rapide",
+    "contact": "Contact",
+    "email": "E-mail:",
+    "rights": "© 2024 iSperm Medical Ltd. Toate drepturile rezervate."
+  },
+  "filters": {
+    "title": "Filters",
+    "type": "Type",
+    "category": "Category",
+    "sortBy": "Sort by",
+    "relevance": "Relevance",
+    "titleSort": "Title",
+    "allTypes": "All Types",
+    "allCategories": "All Categories",
+    "human": "Human Andrology",
+    "veterinary": "Animal Breeding",
+    "clearFilters": "Clear filters"
+  }
+}

@@ -1,0 +1,714 @@
+{
+  "products": [
+    {
+      "id": "nexus-dx1",
+      "slug": "nexus-dx1",
+      "name": "Nexus Dx1",
+      "description": "Volledig geautomatiseerd CASA systeem ontworpen voor klinisch en laboratoriumgebruik, met geavanceerde AI-algoritmen en uitgebreide parameteranalyse.",
+      "subtitle": "Volledig Geautomatiseerd Menselijk CASA Systeem",
+      "images": [
+        "/nexus-dx1-cover.webp",
+        "/nexus-dx1.webp",
+        "/nexus-dx1-2.webp",
+        "/nexus-dx1-3.webp",
+        "/nexus-dx1-4.webp"
+      ],
+      "features": [
+        "Volledig geautomatiseerd",
+        "Aanraakscherm",
+        "Ingebouwde Verwarmingsfase",
+        "Zelfstandig alles-in-één systeem",
+        "Geavanceerd Gaussisch dynamisch AI-beeldalgoritme",
+        "Telkamer: Verbeterde/Gecoate 2-kamer, vaste diepte 10μm",
+        "Aanpasbare meerdere gezichtsvelden, tot 1500 spermacellen per gezichtsveld",
+        "Ondersteunt video afspelen",
+        "Ondersteunt externe barcodescanner",
+        "PC werkstation",
+        "Volledig geautomatiseerde analyse",
+        "Ingebouwde verwarmingsfase",
+        "PC werkstation ondersteuning"
+      ],
+      "locale": "nl"
+    },
+    {
+      "id": "msqa-100",
+      "slug": "msqa-100",
+      "name": "MSQA-100",
+      "description": "Draagbaar CASA systeem voor thuisgebruik met smartphone compatibiliteit, dat laboratoriumniveau prestaties levert in compact formaat.",
+      "subtitle": "Draagbare CASA Semen Analysator",
+      "images": [
+        "/MSQA-100/msqa-100-cover.webp",
+        "/MSQA-100/msqa-100-1.webp",
+        "/MSQA-100/msqa-100-2.webp"
+      ],
+      "features": [
+        "Smartphone compatibel",
+        "Ingebouwde temperatuurregeling",
+        "Cloud-gebaseerde AI-analyse"
+      ],
+      "locale": "nl"
+    },
+    {
+      "id": "sqa-6100vet",
+      "slug": "sqa-6100vet",
+      "name": "SQA-6100vet",
+      "description": "Revolutionair volledig geautomatiseerd CASA systeem voor dierlijke reproductieve beoordeling, met ondersteuning voor multi-soort analyse met draagbare veldmogelijkheden.",
+      "subtitle": "Volledig Geautomatiseerd Veterinair CASA Systeem",
+      "images": [
+        "/sqa-6100vet-cover.webp",
+        "/sqa-6100vet-1.webp",
+        "/sqa-6100vet-2.webp"
+      ],
+      "features": [
+        "Volledig geautomatiseerd",
+        "Aanraakscherm",
+        "Ingebouwde Verwarmingsfase",
+        "Zelfstandig alles-in-één systeem",
+        "Geavanceerd Gaussisch dynamisch AI-beeldalgoritme",
+        "Telkamer: Verbeterde/Gecoate 6-kamer, vaste diepte 20μm",
+        "Zo snel als 15 seconden analysetijd, selecteerbare meerdere gezichtsvelden",
+        "Ondersteunt video afspelen",
+        "Ondersteunt externe barcodescanner",
+        "PC werkstation",
+        "Ondersteunt multi-soort",
+        "Multi-soort ondersteuning",
+        "15 seconden analysetijd",
+        "Draagbaar alles-in-één ontwerp"
+      ],
+      "locale": "nl"
+    }
+  ],
+  "articles": [
+    {
+      "id": "faq-human-semen-standards",
+      "slug": "faq-human-semen-standards",
+      "title": "Globale Standaarden voor Menselijke Sperma Analyse",
+      "subtitle": "Een Vergelijkende Gids (WHO 6e, ISO 23162, ESHRE, & ASRM)",
+      "content": "In 2021 werd het landschap van menselijke andrologie opnieuw gedefinieerd door de dubbele release van het WHO 6e Editie Handboek en de ISO 23162:2021 standaard. Deze documenten hebben het veld richting rigoureuze standaardisering bewogen, waarbij wordt benadrukt dat nauwkeurigheid alleen mogelijk is door strikte kwaliteitscontrole en vermindering van menselijke subjectiviteit. 1. Pre-Analytische Fase: De Basis van Kwaliteit Standaardisering begint voordat het monster de microscoop bereikt. Zowel",
+      "image": "/Knowledge Hub/Human Semen Analysis Standards/Human Semen Analysis Standards.webp",
+      "alt": "WHO 6e Editie Sperma Analyse Standaarden gids met CASA systeem, Sperma Beweglijkheid, Sperma Morfologie en Ingebouwde verwarmingsstage voor menselijke andrologie",
+      "category": "human",
+      "locale": "nl"
+    },
+    {
+      "id": "who-6th-edition-semen-analysis-standards",
+      "slug": "who-6th-edition-semen-analysis-standards",
+      "title": "Uitmuntendheid in Sperma Analyse: Een Uitgebreide Gids voor WHO 6e Editie Standaarden en CASA Technologie",
+      "subtitle": "Beheersing van WHO 6e Editie standaarden met geavanceerde CASA technologie voor precieze mannelijke vruchtbaarheidsbeoordeling",
+      "content": "Op het gebied van reproductieve geneeskunde blijft sperma analyse de hoeksteen van mannelijke vruchtbaarheidsbeoordeling. Met de release van de WHO 6e Editie (2021) heeft de industrie zich verplaatst naar hogere precisie, strengere kwaliteitscontrole en de integratie van geavanceerde Computer-Gestuurde Sperma Analyse (CASA) systemen. Dit artikel onderzoekt de evolutie van deze standaarden en de technische vereisten voor moderne klinische diagnostiek. Hoofdstuk 1: De Rol van CASA in Moderne Andro",
+      "image": "/WHO6.webp",
+      "alt": "WHO 6e Editie Sperma Analyse Standaarden gids met CASA systeem, Nexus Dx1, Sperma Beweglijkheid, Sperma Morfologie en Ingebouwde verwarmingsstage",
+      "category": "human",
+      "locale": "nl"
+    },
+    {
+      "id": "iso-23162-2021-laboratory-competence-guide",
+      "slug": "iso-23162-2021-laboratory-competence-guide",
+      "title": "Wereldwijde Standaarden Verbinden: Een Diepgaande Verkenning van ISO 23162:2021 en Laboratoriumcompetentie",
+      "subtitle": "Beheersing van ISO 23162:2021 technische vereisten en kwaliteitsbeheerskader voor wereldwijd vergelijkbare spermaonderzoeksresultaten",
+      "content": "Dit artikel richt zich op ISO 23162:2021, de internationale standaard die vereisten en testmethoden specificeert voor basisonderzoek van menselijk sperma. Terwijl de WHO 6e Editie het klinische handboek biedt, biedt ISO 23162 het technische en kwaliteitsbeheerskader voor laboratoria om ervoor te zorgen dat hun resultaten wereldwijd vergelijkbaar zijn. De release van ISO 23162:2021 markeerde een mijlpaal in de reproductieve geneeskunde, als de eerste toegewijde internationale standaard voor basis",
+      "image": "/ISO.webp",
+      "alt": "ISO 23162:2021 Laboratoriumcompetentie gids met CASA systeem, Nexus Dx1, Spermaonderzoek vereisten, Kwaliteitscontrole en Laboratoriumstandaarden",
+      "category": "human",
+      "locale": "nl"
+    },
+    {
+      "id": "eshre-guidelines-clinical-semen-examination",
+      "slug": "eshre-guidelines-clinical-semen-examination",
+      "title": "Klinische Uitmuntendheid: ESHRE Richtlijnen voor Sperma Onderzoek en Patiëntbeheer",
+      "subtitle": "Op bewijs gebaseerde ESHRE richtlijnen die laboratoriumresultaten en klinische besluitvorming verbinden voor optimale ART resultaten",
+      "content": "Terwijl het WHO Handboek de \"hoe-te-doen\" biedt en ISO 23162 de \"technische specificaties\" biedt, richt ESHRE zich op de Zorgstandaard—hoe deze diagnostiek moet worden geïntegreerd in de klinische praktijk om resultaten in Geassisteerde Reproductieve Technologie (ART) te verbeteren. Als de leidende autoriteit in Europese reproductieve geneeskunde, biedt ESHRE op bewijs gebaseerde richtlijnen die de kloof tussen laboratoriumresultaten en klinische besluitvorming overbruggen. Voor moderne vruchtba",
+      "image": "/ESHRE.webp",
+      "alt": "ESHRE Richtlijnen Klinisch Sperma Onderzoek gids met CASA systeem, Nexus Dx1, ART uitmuntendheid, IVF, ICSI en Geassisteerde Reproductieve Technologie",
+      "category": "human",
+      "locale": "nl"
+    },
+    {
+      "id": "asrm-male-infertility-evaluation-protocols",
+      "slug": "asrm-male-infertility-evaluation-protocols",
+      "title": "Klinische Integriteit: ASRM Richtlijnen voor Mannelijke Onvruchtbaarheid Evaluatie en Sperma Analyse",
+      "subtitle": "Op bewijs gebaseerde ASRM protocollen die sperma analyse integreren in holistische mannelijke onvruchtbaarheid diagnose en behandelingspaden",
+      "content": "Terwijl het WHO Handboek de \"hoe-te-doen\" biedt en ISO 23162 de \"technische standaarden\" biedt, richt ASRM zich op het Klinische Pad—het sturen van hoe sperma analyse resultaten het diagnostische onderzoek en de behandeling van de onvruchtbare man moeten begeleiden in een klinische setting. Als de belangrijkste autoriteit in reproductieve geneeskunde in de Verenigde Staten, stelt ASRM op bewijs gebaseerde protocollen vast die moderne vruchtbaarheidszorg definiëren. Voor clinici en laboratoriumdi",
+      "image": "/ASRM.webp",
+      "alt": "ASRM Mannelijke Onvruchtbaarheid Evaluatie Protocollen gids met CASA systeem, Nexus Dx1, Mannelijke onvruchtbaarheid onderzoek, IUI, IVF, ICSI en Klinische Laboratoriumstandaarden",
+      "category": "human",
+      "locale": "nl"
+    },
+    {
+      "id": "faq-bull-breeding-soundness",
+      "slug": "faq-bull-breeding-soundness",
+      "title": "De Definitieve Gids voor Stier Fokgeschiktheid",
+      "subtitle": "Klinische Standaarden & Moderne Methodologie",
+      "content": "Deze uitgebreide gids biedt veterinaire professionals en producenten de klinische standaarden en moderne methodologieën die vereist zijn voor het uitvoeren van een volledig Stier Fokgeschiktheidsonderzoek (BSE) volgens Society for Theriogenology (SFT) richtlijnen. Hoofdstuk 1: De Bio-Gedragsmatige Beoordeling van de Vaderdier In onze klinische praktijk als andrologen, herinneren we producenten er vaak aan dat de waarde van een stier niet in een reageerbuis wordt gevonden, maar in zijn vermogen o",
+      "image": "/Knowledge Hub/Bull Breeding Soundness Guide/Bull Breeding Soundness Guide.webp",
+      "alt": "Stier Fokgeschiktheidsonderzoek gids met SFT Veterinaire Sperma Analyse Richtlijnen, CASA systeem, Sperma Beweglijkheid en Ingebouwde verwarmingsstage",
+      "category": "veterinary",
+      "locale": "nl"
+    },
+    {
+      "id": "faq-canine-semen-analysis",
+      "slug": "faq-canine-semen-analysis",
+      "title": "De Professionele Gids voor Canine Sperma Analyse",
+      "subtitle": "Klinische Standaarden voor Hond Vruchtbaarheid en Reproductieve Integriteit",
+      "content": "Deze uitgebreide gids biedt veterinaire professionals en fokkers de klinische standaarden en methodologieën die vereist zijn voor het uitvoeren van een volledig Canine Fokgeschiktheidsonderzoek (BSE) en sperma analyse. Hoofdstuk 1: Selectie en Reproductieve Levenscyclus De evaluatie van een dekreu begint met zijn stamboom en ontwikkelingsgeschiedenis. In canine andrologie treedt puberteit typisch op tussen 6 en 12 maanden, afhankelijk van het ras (grotere rassen rijpen vaak later). We raden echt",
+      "image": "/Knowledge Hub/Canine Semen Analysis Guide/Canine Semen Analysis Guide.webp",
+      "alt": "Canine Sperma Analyse gids met SFT Veterinaire standaarden, CASA systeem, Sperma Beweglijkheid, Sperma Morfologie en Ingebouwde verwarmingsstage voor hond vruchtbaarheid",
+      "category": "veterinary",
+      "locale": "nl"
+    },
+    {
+      "id": "faq-poultry-semen-analysis",
+      "slug": "faq-poultry-semen-analysis",
+      "title": "De Professionele Gids voor Pluimvee Sperma Analyse",
+      "subtitle": "Klinische Standaarden voor Haan Vruchtbaarheid",
+      "content": "In de pluimvee-industrie, specifiek voor vleeskuikenouders en leghennen, is de evaluatie van haan vruchtbaarheid de hoeksteen van broederijsucces en kudde vervanging. In tegenstelling tot zoogdieren, is er geen enkele \"SFT Handboek\" voor pluimvee; in plaats daarvan worden de standaarden beheerd door de World's Poultry Science Association (WPSA) richtlijnen, FAO protocollen voor Dierlijke Genetische Hulpbronnen en de technische handboeken van primaire fokkers (zoals Aviagen en Cobb). Hoofdstuk 1:",
+      "image": "/Knowledge Hub/Poultry Semen Analysis Guide/Poultry Semen Analysis Guide.webp",
+      "alt": "Pluimvee Sperma Analyse gids met SFT Veterinaire standaarden, CASA systeem, Sperma Beweglijkheid, Sperma Morfologie en Ingebouwde verwarmingsstage voor haan vruchtbaarheid",
+      "category": "veterinary",
+      "locale": "nl"
+    },
+    {
+      "id": "faq-stallion-semen-analysis",
+      "slug": "faq-stallion-semen-analysis",
+      "title": "De Professionele Gids voor Hengst Sperma Analyse",
+      "subtitle": "Klinische Standaarden voor Paard Fokgeschiktheid (EBSE)",
+      "content": "Deze uitgebreide gids biedt veterinaire professionals en fokkers de klinische standaarden en methodologieën die vereist zijn voor het uitvoeren van een volledig Paard Fokgeschiktheidsonderzoek (EBSE) en sperma analyse. Hoofdstuk 1: Hengst Selectie en Reproductief Gedrag De evaluatie van een hengst begint met zijn genetische stamboom en een grondige beoordeling van zijn reproductieve gedrag. In de paardenindustrie moet een hengst een sterke, controleerbare libido bezitten. We evalueren de respons",
+      "image": "/Knowledge Hub/Stallion Semen Analysis Guide/Stallion Semen Analysis Guide.webp",
+      "alt": "Hengst Sperma Analyse gids met SFT Veterinaire standaarden, CASA systeem, Sperma Beweglijkheid, Sperma Morfologie en Ingebouwde verwarmingsstage voor paard fokgeschiktheid",
+      "category": "veterinary",
+      "locale": "nl"
+    },
+    {
+      "id": "faq-camelid-andrology",
+      "slug": "faq-camelid-andrology",
+      "title": "De Professionele Standaard voor Camelid Andrologie",
+      "subtitle": "Klinische Evaluatie & Digitale Analyse Richtlijnen voor Kameel Vruchtbaarheid",
+      "content": "Camelid andrologie is een van de meest uitdagende en gespecialiseerde velden in veterinaire reproductie. Of het nu gaat om Dromedaris (eenbultige) of Bactrische (tweebultige) kamelen, de unieke fysiologische kenmerken van deze \"schepen van de woestijn\"—met name de intense seizoensgebondenheid en de extreme viscositeit van hun sperma—vereisen een gespecialiseerde diagnostische aanpak. Hoofdstuk 1: Seizoensgebondenheid en de Fysiologie van de \"Bronst\" In camelid reproductie is seizoensgebondenheid",
+      "image": "/Knowledge Hub/Camelid Andrology Guide/Camelid Andrology Guide.webp",
+      "alt": "Camelid Andrologie gids met SFT Veterinaire standaarden, CASA systeem, Sperma Beweglijkheid, Sperma Morfologie en Ingebouwde verwarmingsstage voor kameel vruchtbaarheidsevaluatie",
+      "category": "veterinary",
+      "locale": "nl"
+    },
+    {
+      "id": "faq-fish-semen-analysis",
+      "slug": "faq-fish-semen-analysis",
+      "title": "De Gezaghebbende Gids voor Vis Sperma Analyse",
+      "subtitle": "Klinische Standaarden voor Broedvis Beheer en Reproductief Succes",
+      "content": "De basis van een succesvolle broederij ligt in de selectie van de \"Broedvis.\" In tegenstelling tot zoogdieren, is vis vruchtbaarheid diep verweven met omgevingscycli en leeftijdspecifieke rijping. Deze uitgebreide gids behandelt de unieke uitdagingen van vis sperma analyse en broedvis beheer. Hoofdstuk 1: Selectie en Beheer van Broedvis Vaderdieren We evalueren vaderdieren op basis van hun \"Fenotypische Bereidheid\"—indicatoren zoals secundaire geslachtskenmerken (bijv. fokknobbels bij karperacht",
+      "image": "/Knowledge Hub/Fish Semen Analysis Guide/Fish Semen Analysis Guide.webp",
+      "alt": "Vis Sperma Analyse gids met SFT Veterinaire standaarden, CASA systeem, Sperma Beweglijkheid, Sperma Morfologie en Ingebouwde verwarmingsstage voor broedvis beheer",
+      "category": "veterinary",
+      "locale": "nl"
+    },
+    {
+      "id": "faq-ram-breeding-soundness",
+      "slug": "faq-ram-breeding-soundness",
+      "title": "Ram Fokgeschiktheidsonderzoek (RBSE)",
+      "subtitle": "Klinische Standaarden voor Ram Vruchtbaarheidsbeoordeling",
+      "content": "Een van de meest kritieke factoren in ram vruchtbaarheid die het onderscheidt van ander vee is zijn intense seizoensgebondenheid. Rammen zijn \"kort-dag\" fokkers; hun reproductieve endocriene systeem wordt geregeerd door de fotoperiode. Deze uitgebreide gids biedt veterinaire professionals en producenten de klinische standaarden die vereist zijn voor het uitvoeren van een volledig Ram Fokgeschiktheidsonderzoek (RBSE). Hoofdstuk 1: Seizoensgebondenheid, Fotoperiode en Puberteit Naarmate de dagleng",
+      "image": "/Knowledge Hub/Ram Breeding Soundness Examination (RBSE)/Ram Breeding Soundness Examination (RBSE).webp",
+      "alt": "Ram Fokgeschiktheidsonderzoek gids met SFT Veterinaire standaarden, CASA systeem, Sperma Beweglijkheid, Sperma Morfologie en Ingebouwde verwarmingsstage voor ram vruchtbaarheidsbeoordeling",
+      "category": "veterinary",
+      "locale": "nl"
+    },
+    {
+      "id": "faq-boar-semen-evaluation",
+      "slug": "faq-boar-semen-evaluation",
+      "title": "Beer Sperma Evaluatie en Verwerkingsstandaarden",
+      "subtitle": "Beer Fokgeschiktheidsonderzoek (BBSE)",
+      "content": "De reis van een hoogwaardige vaderdier begint met selectie. In tegenstelling tot vee, waar natuurlijke service nog steeds gebruikelijk is, is de moderne beer bijna uitsluitend een Kunstmatige Inseminatie (AI) donor. Deze uitgebreide gids biedt veterinaire professionals en producenten de klinische standaarden die vereist zijn voor het uitvoeren van een volledig Beer Fokgeschiktheidsonderzoek (BBSE) en sperma evaluatie. Hoofdstuk 1: Selectie en Puberteit — De Genetische Basis We prioriteren select",
+      "image": "/Knowledge Hub/Boar Semen Evaluation Guide/Boar Semen Evaluation Guide.webp",
+      "alt": "Beer Sperma Evaluatie gids met SFT Veterinaire standaarden, CASA systeem, Sperma Beweglijkheid, Sperma Morfologie en Ingebouwde verwarmingsstage voor beer fokgeschiktheidsonderzoek",
+      "category": "veterinary",
+      "locale": "nl"
+    }
+  ],
+  "pages": [
+    {
+      "id": "home",
+      "path": "/",
+      "title": "iSperm Semen Analysator - Revolutie in Semen Analyse",
+      "description": "Volledig geautomatiseerd semen analyse systeem ontworpen voor klinisch gebruik en dierfokkerij, met geavanceerde AI algoritmen.",
+      "locale": "nl"
+    },
+    {
+      "id": "about",
+      "path": "/about",
+      "title": "Over iSperm Medical | CASA Systeem Fabrikant",
+      "description": "Toonaangevende CASA systeem & sperma analysator fabrikant. WHO 6e editie conforme sperma morfologie analysatoren voor menselijk & veterinair gebruik sinds 2010.",
+      "locale": "nl"
+    },
+    {
+      "id": "contact",
+      "path": "/contact",
+      "title": "Contact iSperm Medical | CASA Systeem Ondersteuning",
+      "description": "Neem contact op met toonaangevende CASA systeem & sperma analysator fabrikant. Krijg ondersteuning voor WHO 6e editie conforme sperma morfologie analysatoren.",
+      "locale": "nl"
+    },
+    {
+      "id": "products",
+      "path": "/products",
+      "title": "CASA Systemen & Semen Analysatoren | iSperm Medical",
+      "description": "Ontdek onze CASA systemen en spermamorfologie analysatoren voor menselijk en veterinair gebruik. Semen analysator oplossingen die voldoen aan WHO 6e editie.",
+      "locale": "nl"
+    },
+    {
+      "id": "faq",
+      "path": "/faq",
+      "title": "Kenniscentrum | CASA Systeem FAQs | iSperm Medical",
+      "description": "Uitgebreide CASA systeem FAQs, WHO 6e editie gidsen en sperma analyse bronnen. Expert inzichten over sperma morfologie analysatoren.",
+      "locale": "nl"
+    }
+  ],
+  "images": [
+    {
+      "id": "nexus-dx1-0",
+      "src": "/nexus-dx1-cover.webp",
+      "alt": "Nexus Dx1 - Product image 1",
+      "filename": "nexus-dx1-cover.webp",
+      "type": "product",
+      "associatedContent": {
+        "type": "product",
+        "id": "nexus-dx1",
+        "title": "Nexus Dx1",
+        "url": "/products/nexus-dx1"
+      },
+      "locale": "nl"
+    },
+    {
+      "id": "nexus-dx1-1",
+      "src": "/nexus-dx1.webp",
+      "alt": "Nexus Dx1 - Product image 2",
+      "filename": "nexus-dx1.webp",
+      "type": "product",
+      "associatedContent": {
+        "type": "product",
+        "id": "nexus-dx1",
+        "title": "Nexus Dx1",
+        "url": "/products/nexus-dx1"
+      },
+      "locale": "nl"
+    },
+    {
+      "id": "nexus-dx1-2",
+      "src": "/nexus-dx1-2.webp",
+      "alt": "Nexus Dx1 - Product image 3",
+      "filename": "nexus-dx1-2.webp",
+      "type": "product",
+      "associatedContent": {
+        "type": "product",
+        "id": "nexus-dx1",
+        "title": "Nexus Dx1",
+        "url": "/products/nexus-dx1"
+      },
+      "locale": "nl"
+    },
+    {
+      "id": "nexus-dx1-3",
+      "src": "/nexus-dx1-3.webp",
+      "alt": "Nexus Dx1 - Product image 4",
+      "filename": "nexus-dx1-3.webp",
+      "type": "product",
+      "associatedContent": {
+        "type": "product",
+        "id": "nexus-dx1",
+        "title": "Nexus Dx1",
+        "url": "/products/nexus-dx1"
+      },
+      "locale": "nl"
+    },
+    {
+      "id": "nexus-dx1-4",
+      "src": "/nexus-dx1-4.webp",
+      "alt": "Nexus Dx1 - Product image 5",
+      "filename": "nexus-dx1-4.webp",
+      "type": "product",
+      "associatedContent": {
+        "type": "product",
+        "id": "nexus-dx1",
+        "title": "Nexus Dx1",
+        "url": "/products/nexus-dx1"
+      },
+      "locale": "nl"
+    },
+    {
+      "id": "msqa-100-0",
+      "src": "/MSQA-100/msqa-100-cover.webp",
+      "alt": "MSQA-100 - Product image 1",
+      "filename": "msqa-100-cover.webp",
+      "type": "product",
+      "associatedContent": {
+        "type": "product",
+        "id": "msqa-100",
+        "title": "MSQA-100",
+        "url": "/products/msqa-100"
+      },
+      "locale": "nl"
+    },
+    {
+      "id": "msqa-100-1",
+      "src": "/MSQA-100/msqa-100-1.webp",
+      "alt": "MSQA-100 - Product image 2",
+      "filename": "msqa-100-1.webp",
+      "type": "product",
+      "associatedContent": {
+        "type": "product",
+        "id": "msqa-100",
+        "title": "MSQA-100",
+        "url": "/products/msqa-100"
+      },
+      "locale": "nl"
+    },
+    {
+      "id": "msqa-100-2",
+      "src": "/MSQA-100/msqa-100-2.webp",
+      "alt": "MSQA-100 - Product image 3",
+      "filename": "msqa-100-2.webp",
+      "type": "product",
+      "associatedContent": {
+        "type": "product",
+        "id": "msqa-100",
+        "title": "MSQA-100",
+        "url": "/products/msqa-100"
+      },
+      "locale": "nl"
+    },
+    {
+      "id": "sqa-6100vet-0",
+      "src": "/sqa-6100vet-cover.webp",
+      "alt": "SQA-6100vet - Product image 1",
+      "filename": "sqa-6100vet-cover.webp",
+      "type": "product",
+      "associatedContent": {
+        "type": "product",
+        "id": "sqa-6100vet",
+        "title": "SQA-6100vet",
+        "url": "/products/sqa-6100vet"
+      },
+      "locale": "nl"
+    },
+    {
+      "id": "sqa-6100vet-1",
+      "src": "/sqa-6100vet-1.webp",
+      "alt": "SQA-6100vet - Product image 2",
+      "filename": "sqa-6100vet-1.webp",
+      "type": "product",
+      "associatedContent": {
+        "type": "product",
+        "id": "sqa-6100vet",
+        "title": "SQA-6100vet",
+        "url": "/products/sqa-6100vet"
+      },
+      "locale": "nl"
+    },
+    {
+      "id": "sqa-6100vet-2",
+      "src": "/sqa-6100vet-2.webp",
+      "alt": "SQA-6100vet - Product image 3",
+      "filename": "sqa-6100vet-2.webp",
+      "type": "product",
+      "associatedContent": {
+        "type": "product",
+        "id": "sqa-6100vet",
+        "title": "SQA-6100vet",
+        "url": "/products/sqa-6100vet"
+      },
+      "locale": "nl"
+    },
+    {
+      "id": "article-faq-human-semen-standards",
+      "src": "/Knowledge Hub/Human Semen Analysis Standards/Human Semen Analysis Standards.webp",
+      "alt": "WHO 6e Editie Sperma Analyse Standaarden gids met CASA systeem, Sperma Beweglijkheid, Sperma Morfologie en Ingebouwde verwarmingsstage voor menselijke andrologie",
+      "filename": "Human Semen Analysis Standards.webp",
+      "type": "article",
+      "associatedContent": {
+        "type": "article",
+        "id": "faq-human-semen-standards",
+        "title": "Globale Standaarden voor Menselijke Sperma Analyse",
+        "url": "/faq/faq-human-semen-standards"
+      },
+      "locale": "nl"
+    },
+    {
+      "id": "article-who-6th-edition-semen-analysis-standards",
+      "src": "/WHO6.webp",
+      "alt": "WHO 6e Editie Sperma Analyse Standaarden gids met CASA systeem, Nexus Dx1, Sperma Beweglijkheid, Sperma Morfologie en Ingebouwde verwarmingsstage",
+      "filename": "WHO6.webp",
+      "type": "article",
+      "associatedContent": {
+        "type": "article",
+        "id": "who-6th-edition-semen-analysis-standards",
+        "title": "Uitmuntendheid in Sperma Analyse: Een Uitgebreide Gids voor WHO 6e Editie Standaarden en CASA Technologie",
+        "url": "/faq/who-6th-edition-semen-analysis-standards"
+      },
+      "locale": "nl"
+    },
+    {
+      "id": "article-iso-23162-2021-laboratory-competence-guide",
+      "src": "/ISO.webp",
+      "alt": "ISO 23162:2021 Laboratoriumcompetentie gids met CASA systeem, Nexus Dx1, Spermaonderzoek vereisten, Kwaliteitscontrole en Laboratoriumstandaarden",
+      "filename": "ISO.webp",
+      "type": "article",
+      "associatedContent": {
+        "type": "article",
+        "id": "iso-23162-2021-laboratory-competence-guide",
+        "title": "Wereldwijde Standaarden Verbinden: Een Diepgaande Verkenning van ISO 23162:2021 en Laboratoriumcompetentie",
+        "url": "/faq/iso-23162-2021-laboratory-competence-guide"
+      },
+      "locale": "nl"
+    },
+    {
+      "id": "article-eshre-guidelines-clinical-semen-examination",
+      "src": "/ESHRE.webp",
+      "alt": "ESHRE Richtlijnen Klinisch Sperma Onderzoek gids met CASA systeem, Nexus Dx1, ART uitmuntendheid, IVF, ICSI en Geassisteerde Reproductieve Technologie",
+      "filename": "ESHRE.webp",
+      "type": "article",
+      "associatedContent": {
+        "type": "article",
+        "id": "eshre-guidelines-clinical-semen-examination",
+        "title": "Klinische Uitmuntendheid: ESHRE Richtlijnen voor Sperma Onderzoek en Patiëntbeheer",
+        "url": "/faq/eshre-guidelines-clinical-semen-examination"
+      },
+      "locale": "nl"
+    },
+    {
+      "id": "article-asrm-male-infertility-evaluation-protocols",
+      "src": "/ASRM.webp",
+      "alt": "ASRM Mannelijke Onvruchtbaarheid Evaluatie Protocollen gids met CASA systeem, Nexus Dx1, Mannelijke onvruchtbaarheid onderzoek, IUI, IVF, ICSI en Klinische Laboratoriumstandaarden",
+      "filename": "ASRM.webp",
+      "type": "article",
+      "associatedContent": {
+        "type": "article",
+        "id": "asrm-male-infertility-evaluation-protocols",
+        "title": "Klinische Integriteit: ASRM Richtlijnen voor Mannelijke Onvruchtbaarheid Evaluatie en Sperma Analyse",
+        "url": "/faq/asrm-male-infertility-evaluation-protocols"
+      },
+      "locale": "nl"
+    },
+    {
+      "id": "article-faq-bull-breeding-soundness",
+      "src": "/Knowledge Hub/Bull Breeding Soundness Guide/Bull Breeding Soundness Guide.webp",
+      "alt": "Stier Fokgeschiktheidsonderzoek gids met SFT Veterinaire Sperma Analyse Richtlijnen, CASA systeem, Sperma Beweglijkheid en Ingebouwde verwarmingsstage",
+      "filename": "Bull Breeding Soundness Guide.webp",
+      "type": "article",
+      "associatedContent": {
+        "type": "article",
+        "id": "faq-bull-breeding-soundness",
+        "title": "De Definitieve Gids voor Stier Fokgeschiktheid",
+        "url": "/faq/faq-bull-breeding-soundness"
+      },
+      "locale": "nl"
+    },
+    {
+      "id": "article-faq-canine-semen-analysis",
+      "src": "/Knowledge Hub/Canine Semen Analysis Guide/Canine Semen Analysis Guide.webp",
+      "alt": "Canine Sperma Analyse gids met SFT Veterinaire standaarden, CASA systeem, Sperma Beweglijkheid, Sperma Morfologie en Ingebouwde verwarmingsstage voor hond vruchtbaarheid",
+      "filename": "Canine Semen Analysis Guide.webp",
+      "type": "article",
+      "associatedContent": {
+        "type": "article",
+        "id": "faq-canine-semen-analysis",
+        "title": "De Professionele Gids voor Canine Sperma Analyse",
+        "url": "/faq/faq-canine-semen-analysis"
+      },
+      "locale": "nl"
+    },
+    {
+      "id": "article-faq-poultry-semen-analysis",
+      "src": "/Knowledge Hub/Poultry Semen Analysis Guide/Poultry Semen Analysis Guide.webp",
+      "alt": "Pluimvee Sperma Analyse gids met SFT Veterinaire standaarden, CASA systeem, Sperma Beweglijkheid, Sperma Morfologie en Ingebouwde verwarmingsstage voor haan vruchtbaarheid",
+      "filename": "Poultry Semen Analysis Guide.webp",
+      "type": "article",
+      "associatedContent": {
+        "type": "article",
+        "id": "faq-poultry-semen-analysis",
+        "title": "De Professionele Gids voor Pluimvee Sperma Analyse",
+        "url": "/faq/faq-poultry-semen-analysis"
+      },
+      "locale": "nl"
+    },
+    {
+      "id": "article-faq-stallion-semen-analysis",
+      "src": "/Knowledge Hub/Stallion Semen Analysis Guide/Stallion Semen Analysis Guide.webp",
+      "alt": "Hengst Sperma Analyse gids met SFT Veterinaire standaarden, CASA systeem, Sperma Beweglijkheid, Sperma Morfologie en Ingebouwde verwarmingsstage voor paard fokgeschiktheid",
+      "filename": "Stallion Semen Analysis Guide.webp",
+      "type": "article",
+      "associatedContent": {
+        "type": "article",
+        "id": "faq-stallion-semen-analysis",
+        "title": "De Professionele Gids voor Hengst Sperma Analyse",
+        "url": "/faq/faq-stallion-semen-analysis"
+      },
+      "locale": "nl"
+    },
+    {
+      "id": "article-faq-camelid-andrology",
+      "src": "/Knowledge Hub/Camelid Andrology Guide/Camelid Andrology Guide.webp",
+      "alt": "Camelid Andrologie gids met SFT Veterinaire standaarden, CASA systeem, Sperma Beweglijkheid, Sperma Morfologie en Ingebouwde verwarmingsstage voor kameel vruchtbaarheidsevaluatie",
+      "filename": "Camelid Andrology Guide.webp",
+      "type": "article",
+      "associatedContent": {
+        "type": "article",
+        "id": "faq-camelid-andrology",
+        "title": "De Professionele Standaard voor Camelid Andrologie",
+        "url": "/faq/faq-camelid-andrology"
+      },
+      "locale": "nl"
+    },
+    {
+      "id": "article-faq-fish-semen-analysis",
+      "src": "/Knowledge Hub/Fish Semen Analysis Guide/Fish Semen Analysis Guide.webp",
+      "alt": "Vis Sperma Analyse gids met SFT Veterinaire standaarden, CASA systeem, Sperma Beweglijkheid, Sperma Morfologie en Ingebouwde verwarmingsstage voor broedvis beheer",
+      "filename": "Fish Semen Analysis Guide.webp",
+      "type": "article",
+      "associatedContent": {
+        "type": "article",
+        "id": "faq-fish-semen-analysis",
+        "title": "De Gezaghebbende Gids voor Vis Sperma Analyse",
+        "url": "/faq/faq-fish-semen-analysis"
+      },
+      "locale": "nl"
+    },
+    {
+      "id": "article-faq-ram-breeding-soundness",
+      "src": "/Knowledge Hub/Ram Breeding Soundness Examination (RBSE)/Ram Breeding Soundness Examination (RBSE).webp",
+      "alt": "Ram Fokgeschiktheidsonderzoek gids met SFT Veterinaire standaarden, CASA systeem, Sperma Beweglijkheid, Sperma Morfologie en Ingebouwde verwarmingsstage voor ram vruchtbaarheidsbeoordeling",
+      "filename": "Ram Breeding Soundness Examination (RBSE).webp",
+      "type": "article",
+      "associatedContent": {
+        "type": "article",
+        "id": "faq-ram-breeding-soundness",
+        "title": "Ram Fokgeschiktheidsonderzoek (RBSE)",
+        "url": "/faq/faq-ram-breeding-soundness"
+      },
+      "locale": "nl"
+    },
+    {
+      "id": "article-faq-boar-semen-evaluation",
+      "src": "/Knowledge Hub/Boar Semen Evaluation Guide/Boar Semen Evaluation Guide.webp",
+      "alt": "Beer Sperma Evaluatie gids met SFT Veterinaire standaarden, CASA systeem, Sperma Beweglijkheid, Sperma Morfologie en Ingebouwde verwarmingsstage voor beer fokgeschiktheidsonderzoek",
+      "filename": "Boar Semen Evaluation Guide.webp",
+      "type": "article",
+      "associatedContent": {
+        "type": "article",
+        "id": "faq-boar-semen-evaluation",
+        "title": "Beer Sperma Evaluatie en Verwerkingsstandaarden",
+        "url": "/faq/faq-boar-semen-evaluation"
+      },
+      "locale": "nl"
+    },
+    {
+      "id": "about-0",
+      "src": "/About%20us%20(1).webp",
+      "alt": "iSperm Medical team presenteert volledig geautomatiseerd CASA-systeem en spermakwaliteitsanalysator op tentoonstelling",
+      "filename": "About%20us%20(1).webp",
+      "type": "about",
+      "associatedContent": {
+        "type": "page",
+        "id": "about",
+        "title": "Over iSperm Medical | CASA Systeem Fabrikant",
+        "url": "/about"
+      },
+      "locale": "nl"
+    },
+    {
+      "id": "about-1",
+      "src": "/About%20us%20(2).webp",
+      "alt": "iSperm Medical professionals bespreken veterinaire semenanalysator en dierfokkerijoplossingen",
+      "filename": "About%20us%20(2).webp",
+      "type": "about",
+      "associatedContent": {
+        "type": "page",
+        "id": "about",
+        "title": "Over iSperm Medical | CASA Systeem Fabrikant",
+        "url": "/about"
+      },
+      "locale": "nl"
+    },
+    {
+      "id": "about-2",
+      "src": "/About%20Us%202.webp",
+      "alt": "iSperm Medical team en evenementen tonen CASA-technologie en reproductieve gezondheidsoplossingen",
+      "filename": "About%20Us%202.webp",
+      "type": "about",
+      "associatedContent": {
+        "type": "page",
+        "id": "about",
+        "title": "Over iSperm Medical | CASA Systeem Fabrikant",
+        "url": "/about"
+      },
+      "locale": "nl"
+    },
+    {
+      "id": "about-3",
+      "src": "/About%20Us%204.webp",
+      "alt": "iSperm Medical team presentaties en tentoonstellingen met geautomatiseerde semenanalysesystemen",
+      "filename": "About%20Us%204.webp",
+      "type": "about",
+      "associatedContent": {
+        "type": "page",
+        "id": "about",
+        "title": "Over iSperm Medical | CASA Systeem Fabrikant",
+        "url": "/about"
+      },
+      "locale": "nl"
+    },
+    {
+      "id": "about-4",
+      "src": "/About%20Us%205.webp",
+      "alt": "iSperm Medical evenementen en team tonen innovatieve CASA-systemen en spermakwaliteitsanalysatoren",
+      "filename": "About%20Us%205.webp",
+      "type": "about",
+      "associatedContent": {
+        "type": "page",
+        "id": "about",
+        "title": "Over iSperm Medical | CASA Systeem Fabrikant",
+        "url": "/about"
+      },
+      "locale": "nl"
+    },
+    {
+      "id": "banner-0",
+      "src": "/banner%20(1).webp",
+      "alt": "iSperm Medical - Banner image 1",
+      "filename": "banner%20(1).webp",
+      "type": "banner",
+      "associatedContent": {
+        "type": "page",
+        "id": "home",
+        "title": "iSperm Semen Analysator - Revolutie in Semen Analyse",
+        "url": "/"
+      },
+      "locale": "nl"
+    },
+    {
+      "id": "banner-1",
+      "src": "/banner%20(2).webp",
+      "alt": "iSperm Medical - Banner image 2",
+      "filename": "banner%20(2).webp",
+      "type": "banner",
+      "associatedContent": {
+        "type": "page",
+        "id": "home",
+        "title": "iSperm Semen Analysator - Revolutie in Semen Analyse",
+        "url": "/"
+      },
+      "locale": "nl"
+    },
+    {
+      "id": "banner-2",
+      "src": "/banner%20(3).webp",
+      "alt": "iSperm Medical - Banner image 3",
+      "filename": "banner%20(3).webp",
+      "type": "banner",
+      "associatedContent": {
+        "type": "page",
+        "id": "home",
+        "title": "iSperm Semen Analysator - Revolutie in Semen Analyse",
+        "url": "/"
+      },
+      "locale": "nl"
+    }
+  ],
+  "locale": "nl"
+}

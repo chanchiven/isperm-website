@@ -1,0 +1,714 @@
+{
+  "products": [
+    {
+      "id": "nexus-dx1",
+      "slug": "nexus-dx1",
+      "name": "Nexus Dx1",
+      "description": "臨床および実験室使用のために設計された完全自動化CASAシステム。高度なAIアルゴリズムと包括的なパラメータ分析を備えています。",
+      "subtitle": "完全自動化ヒト用CASAシステム",
+      "images": [
+        "/nexus-dx1-cover.webp",
+        "/nexus-dx1.webp",
+        "/nexus-dx1-2.webp",
+        "/nexus-dx1-3.webp",
+        "/nexus-dx1-4.webp"
+      ],
+      "features": [
+        "完全自動化",
+        "タッチスクリーン",
+        "内蔵加熱ステージ",
+        "スタンドアロンオールインワンシステム",
+        "高度なガウス動的AI画像アルゴリズム",
+        "計数チャンバー：強化/コーティング2チャンバー、固定深度10μm",
+        "カスタマイズ可能な複数視野、視野あたり最大1500精子数",
+        "動画再生サポート",
+        "外部バーコードスキャナーサポート",
+        "PCワークステーション",
+        "完全自動化分析",
+        "内蔵加熱ステージ",
+        "PCワークステーションサポート"
+      ],
+      "locale": "ja"
+    },
+    {
+      "id": "msqa-100",
+      "slug": "msqa-100",
+      "name": "MSQA-100",
+      "description": "スマートフォン対応のポータブル家庭用CASAシステム。コンパクトなフォーマットで実験室レベルの性能を提供します。",
+      "subtitle": "ポータブルCASA精液分析装置",
+      "images": [
+        "/MSQA-100/msqa-100-cover.webp",
+        "/MSQA-100/msqa-100-1.webp",
+        "/MSQA-100/msqa-100-2.webp"
+      ],
+      "features": [
+        "スマートフォン対応",
+        "内蔵温度制御",
+        "クラウドベースAI分析"
+      ],
+      "locale": "ja"
+    },
+    {
+      "id": "sqa-6100vet",
+      "slug": "sqa-6100vet",
+      "name": "SQA-6100vet",
+      "description": "動物生殖評価のための革新的な完全自動化CASAシステム。ポータブル現場機能を備えた多種対応分析をサポートします。",
+      "subtitle": "完全自動化動物用CASAシステム",
+      "images": [
+        "/sqa-6100vet-cover.webp",
+        "/sqa-6100vet-1.webp",
+        "/sqa-6100vet-2.webp"
+      ],
+      "features": [
+        "完全自動化",
+        "タッチスクリーン",
+        "内蔵加熱ステージ",
+        "スタンドアロンオールインワンシステム",
+        "高度なガウス動的AI画像アルゴリズム",
+        "計数チャンバー：強化/コーティング6チャンバー、固定深度20μm",
+        "15秒という高速分析時間、選択可能な複数視野",
+        "動画再生サポート",
+        "外部バーコードスキャナーサポート",
+        "PCワークステーション",
+        "多種対応",
+        "多種対応",
+        "15秒分析時間",
+        "ポータブルオールインワンデザイン"
+      ],
+      "locale": "ja"
+    }
+  ],
+  "articles": [
+    {
+      "id": "faq-human-semen-standards",
+      "slug": "faq-human-semen-standards",
+      "title": "ヒト精液分析のグローバル基準",
+      "subtitle": "比較ガイド（WHO第6版、ISO 23162、ESHRE、& ASRM）",
+      "content": "2021年、ヒト男科学の分野は、WHO第6版マニュアルとISO 23162:2021標準の同時リリースにより再定義されました。これらの文書は、厳格な品質管理と人間の主観性の削減を通じてのみ精度が可能であることを強調し、分野を厳格な標準化に向けて推進しました。 1. 分析前段階：品質の基盤 標準化は、サンプルが顕微鏡に到達する前に始まります。WHO第6版とISO 23162の両方が、分析前変数が「偽の」低受胎能結果の最も一般的な原因であることを強調しています。 ul 禁欲期間： 2〜7日で標準化。ASRMは、より長い禁欲は量と数を増加させるが、運動性を大幅に低下させ、DNA断片化（DFI）を増加させることに注意しています。 採取： ヒト精子生存アッセイ（HSSA）用に事前検証された容器で実施する必要があります。 肉眼的評価： 量は高精度で測定する必要があります。ISO 23162は、ピペットやメスシリンダーに関連する「壁付着」損失を避けるために、重量による測定（密度1.0 g/mLを仮定）を推奨しています。 pH： 下限は7.2のままです。これより低い値は、低量と組み合わせて、閉塞性の問",
+      "image": "/Knowledge Hub/Human Semen Analysis Standards/Human Semen Analysis Standards.webp",
+      "alt": "CASAシステム、精子運動性、精子形態学、内蔵加熱ステージを備えたWHO第6版精液分析基準ガイド、ヒト男科学用",
+      "category": "human",
+      "locale": "ja"
+    },
+    {
+      "id": "who-6th-edition-semen-analysis-standards",
+      "slug": "who-6th-edition-semen-analysis-standards",
+      "title": "精液分析の卓越性：WHO第6版基準とCASA技術の包括的ガイド",
+      "subtitle": "高度なCASA技術でWHO第6版基準をマスターし、精密な男性不妊評価を実現",
+      "content": "生殖医学の分野において、精液分析は男性不妊評価の基盤であり続けています。WHO第6版（2021年）のリリースにより、業界はより高い精度、より厳格な品質管理、および高度なコンピューター支援精子分析（CASA）システムの統合に向けてシフトしています。本記事では、これらの基準の進化と現代の臨床診断のための技術要件を探ります。 第1章：現代の男性学におけるCASAの役割 伝統的な手動顕微鏡検査は、長い歴史があるものの、オペレーター内および実験室間の有意な変動性に陥りやすいです。Nexus Dx1などのコンピューター支援精子分析（CASA）システムは、高解像度医療画像とAI駆動アルゴリズムを活用して以下を提供します：<br/><br/><strong>客観性：</strong>カウントと運動性評価における人間の偏見を排除。<br/><br/><strong>再現性：</strong>異なるシフトやクリニック間で一貫した結果を保証。<br/><br/><strong>運動学的深度：</strong>人間の目では定量化できない詳細な速度と軌道データ（VCL、VSL、VAP）を提供。 第2章：基準限界",
+      "image": "/WHO6.webp",
+      "alt": "CASAシステム、Nexus Dx1、精子運動性、精子形態学、内蔵加熱ステージを備えたWHO第6版精液分析基準ガイド",
+      "category": "human",
+      "locale": "ja"
+    },
+    {
+      "id": "iso-23162-2021-laboratory-competence-guide",
+      "slug": "iso-23162-2021-laboratory-competence-guide",
+      "title": "グローバル基準の架け橋：ISO 23162:2021と実験室能力への深い洞察",
+      "subtitle": "グローバルに比較可能な精液検査結果のためのISO 23162:2021技術要件と品質管理フレームワークのマスター",
+      "content": "本記事は、基本的なヒト精液検査の要件と試験方法を指定する国際基準であるISO 23162:2021に焦点を当てています。WHO第6版が臨床マニュアルを提供する一方で、ISO 23162は、実験室が結果をグローバルに比較可能にするための技術的および品質管理フレームワークを提供します。ISO 23162:2021のリリースは、基本的な精液検査に特化した最初の国際基準として、生殖医学のマイルストーンをマークしました。クリニックと実験室にとって、ISO 23162への準拠はもはや単なる選択肢ではありません—それは技術的能力と診断信頼性のバッジです。このガイドでは、基準の核心仕様と、それが現代のCASA技術とどのように統合されるかを概説します。 第1章：統一フレームワーク（ISO 23162 vs. WHO第6版） ISO 23162は、WHO第6版実験室マニュアルと並行して開発されました。2つの文書は補完的です：<br/><br/><strong>WHO第6版：</strong>精子分析の生物学的および臨床的側面（「方法」と臨床的解釈）に焦点を当てます。<br/><br/><strong>IS",
+      "image": "/ISO.webp",
+      "alt": "CASAシステム、Nexus Dx1、精液検査要件、品質管理、実験室基準を備えたISO 23162:2021実験室能力ガイド",
+      "category": "human",
+      "locale": "ja"
+    },
+    {
+      "id": "eshre-guidelines-clinical-semen-examination",
+      "slug": "eshre-guidelines-clinical-semen-examination",
+      "title": "臨床卓越性：ESHRE精液検査と患者管理ガイドライン",
+      "subtitle": "最適なART結果のための実験室結果と臨床意思決定を橋渡しするエビデンスベースのESHREガイドライン",
+      "content": "WHOマニュアルが「方法」を提供し、ISO 23162が「技術仕様」を提供する一方で、ESHREはケアの標準—これらの診断を臨床実践に統合して、補助生殖技術（ART）の結果を改善する方法—に焦点を当てています。ヨーロッパの生殖医学の主要な権威として、ESHREは、実験室結果と臨床意思決定の間のギャップを橋渡しするエビデンスベースのガイドラインを提供します。現代の不妊クリニックにとって、ESHREの推奨事項に従うことで、精液分析が単なるデータ収集演習ではなく、IVF、ICSI、IUIの成功率を最適化するための重要なツールであることが保証されます。 第1章：精液分析の臨床的有用性 ESHREは、標準化された精液分析が男性不妊評価の最初で最も重要なステップであることを強調しています。ESHREによると、分析の主な目標は：<br/><br/><strong>治療選択：</strong>最も適切なART経路の決定（例：重度の乏精子症に対するICSIの提案）。<br/><br/><strong>予後価値：</strong>運動性と形態学データを使用して、患者の自然および補助受胎の見通しについてカウ",
+      "image": "/ESHRE.webp",
+      "alt": "CASAシステム、Nexus Dx1、ART卓越性、IVF、ICSI、補助生殖技術を備えたESHRE臨床精液検査ガイドライン",
+      "category": "human",
+      "locale": "ja"
+    },
+    {
+      "id": "asrm-male-infertility-evaluation-protocols",
+      "slug": "asrm-male-infertility-evaluation-protocols",
+      "title": "臨床整合性：ASRM男性不妊評価と精液分析ガイドライン",
+      "subtitle": "精液分析を包括的な男性不妊診断と治療経路に統合するエビデンスベースのASRMプロトコル",
+      "content": "WHOマニュアルが「方法」を提供し、ISO 23162が「技術基準」を提供する一方で、ASRMは臨床経路—精液分析結果が臨床設定での不妊男性の診断評価と治療をどのように導くべきか—に焦点を当てています。米国の生殖医学の主要な権威として、ASRMは現代の不妊ケアを定義するエビデンスベースのプロトコルを確立しています。臨床医と実験室ディレクターにとって、ASRM委員会の意見に従うことで、精液分析が患者診断の包括的アプローチに統合され、子宮内授精（IUI）、IVF、またはICSIを通じた成功結果の可能性を最大化することが保証されます。 第1章：診断基盤としての精液分析 ASRMは、男性パートナーの評価が女性パートナーと同時に行われるべきであることを強調しています。精液分析は「基盤的」テストとして認識されています。ASRMによると：<br/><br/><strong>初期評価：</strong>精子産生の自然な生物学的変動性を考慮して、ベースラインを確立するために、少なくとも2つの適切に実施された精液分析が推奨されます。<br/><br/><strong>標準化：</strong>ASRMは、",
+      "image": "/ASRM.webp",
+      "alt": "CASAシステム、Nexus Dx1、男性不妊評価、IUI、IVF、ICSI、臨床実験室基準を備えたASRM男性不妊評価プロトコルガイド",
+      "category": "human",
+      "locale": "ja"
+    },
+    {
+      "id": "faq-bull-breeding-soundness",
+      "slug": "faq-bull-breeding-soundness",
+      "title": "雄牛繁殖健全性の決定的ガイド",
+      "subtitle": "臨床基準 & 現代的方法論",
+      "content": "この包括的ガイドは、Theriogenology学会（SFT）ガイドラインに従って完全な雄牛繁殖健全性検査（BSE）を実施するために必要な臨床基準と現代的方法論を獣医専門家と生産者に提供します。 第1章：種雄牛の生物行動評価 男科学者としての臨床実践において、私たちは生産者に、雄牛の価値は試験管ではなく、牧草地で雌牛にサービスを提供する能力にあることをしばしば思い出させます。この章では、「性欲」と「サービス能力」という基礎要件について説明します。これらは実験室のみの設定ではしばしば見落とされる特性です。 ul 心理的駆動力（性欲）： 性欲は雄牛の生来の性的欲求です。これは高度に遺伝性の特性であり、繁殖プログラムで選択または排除できることを意味します。重要なことに、性欲は陰嚢サイズや精子品質と相関していません。雄牛はエリート精液パラメータを持っていても「性的に無関心」であり、自然サービス環境では負債となる可能性があります。 身体的実行（サービス能力）： これは雄牛が交配行為を完了する実際の能力を測定します。評価には、「探索」段階、マウント、射精の推進を観察する必要があります。これらの段階",
+      "image": "/Knowledge Hub/Bull Breeding Soundness Guide/Bull Breeding Soundness Guide.webp",
+      "alt": "SFT獣医精液分析ガイドライン、CASAシステム、精子運動性、内蔵加熱ステージを備えた雄牛繁殖健全性検査ガイド",
+      "category": "veterinary",
+      "locale": "ja"
+    },
+    {
+      "id": "faq-canine-semen-analysis",
+      "slug": "faq-canine-semen-analysis",
+      "title": "犬精液分析のプロフェッショナルガイド",
+      "subtitle": "犬の受胎能と生殖完全性の臨床基準",
+      "content": "この包括的ガイドは、完全な犬繁殖健全性検査（BSE）と精液分析を実施するために必要な臨床基準と方法論を獣医専門家と繁殖者に提供します。 第1章：選択と生殖ライフサイクル 種雄犬の評価は、その血統と発達履歴から始まります。犬の男科学では、思春期は通常6〜12か月の間に発生します（品種によって異なり、大型犬はしばしば後で成熟します）。ただし、完全な繁殖健全性検査（BSE）は、犬が少なくとも18〜24か月になるまで決定的と見なすべきではないことを一般的に推奨します。家庭犬のピーク受胎能は通常2〜5歳の間に観察されます。 選択基準 選択には厳格な遺伝的スクリーニングも含まれます。家畜とは異なり、種雄犬はしばしば股関節形成不全（OFA/PennHIP）や遺伝性眼疾患（CERF）などの遺伝性疾患について評価されます。二次性徴を探します：男性的な頭、自信のある気質、健康な被毛。犬の性欲は社会的環境と以前の繁殖経験に大きく影響されます。この章では、種雄犬の「生物学的ウィンドウ」が有限であることを確立します。犬が7歳を超えて年を取ると、精子濃度の自然な低下と形態学的欠損の増加が期待されます。犬のキャリア",
+      "image": "/Knowledge Hub/Canine Semen Analysis Guide/Canine Semen Analysis Guide.webp",
+      "alt": "SFT獣医基準、CASAシステム、精子運動性、精子形態学、内蔵加熱ステージを備えた犬精液分析ガイド、犬の受胎能用",
+      "category": "veterinary",
+      "locale": "ja"
+    },
+    {
+      "id": "faq-poultry-semen-analysis",
+      "slug": "faq-poultry-semen-analysis",
+      "title": "家禽精液分析のプロフェッショナルガイド",
+      "subtitle": "雄鶏の受胎能の臨床基準",
+      "content": "家禽業界、特にブロイラー種鶏とレイヤーでは、雄鶏の受胎能の評価が孵化場の成功と群れの置き換えの基盤です。哺乳類とは異なり、家禽には単一の「SFTマニュアル」はありません。代わりに、基準は世界家禽科学協会（WPSA）ガイドライン、動物遺伝資源のFAOプロトコル、および主要繁殖者の技術マニュアル（AviagenやCobbなど）によって管理されています。 第1章：種雄の選択と遺伝的性能 商業家禽セクターでは、雄鶏は繁殖者以上のものです。彼は孵化場のエンジンです。選択は「種雄系統」遺伝学の評価から始まります。ここでは、急速な成長と飼料転換率を生殖寿命とバランスさせます。哺乳類の家畜とは異なり、雄鶏は非常に高い代謝率を持ち、ピーク受胎能ウィンドウは比較的狭く、通常25〜45週齢の間です。二次性徴を示す雄を優先します：明るい、ワックス状の赤いトサカと肉垂。これらは高循環テストステロンレベルの直接的な指標です。 第2章：身体検査と骨格の健康 雄鶏の身体的健全性は、「交配ダンス」を実行し、成功した総排出腔接触を達成する能力に焦点を当てています。家禽の交配は運動的で高速のイベントであるため、筋骨格系が主",
+      "image": "/Knowledge Hub/Poultry Semen Analysis Guide/Poultry Semen Analysis Guide.webp",
+      "alt": "SFT獣医基準、CASAシステム、精子運動性、精子形態学、内蔵加熱ステージを備えた家禽精液分析ガイド、雄鶏の受胎能用",
+      "category": "veterinary",
+      "locale": "ja"
+    },
+    {
+      "id": "faq-stallion-semen-analysis",
+      "slug": "faq-stallion-semen-analysis",
+      "title": "種馬精液分析のプロフェッショナルガイド",
+      "subtitle": "馬の繁殖健全性（EBSE）の臨床基準",
+      "content": "この包括的ガイドは、完全な馬繁殖健全性評価（EBSE）と精液分析を実施するために必要な臨床基準と方法論を獣医専門家と繁殖者に提供します。 第1章：種馬の選択と生殖行動 種馬の評価は、その遺伝的血統と生殖行動の徹底的な評価から始まります。馬業界では、種馬は強く、制御可能な性欲を持っている必要があります。種馬の「ティーズメア」への反応を評価し、即座の関心、発声、陰茎勃起を探します。他の種とは異なり、種馬は環境に非常に敏感です。繁殖小屋でのストレスや不適切な取り扱いは、マウント拒否として現れる心理的抑制につながる可能性があります。 第2章：身体検査と運動的健全性 種馬は生殖アスリートです。マウントと射精を成功させるには、後肢に大きな強さと安定した腰仙骨脊柱が必要です。身体検査は、マウント中に種馬が体重を支えることを妨げる可能性のある筋骨格系の問題、例えば関節炎、飛節の痛み、または以前の腱損傷を特定することに焦点を当てます。慢性的な痛みは性欲の重要な抑制剤であり、攻撃的または防御的行動につながる可能性があります。 第3章：陰嚢と精巣の完全性の検査 種馬の精巣は、比較的きつい陰嚢内で水平方向に向",
+      "image": "/Knowledge Hub/Stallion Semen Analysis Guide/Stallion Semen Analysis Guide.webp",
+      "alt": "SFT獣医基準、CASAシステム、精子運動性、精子形態学、内蔵加熱ステージを備えた種馬精液分析ガイド、馬の繁殖健全性用",
+      "category": "veterinary",
+      "locale": "ja"
+    },
+    {
+      "id": "faq-camelid-andrology",
+      "slug": "faq-camelid-andrology",
+      "title": "ラクダ科男科学のプロフェッショナル基準",
+      "subtitle": "ラクダの受胎能評価の臨床評価 & デジタル分析ガイドライン",
+      "content": "ラクダ科男科学は、獣医生殖学で最も困難で専門的な分野の1つです。ヒトコブラクダ（一こぶ）またはフタコブラクダ（二こぶ）を扱う場合でも、これらの「砂漠の船」の独特な生理学的特性—特に激しい季節性と精液の極端な粘度—は、専門的な診断アプローチを必要とします。 第1章：季節性と「発情」の生理学 ラクダ科の生殖では、季節性がすべての臨床結果を決定する包括的な要因です。ラクダは季節繁殖者であり、その生殖活動は主に日長の減少と涼しい温度によって引き起こされます—「発情」として知られる期間。発情シーズン中、雄ラクダは深い生理学的および行動的変態を経験します。テストステロンレベルが急上昇し、首の後ろの「ポール腺」（後頭腺）が非常に活発になり、領土マーキングに使用される暗い、刺激臭のある液を分泌します。 第2章：身体的健全性とマウントの完全性 ラクダでの交配行為は家畜の中で独特です。それは「胸臥位」（座った）位置で発生し、5〜20分間続く可能性があります。これはラクダの筋骨格系、特に飛節、膝関節、足のパッドに大きなストレスをかけます。身体検査は、ラクダが「クッシュ」（座る）し、スムーズに立ち上がる能力か",
+      "image": "/Knowledge Hub/Camelid Andrology Guide/Camelid Andrology Guide.webp",
+      "alt": "SFT獣医基準、CASAシステム、精子運動性、精子形態学、内蔵加熱ステージを備えたラクダ科男科学ガイド、ラクダの受胎能評価用",
+      "category": "veterinary",
+      "locale": "ja"
+    },
+    {
+      "id": "faq-fish-semen-analysis",
+      "slug": "faq-fish-semen-analysis",
+      "title": "魚類精液分析の権威あるガイド",
+      "subtitle": "親魚管理と生殖成功の臨床基準",
+      "content": "成功した孵化場の基盤は、「親魚」の選択にあります。哺乳類とは異なり、魚の受胎能は環境サイクルと年齢特異的成熟と深く絡み合っています。この包括的ガイドは、魚類精液分析と親魚管理の独特な課題に対処します。 第1章：親魚種雄の選択と管理 種雄を「表現型準備性」に基づいて評価します—二次性徴（例：コイ科の繁殖結節またはサケ科のキープ発達）などの指標。選択はまた、近交系衰退を防ぐための遺伝的多様性を考慮する必要があります。これは、精子品質の低下と貧弱な幼生生存として現れます。「ミルティング」のための「生物学的ウィンドウ」はしばしば狭く、光周期と水温によって決定されます。 第2章：身体的健康と環境ストレッサー 魚は変温動物であり、その代謝と生殖健康は完全に環境に依存していることを意味します。親魚雄の身体検査は、「エラと外皮」の評価から始まります。寄生虫感染または細菌性エラ疾患の兆候は、全身ストレス反応を引き起こし、コルチゾールレベルを上昇させます。コルチゾールは、魚の視床下部-下垂体-性腺（HPG）軸の強力な阻害剤であり、「ミルトの水っぽさ」と低精子濃度につながります。 第3章：泌尿生殖器系の解剖",
+      "image": "/Knowledge Hub/Fish Semen Analysis Guide/Fish Semen Analysis Guide.webp",
+      "alt": "SFT獣医基準、CASAシステム、精子運動性、精子形態学、内蔵加熱ステージを備えた魚類精液分析ガイド、親魚管理用",
+      "category": "veterinary",
+      "locale": "ja"
+    },
+    {
+      "id": "faq-ram-breeding-soundness",
+      "slug": "faq-ram-breeding-soundness",
+      "title": "雄羊繁殖健全性検査（RBSE）",
+      "subtitle": "雄羊の受胎能評価の臨床基準",
+      "content": "雄羊の受胎能で他の家畜と区別する最も重要な要因の1つは、その激しい季節性です。雄羊は「短日」繁殖者です。その生殖内分泌系は光周期によって支配されます。この包括的ガイドは、完全な雄羊繁殖健全性検査（RBSE）を実施するために必要な臨床基準を獣医専門家と生産者に提供します。 第1章：季節性、光周期、思春期 秋に日長が減少すると、メラトニン産生が増加し、GnRH、FSH、およびLHの急増を引き起こします。この生理学的シフトは、精巣サイズ、性欲、および精子品質の劇的な増加をもたらします。逆に、春と夏（非繁殖シーズン）中、雄羊は「季節性萎縮」を経験する可能性があり、精子産生が大幅に低下します。したがって、RBSEは、臨床的に有効であるために、意図された繁殖シーズンの6〜8週間前に実施される必要があります。 第2章：身体検査と運動的完全性 雄羊業界では、「受胎能は足から始まる」とよく言われます。雄羊は、険しい地形をナビゲートし、発情中の雌羊を識別し、1日に数十回マウントするために、優れたアスリートでなければなりません。身体検査は、筋骨格系の徹底的な評価から始まります。蹄と関節を、蹄腐れ、関節炎、ま",
+      "image": "/Knowledge Hub/Ram Breeding Soundness Examination (RBSE)/Ram Breeding Soundness Examination (RBSE).webp",
+      "alt": "SFT獣医基準、CASAシステム、精子運動性、精子形態学、内蔵加熱ステージを備えた雄羊繁殖健全性検査ガイド、雄羊の受胎能評価用",
+      "category": "veterinary",
+      "locale": "ja"
+    },
+    {
+      "id": "faq-boar-semen-evaluation",
+      "slug": "faq-boar-semen-evaluation",
+      "title": "雄豚精液評価と処理基準",
+      "subtitle": "雄豚繁殖健全性検査（BBSE）",
+      "content": "高性能種雄の旅は選択から始まります。自然サービスがまだ一般的な牛とは異なり、現代の雄豚はほぼ独占的に人工授精（AI）ドナーです。この包括的ガイドは、完全な雄豚繁殖健全性検査（BBSE）と精液評価を実施するために必要な臨床基準を獣医専門家と生産者に提供します。 第1章：選択と思春期 — 遺伝的基盤 3つの柱に基づいて選択を優先します：遺伝的価値、構造的健全性、および生殖潜在性。雄豚の思春期は通常5〜7か月齢で発生しますが、雄豚が大規模なAI産生ローテーションに入る前に、少なくとも8か月であることを主張します。生殖形質の遺伝性は重要な考慮事項です。成長率や背脂肪などの形質は容易に測定できますが、思春期年齢や精巣サイズなどの「受胎能マーカー」の遺伝性に焦点を当てます。 第2章：身体検査 — 骨格と感覚の完全性 豚では、構造的健全性は単なる好みではありません。臨床的必要性です。雄豚は生涯を通じて採取ダミー（ファントム）に数百回マウントする必要があるため、筋骨格系は完璧でなければなりません。「足と脚の構造」に特に注意を払います。「バックニー」、「まっすぐな飛節」、または「外反足」などの問題は、単",
+      "image": "/Knowledge Hub/Boar Semen Evaluation Guide/Boar Semen Evaluation Guide.webp",
+      "alt": "SFT獣医基準、CASAシステム、精子運動性、精子形態学、内蔵加熱ステージを備えた雄豚精液評価ガイド、雄豚繁殖健全性検査用",
+      "category": "veterinary",
+      "locale": "ja"
+    }
+  ],
+  "pages": [
+    {
+      "id": "home",
+      "path": "/",
+      "title": "iSperm精液分析装置 - 精液分析の革新",
+      "description": "臨床および動物繁殖用途に設計された完全自動化精液分析システム。高度なAIアルゴリズムを搭載。",
+      "locale": "ja"
+    },
+    {
+      "id": "about",
+      "path": "/about",
+      "title": "iSperm Medicalについて | CASAシステムメーカー",
+      "description": "CASAシステム & 精液分析装置のリーディングメーカー。2010年よりWHO第6版準拠のヒト・動物用精子形態分析装置を提供。",
+      "locale": "ja"
+    },
+    {
+      "id": "contact",
+      "path": "/contact",
+      "title": "iSperm Medicalにお問い合わせ | CASAシステムサポート",
+      "description": "CASAシステム & 精液分析装置のリーディングメーカーにお問い合わせください。WHO第6版準拠の精子形態分析装置のサポートを受けることができます。",
+      "locale": "ja"
+    },
+    {
+      "id": "products",
+      "path": "/products",
+      "title": "CASAシステム & 精液分析装置 | iSperm Medical",
+      "description": "ヒト・動物用のCASAシステム & 精子形態分析装置をご覧ください。WHO第6版準拠の精液分析装置ソリューション。",
+      "locale": "ja"
+    },
+    {
+      "id": "faq",
+      "path": "/faq",
+      "title": "ナレッジハブ | CASAシステムFAQ | iSperm Medical",
+      "description": "包括的なCASAシステムFAQ、WHO第6版ガイド、精液分析リソース。精子形態分析装置に関する専門家の洞察。",
+      "locale": "ja"
+    }
+  ],
+  "images": [
+    {
+      "id": "nexus-dx1-0",
+      "src": "/nexus-dx1-cover.webp",
+      "alt": "Nexus Dx1 - Product image 1",
+      "filename": "nexus-dx1-cover.webp",
+      "type": "product",
+      "associatedContent": {
+        "type": "product",
+        "id": "nexus-dx1",
+        "title": "Nexus Dx1",
+        "url": "/products/nexus-dx1"
+      },
+      "locale": "ja"
+    },
+    {
+      "id": "nexus-dx1-1",
+      "src": "/nexus-dx1.webp",
+      "alt": "Nexus Dx1 - Product image 2",
+      "filename": "nexus-dx1.webp",
+      "type": "product",
+      "associatedContent": {
+        "type": "product",
+        "id": "nexus-dx1",
+        "title": "Nexus Dx1",
+        "url": "/products/nexus-dx1"
+      },
+      "locale": "ja"
+    },
+    {
+      "id": "nexus-dx1-2",
+      "src": "/nexus-dx1-2.webp",
+      "alt": "Nexus Dx1 - Product image 3",
+      "filename": "nexus-dx1-2.webp",
+      "type": "product",
+      "associatedContent": {
+        "type": "product",
+        "id": "nexus-dx1",
+        "title": "Nexus Dx1",
+        "url": "/products/nexus-dx1"
+      },
+      "locale": "ja"
+    },
+    {
+      "id": "nexus-dx1-3",
+      "src": "/nexus-dx1-3.webp",
+      "alt": "Nexus Dx1 - Product image 4",
+      "filename": "nexus-dx1-3.webp",
+      "type": "product",
+      "associatedContent": {
+        "type": "product",
+        "id": "nexus-dx1",
+        "title": "Nexus Dx1",
+        "url": "/products/nexus-dx1"
+      },
+      "locale": "ja"
+    },
+    {
+      "id": "nexus-dx1-4",
+      "src": "/nexus-dx1-4.webp",
+      "alt": "Nexus Dx1 - Product image 5",
+      "filename": "nexus-dx1-4.webp",
+      "type": "product",
+      "associatedContent": {
+        "type": "product",
+        "id": "nexus-dx1",
+        "title": "Nexus Dx1",
+        "url": "/products/nexus-dx1"
+      },
+      "locale": "ja"
+    },
+    {
+      "id": "msqa-100-0",
+      "src": "/MSQA-100/msqa-100-cover.webp",
+      "alt": "MSQA-100 - Product image 1",
+      "filename": "msqa-100-cover.webp",
+      "type": "product",
+      "associatedContent": {
+        "type": "product",
+        "id": "msqa-100",
+        "title": "MSQA-100",
+        "url": "/products/msqa-100"
+      },
+      "locale": "ja"
+    },
+    {
+      "id": "msqa-100-1",
+      "src": "/MSQA-100/msqa-100-1.webp",
+      "alt": "MSQA-100 - Product image 2",
+      "filename": "msqa-100-1.webp",
+      "type": "product",
+      "associatedContent": {
+        "type": "product",
+        "id": "msqa-100",
+        "title": "MSQA-100",
+        "url": "/products/msqa-100"
+      },
+      "locale": "ja"
+    },
+    {
+      "id": "msqa-100-2",
+      "src": "/MSQA-100/msqa-100-2.webp",
+      "alt": "MSQA-100 - Product image 3",
+      "filename": "msqa-100-2.webp",
+      "type": "product",
+      "associatedContent": {
+        "type": "product",
+        "id": "msqa-100",
+        "title": "MSQA-100",
+        "url": "/products/msqa-100"
+      },
+      "locale": "ja"
+    },
+    {
+      "id": "sqa-6100vet-0",
+      "src": "/sqa-6100vet-cover.webp",
+      "alt": "SQA-6100vet - Product image 1",
+      "filename": "sqa-6100vet-cover.webp",
+      "type": "product",
+      "associatedContent": {
+        "type": "product",
+        "id": "sqa-6100vet",
+        "title": "SQA-6100vet",
+        "url": "/products/sqa-6100vet"
+      },
+      "locale": "ja"
+    },
+    {
+      "id": "sqa-6100vet-1",
+      "src": "/sqa-6100vet-1.webp",
+      "alt": "SQA-6100vet - Product image 2",
+      "filename": "sqa-6100vet-1.webp",
+      "type": "product",
+      "associatedContent": {
+        "type": "product",
+        "id": "sqa-6100vet",
+        "title": "SQA-6100vet",
+        "url": "/products/sqa-6100vet"
+      },
+      "locale": "ja"
+    },
+    {
+      "id": "sqa-6100vet-2",
+      "src": "/sqa-6100vet-2.webp",
+      "alt": "SQA-6100vet - Product image 3",
+      "filename": "sqa-6100vet-2.webp",
+      "type": "product",
+      "associatedContent": {
+        "type": "product",
+        "id": "sqa-6100vet",
+        "title": "SQA-6100vet",
+        "url": "/products/sqa-6100vet"
+      },
+      "locale": "ja"
+    },
+    {
+      "id": "article-faq-human-semen-standards",
+      "src": "/Knowledge Hub/Human Semen Analysis Standards/Human Semen Analysis Standards.webp",
+      "alt": "CASAシステム、精子運動性、精子形態学、内蔵加熱ステージを備えたWHO第6版精液分析基準ガイド、ヒト男科学用",
+      "filename": "Human Semen Analysis Standards.webp",
+      "type": "article",
+      "associatedContent": {
+        "type": "article",
+        "id": "faq-human-semen-standards",
+        "title": "ヒト精液分析のグローバル基準",
+        "url": "/faq/faq-human-semen-standards"
+      },
+      "locale": "ja"
+    },
+    {
+      "id": "article-who-6th-edition-semen-analysis-standards",
+      "src": "/WHO6.webp",
+      "alt": "CASAシステム、Nexus Dx1、精子運動性、精子形態学、内蔵加熱ステージを備えたWHO第6版精液分析基準ガイド",
+      "filename": "WHO6.webp",
+      "type": "article",
+      "associatedContent": {
+        "type": "article",
+        "id": "who-6th-edition-semen-analysis-standards",
+        "title": "精液分析の卓越性：WHO第6版基準とCASA技術の包括的ガイド",
+        "url": "/faq/who-6th-edition-semen-analysis-standards"
+      },
+      "locale": "ja"
+    },
+    {
+      "id": "article-iso-23162-2021-laboratory-competence-guide",
+      "src": "/ISO.webp",
+      "alt": "CASAシステム、Nexus Dx1、精液検査要件、品質管理、実験室基準を備えたISO 23162:2021実験室能力ガイド",
+      "filename": "ISO.webp",
+      "type": "article",
+      "associatedContent": {
+        "type": "article",
+        "id": "iso-23162-2021-laboratory-competence-guide",
+        "title": "グローバル基準の架け橋：ISO 23162:2021と実験室能力への深い洞察",
+        "url": "/faq/iso-23162-2021-laboratory-competence-guide"
+      },
+      "locale": "ja"
+    },
+    {
+      "id": "article-eshre-guidelines-clinical-semen-examination",
+      "src": "/ESHRE.webp",
+      "alt": "CASAシステム、Nexus Dx1、ART卓越性、IVF、ICSI、補助生殖技術を備えたESHRE臨床精液検査ガイドライン",
+      "filename": "ESHRE.webp",
+      "type": "article",
+      "associatedContent": {
+        "type": "article",
+        "id": "eshre-guidelines-clinical-semen-examination",
+        "title": "臨床卓越性：ESHRE精液検査と患者管理ガイドライン",
+        "url": "/faq/eshre-guidelines-clinical-semen-examination"
+      },
+      "locale": "ja"
+    },
+    {
+      "id": "article-asrm-male-infertility-evaluation-protocols",
+      "src": "/ASRM.webp",
+      "alt": "CASAシステム、Nexus Dx1、男性不妊評価、IUI、IVF、ICSI、臨床実験室基準を備えたASRM男性不妊評価プロトコルガイド",
+      "filename": "ASRM.webp",
+      "type": "article",
+      "associatedContent": {
+        "type": "article",
+        "id": "asrm-male-infertility-evaluation-protocols",
+        "title": "臨床整合性：ASRM男性不妊評価と精液分析ガイドライン",
+        "url": "/faq/asrm-male-infertility-evaluation-protocols"
+      },
+      "locale": "ja"
+    },
+    {
+      "id": "article-faq-bull-breeding-soundness",
+      "src": "/Knowledge Hub/Bull Breeding Soundness Guide/Bull Breeding Soundness Guide.webp",
+      "alt": "SFT獣医精液分析ガイドライン、CASAシステム、精子運動性、内蔵加熱ステージを備えた雄牛繁殖健全性検査ガイド",
+      "filename": "Bull Breeding Soundness Guide.webp",
+      "type": "article",
+      "associatedContent": {
+        "type": "article",
+        "id": "faq-bull-breeding-soundness",
+        "title": "雄牛繁殖健全性の決定的ガイド",
+        "url": "/faq/faq-bull-breeding-soundness"
+      },
+      "locale": "ja"
+    },
+    {
+      "id": "article-faq-canine-semen-analysis",
+      "src": "/Knowledge Hub/Canine Semen Analysis Guide/Canine Semen Analysis Guide.webp",
+      "alt": "SFT獣医基準、CASAシステム、精子運動性、精子形態学、内蔵加熱ステージを備えた犬精液分析ガイド、犬の受胎能用",
+      "filename": "Canine Semen Analysis Guide.webp",
+      "type": "article",
+      "associatedContent": {
+        "type": "article",
+        "id": "faq-canine-semen-analysis",
+        "title": "犬精液分析のプロフェッショナルガイド",
+        "url": "/faq/faq-canine-semen-analysis"
+      },
+      "locale": "ja"
+    },
+    {
+      "id": "article-faq-poultry-semen-analysis",
+      "src": "/Knowledge Hub/Poultry Semen Analysis Guide/Poultry Semen Analysis Guide.webp",
+      "alt": "SFT獣医基準、CASAシステム、精子運動性、精子形態学、内蔵加熱ステージを備えた家禽精液分析ガイド、雄鶏の受胎能用",
+      "filename": "Poultry Semen Analysis Guide.webp",
+      "type": "article",
+      "associatedContent": {
+        "type": "article",
+        "id": "faq-poultry-semen-analysis",
+        "title": "家禽精液分析のプロフェッショナルガイド",
+        "url": "/faq/faq-poultry-semen-analysis"
+      },
+      "locale": "ja"
+    },
+    {
+      "id": "article-faq-stallion-semen-analysis",
+      "src": "/Knowledge Hub/Stallion Semen Analysis Guide/Stallion Semen Analysis Guide.webp",
+      "alt": "SFT獣医基準、CASAシステム、精子運動性、精子形態学、内蔵加熱ステージを備えた種馬精液分析ガイド、馬の繁殖健全性用",
+      "filename": "Stallion Semen Analysis Guide.webp",
+      "type": "article",
+      "associatedContent": {
+        "type": "article",
+        "id": "faq-stallion-semen-analysis",
+        "title": "種馬精液分析のプロフェッショナルガイド",
+        "url": "/faq/faq-stallion-semen-analysis"
+      },
+      "locale": "ja"
+    },
+    {
+      "id": "article-faq-camelid-andrology",
+      "src": "/Knowledge Hub/Camelid Andrology Guide/Camelid Andrology Guide.webp",
+      "alt": "SFT獣医基準、CASAシステム、精子運動性、精子形態学、内蔵加熱ステージを備えたラクダ科男科学ガイド、ラクダの受胎能評価用",
+      "filename": "Camelid Andrology Guide.webp",
+      "type": "article",
+      "associatedContent": {
+        "type": "article",
+        "id": "faq-camelid-andrology",
+        "title": "ラクダ科男科学のプロフェッショナル基準",
+        "url": "/faq/faq-camelid-andrology"
+      },
+      "locale": "ja"
+    },
+    {
+      "id": "article-faq-fish-semen-analysis",
+      "src": "/Knowledge Hub/Fish Semen Analysis Guide/Fish Semen Analysis Guide.webp",
+      "alt": "SFT獣医基準、CASAシステム、精子運動性、精子形態学、内蔵加熱ステージを備えた魚類精液分析ガイド、親魚管理用",
+      "filename": "Fish Semen Analysis Guide.webp",
+      "type": "article",
+      "associatedContent": {
+        "type": "article",
+        "id": "faq-fish-semen-analysis",
+        "title": "魚類精液分析の権威あるガイド",
+        "url": "/faq/faq-fish-semen-analysis"
+      },
+      "locale": "ja"
+    },
+    {
+      "id": "article-faq-ram-breeding-soundness",
+      "src": "/Knowledge Hub/Ram Breeding Soundness Examination (RBSE)/Ram Breeding Soundness Examination (RBSE).webp",
+      "alt": "SFT獣医基準、CASAシステム、精子運動性、精子形態学、内蔵加熱ステージを備えた雄羊繁殖健全性検査ガイド、雄羊の受胎能評価用",
+      "filename": "Ram Breeding Soundness Examination (RBSE).webp",
+      "type": "article",
+      "associatedContent": {
+        "type": "article",
+        "id": "faq-ram-breeding-soundness",
+        "title": "雄羊繁殖健全性検査（RBSE）",
+        "url": "/faq/faq-ram-breeding-soundness"
+      },
+      "locale": "ja"
+    },
+    {
+      "id": "article-faq-boar-semen-evaluation",
+      "src": "/Knowledge Hub/Boar Semen Evaluation Guide/Boar Semen Evaluation Guide.webp",
+      "alt": "SFT獣医基準、CASAシステム、精子運動性、精子形態学、内蔵加熱ステージを備えた雄豚精液評価ガイド、雄豚繁殖健全性検査用",
+      "filename": "Boar Semen Evaluation Guide.webp",
+      "type": "article",
+      "associatedContent": {
+        "type": "article",
+        "id": "faq-boar-semen-evaluation",
+        "title": "雄豚精液評価と処理基準",
+        "url": "/faq/faq-boar-semen-evaluation"
+      },
+      "locale": "ja"
+    },
+    {
+      "id": "about-0",
+      "src": "/About%20us%20(1).webp",
+      "alt": "展示会で完全自動化CASAシステムと精子品質分析器を紹介するiSperm Medicalチーム",
+      "filename": "About%20us%20(1).webp",
+      "type": "about",
+      "associatedContent": {
+        "type": "page",
+        "id": "about",
+        "title": "iSperm Medicalについて | CASAシステムメーカー",
+        "url": "/about"
+      },
+      "locale": "ja"
+    },
+    {
+      "id": "about-1",
+      "src": "/About%20us%20(2).webp",
+      "alt": "獣医用精液分析器と動物繁殖ソリューションについて議論するiSperm Medical専門家",
+      "filename": "About%20us%20(2).webp",
+      "type": "about",
+      "associatedContent": {
+        "type": "page",
+        "id": "about",
+        "title": "iSperm Medicalについて | CASAシステムメーカー",
+        "url": "/about"
+      },
+      "locale": "ja"
+    },
+    {
+      "id": "about-2",
+      "src": "/About%20Us%202.webp",
+      "alt": "CASA技術と生殖健康ソリューションを紹介するiSperm Medicalチームとイベント",
+      "filename": "About%20Us%202.webp",
+      "type": "about",
+      "associatedContent": {
+        "type": "page",
+        "id": "about",
+        "title": "iSperm Medicalについて | CASAシステムメーカー",
+        "url": "/about"
+      },
+      "locale": "ja"
+    },
+    {
+      "id": "about-3",
+      "src": "/About%20Us%204.webp",
+      "alt": "自動化された精液分析システムを特徴とするiSperm Medicalチームのプレゼンテーションと展示会",
+      "filename": "About%20Us%204.webp",
+      "type": "about",
+      "associatedContent": {
+        "type": "page",
+        "id": "about",
+        "title": "iSperm Medicalについて | CASAシステムメーカー",
+        "url": "/about"
+      },
+      "locale": "ja"
+    },
+    {
+      "id": "about-4",
+      "src": "/About%20Us%205.webp",
+      "alt": "革新的なCASAシステムと精子品質分析器を紹介するiSperm Medicalイベントとチーム",
+      "filename": "About%20Us%205.webp",
+      "type": "about",
+      "associatedContent": {
+        "type": "page",
+        "id": "about",
+        "title": "iSperm Medicalについて | CASAシステムメーカー",
+        "url": "/about"
+      },
+      "locale": "ja"
+    },
+    {
+      "id": "banner-0",
+      "src": "/banner%20(1).webp",
+      "alt": "iSperm Medical - Banner image 1",
+      "filename": "banner%20(1).webp",
+      "type": "banner",
+      "associatedContent": {
+        "type": "page",
+        "id": "home",
+        "title": "iSperm精液分析装置 - 精液分析の革新",
+        "url": "/"
+      },
+      "locale": "ja"
+    },
+    {
+      "id": "banner-1",
+      "src": "/banner%20(2).webp",
+      "alt": "iSperm Medical - Banner image 2",
+      "filename": "banner%20(2).webp",
+      "type": "banner",
+      "associatedContent": {
+        "type": "page",
+        "id": "home",
+        "title": "iSperm精液分析装置 - 精液分析の革新",
+        "url": "/"
+      },
+      "locale": "ja"
+    },
+    {
+      "id": "banner-2",
+      "src": "/banner%20(3).webp",
+      "alt": "iSperm Medical - Banner image 3",
+      "filename": "banner%20(3).webp",
+      "type": "banner",
+      "associatedContent": {
+        "type": "page",
+        "id": "home",
+        "title": "iSperm精液分析装置 - 精液分析の革新",
+        "url": "/"
+      },
+      "locale": "ja"
+    }
+  ],
+  "locale": "ja"
+}

@@ -1,0 +1,714 @@
+{
+  "products": [
+    {
+      "id": "nexus-dx1",
+      "slug": "nexus-dx1",
+      "name": "Nexus Dx1",
+      "description": "임상 및 실험실 사용을 위해 설계된 완전 자동화 CASA 시스템으로, 고급 AI 알고리즘과 포괄적인 매개변수 분석 기능을 갖추고 있습니다.",
+      "subtitle": "완전 자동화 인간용 CASA 시스템",
+      "images": [
+        "/nexus-dx1-cover.webp",
+        "/nexus-dx1.webp",
+        "/nexus-dx1-2.webp",
+        "/nexus-dx1-3.webp",
+        "/nexus-dx1-4.webp"
+      ],
+      "features": [
+        "완전 자동화",
+        "터치 스크린",
+        "내장 가열 스테이지",
+        "독립형 올인원 시스템",
+        "고급 가우시안 동적 AI 이미지 알고리즘",
+        "계수 챔버: 향상된/코팅된 2챔버, 고정 깊이 10μm",
+        "맞춤형 다중 시야, 시야당 최대 1500개 정자 계수",
+        "비디오 재생 지원",
+        "외부 바코드 스캐너 지원",
+        "PC 워크스테이션",
+        "완전 자동화 분석",
+        "내장 가열 스테이지",
+        "PC 워크스테이션 지원"
+      ],
+      "locale": "ko"
+    },
+    {
+      "id": "msqa-100",
+      "slug": "msqa-100",
+      "name": "MSQA-100",
+      "description": "스마트폰 호환성을 갖춘 휴대용 가정용 CASA 시스템으로, 컴팩트한 형식으로 실험실 수준의 성능을 제공합니다.",
+      "subtitle": "휴대용 CASA 정액 분석기",
+      "images": [
+        "/MSQA-100/msqa-100-cover.webp",
+        "/MSQA-100/msqa-100-1.webp",
+        "/MSQA-100/msqa-100-2.webp"
+      ],
+      "features": [
+        "스마트폰 호환",
+        "내장 온도 제어",
+        "클라우드 기반 AI 분석"
+      ],
+      "locale": "ko"
+    },
+    {
+      "id": "sqa-6100vet",
+      "slug": "sqa-6100vet",
+      "name": "SQA-6100vet",
+      "description": "동물 생식 평가를 위한 혁신적인 완전 자동화 CASA 시스템으로, 휴대용 현장 기능을 갖춘 다종 분석을 지원합니다.",
+      "subtitle": "완전 자동화 수의학 CASA 시스템",
+      "images": [
+        "/sqa-6100vet-cover.webp",
+        "/sqa-6100vet-1.webp",
+        "/sqa-6100vet-2.webp"
+      ],
+      "features": [
+        "완전 자동화",
+        "터치 스크린",
+        "내장 가열 스테이지",
+        "독립형 올인원 시스템",
+        "고급 가우시안 동적 AI 이미지 알고리즘",
+        "계수 챔버: 향상된/코팅된 6챔버, 고정 깊이 20μm",
+        "15초만에 빠른 분석 시간, 선택 가능한 다중 시야",
+        "비디오 재생 지원",
+        "외부 바코드 스캐너 지원",
+        "PC 워크스테이션",
+        "다종 지원",
+        "다종 지원",
+        "15초 분석 시간",
+        "휴대용 올인원 설계"
+      ],
+      "locale": "ko"
+    }
+  ],
+  "articles": [
+    {
+      "id": "faq-human-semen-standards",
+      "slug": "faq-human-semen-standards",
+      "title": "인간 정액 분석의 글로벌 표준",
+      "subtitle": "비교 가이드 (WHO 6판, ISO 23162, ESHRE, & ASRM)",
+      "content": "2021년, WHO 6판 매뉴얼과 ISO 23162:2021 표준의 동시 발표로 인간 남성학의 풍경이 재정의되었습니다. 이러한 문서들은 엄격한 표준화를 향해 분야를 이동시켰으며, 정확성은 엄격한 품질 관리와 인간의 주관성 감소를 통해서만 가능하다고 강조합니다. 1. 분석 전 단계: 품질의 기준선 표준화는 샘플이 현미경에 도달하기 전에 시작됩니다. WHO 6판과 ISO 23162 모두 분석 전 변수가 \"거짓\" 불임 결과의 가장 흔한 원인임을 강조합니다. ul 금욕 기간: 2일에서 7일로 표준화되었습니다. ASRM은 더 긴 금욕이 부피와 계수를 증가시키지만, 운동성을 현저히 감소시키고 DNA 단편화(DFI)를 증가시킨다고 지적합니다. 채취: 인간 정자 생존 분석(HSSA)을 위해 사전 검증된 용기에 수행해야 합니다. 육안 평가: 부피는 고정밀도로 측정해야 합니다. ISO 23162는 피펫이나 눈금 실린더와 관련된 \"벽 부착\" 손실을 피하기 위해 무게로 측정(밀도 1.0 g/mL 가정)하",
+      "image": "/Knowledge Hub/Human Semen Analysis Standards/Human Semen Analysis Standards.webp",
+      "alt": "CASA 시스템, 정자 운동성, 정자 형태 및 내장형 가열 스테이지를 갖춘 WHO 6판 정액 분석 표준 가이드",
+      "category": "human",
+      "locale": "ko"
+    },
+    {
+      "id": "who-6th-edition-semen-analysis-standards",
+      "slug": "who-6th-edition-semen-analysis-standards",
+      "title": "정액 분석의 우수성: WHO 6판 표준 및 CASA 기술에 대한 포괄적인 가이드",
+      "subtitle": "정밀한 남성 불임 평가를 위한 고급 CASA 기술로 WHO 6판 표준 마스터하기",
+      "content": "생식 의학 분야에서 정액 분석은 남성 불임 평가의 초석으로 남아 있습니다. WHO 6판(2021)의 출시로 업계는 더 높은 정밀도, 더 엄격한 품질 관리, 고급 컴퓨터 보조 정자 분석(CASA) 시스템의 통합으로 전환되었습니다. 이 기사는 이러한 표준의 진화와 현대 임상 진단을 위한 기술적 요구사항을 탐구합니다. 1장: 현대 남성학에서 CASA의 역할 전통적인 수동 현미경 검사는 오랫동안 사용되어 왔지만, 운영자 내 및 실험실 간의 상당한 변동성에 취약합니다. Nexus Dx1과 같은 컴퓨터 보조 정자 분석(CASA) 시스템은 고해상도 의료 영상 및 AI 기반 알고리즘을 활용하여 다음을 제공합니다:<br/><br/><strong>객관성:</strong> 계수 및 운동성 등급에서 인간의 편향을 제거합니다.<br/><br/><strong>재현성:</strong> 다른 교대 및 클리닉에서 일관된 결과를 보장합니다.<br/><br/><strong>운동학적 깊이:</strong> 인간의 눈이",
+      "image": "/WHO6.webp",
+      "alt": "CASA 시스템, Nexus Dx1, 정자 운동성, 정자 형태 및 내장형 가열 스테이지를 갖춘 WHO 6판 정액 분석 표준 가이드",
+      "category": "human",
+      "locale": "ko"
+    },
+    {
+      "id": "iso-23162-2021-laboratory-competence-guide",
+      "slug": "iso-23162-2021-laboratory-competence-guide",
+      "title": "글로벌 표준 연결: ISO 23162:2021 및 실험실 역량에 대한 심층 분석",
+      "subtitle": "글로벌로 비교 가능한 정액 검사 결과를 위한 ISO 23162:2021 기술 요구사항 및 품질 관리 프레임워크 마스터하기",
+      "content": "이 기사는 기본 인간 정액 검사를 위한 요구사항 및 테스트 방법을 지정하는 국제 표준인 ISO 23162:2021에 초점을 맞춥니다. WHO 6판이 임상 매뉴얼을 제공하는 동안, ISO 23162는 실험실이 결과를 글로벌로 비교 가능하도록 보장하기 위한 기술 및 품질 관리 프레임워크를 제공합니다. ISO 23162:2021의 출시는 기본 정액 검사를 위한 최초의 전용 국제 표준으로서 생식 의학의 이정표가 되었습니다. 클리닉 및 실험실의 경우 ISO 23162 준수는 더 이상 단순한 선택이 아닙니다. 이것은 기술적 역량 및 진단 신뢰성의 배지입니다. 이 가이드는 표준의 핵심 사양과 현대 CASA 기술과의 통합 방법을 설명합니다. 1장: 통합 프레임워크 (ISO 23162 vs. WHO 6판) ISO 23162는 WHO 6판 실험실 매뉴얼과 함께 개발되었습니다. 두 문서는 상호 보완적입니다:<br/><br/><strong>WHO 6판:</strong> 정자 분석의 생물학적 및 임상적 측",
+      "image": "/ISO.webp",
+      "alt": "CASA 시스템, Nexus Dx1, 정액 검사 요구사항, 품질 관리 및 실험실 표준을 갖춘 ISO 23162:2021 실험실 역량 가이드",
+      "category": "human",
+      "locale": "ko"
+    },
+    {
+      "id": "eshre-guidelines-clinical-semen-examination",
+      "slug": "eshre-guidelines-clinical-semen-examination",
+      "title": "임상 우수성: 정액 검사 및 환자 관리를 위한 ESHRE 가이드라인",
+      "subtitle": "최적의 보조생식술 결과를 위해 실험실 결과와 임상 의사결정을 연결하는 증거 기반 ESHRE 가이드라인",
+      "content": "WHO 매뉴얼이 \"방법\"을 제공하고 ISO 23162가 \"기술 사양\"을 제공하는 동안, ESHRE는 의료 표준에 초점을 맞춥니다. 이러한 진단이 보조생식술(ART)에서 결과를 개선하기 위해 임상 실습에 통합되어야 하는 방법입니다. 유럽 생식 의학의 주요 권위 기관으로서 ESHRE는 실험실 결과와 임상 의사결정 사이의 격차를 연결하는 증거 기반 가이드라인을 제공합니다. 현대 불임 클리닉의 경우 ESHRE 권장사항을 준수하면 정액 분석이 단순한 데이터 수집 작업이 아니라 체외수정, 세포질내 정자 주입 및 자궁내 인공수정 성공률을 최적화하는 중요한 도구가 됩니다. 1장: 정액 분석의 임상 유용성 ESHRE는 표준화된 정액 분석이 남성 불임 검사의 첫 번째이자 가장 중요한 단계임을 강조합니다. ESHRE에 따르면 분석의 주요 목표는 다음과 같습니다:<br/><br/><strong>치료 선택:</strong> 가장 적절한 보조생식술 경로 결정(예: 심각한 소정자증에 대해 세포질내 정자 주입 ",
+      "image": "/ESHRE.webp",
+      "alt": "CASA 시스템, Nexus Dx1, 보조생식술 우수성, 체외수정, 세포질내 정자 주입 및 보조생식술을 갖춘 ESHRE 가이드라인 임상 정액 검사 가이드",
+      "category": "human",
+      "locale": "ko"
+    },
+    {
+      "id": "asrm-male-infertility-evaluation-protocols",
+      "slug": "asrm-male-infertility-evaluation-protocols",
+      "title": "임상 무결성: 남성 불임 평가 및 정액 분석을 위한 ASRM 가이드라인",
+      "subtitle": "전체적인 남성 불임 진단 및 치료 경로에 정액 분석을 통합하는 증거 기반 ASRM 프로토콜",
+      "content": "WHO 매뉴얼이 \"방법\"을 제공하고 ISO 23162가 \"기술 표준\"을 제공하는 동안, ASRM은 임상 경로에 초점을 맞춥니다. 정액 분석 결과가 임상 환경에서 불임 남성의 진단 검사 및 치료를 안내해야 하는 방법을 지시합니다. 미국 생식 의학의 주요 권위 기관으로서 ASRM은 현대 불임 치료를 정의하는 증거 기반 프로토콜을 수립합니다. 임상의 및 실험실 감독관의 경우 ASRM 위원회 의견을 따르면 정액 분석이 환자 진단에 대한 전체적 접근 방식에 통합되어 자궁내 인공수정(IUI), 체외수정 또는 세포질내 정자 주입을 통한 성공적인 결과의 가능성을 극대화합니다. 1장: 진단 기초로서의 정액 분석 ASRM은 남성 파트너의 평가가 여성 파트너와 동시에 수행되어야 한다고 강조합니다. 정액 분석은 \"기초\" 테스트로 인정됩니다. ASRM에 따르면:<br/><br/><strong>초기 검사:</strong> 정자 생산의 자연스러운 생물학적 변동성을 고려하여 기준선을 설정하기 위해 최소 두 번의",
+      "image": "/ASRM.webp",
+      "alt": "CASA 시스템, Nexus Dx1, 남성 불임 검사, 자궁내 인공수정, 체외수정, 세포질내 정자 주입 및 임상 실험실 표준을 갖춘 ASRM 남성 불임 평가 프로토콜 가이드",
+      "category": "human",
+      "locale": "ko"
+    },
+    {
+      "id": "faq-bull-breeding-soundness",
+      "slug": "faq-bull-breeding-soundness",
+      "title": "소 번식 건전성의 결정적 가이드",
+      "subtitle": "임상 표준 및 현대적 방법론",
+      "content": "이 포괄적인 가이드는 수의용 전문가와 생산자에게 수의생식학회(SFT) 지침에 따라 완전한 소 번식 건전성 검사(BSE)를 수행하는 데 필요한 임상 표준과 현대적 방법론을 제공합니다. 1장: 종축의 생물-행동 평가 남성학자로서의 임상 실습에서, 우리는 종종 생산자에게 소의 가치는 시험관에 있지 않고 목초지에서 암소에게 서비스를 제공하는 능력에 있다고 상기시킵니다. 이 장은 \"성욕\"과 \"서비스 능력\"의 기본 요구사항을 다룹니다. 이는 실험실 전용 환경에서 자주 간과되는 특성입니다. ul 심리적 동력 (성욕): 성욕은 소의 타고난 성적 욕구입니다. 이것은 높은 유전적 특성으로, 번식 프로그램에서 선택하거나 배제할 수 있습니다. 중요한 것은 성욕이 음낭 크기나 정자 품질과 상관관계가 없다는 것입니다. 소는 엘리트 정액 매개변수를 가질 수 있지만 \"성적으로 무관심\"하여 자연 서비스 환경에서 부담이 될 수 있습니다. 신체적 실행 (서비스 능력): 이것은 소가 교배 행위를 완료하는 실제 능력을 ",
+      "image": "/Knowledge Hub/Bull Breeding Soundness Guide/Bull Breeding Soundness Guide.webp",
+      "alt": "SFT 수의용 정액 분석 지침, CASA 시스템, 정자 운동성 및 내장형 가열 스테이지를 갖춘 소 번식 건전성 검사 가이드",
+      "category": "veterinary",
+      "locale": "ko"
+    },
+    {
+      "id": "faq-canine-semen-analysis",
+      "slug": "faq-canine-semen-analysis",
+      "title": "개 정액 분석의 전문 가이드",
+      "subtitle": "개 생식 능력 및 생식 무결성에 대한 임상 표준",
+      "content": "이 포괄적인 가이드는 수의용 전문가와 브리더에게 완전한 개 번식 건전성 검사(BSE) 및 정액 분석을 수행하는 데 필요한 임상 표준과 방법론을 제공합니다. 1장: 선택 및 생식 생애 주기 종견의 평가는 그의 혈통과 발달 역사로 시작됩니다. 개 남성학에서 사춘기는 품종에 따라 일반적으로 6개월에서 12개월 사이에 발생합니다(큰 품종은 종종 더 늦게 성숙합니다). 그러나 우리는 일반적으로 완전한 번식 건전성 검사(BSE)가 개가 최소 18개월에서 24개월이 될 때까지 결정적이라고 간주되지 않을 것을 권장합니다. 가정견의 최고 생식 능력은 일반적으로 2세에서 5세 사이에 관찰됩니다. 선택 기준 선택은 또한 엄격한 유전적 스크리닝을 포함합니다. 가축과 달리, 종견은 종종 고관절 이형성증(OFA/PennHIP) 및 유전성 안질환(CERF)과 같은 유전적 상태에 대해 평가됩니다. 우리는 이차 성적 특성을 찾습니다: 남성적 머리, 자신감 있는 기질, 건강한 털. 개의 성욕은 그의 사회적 환경과 ",
+      "image": "/Knowledge Hub/Canine Semen Analysis Guide/Canine Semen Analysis Guide.webp",
+      "alt": "SFT 수의용 표준, CASA 시스템, 정자 운동성, 정자 형태 및 내장형 가열 스테이지를 갖춘 개 정액 분석 가이드",
+      "category": "veterinary",
+      "locale": "ko"
+    },
+    {
+      "id": "faq-poultry-semen-analysis",
+      "slug": "faq-poultry-semen-analysis",
+      "title": "가금 정액 분석의 전문 가이드",
+      "subtitle": "수탉 생식 능력에 대한 임상 표준",
+      "content": "가금 산업에서, 특히 육계 종계 및 산란계의 경우, 수탉 생식 능력 평가는 부화장 성공과 무리 교체의 초석입니다. 포유류와 달리, 가금에 대한 단일 \"SFT 매뉴얼\"은 없습니다. 대신, 표준은 세계 가금 과학 협회(WPSA) 지침, 동물 유전 자원에 대한 FAO 프로토콜 및 주요 브리더(예: Aviagen 및 Cobb)의 기술 매뉴얼에 의해 규제됩니다. 1장: 종축의 선택 및 유전적 성능 상업적 가금 부문에서, 수탉은 번식자 이상입니다. 그는 부화장의 엔진입니다. 선택은 \"종축 계통\" 유전학 평가로 시작되며, 여기서 우리는 빠른 성장과 사료 전환을 생식 장수와 균형을 맞춥니다. 포유류 가축과 달리, 수탉은 매우 높은 대사율을 가지며, 그들의 최고 생식 능력 창은 상대적으로 좁으며, 일반적으로 25주에서 45주 사이입니다. 우리는 이차 성적 특성을 나타내는 수컷을 우선시합니다: 밝고 왁스 같은 빨간 볏과 수염, 이는 높은 순환 테스토스테론 수준의 직접적인 지표입니다. 2장: 신체 검사",
+      "image": "/Knowledge Hub/Poultry Semen Analysis Guide/Poultry Semen Analysis Guide.webp",
+      "alt": "SFT 수의용 표준, CASA 시스템, 정자 운동성, 정자 형태 및 내장형 가열 스테이지를 갖춘 수탉 생식 능력 가이드",
+      "category": "veterinary",
+      "locale": "ko"
+    },
+    {
+      "id": "faq-stallion-semen-analysis",
+      "slug": "faq-stallion-semen-analysis",
+      "title": "종마 정액 분석의 전문 가이드",
+      "subtitle": "말 번식 건전성(EBSE)에 대한 임상 표준",
+      "content": "이 포괄적인 가이드는 수의용 전문가와 브리더에게 완전한 말 번식 건전성 평가(EBSE) 및 정액 분석을 수행하는 데 필요한 임상 표준과 방법론을 제공합니다. 1장: 종마 선택 및 생식 행동 종마의 평가는 그의 유전적 혈통과 생식 행동에 대한 철저한 평가로 시작됩니다. 말 산업에서, 종마는 강하고 제어 가능한 성욕을 가져야 합니다. 우리는 종마의 \"유혹 암말\"에 대한 반응을 평가하며, 즉각적인 관심, 발성 및 음경 발기를 찾습니다. 다른 종과 달리, 종마는 환경에 매우 민감합니다. 번식 사육장에서의 스트레스나 불량한 취급은 탑승 거부로 나타나는 심리적 억제로 이어질 수 있습니다. 2장: 신체 검사 및 운동 건전성 종마는 생식 운동선수입니다. 성공적으로 탑승하고 사정하려면, 그들은 후지에 엄청난 힘과 안정적인 요천골 척추가 필요합니다. 신체 검사는 관절염, 관절 통증 또는 이전 건 손상과 같은 종마가 탑승 중 자신의 체중을 지지하는 것을 방지할 수 있는 근골격 문제를 식별하는 데 초점을",
+      "image": "/Knowledge Hub/Stallion Semen Analysis Guide/Stallion Semen Analysis Guide.webp",
+      "alt": "SFT 수의용 표준, CASA 시스템, 정자 운동성, 정자 형태 및 내장형 가열 스테이지를 갖춘 말 번식 건전성 가이드",
+      "category": "veterinary",
+      "locale": "ko"
+    },
+    {
+      "id": "faq-camelid-andrology",
+      "slug": "faq-camelid-andrology",
+      "title": "낙타류 남성학의 전문 표준",
+      "subtitle": "낙타 생식 능력 평가를 위한 임상 평가 및 디지털 분석 지침",
+      "content": "낙타류 남성학은 수의용 생식 분야에서 가장 도전적이고 전문적인 분야 중 하나입니다. 단봉낙타(한 봉우리) 또는 쌍봉낙타(두 봉우리)를 다루든, 이러한 \"사막의 배\"의 독특한 생리학적 특성—특히 강렬한 계절성과 정액의 극단적인 점도—는 전문 진단 접근법을 요구합니다. 1장: 계절성 및 \"발정\"의 생리학 낙타류 생식에서, 계절성은 모든 임상 결과를 결정하는 지배적 요인입니다. 낙타는 계절적 번식자이며, 그들의 생식 활동은 주로 일장 감소와 더 시원한 온도에 의해 유발됩니다—\"발정\"으로 알려진 기간입니다. 발정 시즌 동안, 수컷 낙타는 깊은 생리학적 및 행동적 변화를 겪습니다. 테스토스테론 수준이 급증하고, 목 뒤의 \"폴선\"(후두부선)이 매우 활성화되어 영역 표시에 사용되는 어둡고 자극적인 냄새의 유체를 분비합니다. 2장: 신체 건전성 및 탑승 무결성 낙타의 교배 행위는 가축 중에서 독특합니다. 이것은 \"흉와 와와\"(앉기) 위치에서 발생하며 5분에서 20분까지 지속될 수 있습니다. 이것은",
+      "image": "/Knowledge Hub/Camelid Andrology Guide/Camelid Andrology Guide.webp",
+      "alt": "SFT 수의용 표준, CASA 시스템, 정자 운동성, 정자 형태 및 내장형 가열 스테이지를 갖춘 낙타 생식 능력 평가 가이드",
+      "category": "veterinary",
+      "locale": "ko"
+    },
+    {
+      "id": "faq-fish-semen-analysis",
+      "slug": "faq-fish-semen-analysis",
+      "title": "어류 정액 분석의 권위 있는 가이드",
+      "subtitle": "종어 관리 및 생식 성공을 위한 임상 표준",
+      "content": "성공적인 부화장의 기초는 \"종어\"의 선택에 있습니다. 포유류와 달리, 어류 생식 능력은 환경 주기 및 연령별 성숙과 깊이 얽혀 있습니다. 이 포괄적인 가이드는 어류 정액 분석 및 종어 관리의 독특한 도전을 다룹니다. 1장: 종어 종축의 선택 및 관리 우리는 \"표현형 준비 상태\"에 기반하여 종축을 평가합니다—이차 성적 특성(예: 잉어과의 번식 결절 또는 연어과의 키프 발달)과 같은 지표입니다. 선택은 또한 근친 교배 우울을 방지하기 위해 유전적 다양성을 고려해야 합니다. 이것은 정자 품질 감소 및 낮은 유충 생존으로 나타납니다. \"밀팅\"을 위한 \"생물학적 창\"은 종종 좁으며 일장 및 수온에 의해 결정됩니다. 2장: 신체 건강 및 환경 스트레스 요인 어류는 외온 동물입니다. 즉, 그들의 대사 및 생식 건강은 전적으로 환경에 의존합니다. 종어 수컷의 신체 검사는 \"아가미 및 외피\" 평가로 시작합니다. 기생충 감염이나 세균성 아가미 질병의 어떤 징후도 전신 스트레스 반응을 유발하여 코르티솔",
+      "image": "/Knowledge Hub/Fish Semen Analysis Guide/Fish Semen Analysis Guide.webp",
+      "alt": "SFT 수의용 표준, CASA 시스템, 정자 운동성, 정자 형태 및 내장형 가열 스테이지를 갖춘 종어 관리 가이드",
+      "category": "veterinary",
+      "locale": "ko"
+    },
+    {
+      "id": "faq-ram-breeding-soundness",
+      "slug": "faq-ram-breeding-soundness",
+      "title": "양 번식 건전성 검사 (RBSE)",
+      "subtitle": "양 생식 능력 평가를 위한 임상 표준",
+      "content": "양 생식 능력에서 다른 가축과 구별되는 가장 중요한 요인 중 하나는 강렬한 계절성입니다. 양은 \"단일\" 번식자입니다. 그들의 생식 내분비 시스템은 일장에 의해 지배됩니다. 이 포괄적인 가이드는 수의용 전문가와 생산자에게 완전한 양 번식 건전성 검사(RBSE)를 수행하는 데 필요한 임상 표준을 제공합니다. 1장: 계절성, 일장 및 사춘기 가을에 일장이 감소함에 따라, 멜라토닌 생산이 증가하여 GnRH, FSH 및 LH의 급증을 유발합니다. 이 생리학적 변화는 고환 크기, 성욕 및 정자 품질의 극적인 증가를 초래합니다. 반대로, 봄과 여름(비번식 시즌) 동안, 양은 \"계절적 위축\"을 경험할 수 있으며, 여기서 정자 생산이 현저히 떨어집니다. 따라서 RBSE는 의도한 번식 시즌 전 6주에서 8주 내에 수행되어야 임상적으로 유효합니다. 2장: 신체 검사 및 운동 무결성 양 산업에서, 우리는 종종 \"생식 능력은 발에서 시작한다\"고 말합니다. 양은 험한 지형을 탐색하고, 발정 암양을 식별하며,",
+      "image": "/Knowledge Hub/Ram Breeding Soundness Examination (RBSE)/Ram Breeding Soundness Examination (RBSE).webp",
+      "alt": "SFT 수의용 표준, CASA 시스템, 정자 운동성, 정자 형태 및 내장형 가열 스테이지를 갖춘 양 생식 능력 평가 가이드",
+      "category": "veterinary",
+      "locale": "ko"
+    },
+    {
+      "id": "faq-boar-semen-evaluation",
+      "slug": "faq-boar-semen-evaluation",
+      "title": "돼지 정액 평가 및 처리 표준",
+      "subtitle": "돼지 번식 건전성 검사 (BBSE)",
+      "content": "고성능 종축의 여정은 선택으로 시작됩니다. 자연 서비스가 여전히 흔한 소와 달리, 현대 돼지는 거의 독점적으로 인공 수정(AI) 기증자입니다. 이 포괄적인 가이드는 수의용 전문가와 생산자에게 완전한 돼지 번식 건전성 검사(BBSE) 및 정액 평가를 수행하는 데 필요한 임상 표준을 제공합니다. 1장: 선택 및 사춘기 — 유전적 기초 우리는 세 가지 기둥에 기반하여 선택을 우선시합니다: 유전적 가치, 구조적 건전성 및 생식 잠재력. 돼지의 사춘기는 일반적으로 5개월에서 7개월 사이에 발생하지만, 우리는 돼지가 전면 AI 생산 순환에 들어가기 전에 최소 8개월이어야 한다고 고집합니다. 생식 형질의 유전성은 중요한 고려 사항입니다. 성장률과 등지방과 같은 형질은 쉽게 측정되지만, 우리는 사춘기 연령 및 고환 크기와 같은 \"생식 능력 표지\"의 유전성에 초점을 맞춥니다. 2장: 신체 검사 — 골격 및 감각 무결성 돼지에서, 구조적 건전성은 단순한 선호가 아닙니다. 임상적 필요입니다. 돼지는 일",
+      "image": "/Knowledge Hub/Boar Semen Evaluation Guide/Boar Semen Evaluation Guide.webp",
+      "alt": "SFT 수의용 표준, CASA 시스템, 정자 운동성, 정자 형태 및 내장형 가열 스테이지를 갖춘 돼지 번식 건전성 검사 가이드",
+      "category": "veterinary",
+      "locale": "ko"
+    }
+  ],
+  "pages": [
+    {
+      "id": "home",
+      "path": "/",
+      "title": "iSperm 정액 분석기 - 정액 분석의 혁신",
+      "description": "임상 및 동물 사육용으로 설계된 고급 AI 알고리즘을 갖춘 완전 자동화 정액 분석 시스템.",
+      "locale": "ko"
+    },
+    {
+      "id": "about",
+      "path": "/about",
+      "title": "iSperm Medical 소개 | CASA 시스템 제조업체",
+      "description": "선도적인 CASA 시스템 및 정액 분석기 제조업체. 2010년부터 인간 및 수의용 WHO 6판 준수 정자 형태 분석기.",
+      "locale": "ko"
+    },
+    {
+      "id": "contact",
+      "path": "/contact",
+      "title": "iSperm Medical 문의하기 | CASA 시스템 지원",
+      "description": "선도적인 CASA 시스템 및 정액 분석기 제조업체에 문의하세요. WHO 6판 준수 정자 형태 분석기에 대한 지원을 받으세요.",
+      "locale": "ko"
+    },
+    {
+      "id": "products",
+      "path": "/products",
+      "title": "CASA 시스템 및 정액 분석기 | iSperm Medical",
+      "description": "인간 및 수의학용 CASA 시스템 및 정자 형태 분석기를 탐색하세요. WHO 6판 준수 정액 분석기 솔루션.",
+      "locale": "ko"
+    },
+    {
+      "id": "faq",
+      "path": "/faq",
+      "title": "지식 허브 | CASA 시스템 FAQ | iSperm Medical",
+      "description": "포괄적인 CASA 시스템 FAQ, WHO 6판 가이드 및 정액 분석 리소스. 정자 형태 분석기에 대한 전문가 인사이트.",
+      "locale": "ko"
+    }
+  ],
+  "images": [
+    {
+      "id": "nexus-dx1-0",
+      "src": "/nexus-dx1-cover.webp",
+      "alt": "Nexus Dx1 - Product image 1",
+      "filename": "nexus-dx1-cover.webp",
+      "type": "product",
+      "associatedContent": {
+        "type": "product",
+        "id": "nexus-dx1",
+        "title": "Nexus Dx1",
+        "url": "/products/nexus-dx1"
+      },
+      "locale": "ko"
+    },
+    {
+      "id": "nexus-dx1-1",
+      "src": "/nexus-dx1.webp",
+      "alt": "Nexus Dx1 - Product image 2",
+      "filename": "nexus-dx1.webp",
+      "type": "product",
+      "associatedContent": {
+        "type": "product",
+        "id": "nexus-dx1",
+        "title": "Nexus Dx1",
+        "url": "/products/nexus-dx1"
+      },
+      "locale": "ko"
+    },
+    {
+      "id": "nexus-dx1-2",
+      "src": "/nexus-dx1-2.webp",
+      "alt": "Nexus Dx1 - Product image 3",
+      "filename": "nexus-dx1-2.webp",
+      "type": "product",
+      "associatedContent": {
+        "type": "product",
+        "id": "nexus-dx1",
+        "title": "Nexus Dx1",
+        "url": "/products/nexus-dx1"
+      },
+      "locale": "ko"
+    },
+    {
+      "id": "nexus-dx1-3",
+      "src": "/nexus-dx1-3.webp",
+      "alt": "Nexus Dx1 - Product image 4",
+      "filename": "nexus-dx1-3.webp",
+      "type": "product",
+      "associatedContent": {
+        "type": "product",
+        "id": "nexus-dx1",
+        "title": "Nexus Dx1",
+        "url": "/products/nexus-dx1"
+      },
+      "locale": "ko"
+    },
+    {
+      "id": "nexus-dx1-4",
+      "src": "/nexus-dx1-4.webp",
+      "alt": "Nexus Dx1 - Product image 5",
+      "filename": "nexus-dx1-4.webp",
+      "type": "product",
+      "associatedContent": {
+        "type": "product",
+        "id": "nexus-dx1",
+        "title": "Nexus Dx1",
+        "url": "/products/nexus-dx1"
+      },
+      "locale": "ko"
+    },
+    {
+      "id": "msqa-100-0",
+      "src": "/MSQA-100/msqa-100-cover.webp",
+      "alt": "MSQA-100 - Product image 1",
+      "filename": "msqa-100-cover.webp",
+      "type": "product",
+      "associatedContent": {
+        "type": "product",
+        "id": "msqa-100",
+        "title": "MSQA-100",
+        "url": "/products/msqa-100"
+      },
+      "locale": "ko"
+    },
+    {
+      "id": "msqa-100-1",
+      "src": "/MSQA-100/msqa-100-1.webp",
+      "alt": "MSQA-100 - Product image 2",
+      "filename": "msqa-100-1.webp",
+      "type": "product",
+      "associatedContent": {
+        "type": "product",
+        "id": "msqa-100",
+        "title": "MSQA-100",
+        "url": "/products/msqa-100"
+      },
+      "locale": "ko"
+    },
+    {
+      "id": "msqa-100-2",
+      "src": "/MSQA-100/msqa-100-2.webp",
+      "alt": "MSQA-100 - Product image 3",
+      "filename": "msqa-100-2.webp",
+      "type": "product",
+      "associatedContent": {
+        "type": "product",
+        "id": "msqa-100",
+        "title": "MSQA-100",
+        "url": "/products/msqa-100"
+      },
+      "locale": "ko"
+    },
+    {
+      "id": "sqa-6100vet-0",
+      "src": "/sqa-6100vet-cover.webp",
+      "alt": "SQA-6100vet - Product image 1",
+      "filename": "sqa-6100vet-cover.webp",
+      "type": "product",
+      "associatedContent": {
+        "type": "product",
+        "id": "sqa-6100vet",
+        "title": "SQA-6100vet",
+        "url": "/products/sqa-6100vet"
+      },
+      "locale": "ko"
+    },
+    {
+      "id": "sqa-6100vet-1",
+      "src": "/sqa-6100vet-1.webp",
+      "alt": "SQA-6100vet - Product image 2",
+      "filename": "sqa-6100vet-1.webp",
+      "type": "product",
+      "associatedContent": {
+        "type": "product",
+        "id": "sqa-6100vet",
+        "title": "SQA-6100vet",
+        "url": "/products/sqa-6100vet"
+      },
+      "locale": "ko"
+    },
+    {
+      "id": "sqa-6100vet-2",
+      "src": "/sqa-6100vet-2.webp",
+      "alt": "SQA-6100vet - Product image 3",
+      "filename": "sqa-6100vet-2.webp",
+      "type": "product",
+      "associatedContent": {
+        "type": "product",
+        "id": "sqa-6100vet",
+        "title": "SQA-6100vet",
+        "url": "/products/sqa-6100vet"
+      },
+      "locale": "ko"
+    },
+    {
+      "id": "article-faq-human-semen-standards",
+      "src": "/Knowledge Hub/Human Semen Analysis Standards/Human Semen Analysis Standards.webp",
+      "alt": "CASA 시스템, 정자 운동성, 정자 형태 및 내장형 가열 스테이지를 갖춘 WHO 6판 정액 분석 표준 가이드",
+      "filename": "Human Semen Analysis Standards.webp",
+      "type": "article",
+      "associatedContent": {
+        "type": "article",
+        "id": "faq-human-semen-standards",
+        "title": "인간 정액 분석의 글로벌 표준",
+        "url": "/faq/faq-human-semen-standards"
+      },
+      "locale": "ko"
+    },
+    {
+      "id": "article-who-6th-edition-semen-analysis-standards",
+      "src": "/WHO6.webp",
+      "alt": "CASA 시스템, Nexus Dx1, 정자 운동성, 정자 형태 및 내장형 가열 스테이지를 갖춘 WHO 6판 정액 분석 표준 가이드",
+      "filename": "WHO6.webp",
+      "type": "article",
+      "associatedContent": {
+        "type": "article",
+        "id": "who-6th-edition-semen-analysis-standards",
+        "title": "정액 분석의 우수성: WHO 6판 표준 및 CASA 기술에 대한 포괄적인 가이드",
+        "url": "/faq/who-6th-edition-semen-analysis-standards"
+      },
+      "locale": "ko"
+    },
+    {
+      "id": "article-iso-23162-2021-laboratory-competence-guide",
+      "src": "/ISO.webp",
+      "alt": "CASA 시스템, Nexus Dx1, 정액 검사 요구사항, 품질 관리 및 실험실 표준을 갖춘 ISO 23162:2021 실험실 역량 가이드",
+      "filename": "ISO.webp",
+      "type": "article",
+      "associatedContent": {
+        "type": "article",
+        "id": "iso-23162-2021-laboratory-competence-guide",
+        "title": "글로벌 표준 연결: ISO 23162:2021 및 실험실 역량에 대한 심층 분석",
+        "url": "/faq/iso-23162-2021-laboratory-competence-guide"
+      },
+      "locale": "ko"
+    },
+    {
+      "id": "article-eshre-guidelines-clinical-semen-examination",
+      "src": "/ESHRE.webp",
+      "alt": "CASA 시스템, Nexus Dx1, 보조생식술 우수성, 체외수정, 세포질내 정자 주입 및 보조생식술을 갖춘 ESHRE 가이드라인 임상 정액 검사 가이드",
+      "filename": "ESHRE.webp",
+      "type": "article",
+      "associatedContent": {
+        "type": "article",
+        "id": "eshre-guidelines-clinical-semen-examination",
+        "title": "임상 우수성: 정액 검사 및 환자 관리를 위한 ESHRE 가이드라인",
+        "url": "/faq/eshre-guidelines-clinical-semen-examination"
+      },
+      "locale": "ko"
+    },
+    {
+      "id": "article-asrm-male-infertility-evaluation-protocols",
+      "src": "/ASRM.webp",
+      "alt": "CASA 시스템, Nexus Dx1, 남성 불임 검사, 자궁내 인공수정, 체외수정, 세포질내 정자 주입 및 임상 실험실 표준을 갖춘 ASRM 남성 불임 평가 프로토콜 가이드",
+      "filename": "ASRM.webp",
+      "type": "article",
+      "associatedContent": {
+        "type": "article",
+        "id": "asrm-male-infertility-evaluation-protocols",
+        "title": "임상 무결성: 남성 불임 평가 및 정액 분석을 위한 ASRM 가이드라인",
+        "url": "/faq/asrm-male-infertility-evaluation-protocols"
+      },
+      "locale": "ko"
+    },
+    {
+      "id": "article-faq-bull-breeding-soundness",
+      "src": "/Knowledge Hub/Bull Breeding Soundness Guide/Bull Breeding Soundness Guide.webp",
+      "alt": "SFT 수의용 정액 분석 지침, CASA 시스템, 정자 운동성 및 내장형 가열 스테이지를 갖춘 소 번식 건전성 검사 가이드",
+      "filename": "Bull Breeding Soundness Guide.webp",
+      "type": "article",
+      "associatedContent": {
+        "type": "article",
+        "id": "faq-bull-breeding-soundness",
+        "title": "소 번식 건전성의 결정적 가이드",
+        "url": "/faq/faq-bull-breeding-soundness"
+      },
+      "locale": "ko"
+    },
+    {
+      "id": "article-faq-canine-semen-analysis",
+      "src": "/Knowledge Hub/Canine Semen Analysis Guide/Canine Semen Analysis Guide.webp",
+      "alt": "SFT 수의용 표준, CASA 시스템, 정자 운동성, 정자 형태 및 내장형 가열 스테이지를 갖춘 개 정액 분석 가이드",
+      "filename": "Canine Semen Analysis Guide.webp",
+      "type": "article",
+      "associatedContent": {
+        "type": "article",
+        "id": "faq-canine-semen-analysis",
+        "title": "개 정액 분석의 전문 가이드",
+        "url": "/faq/faq-canine-semen-analysis"
+      },
+      "locale": "ko"
+    },
+    {
+      "id": "article-faq-poultry-semen-analysis",
+      "src": "/Knowledge Hub/Poultry Semen Analysis Guide/Poultry Semen Analysis Guide.webp",
+      "alt": "SFT 수의용 표준, CASA 시스템, 정자 운동성, 정자 형태 및 내장형 가열 스테이지를 갖춘 수탉 생식 능력 가이드",
+      "filename": "Poultry Semen Analysis Guide.webp",
+      "type": "article",
+      "associatedContent": {
+        "type": "article",
+        "id": "faq-poultry-semen-analysis",
+        "title": "가금 정액 분석의 전문 가이드",
+        "url": "/faq/faq-poultry-semen-analysis"
+      },
+      "locale": "ko"
+    },
+    {
+      "id": "article-faq-stallion-semen-analysis",
+      "src": "/Knowledge Hub/Stallion Semen Analysis Guide/Stallion Semen Analysis Guide.webp",
+      "alt": "SFT 수의용 표준, CASA 시스템, 정자 운동성, 정자 형태 및 내장형 가열 스테이지를 갖춘 말 번식 건전성 가이드",
+      "filename": "Stallion Semen Analysis Guide.webp",
+      "type": "article",
+      "associatedContent": {
+        "type": "article",
+        "id": "faq-stallion-semen-analysis",
+        "title": "종마 정액 분석의 전문 가이드",
+        "url": "/faq/faq-stallion-semen-analysis"
+      },
+      "locale": "ko"
+    },
+    {
+      "id": "article-faq-camelid-andrology",
+      "src": "/Knowledge Hub/Camelid Andrology Guide/Camelid Andrology Guide.webp",
+      "alt": "SFT 수의용 표준, CASA 시스템, 정자 운동성, 정자 형태 및 내장형 가열 스테이지를 갖춘 낙타 생식 능력 평가 가이드",
+      "filename": "Camelid Andrology Guide.webp",
+      "type": "article",
+      "associatedContent": {
+        "type": "article",
+        "id": "faq-camelid-andrology",
+        "title": "낙타류 남성학의 전문 표준",
+        "url": "/faq/faq-camelid-andrology"
+      },
+      "locale": "ko"
+    },
+    {
+      "id": "article-faq-fish-semen-analysis",
+      "src": "/Knowledge Hub/Fish Semen Analysis Guide/Fish Semen Analysis Guide.webp",
+      "alt": "SFT 수의용 표준, CASA 시스템, 정자 운동성, 정자 형태 및 내장형 가열 스테이지를 갖춘 종어 관리 가이드",
+      "filename": "Fish Semen Analysis Guide.webp",
+      "type": "article",
+      "associatedContent": {
+        "type": "article",
+        "id": "faq-fish-semen-analysis",
+        "title": "어류 정액 분석의 권위 있는 가이드",
+        "url": "/faq/faq-fish-semen-analysis"
+      },
+      "locale": "ko"
+    },
+    {
+      "id": "article-faq-ram-breeding-soundness",
+      "src": "/Knowledge Hub/Ram Breeding Soundness Examination (RBSE)/Ram Breeding Soundness Examination (RBSE).webp",
+      "alt": "SFT 수의용 표준, CASA 시스템, 정자 운동성, 정자 형태 및 내장형 가열 스테이지를 갖춘 양 생식 능력 평가 가이드",
+      "filename": "Ram Breeding Soundness Examination (RBSE).webp",
+      "type": "article",
+      "associatedContent": {
+        "type": "article",
+        "id": "faq-ram-breeding-soundness",
+        "title": "양 번식 건전성 검사 (RBSE)",
+        "url": "/faq/faq-ram-breeding-soundness"
+      },
+      "locale": "ko"
+    },
+    {
+      "id": "article-faq-boar-semen-evaluation",
+      "src": "/Knowledge Hub/Boar Semen Evaluation Guide/Boar Semen Evaluation Guide.webp",
+      "alt": "SFT 수의용 표준, CASA 시스템, 정자 운동성, 정자 형태 및 내장형 가열 스테이지를 갖춘 돼지 번식 건전성 검사 가이드",
+      "filename": "Boar Semen Evaluation Guide.webp",
+      "type": "article",
+      "associatedContent": {
+        "type": "article",
+        "id": "faq-boar-semen-evaluation",
+        "title": "돼지 정액 평가 및 처리 표준",
+        "url": "/faq/faq-boar-semen-evaluation"
+      },
+      "locale": "ko"
+    },
+    {
+      "id": "about-0",
+      "src": "/About%20us%20(1).webp",
+      "alt": "전시회에서 완전 자동화 CASA 시스템 및 정자 품질 분석기를 선보이는 iSperm Medical 팀",
+      "filename": "About%20us%20(1).webp",
+      "type": "about",
+      "associatedContent": {
+        "type": "page",
+        "id": "about",
+        "title": "iSperm Medical 소개 | CASA 시스템 제조업체",
+        "url": "/about"
+      },
+      "locale": "ko"
+    },
+    {
+      "id": "about-1",
+      "src": "/About%20us%20(2).webp",
+      "alt": "수의학 정액 분석기 및 동물 번식 솔루션을 논의하는 iSperm Medical 전문가들",
+      "filename": "About%20us%20(2).webp",
+      "type": "about",
+      "associatedContent": {
+        "type": "page",
+        "id": "about",
+        "title": "iSperm Medical 소개 | CASA 시스템 제조업체",
+        "url": "/about"
+      },
+      "locale": "ko"
+    },
+    {
+      "id": "about-2",
+      "src": "/About%20Us%202.webp",
+      "alt": "CASA 기술 및 생식 건강 솔루션을 선보이는 iSperm Medical 팀 및 이벤트",
+      "filename": "About%20Us%202.webp",
+      "type": "about",
+      "associatedContent": {
+        "type": "page",
+        "id": "about",
+        "title": "iSperm Medical 소개 | CASA 시스템 제조업체",
+        "url": "/about"
+      },
+      "locale": "ko"
+    },
+    {
+      "id": "about-3",
+      "src": "/About%20Us%204.webp",
+      "alt": "자동화된 정액 분석 시스템을 특징으로 하는 iSperm Medical 팀 프레젠테이션 및 전시회",
+      "filename": "About%20Us%204.webp",
+      "type": "about",
+      "associatedContent": {
+        "type": "page",
+        "id": "about",
+        "title": "iSperm Medical 소개 | CASA 시스템 제조업체",
+        "url": "/about"
+      },
+      "locale": "ko"
+    },
+    {
+      "id": "about-4",
+      "src": "/About%20Us%205.webp",
+      "alt": "혁신적인 CASA 시스템 및 정자 품질 분석기를 선보이는 iSperm Medical 이벤트 및 팀",
+      "filename": "About%20Us%205.webp",
+      "type": "about",
+      "associatedContent": {
+        "type": "page",
+        "id": "about",
+        "title": "iSperm Medical 소개 | CASA 시스템 제조업체",
+        "url": "/about"
+      },
+      "locale": "ko"
+    },
+    {
+      "id": "banner-0",
+      "src": "/banner%20(1).webp",
+      "alt": "iSperm Medical - Banner image 1",
+      "filename": "banner%20(1).webp",
+      "type": "banner",
+      "associatedContent": {
+        "type": "page",
+        "id": "home",
+        "title": "iSperm 정액 분석기 - 정액 분석의 혁신",
+        "url": "/"
+      },
+      "locale": "ko"
+    },
+    {
+      "id": "banner-1",
+      "src": "/banner%20(2).webp",
+      "alt": "iSperm Medical - Banner image 2",
+      "filename": "banner%20(2).webp",
+      "type": "banner",
+      "associatedContent": {
+        "type": "page",
+        "id": "home",
+        "title": "iSperm 정액 분석기 - 정액 분석의 혁신",
+        "url": "/"
+      },
+      "locale": "ko"
+    },
+    {
+      "id": "banner-2",
+      "src": "/banner%20(3).webp",
+      "alt": "iSperm Medical - Banner image 3",
+      "filename": "banner%20(3).webp",
+      "type": "banner",
+      "associatedContent": {
+        "type": "page",
+        "id": "home",
+        "title": "iSperm 정액 분석기 - 정액 분석의 혁신",
+        "url": "/"
+      },
+      "locale": "ko"
+    }
+  ],
+  "locale": "ko"
+}

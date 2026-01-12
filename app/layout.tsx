@@ -81,7 +81,7 @@ export default function RootLayout({
               "@type": "SearchAction",
               "target": {
                 "@type": "EntryPoint",
-                "urlTemplate": "https://www.isperm.com/en/faq?q={search_term_string}"
+                "urlTemplate": "https://www.isperm.com/{locale}/search?q={search_term_string}"
               },
               "query-input": "required name=search_term_string"
             }

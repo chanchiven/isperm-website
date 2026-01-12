@@ -1,0 +1,714 @@
+{
+  "products": [
+    {
+      "id": "nexus-dx1",
+      "slug": "nexus-dx1",
+      "name": "Nexus Dx1",
+      "description": "Vollautomatisches CASA-System für den klinischen und Laborgebrauch mit fortschrittlichen KI-Algorithmen und umfassender Parameteranalyse.",
+      "subtitle": "Vollautomatisches Human-CASA-System",
+      "images": [
+        "/nexus-dx1-cover.webp",
+        "/nexus-dx1.webp",
+        "/nexus-dx1-2.webp",
+        "/nexus-dx1-3.webp",
+        "/nexus-dx1-4.webp"
+      ],
+      "features": [
+        "Vollautomatisch",
+        "Touchscreen",
+        "Eingebaute Heizstufe",
+        "Standalone All-in-One-System",
+        "Fortschrittlicher Gaussian-Dynamic-AI-Bildalgorithmus",
+        "Zählkammer: Enhanced/Coated 2-Kammer, feste Tiefe 10μm",
+        "Anpassbare mehrere Sichtfelder, bis zu 1500 Spermienzahl pro Sichtfeld",
+        "Unterstützt Video-Wiedergabe",
+        "Unterstützt externen Barcode-Scanner",
+        "PC-Workstation",
+        "Vollautomatische Analyse",
+        "Eingebaute Heizstufe",
+        "PC-Workstation-Unterstützung"
+      ],
+      "locale": "de"
+    },
+    {
+      "id": "msqa-100",
+      "slug": "msqa-100",
+      "name": "MSQA-100",
+      "description": "Tragbares CASA-System für den Heimgebrauch mit Smartphone-Kompatibilität, das Laborqualitäts-Leistung in kompaktem Format liefert.",
+      "subtitle": "Tragbarer CASA-Samenanalysator",
+      "images": [
+        "/MSQA-100/msqa-100-cover.webp",
+        "/MSQA-100/msqa-100-1.webp",
+        "/MSQA-100/msqa-100-2.webp"
+      ],
+      "features": [
+        "Smartphone-kompatibel",
+        "Eingebaute Temperaturkontrolle",
+        "Cloud-basierte KI-Analyse"
+      ],
+      "locale": "de"
+    },
+    {
+      "id": "sqa-6100vet",
+      "slug": "sqa-6100vet",
+      "name": "SQA-6100vet",
+      "description": "Revolutionäres vollautomatisches CASA-System für die tierische Reproduktionsbewertung mit Multi-Spezies-Analyse und tragbaren Feldfähigkeiten.",
+      "subtitle": "Vollautomatisches Veterinär-CASA-System",
+      "images": [
+        "/sqa-6100vet-cover.webp",
+        "/sqa-6100vet-1.webp",
+        "/sqa-6100vet-2.webp"
+      ],
+      "features": [
+        "Vollautomatisch",
+        "Touchscreen",
+        "Eingebaute Heizstufe",
+        "Standalone All-in-One-System",
+        "Fortschrittlicher Gaussian-Dynamic-AI-Bildalgorithmus",
+        "Zählkammer: Enhanced/Coated 6-Kammer, feste Tiefe 20μm",
+        "Bis zu 15 Sekunden Analysedauer, wählbare mehrere Sichtfelder",
+        "Unterstützt Video-Wiedergabe",
+        "Unterstützt externen Barcode-Scanner",
+        "PC-Workstation",
+        "Unterstützt Multi-Spezies",
+        "Multi-Spezies-Unterstützung",
+        "15 Sekunden Analysedauer",
+        "Tragbares All-in-One-Design"
+      ],
+      "locale": "de"
+    }
+  ],
+  "articles": [
+    {
+      "id": "faq-human-semen-standards",
+      "slug": "faq-human-semen-standards",
+      "title": "Globale Standards für die humane Samenanalyse",
+      "subtitle": "Ein vergleichender Leitfaden (WHO 6. Auflage, ISO 23162, ESHRE & ASRM)",
+      "content": "Im Jahr 2021 wurde das Feld der humanen Andrologie durch die gleichzeitige Veröffentlichung des WHO 6. Auflage Handbuchs und des ISO 23162:2021 Standards neu definiert. Diese Dokumente haben das Feld in Richtung strenger Standardisierung bewegt und betonen, dass Genauigkeit nur durch strenge Qualitätskontrolle und Reduzierung menschlicher Subjektivität möglich ist. 1. Prä-Analytische Phase: Die Basis der Qualität Standardisierung beginnt, bevor die Probe das Mikroskop erreicht. Sowohl WHO 6. Auf",
+      "image": "/Knowledge Hub/Human Semen Analysis Standards/Human Semen Analysis Standards.webp",
+      "alt": "WHO 6. Auflage Samenanalyse-Standards-Leitfaden mit CASA-System, Spermienmotilität, Spermien-Morphologie und eingebauter Heizstufe für humane Andrologie",
+      "category": "human",
+      "locale": "de"
+    },
+    {
+      "id": "who-6th-edition-semen-analysis-standards",
+      "slug": "who-6th-edition-semen-analysis-standards",
+      "title": "Exzellenz in der Samenanalyse: Ein umfassender Leitfaden zu WHO 6. Auflage Standards und CASA-Technologie",
+      "subtitle": "Beherrschung der WHO 6. Auflage Standards mit fortschrittlicher CASA-Technologie für präzise männliche Fertilitätsbewertung",
+      "content": "Im Bereich der Reproduktionsmedizin bleibt die Samenanalyse der Grundstein der männlichen Fertilitätsbewertung. Mit der Veröffentlichung der WHO 6. Auflage (2021) hat sich die Branche in Richtung höherer Präzision, strengerer Qualitätskontrolle und der Integration fortschrittlicher Computer-unterstützter Spermienanalyse (CASA)-Systeme verschoben. Dieser Artikel untersucht die Entwicklung dieser Standards und die technischen Anforderungen für die moderne klinische Diagnostik. Kapitel 1: Die Rolle",
+      "image": "/WHO6.webp",
+      "alt": "WHO 6. Auflage Samenanalyse-Standards-Leitfaden mit CASA-System, Nexus Dx1, Spermienmotilität, Spermien-Morphologie und eingebauter Heizstufe",
+      "category": "human",
+      "locale": "de"
+    },
+    {
+      "id": "iso-23162-2021-laboratory-competence-guide",
+      "slug": "iso-23162-2021-laboratory-competence-guide",
+      "title": "Überbrückung globaler Standards: Ein tiefer Einblick in ISO 23162:2021 und Labor-Kompetenz",
+      "subtitle": "Beherrschung der technischen Anforderungen von ISO 23162:2021 und des Qualitätsmanagement-Rahmens für global vergleichbare Samenuntersuchungsergebnisse",
+      "content": "Dieser Artikel konzentriert sich auf ISO 23162:2021, den internationalen Standard, der Anforderungen und Prüfmethoden für die grundlegende menschliche Samenuntersuchung spezifiziert. Während die WHO 6. Auflage das klinische Handbuch bereitstellt, bietet ISO 23162 den technischen und Qualitätsmanagement-Rahmen für Laboratorien, um sicherzustellen, dass ihre Ergebnisse global vergleichbar sind. Die Veröffentlichung von ISO 23162:2021 markierte einen Meilenstein in der Reproduktionsmedizin, da es d",
+      "image": "/ISO.webp",
+      "alt": "ISO 23162:2021 Labor-Kompetenz-Leitfaden mit CASA-System, Nexus Dx1, Samenuntersuchungsanforderungen, Qualitätskontrolle und Laborstandards",
+      "category": "human",
+      "locale": "de"
+    },
+    {
+      "id": "eshre-guidelines-clinical-semen-examination",
+      "slug": "eshre-guidelines-clinical-semen-examination",
+      "title": "Klinische Exzellenz: ESHRE-Leitlinien für Samenuntersuchung und Patientenmanagement",
+      "subtitle": "Evidenzbasierte ESHRE-Leitlinien, die Laborergebnisse und klinische Entscheidungsfindung für optimale ART-Ergebnisse verbinden",
+      "content": "Während das WHO-Handbuch das \"Wie\" bereitstellt und ISO 23162 die \"technischen Spezifikationen\" liefert, konzentriert sich ESHRE auf den Versorgungsstandard—wie diese Diagnostik in die klinische Praxis integriert werden sollte, um Ergebnisse in der Assistierten Reproduktionstechnologie (ART) zu verbessern. Als führende Autorität in der europäischen Reproduktionsmedizin bietet ESHRE evidenzbasierte Leitlinien, die die Lücke zwischen Laborergebnissen und klinischer Entscheidungsfindung überbrücken",
+      "image": "/ESHRE.webp",
+      "alt": "ESHRE-Leitlinien Klinische Samenuntersuchung mit CASA-System, Nexus Dx1, ART-Exzellenz, IVF, ICSI und Assistierte Reproduktionstechnologie",
+      "category": "human",
+      "locale": "de"
+    },
+    {
+      "id": "asrm-male-infertility-evaluation-protocols",
+      "slug": "asrm-male-infertility-evaluation-protocols",
+      "title": "Klinische Integrität: ASRM-Leitlinien für männliche Unfruchtbarkeitsbewertung und Samenanalyse",
+      "subtitle": "Evidenzbasierte ASRM-Protokolle, die Samenanalyse in ganzheitliche männliche Unfruchtbarkeitsdiagnose und Behandlungswege integrieren",
+      "content": "Während das WHO-Handbuch das \"Wie\" bereitstellt und ISO 23162 die \"technischen Standards\" liefert, konzentriert sich ASRM auf den Klinischen Weg—Anleitung, wie Samenanalyseergebnisse die diagnostische Bewertung und Behandlung des unfruchtbaren Mannes in einer klinischen Umgebung leiten sollten. Als führende Autorität für Reproduktionsmedizin in den Vereinigten Staaten etabliert ASRM evidenzbasierte Protokolle, die die moderne Fertilitätsversorgung definieren. Für Kliniker und Laborleiter gewährl",
+      "image": "/ASRM.webp",
+      "alt": "ASRM-Leitlinien Männliche Unfruchtbarkeitsbewertung mit CASA-System, Nexus Dx1, Männliche Unfruchtbarkeitsbewertung, IUI, IVF, ICSI und Klinische Laborstandards",
+      "category": "human",
+      "locale": "de"
+    },
+    {
+      "id": "faq-bull-breeding-soundness",
+      "slug": "faq-bull-breeding-soundness",
+      "title": "Der definitive Leitfaden zur Bullen-Zuchttauglichkeitsuntersuchung",
+      "subtitle": "Klinische Standards & moderne Methodik",
+      "content": "Dieser umfassende Leitfaden bietet Tierärzten und Produzenten die klinischen Standards und modernen Methodologien, die für die Durchführung einer vollständigen Bullen-Zuchttauglichkeitsuntersuchung (BSE) gemäß den Richtlinien der Society for Theriogenology (SFT) erforderlich sind. Kapitel 1: Die Bio-Verhaltensbewertung des Zuchttieres In unserer klinischen Praxis als Andrologen erinnern wir Produzenten oft daran, dass der Wert eines Bullen nicht im Reagenzglas liegt, sondern in seiner Fähigkeit,",
+      "image": "/Knowledge Hub/Bull Breeding Soundness Guide/Bull Breeding Soundness Guide.webp",
+      "alt": "Bullen-Zuchttauglichkeitsuntersuchungs-Leitfaden mit SFT Veterinär-Samenanalyse-Richtlinien, CASA-System, Spermienmotilität und eingebauter Heizstufe",
+      "category": "veterinary",
+      "locale": "de"
+    },
+    {
+      "id": "faq-canine-semen-analysis",
+      "slug": "faq-canine-semen-analysis",
+      "title": "Der professionelle Leitfaden zur caninen Samenanalyse",
+      "subtitle": "Klinische Standards für Hund-Fertilität und Reproduktionsintegrität",
+      "content": "Dieser umfassende Leitfaden bietet Tierärzten und Züchtern die klinischen Standards und Methodologien, die für die Durchführung einer vollständigen Caninen Zuchttauglichkeitsuntersuchung (BSE) und Samenanalyse erforderlich sind. Kapitel 1: Auswahl und Reproduktionslebenszyklus Die Bewertung eines Zuchtrüden beginnt mit seinem Stammbaum und seiner Entwicklungsgeschichte. In der caninen Andrologie tritt die Pubertät typischerweise zwischen 6 und 12 Monaten auf, abhängig von der Rasse (größere Rass",
+      "image": "/Knowledge Hub/Canine Semen Analysis Guide/Canine Semen Analysis Guide.webp",
+      "alt": "Canine Samenanalyse-Leitfaden mit SFT Veterinär-Standards, CASA-System, Spermienmotilität, Spermien-Morphologie und eingebauter Heizstufe für Hund-Fertilität",
+      "category": "veterinary",
+      "locale": "de"
+    },
+    {
+      "id": "faq-poultry-semen-analysis",
+      "slug": "faq-poultry-semen-analysis",
+      "title": "Der professionelle Leitfaden zur Geflügel-Samenanalyse",
+      "subtitle": "Klinische Standards für Hahn-Fertilität",
+      "content": "In der Geflügelindustrie, insbesondere für Broiler-Züchter und Legehennen, ist die Bewertung der Hahn-Fertilität der Eckpfeiler des Brütereierfolgs und des Herdenersatzes. Im Gegensatz zu Säugetieren gibt es kein einzelnes \"SFT-Handbuch\" für Geflügel; stattdessen werden die Standards von den Richtlinien der World's Poultry Science Association (WPSA), FAO-Protokollen für Tiergenetische Ressourcen und den technischen Handbüchern primärer Züchter (wie Aviagen und Cobb) bestimmt. Kapitel 1: Auswahl ",
+      "image": "/Knowledge Hub/Poultry Semen Analysis Guide/Poultry Semen Analysis Guide.webp",
+      "alt": "Geflügel-Samenanalyse-Leitfaden mit SFT Veterinär-Standards, CASA-System, Spermienmotilität, Spermien-Morphologie und eingebauter Heizstufe für Hahn-Fertilität",
+      "category": "veterinary",
+      "locale": "de"
+    },
+    {
+      "id": "faq-stallion-semen-analysis",
+      "slug": "faq-stallion-semen-analysis",
+      "title": "Der professionelle Leitfaden zur Hengst-Samenanalyse",
+      "subtitle": "Klinische Standards für Equine Zuchttauglichkeit (EBSE)",
+      "content": "Dieser umfassende Leitfaden bietet Tierärzten und Züchtern die klinischen Standards und Methodologien, die für die Durchführung einer vollständigen Equinen Zuchttauglichkeitsbewertung (EBSE) und Samenanalyse erforderlich sind. Kapitel 1: Hengst-Auswahl und Reproduktionsverhalten Die Bewertung eines Hengstes beginnt mit seiner genetischen Abstammung und einer gründlichen Bewertung seines Reproduktionsverhaltens. In der Equinen-Industrie muss ein Hengst eine starke, kontrollierbare Libido besitzen",
+      "image": "/Knowledge Hub/Stallion Semen Analysis Guide/Stallion Semen Analysis Guide.webp",
+      "alt": "Hengst-Samenanalyse-Leitfaden mit SFT Veterinär-Standards, CASA-System, Spermienmotilität, Spermien-Morphologie und eingebauter Heizstufe für Equine Zuchttauglichkeit",
+      "category": "veterinary",
+      "locale": "de"
+    },
+    {
+      "id": "faq-camelid-andrology",
+      "slug": "faq-camelid-andrology",
+      "title": "Der professionelle Standard für Cameliden-Andrologie",
+      "subtitle": "Klinische Bewertung & digitale Analyse-Richtlinien für Kamel-Fertilität",
+      "content": "Cameliden-Andrologie ist eines der herausforderndsten und spezialisiertesten Felder in der veterinärmedizinischen Reproduktion. Ob mit Dromedaren (einhöckrigen) oder Baktrianern (zweihöckrigen) Kamelen, die einzigartigen physiologischen Eigenschaften dieser \"Schiffe der Wüste\"—insbesondere die intensive Saisonalität und die extreme Viskosität ihres Spermas—erfordern einen spezialisierten diagnostischen Ansatz. Kapitel 1: Saisonalität und die Physiologie der \"Brunft\" In der Cameliden-Reproduktion",
+      "image": "/Knowledge Hub/Camelid Andrology Guide/Camelid Andrology Guide.webp",
+      "alt": "Cameliden-Andrologie-Leitfaden mit SFT Veterinär-Standards, CASA-System, Spermienmotilität, Spermien-Morphologie und eingebauter Heizstufe für Kamel-Fertilitätsbewertung",
+      "category": "veterinary",
+      "locale": "de"
+    },
+    {
+      "id": "faq-fish-semen-analysis",
+      "slug": "faq-fish-semen-analysis",
+      "title": "Der maßgebliche Leitfaden zur Fisch-Samenanalyse",
+      "subtitle": "Klinische Standards für Zuchtbestands-Management und Reproduktionserfolg",
+      "content": "Die Grundlage einer erfolgreichen Brüterei liegt in der Auswahl des \"Zuchtbestands\". Im Gegensatz zu Säugetieren ist die Fisch-Fertilität tief mit Umweltzyklen und altersspezifischer Reifung verwoben. Dieser umfassende Leitfaden behandelt die einzigartigen Herausforderungen der Fisch-Samenanalyse und des Zuchtbestands-Managements. Kapitel 1: Auswahl und Management von Zuchtbestands-Zuchttieren Wir bewerten Zuchttiere basierend auf ihrer \"Phänotypischen Bereitschaft\"—Indikatoren wie sekundäre Ges",
+      "image": "/Knowledge Hub/Fish Semen Analysis Guide/Fish Semen Analysis Guide.webp",
+      "alt": "Fisch-Samenanalyse-Leitfaden mit SFT Veterinär-Standards, CASA-System, Spermienmotilität, Spermien-Morphologie und eingebauter Heizstufe für Zuchtbestands-Management",
+      "category": "veterinary",
+      "locale": "de"
+    },
+    {
+      "id": "faq-ram-breeding-soundness",
+      "slug": "faq-ram-breeding-soundness",
+      "title": "Widder-Zuchttauglichkeitsuntersuchung (RBSE)",
+      "subtitle": "Klinische Standards für Widder-Fertilitätsbewertung",
+      "content": "Einer der kritischsten Faktoren in der Widder-Fertilität, der sie von anderen Nutztieren unterscheidet, ist ihre intensive Saisonalität. Widder sind \"Kurz-Tag\"-Züchter; ihr Reproduktions-Endokrinsystem wird von der Photoperiode bestimmt. Dieser umfassende Leitfaden bietet Tierärzten und Produzenten die klinischen Standards, die für die Durchführung einer vollständigen Widder-Zuchttauglichkeitsuntersuchung (RBSE) erforderlich sind. Kapitel 1: Saisonalität, Photoperiode und Pubertät Wenn die Tages",
+      "image": "/Knowledge Hub/Ram Breeding Soundness Examination (RBSE)/Ram Breeding Soundness Examination (RBSE).webp",
+      "alt": "Widder-Zuchttauglichkeitsuntersuchungs-Leitfaden mit SFT Veterinär-Standards, CASA-System, Spermienmotilität, Spermien-Morphologie und eingebauter Heizstufe für Widder-Fertilitätsbewertung",
+      "category": "veterinary",
+      "locale": "de"
+    },
+    {
+      "id": "faq-boar-semen-evaluation",
+      "slug": "faq-boar-semen-evaluation",
+      "title": "Eber-Samenbewertung und Verarbeitungsstandards",
+      "subtitle": "Eber-Zuchttauglichkeitsuntersuchung (BBSE)",
+      "content": "Die Reise eines Hochleistungs-Zuchttieres beginnt mit der Auswahl. Im Gegensatz zu Rindern, wo natürliche Bedienung noch üblich ist, ist der moderne Eber fast ausschließlich ein Künstliche Besamung (AI)-Spender. Dieser umfassende Leitfaden bietet Tierärzten und Produzenten die klinischen Standards, die für die Durchführung einer vollständigen Eber-Zuchttauglichkeitsuntersuchung (BBSE) und Samenbewertung erforderlich sind. Kapitel 1: Auswahl und Pubertät — Die genetische Grundlage Wir priorisiere",
+      "image": "/Knowledge Hub/Boar Semen Evaluation Guide/Boar Semen Evaluation Guide.webp",
+      "alt": "Eber-Samenbewertungs-Leitfaden mit SFT Veterinär-Standards, CASA-System, Spermienmotilität, Spermien-Morphologie und eingebauter Heizstufe für Eber-Zuchttauglichkeitsuntersuchung",
+      "category": "veterinary",
+      "locale": "de"
+    }
+  ],
+  "pages": [
+    {
+      "id": "home",
+      "path": "/",
+      "title": "iSperm Samenanalysator - Revolutionierung der Samenanalyse",
+      "description": "Vollautomatisches Samenanalysesystem für klinischen Einsatz und Tierzucht, ausgestattet mit fortschrittlichen KI-Algorithmen.",
+      "locale": "de"
+    },
+    {
+      "id": "about",
+      "path": "/about",
+      "title": "Über iSperm Medical | CASA-System-Hersteller",
+      "description": "Führender Hersteller von CASA-Systemen & Samenanalysatoren. WHO 6. Auflage konforme Spermien-Morphologie-Analysatoren für den Human- und Veterinärbereich seit 2010.",
+      "locale": "de"
+    },
+    {
+      "id": "contact",
+      "path": "/contact",
+      "title": "Kontakt | iSperm Medical | CASA-System-Support",
+      "description": "Kontaktieren Sie den führenden Hersteller von CASA-Systemen & Samenanalysatoren. Erhalten Sie Support für WHO 6. Auflage konforme Spermien-Morphologie-Analysatoren.",
+      "locale": "de"
+    },
+    {
+      "id": "products",
+      "path": "/products",
+      "title": "CASA-Systeme & Samenanalysatoren | iSperm Medical",
+      "description": "Erkunden Sie unsere CASA-Systeme & Spermien-Morphologie-Analysatoren für den Human- und Veterinärbereich. WHO 6. Auflage konforme Samenanalysator-Lösungen.",
+      "locale": "de"
+    },
+    {
+      "id": "faq",
+      "path": "/faq",
+      "title": "Wissensdatenbank | CASA-System FAQs | iSperm Medical",
+      "description": "Umfassende CASA-System FAQs, WHO 6. Auflage Leitfäden und Samenanalyse-Ressourcen. Experteneinsichten zu Spermien-Morphologie-Analysatoren.",
+      "locale": "de"
+    }
+  ],
+  "images": [
+    {
+      "id": "nexus-dx1-0",
+      "src": "/nexus-dx1-cover.webp",
+      "alt": "Nexus Dx1 - Product image 1",
+      "filename": "nexus-dx1-cover.webp",
+      "type": "product",
+      "associatedContent": {
+        "type": "product",
+        "id": "nexus-dx1",
+        "title": "Nexus Dx1",
+        "url": "/products/nexus-dx1"
+      },
+      "locale": "de"
+    },
+    {
+      "id": "nexus-dx1-1",
+      "src": "/nexus-dx1.webp",
+      "alt": "Nexus Dx1 - Product image 2",
+      "filename": "nexus-dx1.webp",
+      "type": "product",
+      "associatedContent": {
+        "type": "product",
+        "id": "nexus-dx1",
+        "title": "Nexus Dx1",
+        "url": "/products/nexus-dx1"
+      },
+      "locale": "de"
+    },
+    {
+      "id": "nexus-dx1-2",
+      "src": "/nexus-dx1-2.webp",
+      "alt": "Nexus Dx1 - Product image 3",
+      "filename": "nexus-dx1-2.webp",
+      "type": "product",
+      "associatedContent": {
+        "type": "product",
+        "id": "nexus-dx1",
+        "title": "Nexus Dx1",
+        "url": "/products/nexus-dx1"
+      },
+      "locale": "de"
+    },
+    {
+      "id": "nexus-dx1-3",
+      "src": "/nexus-dx1-3.webp",
+      "alt": "Nexus Dx1 - Product image 4",
+      "filename": "nexus-dx1-3.webp",
+      "type": "product",
+      "associatedContent": {
+        "type": "product",
+        "id": "nexus-dx1",
+        "title": "Nexus Dx1",
+        "url": "/products/nexus-dx1"
+      },
+      "locale": "de"
+    },
+    {
+      "id": "nexus-dx1-4",
+      "src": "/nexus-dx1-4.webp",
+      "alt": "Nexus Dx1 - Product image 5",
+      "filename": "nexus-dx1-4.webp",
+      "type": "product",
+      "associatedContent": {
+        "type": "product",
+        "id": "nexus-dx1",
+        "title": "Nexus Dx1",
+        "url": "/products/nexus-dx1"
+      },
+      "locale": "de"
+    },
+    {
+      "id": "msqa-100-0",
+      "src": "/MSQA-100/msqa-100-cover.webp",
+      "alt": "MSQA-100 - Product image 1",
+      "filename": "msqa-100-cover.webp",
+      "type": "product",
+      "associatedContent": {
+        "type": "product",
+        "id": "msqa-100",
+        "title": "MSQA-100",
+        "url": "/products/msqa-100"
+      },
+      "locale": "de"
+    },
+    {
+      "id": "msqa-100-1",
+      "src": "/MSQA-100/msqa-100-1.webp",
+      "alt": "MSQA-100 - Product image 2",
+      "filename": "msqa-100-1.webp",
+      "type": "product",
+      "associatedContent": {
+        "type": "product",
+        "id": "msqa-100",
+        "title": "MSQA-100",
+        "url": "/products/msqa-100"
+      },
+      "locale": "de"
+    },
+    {
+      "id": "msqa-100-2",
+      "src": "/MSQA-100/msqa-100-2.webp",
+      "alt": "MSQA-100 - Product image 3",
+      "filename": "msqa-100-2.webp",
+      "type": "product",
+      "associatedContent": {
+        "type": "product",
+        "id": "msqa-100",
+        "title": "MSQA-100",
+        "url": "/products/msqa-100"
+      },
+      "locale": "de"
+    },
+    {
+      "id": "sqa-6100vet-0",
+      "src": "/sqa-6100vet-cover.webp",
+      "alt": "SQA-6100vet - Product image 1",
+      "filename": "sqa-6100vet-cover.webp",
+      "type": "product",
+      "associatedContent": {
+        "type": "product",
+        "id": "sqa-6100vet",
+        "title": "SQA-6100vet",
+        "url": "/products/sqa-6100vet"
+      },
+      "locale": "de"
+    },
+    {
+      "id": "sqa-6100vet-1",
+      "src": "/sqa-6100vet-1.webp",
+      "alt": "SQA-6100vet - Product image 2",
+      "filename": "sqa-6100vet-1.webp",
+      "type": "product",
+      "associatedContent": {
+        "type": "product",
+        "id": "sqa-6100vet",
+        "title": "SQA-6100vet",
+        "url": "/products/sqa-6100vet"
+      },
+      "locale": "de"
+    },
+    {
+      "id": "sqa-6100vet-2",
+      "src": "/sqa-6100vet-2.webp",
+      "alt": "SQA-6100vet - Product image 3",
+      "filename": "sqa-6100vet-2.webp",
+      "type": "product",
+      "associatedContent": {
+        "type": "product",
+        "id": "sqa-6100vet",
+        "title": "SQA-6100vet",
+        "url": "/products/sqa-6100vet"
+      },
+      "locale": "de"
+    },
+    {
+      "id": "article-faq-human-semen-standards",
+      "src": "/Knowledge Hub/Human Semen Analysis Standards/Human Semen Analysis Standards.webp",
+      "alt": "WHO 6. Auflage Samenanalyse-Standards-Leitfaden mit CASA-System, Spermienmotilität, Spermien-Morphologie und eingebauter Heizstufe für humane Andrologie",
+      "filename": "Human Semen Analysis Standards.webp",
+      "type": "article",
+      "associatedContent": {
+        "type": "article",
+        "id": "faq-human-semen-standards",
+        "title": "Globale Standards für die humane Samenanalyse",
+        "url": "/faq/faq-human-semen-standards"
+      },
+      "locale": "de"
+    },
+    {
+      "id": "article-who-6th-edition-semen-analysis-standards",
+      "src": "/WHO6.webp",
+      "alt": "WHO 6. Auflage Samenanalyse-Standards-Leitfaden mit CASA-System, Nexus Dx1, Spermienmotilität, Spermien-Morphologie und eingebauter Heizstufe",
+      "filename": "WHO6.webp",
+      "type": "article",
+      "associatedContent": {
+        "type": "article",
+        "id": "who-6th-edition-semen-analysis-standards",
+        "title": "Exzellenz in der Samenanalyse: Ein umfassender Leitfaden zu WHO 6. Auflage Standards und CASA-Technologie",
+        "url": "/faq/who-6th-edition-semen-analysis-standards"
+      },
+      "locale": "de"
+    },
+    {
+      "id": "article-iso-23162-2021-laboratory-competence-guide",
+      "src": "/ISO.webp",
+      "alt": "ISO 23162:2021 Labor-Kompetenz-Leitfaden mit CASA-System, Nexus Dx1, Samenuntersuchungsanforderungen, Qualitätskontrolle und Laborstandards",
+      "filename": "ISO.webp",
+      "type": "article",
+      "associatedContent": {
+        "type": "article",
+        "id": "iso-23162-2021-laboratory-competence-guide",
+        "title": "Überbrückung globaler Standards: Ein tiefer Einblick in ISO 23162:2021 und Labor-Kompetenz",
+        "url": "/faq/iso-23162-2021-laboratory-competence-guide"
+      },
+      "locale": "de"
+    },
+    {
+      "id": "article-eshre-guidelines-clinical-semen-examination",
+      "src": "/ESHRE.webp",
+      "alt": "ESHRE-Leitlinien Klinische Samenuntersuchung mit CASA-System, Nexus Dx1, ART-Exzellenz, IVF, ICSI und Assistierte Reproduktionstechnologie",
+      "filename": "ESHRE.webp",
+      "type": "article",
+      "associatedContent": {
+        "type": "article",
+        "id": "eshre-guidelines-clinical-semen-examination",
+        "title": "Klinische Exzellenz: ESHRE-Leitlinien für Samenuntersuchung und Patientenmanagement",
+        "url": "/faq/eshre-guidelines-clinical-semen-examination"
+      },
+      "locale": "de"
+    },
+    {
+      "id": "article-asrm-male-infertility-evaluation-protocols",
+      "src": "/ASRM.webp",
+      "alt": "ASRM-Leitlinien Männliche Unfruchtbarkeitsbewertung mit CASA-System, Nexus Dx1, Männliche Unfruchtbarkeitsbewertung, IUI, IVF, ICSI und Klinische Laborstandards",
+      "filename": "ASRM.webp",
+      "type": "article",
+      "associatedContent": {
+        "type": "article",
+        "id": "asrm-male-infertility-evaluation-protocols",
+        "title": "Klinische Integrität: ASRM-Leitlinien für männliche Unfruchtbarkeitsbewertung und Samenanalyse",
+        "url": "/faq/asrm-male-infertility-evaluation-protocols"
+      },
+      "locale": "de"
+    },
+    {
+      "id": "article-faq-bull-breeding-soundness",
+      "src": "/Knowledge Hub/Bull Breeding Soundness Guide/Bull Breeding Soundness Guide.webp",
+      "alt": "Bullen-Zuchttauglichkeitsuntersuchungs-Leitfaden mit SFT Veterinär-Samenanalyse-Richtlinien, CASA-System, Spermienmotilität und eingebauter Heizstufe",
+      "filename": "Bull Breeding Soundness Guide.webp",
+      "type": "article",
+      "associatedContent": {
+        "type": "article",
+        "id": "faq-bull-breeding-soundness",
+        "title": "Der definitive Leitfaden zur Bullen-Zuchttauglichkeitsuntersuchung",
+        "url": "/faq/faq-bull-breeding-soundness"
+      },
+      "locale": "de"
+    },
+    {
+      "id": "article-faq-canine-semen-analysis",
+      "src": "/Knowledge Hub/Canine Semen Analysis Guide/Canine Semen Analysis Guide.webp",
+      "alt": "Canine Samenanalyse-Leitfaden mit SFT Veterinär-Standards, CASA-System, Spermienmotilität, Spermien-Morphologie und eingebauter Heizstufe für Hund-Fertilität",
+      "filename": "Canine Semen Analysis Guide.webp",
+      "type": "article",
+      "associatedContent": {
+        "type": "article",
+        "id": "faq-canine-semen-analysis",
+        "title": "Der professionelle Leitfaden zur caninen Samenanalyse",
+        "url": "/faq/faq-canine-semen-analysis"
+      },
+      "locale": "de"
+    },
+    {
+      "id": "article-faq-poultry-semen-analysis",
+      "src": "/Knowledge Hub/Poultry Semen Analysis Guide/Poultry Semen Analysis Guide.webp",
+      "alt": "Geflügel-Samenanalyse-Leitfaden mit SFT Veterinär-Standards, CASA-System, Spermienmotilität, Spermien-Morphologie und eingebauter Heizstufe für Hahn-Fertilität",
+      "filename": "Poultry Semen Analysis Guide.webp",
+      "type": "article",
+      "associatedContent": {
+        "type": "article",
+        "id": "faq-poultry-semen-analysis",
+        "title": "Der professionelle Leitfaden zur Geflügel-Samenanalyse",
+        "url": "/faq/faq-poultry-semen-analysis"
+      },
+      "locale": "de"
+    },
+    {
+      "id": "article-faq-stallion-semen-analysis",
+      "src": "/Knowledge Hub/Stallion Semen Analysis Guide/Stallion Semen Analysis Guide.webp",
+      "alt": "Hengst-Samenanalyse-Leitfaden mit SFT Veterinär-Standards, CASA-System, Spermienmotilität, Spermien-Morphologie und eingebauter Heizstufe für Equine Zuchttauglichkeit",
+      "filename": "Stallion Semen Analysis Guide.webp",
+      "type": "article",
+      "associatedContent": {
+        "type": "article",
+        "id": "faq-stallion-semen-analysis",
+        "title": "Der professionelle Leitfaden zur Hengst-Samenanalyse",
+        "url": "/faq/faq-stallion-semen-analysis"
+      },
+      "locale": "de"
+    },
+    {
+      "id": "article-faq-camelid-andrology",
+      "src": "/Knowledge Hub/Camelid Andrology Guide/Camelid Andrology Guide.webp",
+      "alt": "Cameliden-Andrologie-Leitfaden mit SFT Veterinär-Standards, CASA-System, Spermienmotilität, Spermien-Morphologie und eingebauter Heizstufe für Kamel-Fertilitätsbewertung",
+      "filename": "Camelid Andrology Guide.webp",
+      "type": "article",
+      "associatedContent": {
+        "type": "article",
+        "id": "faq-camelid-andrology",
+        "title": "Der professionelle Standard für Cameliden-Andrologie",
+        "url": "/faq/faq-camelid-andrology"
+      },
+      "locale": "de"
+    },
+    {
+      "id": "article-faq-fish-semen-analysis",
+      "src": "/Knowledge Hub/Fish Semen Analysis Guide/Fish Semen Analysis Guide.webp",
+      "alt": "Fisch-Samenanalyse-Leitfaden mit SFT Veterinär-Standards, CASA-System, Spermienmotilität, Spermien-Morphologie und eingebauter Heizstufe für Zuchtbestands-Management",
+      "filename": "Fish Semen Analysis Guide.webp",
+      "type": "article",
+      "associatedContent": {
+        "type": "article",
+        "id": "faq-fish-semen-analysis",
+        "title": "Der maßgebliche Leitfaden zur Fisch-Samenanalyse",
+        "url": "/faq/faq-fish-semen-analysis"
+      },
+      "locale": "de"
+    },
+    {
+      "id": "article-faq-ram-breeding-soundness",
+      "src": "/Knowledge Hub/Ram Breeding Soundness Examination (RBSE)/Ram Breeding Soundness Examination (RBSE).webp",
+      "alt": "Widder-Zuchttauglichkeitsuntersuchungs-Leitfaden mit SFT Veterinär-Standards, CASA-System, Spermienmotilität, Spermien-Morphologie und eingebauter Heizstufe für Widder-Fertilitätsbewertung",
+      "filename": "Ram Breeding Soundness Examination (RBSE).webp",
+      "type": "article",
+      "associatedContent": {
+        "type": "article",
+        "id": "faq-ram-breeding-soundness",
+        "title": "Widder-Zuchttauglichkeitsuntersuchung (RBSE)",
+        "url": "/faq/faq-ram-breeding-soundness"
+      },
+      "locale": "de"
+    },
+    {
+      "id": "article-faq-boar-semen-evaluation",
+      "src": "/Knowledge Hub/Boar Semen Evaluation Guide/Boar Semen Evaluation Guide.webp",
+      "alt": "Eber-Samenbewertungs-Leitfaden mit SFT Veterinär-Standards, CASA-System, Spermienmotilität, Spermien-Morphologie und eingebauter Heizstufe für Eber-Zuchttauglichkeitsuntersuchung",
+      "filename": "Boar Semen Evaluation Guide.webp",
+      "type": "article",
+      "associatedContent": {
+        "type": "article",
+        "id": "faq-boar-semen-evaluation",
+        "title": "Eber-Samenbewertung und Verarbeitungsstandards",
+        "url": "/faq/faq-boar-semen-evaluation"
+      },
+      "locale": "de"
+    },
+    {
+      "id": "about-0",
+      "src": "/About%20us%20(1).webp",
+      "alt": "iSperm Medical Team präsentiert vollautomatisches CASA-System und Spermienqualitätsanalysator auf Ausstellung",
+      "filename": "About%20us%20(1).webp",
+      "type": "about",
+      "associatedContent": {
+        "type": "page",
+        "id": "about",
+        "title": "Über iSperm Medical | CASA-System-Hersteller",
+        "url": "/about"
+      },
+      "locale": "de"
+    },
+    {
+      "id": "about-1",
+      "src": "/About%20us%20(2).webp",
+      "alt": "iSperm Medical Fachkräfte diskutieren veterinären Samenanalysator und Tierzuchtlösungen",
+      "filename": "About%20us%20(2).webp",
+      "type": "about",
+      "associatedContent": {
+        "type": "page",
+        "id": "about",
+        "title": "Über iSperm Medical | CASA-System-Hersteller",
+        "url": "/about"
+      },
+      "locale": "de"
+    },
+    {
+      "id": "about-2",
+      "src": "/About%20Us%202.webp",
+      "alt": "iSperm Medical Team und Veranstaltungen präsentieren CASA-Technologie und Lösungen für reproduktive Gesundheit",
+      "filename": "About%20Us%202.webp",
+      "type": "about",
+      "associatedContent": {
+        "type": "page",
+        "id": "about",
+        "title": "Über iSperm Medical | CASA-System-Hersteller",
+        "url": "/about"
+      },
+      "locale": "de"
+    },
+    {
+      "id": "about-3",
+      "src": "/About%20Us%204.webp",
+      "alt": "iSperm Medical Team-Präsentationen und Ausstellungen mit automatisierten Samenanalysesystemen",
+      "filename": "About%20Us%204.webp",
+      "type": "about",
+      "associatedContent": {
+        "type": "page",
+        "id": "about",
+        "title": "Über iSperm Medical | CASA-System-Hersteller",
+        "url": "/about"
+      },
+      "locale": "de"
+    },
+    {
+      "id": "about-4",
+      "src": "/About%20Us%205.webp",
+      "alt": "iSperm Medical Veranstaltungen und Team präsentieren innovative CASA-Systeme und Spermienqualitätsanalysatoren",
+      "filename": "About%20Us%205.webp",
+      "type": "about",
+      "associatedContent": {
+        "type": "page",
+        "id": "about",
+        "title": "Über iSperm Medical | CASA-System-Hersteller",
+        "url": "/about"
+      },
+      "locale": "de"
+    },
+    {
+      "id": "banner-0",
+      "src": "/banner%20(1).webp",
+      "alt": "iSperm Medical - Banner image 1",
+      "filename": "banner%20(1).webp",
+      "type": "banner",
+      "associatedContent": {
+        "type": "page",
+        "id": "home",
+        "title": "iSperm Samenanalysator - Revolutionierung der Samenanalyse",
+        "url": "/"
+      },
+      "locale": "de"
+    },
+    {
+      "id": "banner-1",
+      "src": "/banner%20(2).webp",
+      "alt": "iSperm Medical - Banner image 2",
+      "filename": "banner%20(2).webp",
+      "type": "banner",
+      "associatedContent": {
+        "type": "page",
+        "id": "home",
+        "title": "iSperm Samenanalysator - Revolutionierung der Samenanalyse",
+        "url": "/"
+      },
+      "locale": "de"
+    },
+    {
+      "id": "banner-2",
+      "src": "/banner%20(3).webp",
+      "alt": "iSperm Medical - Banner image 3",
+      "filename": "banner%20(3).webp",
+      "type": "banner",
+      "associatedContent": {
+        "type": "page",
+        "id": "home",
+        "title": "iSperm Samenanalysator - Revolutionierung der Samenanalyse",
+        "url": "/"
+      },
+      "locale": "de"
+    }
+  ],
+  "locale": "de"
+}

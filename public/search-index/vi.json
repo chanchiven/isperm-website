@@ -1,0 +1,714 @@
+{
+  "products": [
+    {
+      "id": "nexus-dx1",
+      "slug": "nexus-dx1",
+      "name": "Nexus Dx1",
+      "description": "Hệ thống CASA tự động hoàn toàn được thiết kế cho sử dụng lâm sàng và phòng thí nghiệm, có thuật toán AI tiên tiến và phân tích tham số toàn diện.",
+      "subtitle": "Hệ thống CASA Người Tự động Hoàn toàn",
+      "images": [
+        "/nexus-dx1-cover.webp",
+        "/nexus-dx1.webp",
+        "/nexus-dx1-2.webp",
+        "/nexus-dx1-3.webp",
+        "/nexus-dx1-4.webp"
+      ],
+      "features": [
+        "Tự động hoàn toàn",
+        "Màn hình cảm ứng",
+        "Bàn gia nhiệt tích hợp",
+        "Hệ thống tất cả trong một độc lập",
+        "Thuật toán AI hình ảnh động Gaussian tiên tiến",
+        "Buồng đếm: 2 buồng Nâng cao/Phủ, độ sâu cố định 10μm",
+        "Nhiều trường quan sát tùy chỉnh, lên đến 1500 tinh trùng mỗi trường quan sát",
+        "Hỗ trợ phát lại video",
+        "Hỗ trợ máy quét mã vạch ngoài",
+        "Trạm làm việc PC",
+        "Phân tích tự động hoàn toàn",
+        "Bàn gia nhiệt tích hợp",
+        "Hỗ trợ trạm làm việc PC"
+      ],
+      "locale": "vi"
+    },
+    {
+      "id": "msqa-100",
+      "slug": "msqa-100",
+      "name": "MSQA-100",
+      "description": "Hệ thống CASA di động, sử dụng tại nhà với khả năng tương thích smartphone, mang lại hiệu suất cấp phòng thí nghiệm trong định dạng nhỏ gọn.",
+      "subtitle": "Máy phân tích Tinh dịch CASA Di động",
+      "images": [
+        "/MSQA-100/msqa-100-cover.webp",
+        "/MSQA-100/msqa-100-1.webp",
+        "/MSQA-100/msqa-100-2.webp"
+      ],
+      "features": [
+        "Tương thích smartphone",
+        "Kiểm soát nhiệt độ tích hợp",
+        "Phân tích AI dựa trên đám mây"
+      ],
+      "locale": "vi"
+    },
+    {
+      "id": "sqa-6100vet",
+      "slug": "sqa-6100vet",
+      "name": "SQA-6100vet",
+      "description": "Hệ thống CASA tự động hoàn toàn cách mạng cho đánh giá sinh sản động vật, hỗ trợ phân tích đa loài với khả năng thực địa di động.",
+      "subtitle": "Hệ thống CASA Thú y Tự động Hoàn toàn",
+      "images": [
+        "/sqa-6100vet-cover.webp",
+        "/sqa-6100vet-1.webp",
+        "/sqa-6100vet-2.webp"
+      ],
+      "features": [
+        "Tự động hoàn toàn",
+        "Màn hình cảm ứng",
+        "Bàn gia nhiệt tích hợp",
+        "Hệ thống tất cả trong một độc lập",
+        "Thuật toán AI hình ảnh động Gaussian tiên tiến",
+        "Buồng đếm: 6 buồng Nâng cao/Phủ, độ sâu cố định 20μm",
+        "Nhanh như thời gian phân tích 15 giây, nhiều trường quan sát có thể chọn",
+        "Hỗ trợ phát lại video",
+        "Hỗ trợ máy quét mã vạch ngoài",
+        "Trạm làm việc PC",
+        "Hỗ trợ đa loài",
+        "Hỗ trợ đa loài",
+        "Thời gian phân tích 15 giây",
+        "Thiết kế tất cả trong một di động"
+      ],
+      "locale": "vi"
+    }
+  ],
+  "articles": [
+    {
+      "id": "faq-human-semen-standards",
+      "slug": "faq-human-semen-standards",
+      "title": "Tiêu chuẩn Toàn cầu cho Phân tích Tinh dịch Người",
+      "subtitle": "Hướng dẫn So sánh (WHO phiên bản thứ 6, ISO 23162, ESHRE, & ASRM)",
+      "content": "Năm 2021, bối cảnh nam khoa người được định nghĩa lại bởi việc phát hành kép của Sổ tay WHO Phiên bản thứ 6 và tiêu chuẩn ISO 23162:2021. Các tài liệu này đã đưa lĩnh vực hướng tới chuẩn hóa nghiêm ngặt, nhấn mạnh rằng độ chính xác chỉ có thể đạt được thông qua kiểm soát chất lượng nghiêm ngặt và giảm tính chủ quan của con người. 1. Giai đoạn Tiền phân tích: Cơ sở Chất lượng Chuẩn hóa bắt đầu trước khi mẫu đến kính hiển vi. Cả WHO phiên bản thứ 6 và ISO 23162 đều nhấn mạnh rằng các biến tiền phâ",
+      "image": "/Knowledge Hub/Human Semen Analysis Standards/Human Semen Analysis Standards.webp",
+      "alt": "Hướng dẫn Tiêu chuẩn Phân tích Tinh dịch WHO Phiên bản thứ 6 với hệ thống CASA, Khả năng Vận động Tinh trùng, Hình thái Tinh trùng, và Bàn gia nhiệt tích hợp cho nam khoa người",
+      "category": "human",
+      "locale": "vi"
+    },
+    {
+      "id": "who-6th-edition-semen-analysis-standards",
+      "slug": "who-6th-edition-semen-analysis-standards",
+      "title": "Xuất sắc trong Phân tích Tinh dịch: Hướng dẫn Toàn diện về Tiêu chuẩn WHO Phiên bản thứ 6 và Công nghệ CASA",
+      "subtitle": "Nắm vững tiêu chuẩn WHO Phiên bản thứ 6 với công nghệ CASA tiên tiến để đánh giá khả năng sinh sản nam chính xác",
+      "content": "Trong lĩnh vực y học sinh sản, phân tích tinh dịch vẫn là nền tảng của đánh giá khả năng sinh sản nam. Với việc phát hành WHO Phiên bản thứ 6 (2021), ngành công nghiệp đã chuyển hướng sang độ chính xác cao hơn, kiểm soát chất lượng nghiêm ngặt hơn, và tích hợp các hệ thống Phân tích Tinh trùng Hỗ trợ Máy tính (CASA) tiên tiến. Bài viết này khám phá sự tiến hóa của các tiêu chuẩn này và các yêu cầu kỹ thuật cho chẩn đoán lâm sàng hiện đại. Chương 1: Vai trò của CASA trong Nam khoa Hiện đại Kính h",
+      "image": "/WHO6.webp",
+      "alt": "Hướng dẫn Tiêu chuẩn Phân tích Tinh dịch WHO Phiên bản thứ 6 với hệ thống CASA, Nexus Dx1, Khả năng Vận động Tinh trùng, Hình thái Tinh trùng, và Bàn gia nhiệt tích hợp",
+      "category": "human",
+      "locale": "vi"
+    },
+    {
+      "id": "iso-23162-2021-laboratory-competence-guide",
+      "slug": "iso-23162-2021-laboratory-competence-guide",
+      "title": "Kết nối Tiêu chuẩn Toàn cầu: Tìm hiểu Sâu về ISO 23162:2021 và Năng lực Phòng thí nghiệm",
+      "subtitle": "Nắm vững yêu cầu kỹ thuật ISO 23162:2021 và khung quản lý chất lượng cho kết quả kiểm tra tinh dịch có thể so sánh toàn cầu",
+      "content": "Bài viết này tập trung vào ISO 23162:2021, tiêu chuẩn quốc tế quy định các yêu cầu và phương pháp kiểm tra cho kiểm tra tinh dịch người cơ bản. Trong khi WHO Phiên bản thứ 6 cung cấp sổ tay lâm sàng, ISO 23162 cung cấp khung kỹ thuật và quản lý chất lượng cho các phòng thí nghiệm để đảm bảo kết quả của họ có thể so sánh toàn cầu. Việc phát hành ISO 23162:2021 đánh dấu một cột mốc trong y học sinh sản, là tiêu chuẩn quốc tế đầu tiên dành riêng cho kiểm tra tinh dịch cơ bản. Đối với các phòng khám",
+      "image": "/ISO.webp",
+      "alt": "Hướng dẫn Năng lực Phòng thí nghiệm ISO 23162:2021 với hệ thống CASA, Nexus Dx1, Yêu cầu kiểm tra tinh dịch, Kiểm soát chất lượng, và Tiêu chuẩn phòng thí nghiệm",
+      "category": "human",
+      "locale": "vi"
+    },
+    {
+      "id": "eshre-guidelines-clinical-semen-examination",
+      "slug": "eshre-guidelines-clinical-semen-examination",
+      "title": "Xuất sắc Lâm sàng: Hướng dẫn ESHRE cho Kiểm tra Tinh dịch và Quản lý Bệnh nhân",
+      "subtitle": "Hướng dẫn ESHRE dựa trên bằng chứng kết nối kết quả phòng thí nghiệm và quyết định lâm sàng cho kết quả ART tối ưu",
+      "content": "Trong khi Sổ tay WHO cung cấp \"cách làm\" và ISO 23162 cung cấp \"thông số kỹ thuật\", ESHRE tập trung vào Tiêu chuẩn Chăm sóc—cách các chẩn đoán này nên được tích hợp vào thực hành lâm sàng để cải thiện kết quả trong Công nghệ Hỗ trợ Sinh sản (ART). Là cơ quan hàng đầu trong y học sinh sản châu Âu, ESHRE cung cấp các hướng dẫn dựa trên bằng chứng kết nối khoảng cách giữa kết quả phòng thí nghiệm và quyết định lâm sàng. Đối với các phòng khám khả năng sinh sản hiện đại, tuân thủ các khuyến nghị ESH",
+      "image": "/ESHRE.webp",
+      "alt": "Hướng dẫn Kiểm tra Tinh dịch Lâm sàng ESHRE với hệ thống CASA, Nexus Dx1, Xuất sắc ART, IVF, ICSI, và Công nghệ Hỗ trợ Sinh sản",
+      "category": "human",
+      "locale": "vi"
+    },
+    {
+      "id": "asrm-male-infertility-evaluation-protocols",
+      "slug": "asrm-male-infertility-evaluation-protocols",
+      "title": "Tính toàn vẹn Lâm sàng: Hướng dẫn ASRM cho Đánh giá Vô sinh Nam và Phân tích Tinh dịch",
+      "subtitle": "Giao thức ASRM dựa trên bằng chứng tích hợp phân tích tinh dịch vào chẩn đoán và con đường điều trị vô sinh nam toàn diện",
+      "content": "Trong khi Sổ tay WHO cung cấp \"cách làm\" và ISO 23162 cung cấp \"tiêu chuẩn kỹ thuật\", ASRM tập trung vào Con đường Lâm sàng—hướng dẫn cách kết quả phân tích tinh dịch nên hướng dẫn công việc chẩn đoán và điều trị nam giới vô sinh trong môi trường lâm sàng. Là cơ quan hàng đầu về y học sinh sản ở Hoa Kỳ, ASRM thiết lập các giao thức dựa trên bằng chứng định nghĩa chăm sóc khả năng sinh sản hiện đại. Đối với các bác sĩ lâm sàng và giám đốc phòng thí nghiệm, tuân theo ý kiến ủy ban ASRM đảm bảo rằn",
+      "image": "/ASRM.webp",
+      "alt": "Giao thức Đánh giá Vô sinh Nam ASRM với hệ thống CASA, Nexus Dx1, Đánh giá vô sinh nam, IUI, IVF, ICSI, và Tiêu chuẩn Phòng thí nghiệm Lâm sàng",
+      "category": "human",
+      "locale": "vi"
+    },
+    {
+      "id": "faq-bull-breeding-soundness",
+      "slug": "faq-bull-breeding-soundness",
+      "title": "Hướng dẫn Xác định về Sức khỏe Sinh sản Bò đực",
+      "subtitle": "Tiêu chuẩn Lâm sàng & Phương pháp Hiện đại",
+      "content": "Hướng dẫn toàn diện này cung cấp cho các chuyên gia thú y và nhà sản xuất các tiêu chuẩn lâm sàng và phương pháp hiện đại cần thiết để thực hiện Kiểm tra Sức khỏe Sinh sản Bò đực (BSE) hoàn chỉnh theo hướng dẫn của Hiệp hội Theriogenology (SFT). Chương 1: Đánh giá Sinh học-Hành vi của Bò đực Trong thực hành lâm sàng của chúng tôi như các nhà nam khoa, chúng tôi thường nhắc nhở các nhà sản xuất rằng giá trị của một con bò đực không được tìm thấy trong ống nghiệm, mà ở khả năng phục vụ một con bò ",
+      "image": "/Knowledge Hub/Bull Breeding Soundness Guide/Bull Breeding Soundness Guide.webp",
+      "alt": "Hướng dẫn Kiểm tra Sức khỏe Sinh sản Bò đực với Hướng dẫn Phân tích Tinh dịch Thú y SFT, hệ thống CASA, Khả năng Vận động Tinh trùng, và Bàn gia nhiệt tích hợp",
+      "category": "veterinary",
+      "locale": "vi"
+    },
+    {
+      "id": "faq-canine-semen-analysis",
+      "slug": "faq-canine-semen-analysis",
+      "title": "Hướng dẫn Chuyên nghiệp về Phân tích Tinh dịch Chó",
+      "subtitle": "Tiêu chuẩn Lâm sàng cho Khả năng Sinh sản và Tính toàn vẹn Sinh sản của Chó",
+      "content": "Hướng dẫn toàn diện này cung cấp cho các chuyên gia thú y và nhà nhân giống các tiêu chuẩn lâm sàng và phương pháp cần thiết để thực hiện Kiểm tra Sức khỏe Sinh sản Chó (BSE) và phân tích tinh dịch hoàn chỉnh. Chương 1: Lựa chọn và Chu kỳ Sinh sản Đánh giá một con chó đực bắt đầu với gia phả và lịch sử phát triển của nó. Trong nam khoa chó, tuổi dậy thì thường xảy ra từ 6 đến 12 tháng, tùy thuộc vào giống (các giống lớn hơn thường trưởng thành muộn hơn). Tuy nhiên, chúng tôi thường khuyến nghị r",
+      "image": "/Knowledge Hub/Canine Semen Analysis Guide/Canine Semen Analysis Guide.webp",
+      "alt": "Hướng dẫn Phân tích Tinh dịch Chó với tiêu chuẩn Thú y SFT, hệ thống CASA, Khả năng Vận động Tinh trùng, Hình thái Tinh trùng, và Bàn gia nhiệt tích hợp cho khả năng sinh sản chó",
+      "category": "veterinary",
+      "locale": "vi"
+    },
+    {
+      "id": "faq-poultry-semen-analysis",
+      "slug": "faq-poultry-semen-analysis",
+      "title": "Hướng dẫn Chuyên nghiệp về Phân tích Tinh dịch Gia cầm",
+      "subtitle": "Tiêu chuẩn Lâm sàng cho Khả năng Sinh sản Gà trống",
+      "content": "Trong ngành công nghiệp gia cầm, cụ thể cho gà thịt và gà đẻ, đánh giá khả năng sinh sản của gà trống là nền tảng của thành công trại ấp và thay thế đàn. Không giống như động vật có vú, không có \"Sổ tay SFT\" duy nhất cho gia cầm; thay vào đó, các tiêu chuẩn được quản lý bởi hướng dẫn của Hiệp hội Khoa học Gia cầm Thế giới (WPSA), giao thức FAO cho Tài nguyên Di truyền Động vật, và sổ tay kỹ thuật của các nhà nhân giống chính (như Aviagen và Cobb). Chương 1: Lựa chọn và Hiệu suất Di truyền của Bò",
+      "image": "/Knowledge Hub/Poultry Semen Analysis Guide/Poultry Semen Analysis Guide.webp",
+      "alt": "Hướng dẫn Phân tích Tinh dịch Gia cầm với tiêu chuẩn Thú y SFT, hệ thống CASA, Khả năng Vận động Tinh trùng, Hình thái Tinh trùng, và Bàn gia nhiệt tích hợp cho khả năng sinh sản gà trống",
+      "category": "veterinary",
+      "locale": "vi"
+    },
+    {
+      "id": "faq-stallion-semen-analysis",
+      "slug": "faq-stallion-semen-analysis",
+      "title": "Hướng dẫn Chuyên nghiệp về Phân tích Tinh dịch Ngựa đực",
+      "subtitle": "Tiêu chuẩn Lâm sàng cho Sức khỏe Sinh sản Ngựa (EBSE)",
+      "content": "Hướng dẫn toàn diện này cung cấp cho các chuyên gia thú y và nhà nhân giống các tiêu chuẩn lâm sàng và phương pháp cần thiết để thực hiện Đánh giá Sức khỏe Sinh sản Ngựa (EBSE) và phân tích tinh dịch hoàn chỉnh. Chương 1: Lựa chọn Ngựa đực và Hành vi Sinh sản Đánh giá một con ngựa đực bắt đầu với gia phả di truyền của nó và đánh giá kỹ lưỡng về hành vi sinh sản. Trong ngành công nghiệp ngựa, một con ngựa đực phải sở hữu ham muốn tình dục mạnh mẽ, có thể kiểm soát. Chúng tôi đánh giá phản ứng của",
+      "image": "/Knowledge Hub/Stallion Semen Analysis Guide/Stallion Semen Analysis Guide.webp",
+      "alt": "Hướng dẫn Phân tích Tinh dịch Ngựa đực với tiêu chuẩn Thú y SFT, hệ thống CASA, Khả năng Vận động Tinh trùng, Hình thái Tinh trùng, và Bàn gia nhiệt tích hợp cho sức khỏe sinh sản ngựa",
+      "category": "veterinary",
+      "locale": "vi"
+    },
+    {
+      "id": "faq-camelid-andrology",
+      "slug": "faq-camelid-andrology",
+      "title": "Tiêu chuẩn Chuyên nghiệp cho Nam khoa Lạc đà",
+      "subtitle": "Hướng dẫn Đánh giá Lâm sàng & Phân tích Kỹ thuật số cho Khả năng Sinh sản Lạc đà",
+      "content": "Nam khoa lạc đà là một trong những lĩnh vực thách thức và chuyên biệt nhất trong sinh sản thú y. Cho dù xử lý Lạc đà một bướu (Dromedary) hay Lạc đà hai bướu (Bactrian), các đặc điểm sinh lý độc đáo của những \"con tàu sa mạc\" này—đặc biệt là tính mùa vụ dữ dội và độ nhớt cực cao của tinh dịch của chúng—yêu cầu một cách tiếp cận chẩn đoán chuyên biệt. Chương 1: Tính mùa vụ và Sinh lý của \"Rut\" Trong sinh sản lạc đà, tính mùa vụ là yếu tố bao trùm quyết định mọi kết quả lâm sàng. Lạc đà là nhà nhâ",
+      "image": "/Knowledge Hub/Camelid Andrology Guide/Camelid Andrology Guide.webp",
+      "alt": "Hướng dẫn Nam khoa Lạc đà với tiêu chuẩn Thú y SFT, hệ thống CASA, Khả năng Vận động Tinh trùng, Hình thái Tinh trùng, và Bàn gia nhiệt tích hợp cho đánh giá khả năng sinh sản lạc đà",
+      "category": "veterinary",
+      "locale": "vi"
+    },
+    {
+      "id": "faq-fish-semen-analysis",
+      "slug": "faq-fish-semen-analysis",
+      "title": "Hướng dẫn Có thẩm quyền về Phân tích Tinh dịch Cá",
+      "subtitle": "Tiêu chuẩn Lâm sàng cho Quản lý Bố mẹ và Thành công Sinh sản",
+      "content": "Nền tảng của một trại ấp thành công nằm ở việc lựa chọn \"Bố mẹ\". Không giống như động vật có vú, khả năng sinh sản của cá gắn liền sâu sắc với chu kỳ môi trường và trưởng thành theo tuổi. Hướng dẫn toàn diện này giải quyết các thách thức độc đáo của phân tích tinh dịch cá và quản lý bố mẹ. Chương 1: Lựa chọn và Quản lý Bố mẹ Đực Chúng tôi đánh giá các bò đực dựa trên \"Sẵn sàng Kiểu hình\" của chúng—các chỉ số như đặc điểm tình dục thứ cấp (ví dụ: cục nhân giống ở cá chép hoặc phát triển kype ở cá",
+      "image": "/Knowledge Hub/Fish Semen Analysis Guide/Fish Semen Analysis Guide.webp",
+      "alt": "Hướng dẫn Phân tích Tinh dịch Cá với tiêu chuẩn Thú y SFT, hệ thống CASA, Khả năng Vận động Tinh trùng, Hình thái Tinh trùng, và Bàn gia nhiệt tích hợp cho quản lý bố mẹ",
+      "category": "veterinary",
+      "locale": "vi"
+    },
+    {
+      "id": "faq-ram-breeding-soundness",
+      "slug": "faq-ram-breeding-soundness",
+      "title": "Kiểm tra Sức khỏe Sinh sản Cừu đực (RBSE)",
+      "subtitle": "Tiêu chuẩn Lâm sàng cho Đánh giá Khả năng Sinh sản Cừu đực",
+      "content": "Một trong những yếu tố quan trọng nhất trong khả năng sinh sản cừu đực phân biệt nó với các gia súc khác là tính mùa vụ dữ dội của nó. Cừu đực là nhà nhân giống \"ngày ngắn\"; hệ thống nội tiết sinh sản của chúng được quản lý bởi quang kỳ. Hướng dẫn toàn diện này cung cấp cho các chuyên gia thú y và nhà sản xuất các tiêu chuẩn lâm sàng cần thiết để thực hiện Kiểm tra Sức khỏe Sinh sản Cừu đực (RBSE) hoàn chỉnh. Chương 1: Tính mùa vụ, Quang kỳ và Tuổi dậy thì Khi độ dài ngày giảm vào mùa thu, sản x",
+      "image": "/Knowledge Hub/Ram Breeding Soundness Examination (RBSE)/Ram Breeding Soundness Examination (RBSE).webp",
+      "alt": "Hướng dẫn Kiểm tra Sức khỏe Sinh sản Cừu đực với tiêu chuẩn Thú y SFT, hệ thống CASA, Khả năng Vận động Tinh trùng, Hình thái Tinh trùng, và Bàn gia nhiệt tích hợp cho đánh giá khả năng sinh sản cừu đực",
+      "category": "veterinary",
+      "locale": "vi"
+    },
+    {
+      "id": "faq-boar-semen-evaluation",
+      "slug": "faq-boar-semen-evaluation",
+      "title": "Tiêu chuẩn Đánh giá và Xử lý Tinh dịch Lợn đực",
+      "subtitle": "Kiểm tra Sức khỏe Sinh sản Lợn đực (BBSE)",
+      "content": "Hành trình của một bò đực hiệu suất cao bắt đầu với lựa chọn. Không giống như gia súc, nơi phục vụ tự nhiên vẫn phổ biến, lợn đực hiện đại gần như độc quyền là người cho Thụ tinh Nhân tạo (AI). Hướng dẫn toàn diện này cung cấp cho các chuyên gia thú y và nhà sản xuất các tiêu chuẩn lâm sàng cần thiết để thực hiện Kiểm tra Sức khỏe Sinh sản Lợn đực (BBSE) và đánh giá tinh dịch hoàn chỉnh. Chương 1: Lựa chọn và Tuổi dậy thì — Nền tảng Di truyền Chúng tôi ưu tiên lựa chọn dựa trên ba trụ cột: giá t",
+      "image": "/Knowledge Hub/Boar Semen Evaluation Guide/Boar Semen Evaluation Guide.webp",
+      "alt": "Hướng dẫn Đánh giá Tinh dịch Lợn đực với tiêu chuẩn Thú y SFT, hệ thống CASA, Khả năng Vận động Tinh trùng, Hình thái Tinh trùng, và Bàn gia nhiệt tích hợp cho kiểm tra sức khỏe sinh sản lợn đực",
+      "category": "veterinary",
+      "locale": "vi"
+    }
+  ],
+  "pages": [
+    {
+      "id": "home",
+      "path": "/",
+      "title": "iSperm Máy phân tích tinh dịch - Cách mạng hóa Phân tích Tinh dịch",
+      "description": "Hệ thống phân tích tinh dịch tự động hoàn toàn được thiết kế cho sử dụng lâm sàng và chăn nuôi động vật, có các thuật toán AI tiên tiến.",
+      "locale": "vi"
+    },
+    {
+      "id": "about",
+      "path": "/about",
+      "title": "Về iSperm Medical | Nhà sản xuất Hệ thống CASA",
+      "description": "Nhà sản xuất hệ thống CASA & máy phân tích tinh dịch hàng đầu. Máy phân tích hình thái tinh trùng tuân thủ WHO phiên bản thứ 6 cho sử dụng ở người & thú y từ năm 2010.",
+      "locale": "vi"
+    },
+    {
+      "id": "contact",
+      "path": "/contact",
+      "title": "Liên hệ iSperm Medical | Hỗ trợ Hệ thống CASA",
+      "description": "Liên hệ nhà sản xuất hệ thống CASA & máy phân tích tinh dịch hàng đầu. Nhận hỗ trợ cho máy phân tích hình thái tinh trùng tuân thủ WHO phiên bản thứ 6.",
+      "locale": "vi"
+    },
+    {
+      "id": "products",
+      "path": "/products",
+      "title": "Hệ thống CASA & Máy phân tích Tinh dịch | iSperm Medical",
+      "description": "Khám phá hệ thống CASA & máy phân tích hình thái tinh trùng của chúng tôi cho sử dụng ở người & thú y. Giải pháp máy phân tích tinh dịch tuân thủ WHO phiên bản thứ 6.",
+      "locale": "vi"
+    },
+    {
+      "id": "faq",
+      "path": "/faq",
+      "title": "Trung tâm Kiến thức | Câu hỏi Thường gặp về Hệ thống CASA | iSperm Medical",
+      "description": "Câu hỏi thường gặp toàn diện về hệ thống CASA, hướng dẫn WHO phiên bản thứ 6, và tài nguyên phân tích tinh dịch. Hiểu biết chuyên gia về máy phân tích hình thái tinh trùng.",
+      "locale": "vi"
+    }
+  ],
+  "images": [
+    {
+      "id": "nexus-dx1-0",
+      "src": "/nexus-dx1-cover.webp",
+      "alt": "Nexus Dx1 - Product image 1",
+      "filename": "nexus-dx1-cover.webp",
+      "type": "product",
+      "associatedContent": {
+        "type": "product",
+        "id": "nexus-dx1",
+        "title": "Nexus Dx1",
+        "url": "/products/nexus-dx1"
+      },
+      "locale": "vi"
+    },
+    {
+      "id": "nexus-dx1-1",
+      "src": "/nexus-dx1.webp",
+      "alt": "Nexus Dx1 - Product image 2",
+      "filename": "nexus-dx1.webp",
+      "type": "product",
+      "associatedContent": {
+        "type": "product",
+        "id": "nexus-dx1",
+        "title": "Nexus Dx1",
+        "url": "/products/nexus-dx1"
+      },
+      "locale": "vi"
+    },
+    {
+      "id": "nexus-dx1-2",
+      "src": "/nexus-dx1-2.webp",
+      "alt": "Nexus Dx1 - Product image 3",
+      "filename": "nexus-dx1-2.webp",
+      "type": "product",
+      "associatedContent": {
+        "type": "product",
+        "id": "nexus-dx1",
+        "title": "Nexus Dx1",
+        "url": "/products/nexus-dx1"
+      },
+      "locale": "vi"
+    },
+    {
+      "id": "nexus-dx1-3",
+      "src": "/nexus-dx1-3.webp",
+      "alt": "Nexus Dx1 - Product image 4",
+      "filename": "nexus-dx1-3.webp",
+      "type": "product",
+      "associatedContent": {
+        "type": "product",
+        "id": "nexus-dx1",
+        "title": "Nexus Dx1",
+        "url": "/products/nexus-dx1"
+      },
+      "locale": "vi"
+    },
+    {
+      "id": "nexus-dx1-4",
+      "src": "/nexus-dx1-4.webp",
+      "alt": "Nexus Dx1 - Product image 5",
+      "filename": "nexus-dx1-4.webp",
+      "type": "product",
+      "associatedContent": {
+        "type": "product",
+        "id": "nexus-dx1",
+        "title": "Nexus Dx1",
+        "url": "/products/nexus-dx1"
+      },
+      "locale": "vi"
+    },
+    {
+      "id": "msqa-100-0",
+      "src": "/MSQA-100/msqa-100-cover.webp",
+      "alt": "MSQA-100 - Product image 1",
+      "filename": "msqa-100-cover.webp",
+      "type": "product",
+      "associatedContent": {
+        "type": "product",
+        "id": "msqa-100",
+        "title": "MSQA-100",
+        "url": "/products/msqa-100"
+      },
+      "locale": "vi"
+    },
+    {
+      "id": "msqa-100-1",
+      "src": "/MSQA-100/msqa-100-1.webp",
+      "alt": "MSQA-100 - Product image 2",
+      "filename": "msqa-100-1.webp",
+      "type": "product",
+      "associatedContent": {
+        "type": "product",
+        "id": "msqa-100",
+        "title": "MSQA-100",
+        "url": "/products/msqa-100"
+      },
+      "locale": "vi"
+    },
+    {
+      "id": "msqa-100-2",
+      "src": "/MSQA-100/msqa-100-2.webp",
+      "alt": "MSQA-100 - Product image 3",
+      "filename": "msqa-100-2.webp",
+      "type": "product",
+      "associatedContent": {
+        "type": "product",
+        "id": "msqa-100",
+        "title": "MSQA-100",
+        "url": "/products/msqa-100"
+      },
+      "locale": "vi"
+    },
+    {
+      "id": "sqa-6100vet-0",
+      "src": "/sqa-6100vet-cover.webp",
+      "alt": "SQA-6100vet - Product image 1",
+      "filename": "sqa-6100vet-cover.webp",
+      "type": "product",
+      "associatedContent": {
+        "type": "product",
+        "id": "sqa-6100vet",
+        "title": "SQA-6100vet",
+        "url": "/products/sqa-6100vet"
+      },
+      "locale": "vi"
+    },
+    {
+      "id": "sqa-6100vet-1",
+      "src": "/sqa-6100vet-1.webp",
+      "alt": "SQA-6100vet - Product image 2",
+      "filename": "sqa-6100vet-1.webp",
+      "type": "product",
+      "associatedContent": {
+        "type": "product",
+        "id": "sqa-6100vet",
+        "title": "SQA-6100vet",
+        "url": "/products/sqa-6100vet"
+      },
+      "locale": "vi"
+    },
+    {
+      "id": "sqa-6100vet-2",
+      "src": "/sqa-6100vet-2.webp",
+      "alt": "SQA-6100vet - Product image 3",
+      "filename": "sqa-6100vet-2.webp",
+      "type": "product",
+      "associatedContent": {
+        "type": "product",
+        "id": "sqa-6100vet",
+        "title": "SQA-6100vet",
+        "url": "/products/sqa-6100vet"
+      },
+      "locale": "vi"
+    },
+    {
+      "id": "article-faq-human-semen-standards",
+      "src": "/Knowledge Hub/Human Semen Analysis Standards/Human Semen Analysis Standards.webp",
+      "alt": "Hướng dẫn Tiêu chuẩn Phân tích Tinh dịch WHO Phiên bản thứ 6 với hệ thống CASA, Khả năng Vận động Tinh trùng, Hình thái Tinh trùng, và Bàn gia nhiệt tích hợp cho nam khoa người",
+      "filename": "Human Semen Analysis Standards.webp",
+      "type": "article",
+      "associatedContent": {
+        "type": "article",
+        "id": "faq-human-semen-standards",
+        "title": "Tiêu chuẩn Toàn cầu cho Phân tích Tinh dịch Người",
+        "url": "/faq/faq-human-semen-standards"
+      },
+      "locale": "vi"
+    },
+    {
+      "id": "article-who-6th-edition-semen-analysis-standards",
+      "src": "/WHO6.webp",
+      "alt": "Hướng dẫn Tiêu chuẩn Phân tích Tinh dịch WHO Phiên bản thứ 6 với hệ thống CASA, Nexus Dx1, Khả năng Vận động Tinh trùng, Hình thái Tinh trùng, và Bàn gia nhiệt tích hợp",
+      "filename": "WHO6.webp",
+      "type": "article",
+      "associatedContent": {
+        "type": "article",
+        "id": "who-6th-edition-semen-analysis-standards",
+        "title": "Xuất sắc trong Phân tích Tinh dịch: Hướng dẫn Toàn diện về Tiêu chuẩn WHO Phiên bản thứ 6 và Công nghệ CASA",
+        "url": "/faq/who-6th-edition-semen-analysis-standards"
+      },
+      "locale": "vi"
+    },
+    {
+      "id": "article-iso-23162-2021-laboratory-competence-guide",
+      "src": "/ISO.webp",
+      "alt": "Hướng dẫn Năng lực Phòng thí nghiệm ISO 23162:2021 với hệ thống CASA, Nexus Dx1, Yêu cầu kiểm tra tinh dịch, Kiểm soát chất lượng, và Tiêu chuẩn phòng thí nghiệm",
+      "filename": "ISO.webp",
+      "type": "article",
+      "associatedContent": {
+        "type": "article",
+        "id": "iso-23162-2021-laboratory-competence-guide",
+        "title": "Kết nối Tiêu chuẩn Toàn cầu: Tìm hiểu Sâu về ISO 23162:2021 và Năng lực Phòng thí nghiệm",
+        "url": "/faq/iso-23162-2021-laboratory-competence-guide"
+      },
+      "locale": "vi"
+    },
+    {
+      "id": "article-eshre-guidelines-clinical-semen-examination",
+      "src": "/ESHRE.webp",
+      "alt": "Hướng dẫn Kiểm tra Tinh dịch Lâm sàng ESHRE với hệ thống CASA, Nexus Dx1, Xuất sắc ART, IVF, ICSI, và Công nghệ Hỗ trợ Sinh sản",
+      "filename": "ESHRE.webp",
+      "type": "article",
+      "associatedContent": {
+        "type": "article",
+        "id": "eshre-guidelines-clinical-semen-examination",
+        "title": "Xuất sắc Lâm sàng: Hướng dẫn ESHRE cho Kiểm tra Tinh dịch và Quản lý Bệnh nhân",
+        "url": "/faq/eshre-guidelines-clinical-semen-examination"
+      },
+      "locale": "vi"
+    },
+    {
+      "id": "article-asrm-male-infertility-evaluation-protocols",
+      "src": "/ASRM.webp",
+      "alt": "Giao thức Đánh giá Vô sinh Nam ASRM với hệ thống CASA, Nexus Dx1, Đánh giá vô sinh nam, IUI, IVF, ICSI, và Tiêu chuẩn Phòng thí nghiệm Lâm sàng",
+      "filename": "ASRM.webp",
+      "type": "article",
+      "associatedContent": {
+        "type": "article",
+        "id": "asrm-male-infertility-evaluation-protocols",
+        "title": "Tính toàn vẹn Lâm sàng: Hướng dẫn ASRM cho Đánh giá Vô sinh Nam và Phân tích Tinh dịch",
+        "url": "/faq/asrm-male-infertility-evaluation-protocols"
+      },
+      "locale": "vi"
+    },
+    {
+      "id": "article-faq-bull-breeding-soundness",
+      "src": "/Knowledge Hub/Bull Breeding Soundness Guide/Bull Breeding Soundness Guide.webp",
+      "alt": "Hướng dẫn Kiểm tra Sức khỏe Sinh sản Bò đực với Hướng dẫn Phân tích Tinh dịch Thú y SFT, hệ thống CASA, Khả năng Vận động Tinh trùng, và Bàn gia nhiệt tích hợp",
+      "filename": "Bull Breeding Soundness Guide.webp",
+      "type": "article",
+      "associatedContent": {
+        "type": "article",
+        "id": "faq-bull-breeding-soundness",
+        "title": "Hướng dẫn Xác định về Sức khỏe Sinh sản Bò đực",
+        "url": "/faq/faq-bull-breeding-soundness"
+      },
+      "locale": "vi"
+    },
+    {
+      "id": "article-faq-canine-semen-analysis",
+      "src": "/Knowledge Hub/Canine Semen Analysis Guide/Canine Semen Analysis Guide.webp",
+      "alt": "Hướng dẫn Phân tích Tinh dịch Chó với tiêu chuẩn Thú y SFT, hệ thống CASA, Khả năng Vận động Tinh trùng, Hình thái Tinh trùng, và Bàn gia nhiệt tích hợp cho khả năng sinh sản chó",
+      "filename": "Canine Semen Analysis Guide.webp",
+      "type": "article",
+      "associatedContent": {
+        "type": "article",
+        "id": "faq-canine-semen-analysis",
+        "title": "Hướng dẫn Chuyên nghiệp về Phân tích Tinh dịch Chó",
+        "url": "/faq/faq-canine-semen-analysis"
+      },
+      "locale": "vi"
+    },
+    {
+      "id": "article-faq-poultry-semen-analysis",
+      "src": "/Knowledge Hub/Poultry Semen Analysis Guide/Poultry Semen Analysis Guide.webp",
+      "alt": "Hướng dẫn Phân tích Tinh dịch Gia cầm với tiêu chuẩn Thú y SFT, hệ thống CASA, Khả năng Vận động Tinh trùng, Hình thái Tinh trùng, và Bàn gia nhiệt tích hợp cho khả năng sinh sản gà trống",
+      "filename": "Poultry Semen Analysis Guide.webp",
+      "type": "article",
+      "associatedContent": {
+        "type": "article",
+        "id": "faq-poultry-semen-analysis",
+        "title": "Hướng dẫn Chuyên nghiệp về Phân tích Tinh dịch Gia cầm",
+        "url": "/faq/faq-poultry-semen-analysis"
+      },
+      "locale": "vi"
+    },
+    {
+      "id": "article-faq-stallion-semen-analysis",
+      "src": "/Knowledge Hub/Stallion Semen Analysis Guide/Stallion Semen Analysis Guide.webp",
+      "alt": "Hướng dẫn Phân tích Tinh dịch Ngựa đực với tiêu chuẩn Thú y SFT, hệ thống CASA, Khả năng Vận động Tinh trùng, Hình thái Tinh trùng, và Bàn gia nhiệt tích hợp cho sức khỏe sinh sản ngựa",
+      "filename": "Stallion Semen Analysis Guide.webp",
+      "type": "article",
+      "associatedContent": {
+        "type": "article",
+        "id": "faq-stallion-semen-analysis",
+        "title": "Hướng dẫn Chuyên nghiệp về Phân tích Tinh dịch Ngựa đực",
+        "url": "/faq/faq-stallion-semen-analysis"
+      },
+      "locale": "vi"
+    },
+    {
+      "id": "article-faq-camelid-andrology",
+      "src": "/Knowledge Hub/Camelid Andrology Guide/Camelid Andrology Guide.webp",
+      "alt": "Hướng dẫn Nam khoa Lạc đà với tiêu chuẩn Thú y SFT, hệ thống CASA, Khả năng Vận động Tinh trùng, Hình thái Tinh trùng, và Bàn gia nhiệt tích hợp cho đánh giá khả năng sinh sản lạc đà",
+      "filename": "Camelid Andrology Guide.webp",
+      "type": "article",
+      "associatedContent": {
+        "type": "article",
+        "id": "faq-camelid-andrology",
+        "title": "Tiêu chuẩn Chuyên nghiệp cho Nam khoa Lạc đà",
+        "url": "/faq/faq-camelid-andrology"
+      },
+      "locale": "vi"
+    },
+    {
+      "id": "article-faq-fish-semen-analysis",
+      "src": "/Knowledge Hub/Fish Semen Analysis Guide/Fish Semen Analysis Guide.webp",
+      "alt": "Hướng dẫn Phân tích Tinh dịch Cá với tiêu chuẩn Thú y SFT, hệ thống CASA, Khả năng Vận động Tinh trùng, Hình thái Tinh trùng, và Bàn gia nhiệt tích hợp cho quản lý bố mẹ",
+      "filename": "Fish Semen Analysis Guide.webp",
+      "type": "article",
+      "associatedContent": {
+        "type": "article",
+        "id": "faq-fish-semen-analysis",
+        "title": "Hướng dẫn Có thẩm quyền về Phân tích Tinh dịch Cá",
+        "url": "/faq/faq-fish-semen-analysis"
+      },
+      "locale": "vi"
+    },
+    {
+      "id": "article-faq-ram-breeding-soundness",
+      "src": "/Knowledge Hub/Ram Breeding Soundness Examination (RBSE)/Ram Breeding Soundness Examination (RBSE).webp",
+      "alt": "Hướng dẫn Kiểm tra Sức khỏe Sinh sản Cừu đực với tiêu chuẩn Thú y SFT, hệ thống CASA, Khả năng Vận động Tinh trùng, Hình thái Tinh trùng, và Bàn gia nhiệt tích hợp cho đánh giá khả năng sinh sản cừu đực",
+      "filename": "Ram Breeding Soundness Examination (RBSE).webp",
+      "type": "article",
+      "associatedContent": {
+        "type": "article",
+        "id": "faq-ram-breeding-soundness",
+        "title": "Kiểm tra Sức khỏe Sinh sản Cừu đực (RBSE)",
+        "url": "/faq/faq-ram-breeding-soundness"
+      },
+      "locale": "vi"
+    },
+    {
+      "id": "article-faq-boar-semen-evaluation",
+      "src": "/Knowledge Hub/Boar Semen Evaluation Guide/Boar Semen Evaluation Guide.webp",
+      "alt": "Hướng dẫn Đánh giá Tinh dịch Lợn đực với tiêu chuẩn Thú y SFT, hệ thống CASA, Khả năng Vận động Tinh trùng, Hình thái Tinh trùng, và Bàn gia nhiệt tích hợp cho kiểm tra sức khỏe sinh sản lợn đực",
+      "filename": "Boar Semen Evaluation Guide.webp",
+      "type": "article",
+      "associatedContent": {
+        "type": "article",
+        "id": "faq-boar-semen-evaluation",
+        "title": "Tiêu chuẩn Đánh giá và Xử lý Tinh dịch Lợn đực",
+        "url": "/faq/faq-boar-semen-evaluation"
+      },
+      "locale": "vi"
+    },
+    {
+      "id": "about-0",
+      "src": "/About%20us%20(1).webp",
+      "alt": "Đội ngũ iSperm Medical trình bày hệ thống CASA tự động hoàn toàn và máy phân tích chất lượng tinh trùng tại triển lãm",
+      "filename": "About%20us%20(1).webp",
+      "type": "about",
+      "associatedContent": {
+        "type": "page",
+        "id": "about",
+        "title": "Về iSperm Medical | Nhà sản xuất Hệ thống CASA",
+        "url": "/about"
+      },
+      "locale": "vi"
+    },
+    {
+      "id": "about-1",
+      "src": "/About%20us%20(2).webp",
+      "alt": "Chuyên gia iSperm Medical thảo luận về máy phân tích tinh dịch thú y và giải pháp chăn nuôi động vật",
+      "filename": "About%20us%20(2).webp",
+      "type": "about",
+      "associatedContent": {
+        "type": "page",
+        "id": "about",
+        "title": "Về iSperm Medical | Nhà sản xuất Hệ thống CASA",
+        "url": "/about"
+      },
+      "locale": "vi"
+    },
+    {
+      "id": "about-2",
+      "src": "/About%20Us%202.webp",
+      "alt": "Đội ngũ và sự kiện iSperm Medical giới thiệu công nghệ CASA và giải pháp sức khỏe sinh sản",
+      "filename": "About%20Us%202.webp",
+      "type": "about",
+      "associatedContent": {
+        "type": "page",
+        "id": "about",
+        "title": "Về iSperm Medical | Nhà sản xuất Hệ thống CASA",
+        "url": "/about"
+      },
+      "locale": "vi"
+    },
+    {
+      "id": "about-3",
+      "src": "/About%20Us%204.webp",
+      "alt": "Bài thuyết trình và triển lãm của đội ngũ iSperm Medical với hệ thống phân tích tinh dịch tự động",
+      "filename": "About%20Us%204.webp",
+      "type": "about",
+      "associatedContent": {
+        "type": "page",
+        "id": "about",
+        "title": "Về iSperm Medical | Nhà sản xuất Hệ thống CASA",
+        "url": "/about"
+      },
+      "locale": "vi"
+    },
+    {
+      "id": "about-4",
+      "src": "/About%20Us%205.webp",
+      "alt": "Sự kiện và đội ngũ iSperm Medical giới thiệu hệ thống CASA sáng tạo và máy phân tích chất lượng tinh trùng",
+      "filename": "About%20Us%205.webp",
+      "type": "about",
+      "associatedContent": {
+        "type": "page",
+        "id": "about",
+        "title": "Về iSperm Medical | Nhà sản xuất Hệ thống CASA",
+        "url": "/about"
+      },
+      "locale": "vi"
+    },
+    {
+      "id": "banner-0",
+      "src": "/banner%20(1).webp",
+      "alt": "iSperm Medical - Banner image 1",
+      "filename": "banner%20(1).webp",
+      "type": "banner",
+      "associatedContent": {
+        "type": "page",
+        "id": "home",
+        "title": "iSperm Máy phân tích tinh dịch - Cách mạng hóa Phân tích Tinh dịch",
+        "url": "/"
+      },
+      "locale": "vi"
+    },
+    {
+      "id": "banner-1",
+      "src": "/banner%20(2).webp",
+      "alt": "iSperm Medical - Banner image 2",
+      "filename": "banner%20(2).webp",
+      "type": "banner",
+      "associatedContent": {
+        "type": "page",
+        "id": "home",
+        "title": "iSperm Máy phân tích tinh dịch - Cách mạng hóa Phân tích Tinh dịch",
+        "url": "/"
+      },
+      "locale": "vi"
+    },
+    {
+      "id": "banner-2",
+      "src": "/banner%20(3).webp",
+      "alt": "iSperm Medical - Banner image 3",
+      "filename": "banner%20(3).webp",
+      "type": "banner",
+      "associatedContent": {
+        "type": "page",
+        "id": "home",
+        "title": "iSperm Máy phân tích tinh dịch - Cách mạng hóa Phân tích Tinh dịch",
+        "url": "/"
+      },
+      "locale": "vi"
+    }
+  ],
+  "locale": "vi"
+}

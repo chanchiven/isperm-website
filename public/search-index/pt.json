@@ -1,0 +1,714 @@
+{
+  "products": [
+    {
+      "id": "nexus-dx1",
+      "slug": "nexus-dx1",
+      "name": "Nexus Dx1",
+      "description": "Sistema CASA totalmente automatizado projetado para uso clínico e laboratorial, com algoritmos avançados de IA e análise abrangente de parâmetros.",
+      "subtitle": "Sistema CASA Humano Totalmente Automatizado",
+      "images": [
+        "/nexus-dx1-cover.webp",
+        "/nexus-dx1.webp",
+        "/nexus-dx1-2.webp",
+        "/nexus-dx1-3.webp",
+        "/nexus-dx1-4.webp"
+      ],
+      "features": [
+        "Totalmente automatizado",
+        "Tela touch",
+        "Estágio de aquecimento integrado",
+        "Sistema standalone tudo-em-um",
+        "Algoritmo avançado de IA de imagem dinâmica Gaussiana",
+        "Câmara de contagem: 2 câmaras aprimoradas/revestidas, profundidade fixa de 10μm",
+        "Múltiplos campos de visão personalizáveis, até 1500 espermatozoides por campo de visão",
+        "Suporta reprodução de vídeo",
+        "Suporta scanner de código de barras externo",
+        "Estação de trabalho PC",
+        "Análise totalmente automatizada",
+        "Estágio de aquecimento integrado",
+        "Suporte para estação de trabalho PC"
+      ],
+      "locale": "pt"
+    },
+    {
+      "id": "msqa-100",
+      "slug": "msqa-100",
+      "name": "MSQA-100",
+      "description": "Sistema CASA portátil para uso doméstico com compatibilidade com smartphone, oferecendo desempenho de nível laboratorial em formato compacto.",
+      "subtitle": "Analisador de Sêmen CASA Portátil",
+      "images": [
+        "/MSQA-100/msqa-100-cover.webp",
+        "/MSQA-100/msqa-100-1.webp",
+        "/MSQA-100/msqa-100-2.webp"
+      ],
+      "features": [
+        "Compatível com smartphone",
+        "Controle de temperatura integrado",
+        "Análise de IA baseada em nuvem"
+      ],
+      "locale": "pt"
+    },
+    {
+      "id": "sqa-6100vet",
+      "slug": "sqa-6100vet",
+      "name": "SQA-6100vet",
+      "description": "Sistema CASA totalmente automatizado revolucionário para avaliação reprodutiva animal, com suporte para análise multi-espécies e capacidades portáteis de campo.",
+      "subtitle": "Sistema CASA Veterinário Totalmente Automatizado",
+      "images": [
+        "/sqa-6100vet-cover.webp",
+        "/sqa-6100vet-1.webp",
+        "/sqa-6100vet-2.webp"
+      ],
+      "features": [
+        "Totalmente automatizado",
+        "Tela touch",
+        "Estágio de aquecimento integrado",
+        "Sistema standalone tudo-em-um",
+        "Algoritmo avançado de IA de imagem dinâmica Gaussiana",
+        "Câmara de contagem: 6 câmaras aprimoradas/revestidas, profundidade fixa de 20μm",
+        "Tão rápido quanto 15 segundos de tempo de análise, múltiplos campos de visão selecionáveis",
+        "Suporta reprodução de vídeo",
+        "Suporta scanner de código de barras externo",
+        "Estação de trabalho PC",
+        "Suporta múltiplas espécies",
+        "Suporte para múltiplas espécies",
+        "Tempo de análise de 15 segundos",
+        "Design portátil tudo-em-um"
+      ],
+      "locale": "pt"
+    }
+  ],
+  "articles": [
+    {
+      "id": "faq-human-semen-standards",
+      "slug": "faq-human-semen-standards",
+      "title": "Padrões Globais para Análise de Sêmen Humano",
+      "subtitle": "Um Guia Comparativo (OMS 6ª, ISO 23162, ESHRE e ASRM)",
+      "content": "Em 2021, o panorama da andrologia humana foi redefinido pela dupla publicação do Manual da 6ª Edição da OMS e do padrão ISO 23162:2021. Esses documentos moveram o campo em direção à padronização rigorosa, enfatizando que a precisão só é possível através de controle de qualidade rigoroso e redução da subjetividade humana. 1. Fase Pré-Analítica: A Base da Qualidade A padronização começa antes que a amostra chegue ao microscópio. Tanto a OMS 6ª quanto a ISO 23162 enfatizam que variáveis pré-analíti",
+      "image": "/Knowledge Hub/Human Semen Analysis Standards/Human Semen Analysis Standards.webp",
+      "alt": "Guia de Padrões de Análise de Sêmen da 6ª Edição da OMS com sistema CASA, Motilidade Espermática, Morfologia Espermática e palco de aquecimento integrado para andrologia humana",
+      "category": "human",
+      "locale": "pt"
+    },
+    {
+      "id": "who-6th-edition-semen-analysis-standards",
+      "slug": "who-6th-edition-semen-analysis-standards",
+      "title": "Excelência em Análise de Sêmen: Um Guia Abrangente aos Padrões da 6ª Edição da WHO e Tecnologia CASA",
+      "subtitle": "Dominando os padrões da 6ª Edição da WHO com tecnologia CASA avançada para avaliação precisa da fertilidade masculina",
+      "content": "No campo da medicina reprodutiva, a análise de sêmen continua sendo a pedra angular da avaliação da fertilidade masculina. Com o lançamento da 6ª Edição da WHO (2021), a indústria mudou em direção a maior precisão, controle de qualidade mais rigoroso e a integração de sistemas avançados de Análise Espermática Assistida por Computador (CASA). Este artigo explora a evolução desses padrões e os requisitos técnicos para diagnósticos clínicos modernos. Capítulo 1: O Papel do CASA na Andrologia Modern",
+      "image": "/WHO6.webp",
+      "alt": "Guia de Padrões de Análise de Sêmen da 6ª Edição da WHO com sistema CASA, Nexus Dx1, Motilidade Espermática, Morfologia Espermática e palco de aquecimento integrado",
+      "category": "human",
+      "locale": "pt"
+    },
+    {
+      "id": "iso-23162-2021-laboratory-competence-guide",
+      "slug": "iso-23162-2021-laboratory-competence-guide",
+      "title": "Conectando Padrões Globais: Uma Análise Profunda do ISO 23162:2021 e Competência Laboratorial",
+      "subtitle": "Dominando os requisitos técnicos do ISO 23162:2021 e a estrutura de gestão de qualidade para resultados de exame de sêmen globalmente comparáveis",
+      "content": "Este artigo foca no ISO 23162:2021, o padrão internacional que especifica requisitos e métodos de teste para exame básico de sêmen humano. Enquanto a 6ª Edição da WHO fornece o manual clínico, o ISO 23162 fornece a estrutura técnica e de gestão de qualidade para laboratórios garantirem que seus resultados sejam globalmente comparáveis. O lançamento do ISO 23162:2021 marcou um marco na medicina reprodutiva, sendo o primeiro padrão internacional dedicado para exame básico de sêmen. Para clínicas e",
+      "image": "/ISO.webp",
+      "alt": "Guia de Competência Laboratorial ISO 23162:2021 com sistema CASA, Nexus Dx1, Requisitos de exame de sêmen, Controle de qualidade e Padrões laboratoriais",
+      "category": "human",
+      "locale": "pt"
+    },
+    {
+      "id": "eshre-guidelines-clinical-semen-examination",
+      "slug": "eshre-guidelines-clinical-semen-examination",
+      "title": "Excelência Clínica: Diretrizes ESHRE para Exame de Sêmen e Gestão de Pacientes",
+      "subtitle": "Diretrizes ESHRE baseadas em evidências conectando resultados laboratoriais e tomada de decisão clínica para resultados ART ótimos",
+      "content": "Enquanto o Manual da WHO fornece o \"como fazer\" e o ISO 23162 fornece as \"especificações técnicas\", a ESHRE foca no Padrão de Cuidado—como esses diagnósticos devem ser integrados na prática clínica para melhorar os resultados na Tecnologia de Reprodução Assistida (ART). Como a principal autoridade em medicina reprodutiva europeia, a ESHRE fornece diretrizes baseadas em evidências que conectam a lacuna entre resultados laboratoriais e tomada de decisão clínica. Para clínicas de fertilidade modern",
+      "image": "/ESHRE.webp",
+      "alt": "Guia de Exame Clínico de Sêmen das Diretrizes ESHRE com sistema CASA, Nexus Dx1, Excelência ART, IVF, ICSI e Tecnologia de Reprodução Assistida",
+      "category": "human",
+      "locale": "pt"
+    },
+    {
+      "id": "asrm-male-infertility-evaluation-protocols",
+      "slug": "asrm-male-infertility-evaluation-protocols",
+      "title": "Integridade Clínica: Diretrizes ASRM para Avaliação de Infertilidade Masculina e Análise de Sêmen",
+      "subtitle": "Protocolos ASRM baseados em evidências integrando análise de sêmen em diagnósticos holísticos de infertilidade masculina e vias de tratamento",
+      "content": "Enquanto o Manual da WHO fornece o \"como fazer\" e o ISO 23162 fornece os \"padrões técnicos\", a ASRM foca na Via Clínica—direcionando como os resultados da análise de sêmen devem guiar a avaliação diagnóstica e o tratamento do homem infértil em um ambiente clínico. Como a principal autoridade em medicina reprodutiva nos Estados Unidos, a ASRM estabelece os protocolos baseados em evidências que definem o cuidado moderno de fertilidade. Para clínicos e diretores de laboratório, seguir as opiniões d",
+      "image": "/ASRM.webp",
+      "alt": "Guia de Protocolos de Avaliação de Infertilidade Masculina ASRM com sistema CASA, Nexus Dx1, Avaliação de infertilidade masculina, IUI, IVF, ICSI e Padrões de laboratório clínico",
+      "category": "human",
+      "locale": "pt"
+    },
+    {
+      "id": "faq-bull-breeding-soundness",
+      "slug": "faq-bull-breeding-soundness",
+      "title": "O Guia Definitivo para Aptidão Reprodutiva de Touros",
+      "subtitle": "Padrões Clínicos e Metodologia Moderna",
+      "content": "Este guia abrangente fornece a profissionais veterinários e produtores os padrões clínicos e metodologias modernas necessárias para realizar um Exame Completo de Aptidão Reprodutiva de Touros (BSE) de acordo com as diretrizes da Sociedade de Teriogenologia (SFT). Capítulo 1: A Avaliação Bio-Comportamental do Reprodutor Em nossa prática clínica como andrologistas, frequentemente lembramos aos produtores que o valor de um touro não está em um tubo de ensaio, mas em sua capacidade de servir uma vac",
+      "image": "/Knowledge Hub/Bull Breeding Soundness Guide/Bull Breeding Soundness Guide.webp",
+      "alt": "Guia de Exame de Aptidão Reprodutiva de Touros com Diretrizes de Análise de Sêmen Veterinário SFT, sistema CASA, Motilidade Espermática e palco de aquecimento integrado",
+      "category": "veterinary",
+      "locale": "pt"
+    },
+    {
+      "id": "faq-canine-semen-analysis",
+      "slug": "faq-canine-semen-analysis",
+      "title": "O Guia Profissional para Análise de Sêmen Canino",
+      "subtitle": "Padrões Clínicos para Fertilidade e Integridade Reprodutiva de Cães",
+      "content": "Este guia abrangente fornece a profissionais veterinários e criadores os padrões clínicos e metodologias necessárias para realizar um Exame Completo de Aptidão Reprodutiva Canina (BSE) e análise de sêmen. Capítulo 1: Seleção e Ciclo de Vida Reprodutivo A avaliação de um cão reprodutor começa com sua linhagem e histórico de desenvolvimento. Na andrologia canina, a puberdade tipicamente ocorre entre 6 e 12 meses, dependendo da raça (raças maiores frequentemente amadurecem mais tarde). No entanto, ",
+      "image": "/Knowledge Hub/Canine Semen Analysis Guide/Canine Semen Analysis Guide.webp",
+      "alt": "Guia de Análise de Sêmen Canino com padrões veterinários SFT, sistema CASA, Motilidade Espermática, Morfologia Espermática e palco de aquecimento integrado para fertilidade canina",
+      "category": "veterinary",
+      "locale": "pt"
+    },
+    {
+      "id": "faq-poultry-semen-analysis",
+      "slug": "faq-poultry-semen-analysis",
+      "title": "O Guia Profissional para Análise de Sêmen Aviário",
+      "subtitle": "Padrões Clínicos para Fertilidade de Galos",
+      "content": "Na indústria avícola, especificamente para reprodutores de frangos de corte e poedeiras, a avaliação da fertilidade do galo é a pedra angular do sucesso do incubatório e da reposição do plantel. Ao contrário dos mamíferos, não existe um único \"Manual SFT\" para aves; em vez disso, os padrões são regidos pelas diretrizes da Associação Mundial de Ciência Avícola (WPSA), protocolos da FAO para Recursos Genéticos Animais e manuais técnicos de criadores primários (como Aviagen e Cobb). Capítulo 1: Sel",
+      "image": "/Knowledge Hub/Poultry Semen Analysis Guide/Poultry Semen Analysis Guide.webp",
+      "alt": "Guia de Análise de Sêmen Aviário com padrões veterinários SFT, sistema CASA, Motilidade Espermática, Morfologia Espermática e palco de aquecimento integrado para fertilidade de galos",
+      "category": "veterinary",
+      "locale": "pt"
+    },
+    {
+      "id": "faq-stallion-semen-analysis",
+      "slug": "faq-stallion-semen-analysis",
+      "title": "O Guia Profissional para Análise de Sêmen de Garanhão",
+      "subtitle": "Padrões Clínicos para Aptidão Reprodutiva Equina (EBSE)",
+      "content": "Este guia abrangente fornece a profissionais veterinários e criadores os padrões clínicos e metodologias necessárias para realizar uma Avaliação Completa de Aptidão Reprodutiva Equina (EBSE) e análise de sêmen. Capítulo 1: Seleção de Garanhão e Comportamento Reprodutivo A avaliação de um garanhão começa com sua linhagem genética e uma avaliação completa de seu comportamento reprodutivo. Na indústria equina, um garanhão deve possuir uma libido forte e controlável. Avaliamos a resposta do garanhão",
+      "image": "/Knowledge Hub/Stallion Semen Analysis Guide/Stallion Semen Analysis Guide.webp",
+      "alt": "Guia de Análise de Sêmen de Garanhão com padrões veterinários SFT, sistema CASA, Motilidade Espermática, Morfologia Espermática e palco de aquecimento integrado para aptidão reprodutiva equina",
+      "category": "veterinary",
+      "locale": "pt"
+    },
+    {
+      "id": "faq-camelid-andrology",
+      "slug": "faq-camelid-andrology",
+      "title": "O Padrão Profissional para Andrologia de Camelídeos",
+      "subtitle": "Diretrizes de Avaliação Clínica e Análise Digital para Fertilidade de Camelos",
+      "content": "A andrologia de camelídeos é um dos campos mais desafiadores e especializados na reprodução veterinária. Seja lidando com dromedários (uma corcova) ou camelos bactrianos (duas corcovas), as características fisiológicas únicas desses \"navios do deserto\"—particularmente a sazonalidade intensa e a viscosidade extrema de seu sêmen—requerem uma abordagem diagnóstica especializada. Capítulo 1: Sazonalidade e a Fisiologia do \"Cio\" Na reprodução de camelídeos, a sazonalidade é o fator abrangente que dit",
+      "image": "/Knowledge Hub/Camelid Andrology Guide/Camelid Andrology Guide.webp",
+      "alt": "Guia de Andrologia de Camelídeos com padrões veterinários SFT, sistema CASA, Motilidade Espermática, Morfologia Espermática e palco de aquecimento integrado para avaliação de fertilidade de camelos",
+      "category": "veterinary",
+      "locale": "pt"
+    },
+    {
+      "id": "faq-fish-semen-analysis",
+      "slug": "faq-fish-semen-analysis",
+      "title": "O Guia Autoritativo para Análise de Sêmen de Peixes",
+      "subtitle": "Padrões Clínicos para Gestão de Reprodutores e Sucesso Reprodutivo",
+      "content": "A base de um incubatório bem-sucedido está na seleção dos \"Reprodutores\". Ao contrário dos mamíferos, a fertilidade dos peixes está profundamente entrelaçada com ciclos ambientais e maturação específica por idade. Este guia abrangente aborda os desafios únicos da análise de sêmen de peixes e gestão de reprodutores. Capítulo 1: Seleção e Gestão de Reprodutores Avaliamos reprodutores com base em sua \"Prontidão Fenotípica\"—indicadores como características sexuais secundárias (por exemplo, tubérculo",
+      "image": "/Knowledge Hub/Fish Semen Analysis Guide/Fish Semen Analysis Guide.webp",
+      "alt": "Guia de Análise de Sêmen de Peixes com padrões veterinários SFT, sistema CASA, Motilidade Espermática, Morfologia Espermática e palco de aquecimento integrado para gestão de reprodutores",
+      "category": "veterinary",
+      "locale": "pt"
+    },
+    {
+      "id": "faq-ram-breeding-soundness",
+      "slug": "faq-ram-breeding-soundness",
+      "title": "Exame de Aptidão Reprodutiva de Carneiros (RBSE)",
+      "subtitle": "Padrões Clínicos para Avaliação de Fertilidade de Carneiros",
+      "content": "Um dos fatores mais críticos na fertilidade de carneiros que o distingue de outros animais de produção é sua sazonalidade intensa. Os carneiros são reprodutores de \"dias curtos\"; seu sistema endócrino reprodutivo é governado pelo fotoperíodo. Este guia abrangente fornece a profissionais veterinários e produtores os padrões clínicos necessários para realizar um Exame Completo de Aptidão Reprodutiva de Carneiros (RBSE). Capítulo 1: Sazonalidade, Fotoperíodo e Puberdade À medida que o comprimento d",
+      "image": "/Knowledge Hub/Ram Breeding Soundness Examination (RBSE)/Ram Breeding Soundness Examination (RBSE).webp",
+      "alt": "Guia de Exame de Aptidão Reprodutiva de Carneiros com padrões veterinários SFT, sistema CASA, Motilidade Espermática, Morfologia Espermática e palco de aquecimento integrado para avaliação de fertilidade de carneiros",
+      "category": "veterinary",
+      "locale": "pt"
+    },
+    {
+      "id": "faq-boar-semen-evaluation",
+      "slug": "faq-boar-semen-evaluation",
+      "title": "Padrões de Avaliação e Processamento de Sêmen de Javali",
+      "subtitle": "Exame de Aptidão Reprodutiva de Javali (BBSE)",
+      "content": "A jornada de um reprodutor de alto desempenho começa com a seleção. Ao contrário do gado, onde o serviço natural ainda é comum, o javali moderno é quase exclusivamente um doador de Inseminação Artificial (IA). Este guia abrangente fornece a profissionais veterinários e produtores os padrões clínicos necessários para realizar um Exame Completo de Aptidão Reprodutiva de Javali (BBSE) e avaliação de sêmen. Capítulo 1: Seleção e Puberdade — A Base Genética Priorizamos a seleção com base em três pila",
+      "image": "/Knowledge Hub/Boar Semen Evaluation Guide/Boar Semen Evaluation Guide.webp",
+      "alt": "Guia de Avaliação de Sêmen de Javali com padrões veterinários SFT, sistema CASA, Motilidade Espermática, Morfologia Espermática e palco de aquecimento integrado para exame de aptidão reprodutiva de javali",
+      "category": "veterinary",
+      "locale": "pt"
+    }
+  ],
+  "pages": [
+    {
+      "id": "home",
+      "path": "/",
+      "title": "iSperm Analisador de Sêmen - Revolucionando a Análise de Sêmen",
+      "description": "Sistema de análise de sêmen totalmente automatizado projetado para uso clínico e reprodução animal, com algoritmos de IA avançados.",
+      "locale": "pt"
+    },
+    {
+      "id": "about",
+      "path": "/about",
+      "title": "Sobre a iSperm Medical | Fabricante de Sistema CASA",
+      "description": "Fabricante líder de sistemas CASA e analisadores de sêmen. Analisadores de morfologia espermática conformes com a 6ª edição da OMS para uso humano e veterinário desde 2010.",
+      "locale": "pt"
+    },
+    {
+      "id": "contact",
+      "path": "/contact",
+      "title": "Contato iSperm Medical | Suporte de Sistema CASA",
+      "description": "Entre em contato com o fabricante líder de sistemas CASA e analisadores de sêmen. Obtenha suporte para analisadores de morfologia espermática conformes com a 6ª edição da OMS.",
+      "locale": "pt"
+    },
+    {
+      "id": "products",
+      "path": "/products",
+      "title": "Sistemas CASA e Analisadores de Sêmen | iSperm Medical",
+      "description": "Explore nossos sistemas CASA e analisadores de morfologia espermática para uso humano e veterinário. Soluções de analisador de sêmen em conformidade com a 6ª edição da OMS.",
+      "locale": "pt"
+    },
+    {
+      "id": "faq",
+      "path": "/faq",
+      "title": "Centro de Conhecimento | Perguntas Frequentes do Sistema CASA | iSperm Medical",
+      "description": "Perguntas frequentes abrangentes do sistema CASA, guias da 6ª edição da OMS e recursos de análise de sêmen. Insights especializados sobre analisadores de morfologia espermática.",
+      "locale": "pt"
+    }
+  ],
+  "images": [
+    {
+      "id": "nexus-dx1-0",
+      "src": "/nexus-dx1-cover.webp",
+      "alt": "Nexus Dx1 - Product image 1",
+      "filename": "nexus-dx1-cover.webp",
+      "type": "product",
+      "associatedContent": {
+        "type": "product",
+        "id": "nexus-dx1",
+        "title": "Nexus Dx1",
+        "url": "/products/nexus-dx1"
+      },
+      "locale": "pt"
+    },
+    {
+      "id": "nexus-dx1-1",
+      "src": "/nexus-dx1.webp",
+      "alt": "Nexus Dx1 - Product image 2",
+      "filename": "nexus-dx1.webp",
+      "type": "product",
+      "associatedContent": {
+        "type": "product",
+        "id": "nexus-dx1",
+        "title": "Nexus Dx1",
+        "url": "/products/nexus-dx1"
+      },
+      "locale": "pt"
+    },
+    {
+      "id": "nexus-dx1-2",
+      "src": "/nexus-dx1-2.webp",
+      "alt": "Nexus Dx1 - Product image 3",
+      "filename": "nexus-dx1-2.webp",
+      "type": "product",
+      "associatedContent": {
+        "type": "product",
+        "id": "nexus-dx1",
+        "title": "Nexus Dx1",
+        "url": "/products/nexus-dx1"
+      },
+      "locale": "pt"
+    },
+    {
+      "id": "nexus-dx1-3",
+      "src": "/nexus-dx1-3.webp",
+      "alt": "Nexus Dx1 - Product image 4",
+      "filename": "nexus-dx1-3.webp",
+      "type": "product",
+      "associatedContent": {
+        "type": "product",
+        "id": "nexus-dx1",
+        "title": "Nexus Dx1",
+        "url": "/products/nexus-dx1"
+      },
+      "locale": "pt"
+    },
+    {
+      "id": "nexus-dx1-4",
+      "src": "/nexus-dx1-4.webp",
+      "alt": "Nexus Dx1 - Product image 5",
+      "filename": "nexus-dx1-4.webp",
+      "type": "product",
+      "associatedContent": {
+        "type": "product",
+        "id": "nexus-dx1",
+        "title": "Nexus Dx1",
+        "url": "/products/nexus-dx1"
+      },
+      "locale": "pt"
+    },
+    {
+      "id": "msqa-100-0",
+      "src": "/MSQA-100/msqa-100-cover.webp",
+      "alt": "MSQA-100 - Product image 1",
+      "filename": "msqa-100-cover.webp",
+      "type": "product",
+      "associatedContent": {
+        "type": "product",
+        "id": "msqa-100",
+        "title": "MSQA-100",
+        "url": "/products/msqa-100"
+      },
+      "locale": "pt"
+    },
+    {
+      "id": "msqa-100-1",
+      "src": "/MSQA-100/msqa-100-1.webp",
+      "alt": "MSQA-100 - Product image 2",
+      "filename": "msqa-100-1.webp",
+      "type": "product",
+      "associatedContent": {
+        "type": "product",
+        "id": "msqa-100",
+        "title": "MSQA-100",
+        "url": "/products/msqa-100"
+      },
+      "locale": "pt"
+    },
+    {
+      "id": "msqa-100-2",
+      "src": "/MSQA-100/msqa-100-2.webp",
+      "alt": "MSQA-100 - Product image 3",
+      "filename": "msqa-100-2.webp",
+      "type": "product",
+      "associatedContent": {
+        "type": "product",
+        "id": "msqa-100",
+        "title": "MSQA-100",
+        "url": "/products/msqa-100"
+      },
+      "locale": "pt"
+    },
+    {
+      "id": "sqa-6100vet-0",
+      "src": "/sqa-6100vet-cover.webp",
+      "alt": "SQA-6100vet - Product image 1",
+      "filename": "sqa-6100vet-cover.webp",
+      "type": "product",
+      "associatedContent": {
+        "type": "product",
+        "id": "sqa-6100vet",
+        "title": "SQA-6100vet",
+        "url": "/products/sqa-6100vet"
+      },
+      "locale": "pt"
+    },
+    {
+      "id": "sqa-6100vet-1",
+      "src": "/sqa-6100vet-1.webp",
+      "alt": "SQA-6100vet - Product image 2",
+      "filename": "sqa-6100vet-1.webp",
+      "type": "product",
+      "associatedContent": {
+        "type": "product",
+        "id": "sqa-6100vet",
+        "title": "SQA-6100vet",
+        "url": "/products/sqa-6100vet"
+      },
+      "locale": "pt"
+    },
+    {
+      "id": "sqa-6100vet-2",
+      "src": "/sqa-6100vet-2.webp",
+      "alt": "SQA-6100vet - Product image 3",
+      "filename": "sqa-6100vet-2.webp",
+      "type": "product",
+      "associatedContent": {
+        "type": "product",
+        "id": "sqa-6100vet",
+        "title": "SQA-6100vet",
+        "url": "/products/sqa-6100vet"
+      },
+      "locale": "pt"
+    },
+    {
+      "id": "article-faq-human-semen-standards",
+      "src": "/Knowledge Hub/Human Semen Analysis Standards/Human Semen Analysis Standards.webp",
+      "alt": "Guia de Padrões de Análise de Sêmen da 6ª Edição da OMS com sistema CASA, Motilidade Espermática, Morfologia Espermática e palco de aquecimento integrado para andrologia humana",
+      "filename": "Human Semen Analysis Standards.webp",
+      "type": "article",
+      "associatedContent": {
+        "type": "article",
+        "id": "faq-human-semen-standards",
+        "title": "Padrões Globais para Análise de Sêmen Humano",
+        "url": "/faq/faq-human-semen-standards"
+      },
+      "locale": "pt"
+    },
+    {
+      "id": "article-who-6th-edition-semen-analysis-standards",
+      "src": "/WHO6.webp",
+      "alt": "Guia de Padrões de Análise de Sêmen da 6ª Edição da WHO com sistema CASA, Nexus Dx1, Motilidade Espermática, Morfologia Espermática e palco de aquecimento integrado",
+      "filename": "WHO6.webp",
+      "type": "article",
+      "associatedContent": {
+        "type": "article",
+        "id": "who-6th-edition-semen-analysis-standards",
+        "title": "Excelência em Análise de Sêmen: Um Guia Abrangente aos Padrões da 6ª Edição da WHO e Tecnologia CASA",
+        "url": "/faq/who-6th-edition-semen-analysis-standards"
+      },
+      "locale": "pt"
+    },
+    {
+      "id": "article-iso-23162-2021-laboratory-competence-guide",
+      "src": "/ISO.webp",
+      "alt": "Guia de Competência Laboratorial ISO 23162:2021 com sistema CASA, Nexus Dx1, Requisitos de exame de sêmen, Controle de qualidade e Padrões laboratoriais",
+      "filename": "ISO.webp",
+      "type": "article",
+      "associatedContent": {
+        "type": "article",
+        "id": "iso-23162-2021-laboratory-competence-guide",
+        "title": "Conectando Padrões Globais: Uma Análise Profunda do ISO 23162:2021 e Competência Laboratorial",
+        "url": "/faq/iso-23162-2021-laboratory-competence-guide"
+      },
+      "locale": "pt"
+    },
+    {
+      "id": "article-eshre-guidelines-clinical-semen-examination",
+      "src": "/ESHRE.webp",
+      "alt": "Guia de Exame Clínico de Sêmen das Diretrizes ESHRE com sistema CASA, Nexus Dx1, Excelência ART, IVF, ICSI e Tecnologia de Reprodução Assistida",
+      "filename": "ESHRE.webp",
+      "type": "article",
+      "associatedContent": {
+        "type": "article",
+        "id": "eshre-guidelines-clinical-semen-examination",
+        "title": "Excelência Clínica: Diretrizes ESHRE para Exame de Sêmen e Gestão de Pacientes",
+        "url": "/faq/eshre-guidelines-clinical-semen-examination"
+      },
+      "locale": "pt"
+    },
+    {
+      "id": "article-asrm-male-infertility-evaluation-protocols",
+      "src": "/ASRM.webp",
+      "alt": "Guia de Protocolos de Avaliação de Infertilidade Masculina ASRM com sistema CASA, Nexus Dx1, Avaliação de infertilidade masculina, IUI, IVF, ICSI e Padrões de laboratório clínico",
+      "filename": "ASRM.webp",
+      "type": "article",
+      "associatedContent": {
+        "type": "article",
+        "id": "asrm-male-infertility-evaluation-protocols",
+        "title": "Integridade Clínica: Diretrizes ASRM para Avaliação de Infertilidade Masculina e Análise de Sêmen",
+        "url": "/faq/asrm-male-infertility-evaluation-protocols"
+      },
+      "locale": "pt"
+    },
+    {
+      "id": "article-faq-bull-breeding-soundness",
+      "src": "/Knowledge Hub/Bull Breeding Soundness Guide/Bull Breeding Soundness Guide.webp",
+      "alt": "Guia de Exame de Aptidão Reprodutiva de Touros com Diretrizes de Análise de Sêmen Veterinário SFT, sistema CASA, Motilidade Espermática e palco de aquecimento integrado",
+      "filename": "Bull Breeding Soundness Guide.webp",
+      "type": "article",
+      "associatedContent": {
+        "type": "article",
+        "id": "faq-bull-breeding-soundness",
+        "title": "O Guia Definitivo para Aptidão Reprodutiva de Touros",
+        "url": "/faq/faq-bull-breeding-soundness"
+      },
+      "locale": "pt"
+    },
+    {
+      "id": "article-faq-canine-semen-analysis",
+      "src": "/Knowledge Hub/Canine Semen Analysis Guide/Canine Semen Analysis Guide.webp",
+      "alt": "Guia de Análise de Sêmen Canino com padrões veterinários SFT, sistema CASA, Motilidade Espermática, Morfologia Espermática e palco de aquecimento integrado para fertilidade canina",
+      "filename": "Canine Semen Analysis Guide.webp",
+      "type": "article",
+      "associatedContent": {
+        "type": "article",
+        "id": "faq-canine-semen-analysis",
+        "title": "O Guia Profissional para Análise de Sêmen Canino",
+        "url": "/faq/faq-canine-semen-analysis"
+      },
+      "locale": "pt"
+    },
+    {
+      "id": "article-faq-poultry-semen-analysis",
+      "src": "/Knowledge Hub/Poultry Semen Analysis Guide/Poultry Semen Analysis Guide.webp",
+      "alt": "Guia de Análise de Sêmen Aviário com padrões veterinários SFT, sistema CASA, Motilidade Espermática, Morfologia Espermática e palco de aquecimento integrado para fertilidade de galos",
+      "filename": "Poultry Semen Analysis Guide.webp",
+      "type": "article",
+      "associatedContent": {
+        "type": "article",
+        "id": "faq-poultry-semen-analysis",
+        "title": "O Guia Profissional para Análise de Sêmen Aviário",
+        "url": "/faq/faq-poultry-semen-analysis"
+      },
+      "locale": "pt"
+    },
+    {
+      "id": "article-faq-stallion-semen-analysis",
+      "src": "/Knowledge Hub/Stallion Semen Analysis Guide/Stallion Semen Analysis Guide.webp",
+      "alt": "Guia de Análise de Sêmen de Garanhão com padrões veterinários SFT, sistema CASA, Motilidade Espermática, Morfologia Espermática e palco de aquecimento integrado para aptidão reprodutiva equina",
+      "filename": "Stallion Semen Analysis Guide.webp",
+      "type": "article",
+      "associatedContent": {
+        "type": "article",
+        "id": "faq-stallion-semen-analysis",
+        "title": "O Guia Profissional para Análise de Sêmen de Garanhão",
+        "url": "/faq/faq-stallion-semen-analysis"
+      },
+      "locale": "pt"
+    },
+    {
+      "id": "article-faq-camelid-andrology",
+      "src": "/Knowledge Hub/Camelid Andrology Guide/Camelid Andrology Guide.webp",
+      "alt": "Guia de Andrologia de Camelídeos com padrões veterinários SFT, sistema CASA, Motilidade Espermática, Morfologia Espermática e palco de aquecimento integrado para avaliação de fertilidade de camelos",
+      "filename": "Camelid Andrology Guide.webp",
+      "type": "article",
+      "associatedContent": {
+        "type": "article",
+        "id": "faq-camelid-andrology",
+        "title": "O Padrão Profissional para Andrologia de Camelídeos",
+        "url": "/faq/faq-camelid-andrology"
+      },
+      "locale": "pt"
+    },
+    {
+      "id": "article-faq-fish-semen-analysis",
+      "src": "/Knowledge Hub/Fish Semen Analysis Guide/Fish Semen Analysis Guide.webp",
+      "alt": "Guia de Análise de Sêmen de Peixes com padrões veterinários SFT, sistema CASA, Motilidade Espermática, Morfologia Espermática e palco de aquecimento integrado para gestão de reprodutores",
+      "filename": "Fish Semen Analysis Guide.webp",
+      "type": "article",
+      "associatedContent": {
+        "type": "article",
+        "id": "faq-fish-semen-analysis",
+        "title": "O Guia Autoritativo para Análise de Sêmen de Peixes",
+        "url": "/faq/faq-fish-semen-analysis"
+      },
+      "locale": "pt"
+    },
+    {
+      "id": "article-faq-ram-breeding-soundness",
+      "src": "/Knowledge Hub/Ram Breeding Soundness Examination (RBSE)/Ram Breeding Soundness Examination (RBSE).webp",
+      "alt": "Guia de Exame de Aptidão Reprodutiva de Carneiros com padrões veterinários SFT, sistema CASA, Motilidade Espermática, Morfologia Espermática e palco de aquecimento integrado para avaliação de fertilidade de carneiros",
+      "filename": "Ram Breeding Soundness Examination (RBSE).webp",
+      "type": "article",
+      "associatedContent": {
+        "type": "article",
+        "id": "faq-ram-breeding-soundness",
+        "title": "Exame de Aptidão Reprodutiva de Carneiros (RBSE)",
+        "url": "/faq/faq-ram-breeding-soundness"
+      },
+      "locale": "pt"
+    },
+    {
+      "id": "article-faq-boar-semen-evaluation",
+      "src": "/Knowledge Hub/Boar Semen Evaluation Guide/Boar Semen Evaluation Guide.webp",
+      "alt": "Guia de Avaliação de Sêmen de Javali com padrões veterinários SFT, sistema CASA, Motilidade Espermática, Morfologia Espermática e palco de aquecimento integrado para exame de aptidão reprodutiva de javali",
+      "filename": "Boar Semen Evaluation Guide.webp",
+      "type": "article",
+      "associatedContent": {
+        "type": "article",
+        "id": "faq-boar-semen-evaluation",
+        "title": "Padrões de Avaliação e Processamento de Sêmen de Javali",
+        "url": "/faq/faq-boar-semen-evaluation"
+      },
+      "locale": "pt"
+    },
+    {
+      "id": "about-0",
+      "src": "/About%20us%20(1).webp",
+      "alt": "Equipe iSperm Medical apresentando sistema CASA totalmente automatizado e analisador de qualidade do esperma em exposição",
+      "filename": "About%20us%20(1).webp",
+      "type": "about",
+      "associatedContent": {
+        "type": "page",
+        "id": "about",
+        "title": "Sobre a iSperm Medical | Fabricante de Sistema CASA",
+        "url": "/about"
+      },
+      "locale": "pt"
+    },
+    {
+      "id": "about-1",
+      "src": "/About%20us%20(2).webp",
+      "alt": "Profissionais iSperm Medical discutindo analisador de sêmen veterinário e soluções de criação animal",
+      "filename": "About%20us%20(2).webp",
+      "type": "about",
+      "associatedContent": {
+        "type": "page",
+        "id": "about",
+        "title": "Sobre a iSperm Medical | Fabricante de Sistema CASA",
+        "url": "/about"
+      },
+      "locale": "pt"
+    },
+    {
+      "id": "about-2",
+      "src": "/About%20Us%202.webp",
+      "alt": "Equipe e eventos iSperm Medical mostrando tecnologia CASA e soluções de saúde reprodutiva",
+      "filename": "About%20Us%202.webp",
+      "type": "about",
+      "associatedContent": {
+        "type": "page",
+        "id": "about",
+        "title": "Sobre a iSperm Medical | Fabricante de Sistema CASA",
+        "url": "/about"
+      },
+      "locale": "pt"
+    },
+    {
+      "id": "about-3",
+      "src": "/About%20Us%204.webp",
+      "alt": "Apresentações e exposições da equipe iSperm Medical com sistemas automatizados de análise de sêmen",
+      "filename": "About%20Us%204.webp",
+      "type": "about",
+      "associatedContent": {
+        "type": "page",
+        "id": "about",
+        "title": "Sobre a iSperm Medical | Fabricante de Sistema CASA",
+        "url": "/about"
+      },
+      "locale": "pt"
+    },
+    {
+      "id": "about-4",
+      "src": "/About%20Us%205.webp",
+      "alt": "Eventos e equipe iSperm Medical mostrando sistemas CASA inovadores e analisadores de qualidade do esperma",
+      "filename": "About%20Us%205.webp",
+      "type": "about",
+      "associatedContent": {
+        "type": "page",
+        "id": "about",
+        "title": "Sobre a iSperm Medical | Fabricante de Sistema CASA",
+        "url": "/about"
+      },
+      "locale": "pt"
+    },
+    {
+      "id": "banner-0",
+      "src": "/banner%20(1).webp",
+      "alt": "iSperm Medical - Banner image 1",
+      "filename": "banner%20(1).webp",
+      "type": "banner",
+      "associatedContent": {
+        "type": "page",
+        "id": "home",
+        "title": "iSperm Analisador de Sêmen - Revolucionando a Análise de Sêmen",
+        "url": "/"
+      },
+      "locale": "pt"
+    },
+    {
+      "id": "banner-1",
+      "src": "/banner%20(2).webp",
+      "alt": "iSperm Medical - Banner image 2",
+      "filename": "banner%20(2).webp",
+      "type": "banner",
+      "associatedContent": {
+        "type": "page",
+        "id": "home",
+        "title": "iSperm Analisador de Sêmen - Revolucionando a Análise de Sêmen",
+        "url": "/"
+      },
+      "locale": "pt"
+    },
+    {
+      "id": "banner-2",
+      "src": "/banner%20(3).webp",
+      "alt": "iSperm Medical - Banner image 3",
+      "filename": "banner%20(3).webp",
+      "type": "banner",
+      "associatedContent": {
+        "type": "page",
+        "id": "home",
+        "title": "iSperm Analisador de Sêmen - Revolucionando a Análise de Sêmen",
+        "url": "/"
+      },
+      "locale": "pt"
+    }
+  ],
+  "locale": "pt"
+}

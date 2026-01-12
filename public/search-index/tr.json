@@ -1,0 +1,714 @@
+{
+  "products": [
+    {
+      "id": "nexus-dx1",
+      "slug": "nexus-dx1",
+      "name": "Nexus Dx1",
+      "description": "Klinik ve laboratuvar kullanımı için tasarlanmış, gelişmiş AI algoritmaları ve kapsamlı parametre analizi özelliklerine sahip tam otomatik CASA sistemi.",
+      "subtitle": "Tam Otomatik İnsan CASA Sistemi",
+      "images": [
+        "/nexus-dx1-cover.webp",
+        "/nexus-dx1.webp",
+        "/nexus-dx1-2.webp",
+        "/nexus-dx1-3.webp",
+        "/nexus-dx1-4.webp"
+      ],
+      "features": [
+        "Tam otomatik",
+        "Dokunmatik ekran",
+        "Dahili Isıtma Aşaması",
+        "Bağımsız hepsi bir arada sistem",
+        "Gelişmiş Gauss dinamik AI görüntü algoritması",
+        "Sayım odası: Geliştirilmiş/Kaplamalı 2 odalı, sabit derinlik 10μm",
+        "Özelleştirilebilir çoklu görüş alanı, görüş alanı başına 1500'e kadar sperm sayısı",
+        "Video oynatma desteği",
+        "Harici barkod okuyucu desteği",
+        "PC iş istasyonu",
+        "Tam otomatik analiz",
+        "Dahili ısıtma aşaması",
+        "PC iş istasyonu desteği"
+      ],
+      "locale": "tr"
+    },
+    {
+      "id": "msqa-100",
+      "slug": "msqa-100",
+      "name": "MSQA-100",
+      "description": "Akıllı telefon uyumluluğuna sahip taşınabilir, ev kullanımı CASA sistemi, kompakt formatta laboratuvar seviyesi performans sunar.",
+      "subtitle": "Taşınabilir CASA Semen Analizörü",
+      "images": [
+        "/MSQA-100/msqa-100-cover.webp",
+        "/MSQA-100/msqa-100-1.webp",
+        "/MSQA-100/msqa-100-2.webp"
+      ],
+      "features": [
+        "Akıllı telefon uyumlu",
+        "Dahili sıcaklık kontrolü",
+        "Bulut tabanlı AI analizi"
+      ],
+      "locale": "tr"
+    },
+    {
+      "id": "sqa-6100vet",
+      "slug": "sqa-6100vet",
+      "name": "SQA-6100vet",
+      "description": "Hayvan üreme değerlendirmesi için devrim niteliğinde tam otomatik CASA sistemi, taşınabilir saha yetenekleri ile çoklu tür analizi desteği sunar.",
+      "subtitle": "Tam Otomatik Veteriner CASA Sistemi",
+      "images": [
+        "/sqa-6100vet-cover.webp",
+        "/sqa-6100vet-1.webp",
+        "/sqa-6100vet-2.webp"
+      ],
+      "features": [
+        "Tam otomatik",
+        "Dokunmatik ekran",
+        "Dahili Isıtma Aşaması",
+        "Bağımsız hepsi bir arada sistem",
+        "Gelişmiş Gauss dinamik AI görüntü algoritması",
+        "Sayım odası: Geliştirilmiş/Kaplamalı 6 odalı, sabit derinlik 20μm",
+        "15 saniye kadar hızlı analiz süresi, seçilebilir çoklu görüş alanı",
+        "Video oynatma desteği",
+        "Harici barkod okuyucu desteği",
+        "PC iş istasyonu",
+        "Çoklu tür desteği",
+        "Çoklu tür desteği",
+        "15 saniye analiz süresi",
+        "Taşınabilir hepsi bir arada tasarım"
+      ],
+      "locale": "tr"
+    }
+  ],
+  "articles": [
+    {
+      "id": "faq-human-semen-standards",
+      "slug": "faq-human-semen-standards",
+      "title": "İnsan Semen Analizi için Küresel Standartlar",
+      "subtitle": "Karşılaştırmalı Rehber (WHO 6. Baskı, ISO 23162, ESHRE ve ASRM)",
+      "content": "2021 yılında, insan androlojisi alanı WHO 6. Baskı El Kitabı ve ISO 23162:2021 standardının çift yayını ile yeniden tanımlandı. Bu belgeler, alanı sıkı bir standardizasyona doğru taşıdı ve doğruluğun yalnızca katı kalite kontrolü ve insan öznelliğinin azaltılması ile mümkün olduğunu vurguladı. 1. Analiz Öncesi Faz: Kalitenin Temeli Standardizasyon, numune mikroskoba ulaşmadan önce başlar. Hem WHO 6. hem de ISO 23162, analiz öncesi değişkenlerin \"yanlış\" düşük doğurganlık sonuçlarının en yaygın n",
+      "image": "/Knowledge Hub/Human Semen Analysis Standards/Human Semen Analysis Standards.webp",
+      "alt": "CASA sistemi, Sperm Motilitesi, Sperm Morfolojisi ve dahili ısıtma aşaması ile WHO 6. Baskı Semen Analizi Standartları rehberi, insan androlojisi için",
+      "category": "human",
+      "locale": "tr"
+    },
+    {
+      "id": "who-6th-edition-semen-analysis-standards",
+      "slug": "who-6th-edition-semen-analysis-standards",
+      "title": "Semen Analizi Mükemmelliği: WHO 6. Baskı Standartları ve CASA Teknolojisi Hakkında Kapsamlı Rehber",
+      "subtitle": "Gelişmiş CASA teknolojisi ile WHO 6. Baskı standartlarında ustalaşarak hassas erkek doğurganlık değerlendirmesi",
+      "content": "Üreme tıbbı alanında, semen analizi erkek doğurganlık değerlendirmesinin temel taşı olmaya devam etmektedir. WHO 6. Baskı'nın (2021) yayınlanmasıyla, endüstri daha yüksek hassasiyet, daha sıkı kalite kontrolü ve gelişmiş Bilgisayar Destekli Sperm Analizi (CASA) sistemlerinin entegrasyonuna doğru kaymıştır. Bu makale, bu standartların evrimini ve modern klinik tanılar için teknik gereksinimleri araştırmaktadır. Bölüm 1: CASA'nın Modern Androlojideki Rolü Geleneksel manuel mikroskopi, uzun süredir",
+      "image": "/WHO6.webp",
+      "alt": "CASA sistemi, Nexus Dx1, Sperm Motilitesi, Sperm Morfolojisi ve dahili ısıtma aşaması ile WHO 6. Baskı Semen Analizi Standartları rehberi",
+      "category": "human",
+      "locale": "tr"
+    },
+    {
+      "id": "iso-23162-2021-laboratory-competence-guide",
+      "slug": "iso-23162-2021-laboratory-competence-guide",
+      "title": "Küresel Standartları Köprülemek: ISO 23162:2021 ve Laboratuvar Yeterliliği Hakkında Derinlemesine İnceleme",
+      "subtitle": "Küresel olarak karşılaştırılabilir semen inceleme sonuçları için ISO 23162:2021 teknik gereksinimlerinde ve kalite yönetim çerçevesinde ustalaşma",
+      "content": "Bu makale, temel insan semen incelemesi için gereksinimleri ve test yöntemlerini belirten uluslararası standart ISO 23162:2021'e odaklanmaktadır. WHO 6. Baskı klinik el kitabını sağlarken, ISO 23162, laboratuvarların sonuçlarının küresel olarak karşılaştırılabilir olmasını sağlamak için teknik ve kalite yönetim çerçevesini sağlar. ISO 23162:2021'in yayınlanması, temel semen incelemesi için ilk özel uluslararası standart olarak üreme tıbbında bir dönüm noktası olmuştur. Klinikler ve laboratuvarla",
+      "image": "/ISO.webp",
+      "alt": "CASA sistemi, Nexus Dx1, Semen inceleme gereksinimleri, Kalite kontrolü ve Laboratuvar standartları ile ISO 23162:2021 Laboratuvar Yeterliliği rehberi",
+      "category": "human",
+      "locale": "tr"
+    },
+    {
+      "id": "eshre-guidelines-clinical-semen-examination",
+      "slug": "eshre-guidelines-clinical-semen-examination",
+      "title": "Klinik Mükemmellik: Semen İncelemesi ve Hasta Yönetimi için ESHRE Kılavuzları",
+      "subtitle": "Laboratuvar sonuçları ile optimal ART sonuçları için klinik karar verme arasında köprü kuran kanıta dayalı ESHRE kılavuzları",
+      "content": "WHO El Kitabı \"nasıl yapılır\" sağlarken ve ISO 23162 \"teknik özellikler\" sağlarken, ESHRE Bakım Standardına odaklanır—bu tanıların, Yardımcı Üreme Teknolojisi (ART) sonuçlarını iyileştirmek için klinik uygulamaya nasıl entegre edilmesi gerektiği. Avrupa üreme tıbbının önde gelen otoritesi olarak, ESHRE laboratuvar sonuçları ile klinik karar verme arasındaki boşluğu dolduran kanıta dayalı kılavuzlar sağlar. Modern doğurganlık klinikleri için, ESHRE önerilerine uymak, semen analizinin sadece bir v",
+      "image": "/ESHRE.webp",
+      "alt": "CASA sistemi, Nexus Dx1, ART mükemmelliği, IVF, ICSI ve Yardımcı Üreme Teknolojisi ile ESHRE Kılavuzları Klinik Semen İncelemesi rehberi",
+      "category": "human",
+      "locale": "tr"
+    },
+    {
+      "id": "asrm-male-infertility-evaluation-protocols",
+      "slug": "asrm-male-infertility-evaluation-protocols",
+      "title": "Klinik Bütünlük: Erkek İnfertilite Değerlendirmesi ve Semen Analizi için ASRM Kılavuzları",
+      "subtitle": "Semen analizini bütünsel erkek infertilite tanısı ve tedavi yollarına entegre eden kanıta dayalı ASRM protokolleri",
+      "content": "WHO El Kitabı \"nasıl yapılır\" sağlarken ve ISO 23162 \"teknik standartlar\" sağlarken, ASRM Klinik Yoluna odaklanır—semen analizi sonuçlarının, klinik ortamda infertil erkeğin tanı çalışmasını ve tedavisini nasıl yönlendirmesi gerektiği. Amerika Birleşik Devletleri'ndeki üreme tıbbının önde gelen otoritesi olarak, ASRM modern doğurganlık bakımını tanımlayan kanıta dayalı protokolleri oluşturur. Klinisyenler ve laboratuvar direktörleri için, ASRM komite görüşlerini takip etmek, semen analizinin has",
+      "image": "/ASRM.webp",
+      "alt": "CASA sistemi, Nexus Dx1, Erkek infertilite çalışması, IUI, IVF, ICSI ve Klinik Laboratuvar standartları ile ASRM Erkek İnfertilite Değerlendirmesi Protokolleri rehberi",
+      "category": "human",
+      "locale": "tr"
+    },
+    {
+      "id": "faq-bull-breeding-soundness",
+      "slug": "faq-bull-breeding-soundness",
+      "title": "Boğa Üreme Sağlığı İçin Kesin Rehber",
+      "subtitle": "Klinik Standartlar ve Modern Metodoloji",
+      "content": "Bu kapsamlı rehber, Theriogenology Derneği (SFT) yönergelerine göre tam bir Boğa Üreme Sağlığı Muayenesi (BSE) gerçekleştirmek için gereken klinik standartları ve modern metodolojileri veteriner profesyonellerine ve üreticilere sunar. Bölüm 1: Baba Hayvanın Biyo-Davranışsal Değerlendirmesi Andrologistler olarak klinik uygulamamızda, sık sık üreticilere bir boğanın değerinin bir test tüpünde değil, meralarda bir ineğe hizmet etme yeteneğinde olduğunu hatırlatırız. Bu bölüm, yalnızca laboratuvar o",
+      "image": "/Knowledge Hub/Bull Breeding Soundness Guide/Bull Breeding Soundness Guide.webp",
+      "alt": "SFT Veteriner Semen Analizi Yönergeleri, CASA sistemi, Sperm Motilitesi ve dahili ısıtma aşaması ile Boğa Üreme Sağlığı Muayenesi rehberi",
+      "category": "veterinary",
+      "locale": "tr"
+    },
+    {
+      "id": "faq-canine-semen-analysis",
+      "slug": "faq-canine-semen-analysis",
+      "title": "Köpek Semen Analizi Profesyonel Rehberi",
+      "subtitle": "Köpek Doğurganlığı ve Üreme Bütünlüğü için Klinik Standartlar",
+      "content": "Bu kapsamlı rehber, tam bir Köpek Üreme Sağlığı Muayenesi (BSE) ve semen analizi gerçekleştirmek için gereken klinik standartları ve metodolojileri veteriner profesyonellerine ve yetiştiricilere sunar. Bölüm 1: Seçim ve Üreme Yaşam Döngüsü Bir üreme köpeğinin değerlendirmesi, soyağacı ve gelişim geçmişi ile başlar. Köpek androlojisinde, ergenlik genellikle ırka bağlı olarak 6 ila 12 ay arasında meydana gelir (daha büyük ırklar genellikle daha geç olgunlaşır). Ancak, genellikle tam bir Üreme Sağl",
+      "image": "/Knowledge Hub/Canine Semen Analysis Guide/Canine Semen Analysis Guide.webp",
+      "alt": "Köpek doğurganlığı için SFT Veteriner standartları, CASA sistemi, Sperm Motilitesi, Sperm Morfolojisi ve dahili ısıtma aşaması ile Köpek Semen Analizi rehberi",
+      "category": "veterinary",
+      "locale": "tr"
+    },
+    {
+      "id": "faq-poultry-semen-analysis",
+      "slug": "faq-poultry-semen-analysis",
+      "title": "Kanatlı Semen Analizi Profesyonel Rehberi",
+      "subtitle": "Horoz Doğurganlığı için Klinik Standartlar",
+      "content": "Kanatlı endüstrisinde, özellikle broiler yetiştiricileri ve yumurta tavukları için, horoz doğurganlığının değerlendirmesi kuluçka başarısının ve sürü yenilemenin temel taşıdır. Memelilerin aksine, kanatlılar için tek bir \"SFT El Kitabı\" yoktur; bunun yerine, standartlar Dünya Kanatlı Bilimi Derneği (WPSA) yönergeleri, Hayvan Genetik Kaynakları için FAO protokolleri ve birincil yetiştiricilerin teknik el kitapları (Aviagen ve Cobb gibi) tarafından yönetilir. Bölüm 1: Baba Hayvanın Seçimi ve Genet",
+      "image": "/Knowledge Hub/Poultry Semen Analysis Guide/Poultry Semen Analysis Guide.webp",
+      "alt": "Horoz doğurganlığı için SFT Veteriner standartları, CASA sistemi, Sperm Motilitesi, Sperm Morfolojisi ve dahili ısıtma aşaması ile Kanatlı Semen Analizi rehberi",
+      "category": "veterinary",
+      "locale": "tr"
+    },
+    {
+      "id": "faq-stallion-semen-analysis",
+      "slug": "faq-stallion-semen-analysis",
+      "title": "Aygır Semen Analizi Profesyonel Rehberi",
+      "subtitle": "At Üreme Sağlığı (EBSE) için Klinik Standartlar",
+      "content": "Bu kapsamlı rehber, tam bir At Üreme Sağlığı Değerlendirmesi (EBSE) ve semen analizi gerçekleştirmek için gereken klinik standartları ve metodolojileri veteriner profesyonellerine ve yetiştiricilere sunar. Bölüm 1: Aygır Seçimi ve Üreme Davranışı Bir aygırın değerlendirmesi, genetik soyağacı ve üreme davranışının kapsamlı bir değerlendirmesi ile başlar. At endüstrisinde, bir aygır güçlü, kontrol edilebilir bir libidoya sahip olmalıdır. Aygırın \"teşvik kısrağına\" tepkisini değerlendiriyoruz, anın",
+      "image": "/Knowledge Hub/Stallion Semen Analysis Guide/Stallion Semen Analysis Guide.webp",
+      "alt": "At üreme sağlığı için SFT Veteriner standartları, CASA sistemi, Sperm Motilitesi, Sperm Morfolojisi ve dahili ısıtma aşaması ile Aygır Semen Analizi rehberi",
+      "category": "veterinary",
+      "locale": "tr"
+    },
+    {
+      "id": "faq-camelid-andrology",
+      "slug": "faq-camelid-andrology",
+      "title": "Devegiller Androlojisi Profesyonel Standardı",
+      "subtitle": "Deve Doğurganlığı için Klinik Değerlendirme ve Dijital Analiz Yönergeleri",
+      "content": "Devegiller androlojisi, veteriner üremesindeki en zorlu ve uzmanlaşmış alanlardan biridir. Tek hörgüçlü (Dromedary) veya çift hörgüçlü (Bactrian) develerle uğraşırken, bu \"çöl gemilerinin\" benzersiz fizyolojik özellikleri - özellikle yoğun mevsimsellik ve semenlerinin aşırı viskozitesi - özel bir tanı yaklaşımı gerektirir. Bölüm 1: Mevsimsellik ve \"Rut\" Fizyolojisi Devegiller üremesinde, mevsimsellik her klinik sonucu belirleyen üst düzey faktördür. Develer mevsimsel üreyicilerdir ve üreme aktiv",
+      "image": "/Knowledge Hub/Camelid Andrology Guide/Camelid Andrology Guide.webp",
+      "alt": "Deve doğurganlığı değerlendirmesi için SFT Veteriner standartları, CASA sistemi, Sperm Motilitesi, Sperm Morfolojisi ve dahili ısıtma aşaması ile Devegiller Androlojisi rehberi",
+      "category": "veterinary",
+      "locale": "tr"
+    },
+    {
+      "id": "faq-fish-semen-analysis",
+      "slug": "faq-fish-semen-analysis",
+      "title": "Balık Semen Analizi Yetkili Rehberi",
+      "subtitle": "Anaç Stok Yönetimi ve Üreme Başarısı için Klinik Standartlar",
+      "content": "Başarılı bir kuluçkanın temeli, \"Anaç Stok\" seçiminde yatar. Memelilerin aksine, balık doğurganlığı çevresel döngüler ve yaşa özgü olgunlaşma ile derinden iç içe geçmiştir. Bu kapsamlı rehber, balık semen analizi ve anaç stok yönetiminin benzersiz zorluklarını ele alır. Bölüm 1: Anaç Stok Baba Hayvanlarının Seçimi ve Yönetimi Baba hayvanları \"Fenotipik Hazırlık\" - ikincil cinsel özellikler (örneğin, sazangillerde üreme tüberkülleri veya salmonidlerde kype gelişimi) gibi göstergelere göre değerle",
+      "image": "/Knowledge Hub/Fish Semen Analysis Guide/Fish Semen Analysis Guide.webp",
+      "alt": "Anaç stok yönetimi için SFT Veteriner standartları, CASA sistemi, Sperm Motilitesi, Sperm Morfolojisi ve dahili ısıtma aşaması ile Balık Semen Analizi rehberi",
+      "category": "veterinary",
+      "locale": "tr"
+    },
+    {
+      "id": "faq-ram-breeding-soundness",
+      "slug": "faq-ram-breeding-soundness",
+      "title": "Koç Üreme Sağlığı Muayenesi (RBSE)",
+      "subtitle": "Koç Doğurganlığı Değerlendirmesi için Klinik Standartlar",
+      "content": "Koç doğurganlığında onu diğer çiftlik hayvanlarından ayıran en kritik faktörlerden biri yoğun mevsimselliğidir. Koçlar \"kısa gün\" üreyicileridir; üreme endokrin sistemleri fotoperiyot tarafından yönetilir. Bu kapsamlı rehber, tam bir Koç Üreme Sağlığı Muayenesi (RBSE) gerçekleştirmek için gereken klinik standartları veteriner profesyonellerine ve üreticilere sunar. Bölüm 1: Mevsimsellik, Fotoperiyot ve Ergenlik Sonbaharda gün uzunluğu azaldıkça, melatonin üretimi artar, GnRH, FSH ve LH'de bir ar",
+      "image": "/Knowledge Hub/Ram Breeding Soundness Examination (RBSE)/Ram Breeding Soundness Examination (RBSE).webp",
+      "alt": "Koç doğurganlığı değerlendirmesi için SFT Veteriner standartları, CASA sistemi, Sperm Motilitesi, Sperm Morfolojisi ve dahili ısıtma aşaması ile Koç Üreme Sağlığı Muayenesi rehberi",
+      "category": "veterinary",
+      "locale": "tr"
+    },
+    {
+      "id": "faq-boar-semen-evaluation",
+      "slug": "faq-boar-semen-evaluation",
+      "title": "Domuz Semen Değerlendirme ve İşleme Standartları",
+      "subtitle": "Domuz Üreme Sağlığı Muayenesi (BBSE)",
+      "content": "Yüksek performanslı bir baba hayvanın yolculuğu seçimle başlar. Doğal hizmetin hala yaygın olduğu sığırların aksine, modern domuz neredeyse yalnızca bir Yapay Tohumlama (AI) donörüdür. Bu kapsamlı rehber, tam bir Domuz Üreme Sağlığı Muayenesi (BBSE) ve semen değerlendirmesi gerçekleştirmek için gereken klinik standartları veteriner profesyonellerine ve üreticilere sunar. Bölüm 1: Seçim ve Ergenlik — Genetik Temel Seçimi üç temel üzerine önceliklendiriyoruz: genetik değer, yapısal sağlamlık ve ür",
+      "image": "/Knowledge Hub/Boar Semen Evaluation Guide/Boar Semen Evaluation Guide.webp",
+      "alt": "Domuz üreme sağlığı muayenesi için SFT Veteriner standartları, CASA sistemi, Sperm Motilitesi, Sperm Morfolojisi ve dahili ısıtma aşaması ile Domuz Semen Değerlendirme rehberi",
+      "category": "veterinary",
+      "locale": "tr"
+    }
+  ],
+  "pages": [
+    {
+      "id": "home",
+      "path": "/",
+      "title": "iSperm Semen Analizörü - Semen Analizinde Devrim",
+      "description": "Klinik ve hayvan yetiştirme kullanımı için tasarlanmış, gelişmiş AI algoritmaları içeren tam otomatik semen analiz sistemi.",
+      "locale": "tr"
+    },
+    {
+      "id": "about",
+      "path": "/about",
+      "title": "Hakkımızda | iSperm Medical | CASA Sistem Üreticisi",
+      "description": "Önde gelen CASA sistemi ve semen analizörü üreticisi. İnsan ve veteriner kullanımı için WHO 6. baskı uyumlu sperm morfoloji analizörleri 2010'dan beri.",
+      "locale": "tr"
+    },
+    {
+      "id": "contact",
+      "path": "/contact",
+      "title": "Contact iSperm Medical | CASA System Support",
+      "description": "Contact leading CASA system & semen analyzer manufacturer. Get support for WHO 6th edition compliant sperm morphology analyzers.",
+      "locale": "tr"
+    },
+    {
+      "id": "products",
+      "path": "/products",
+      "title": "CASA Sistemleri ve Semen Analizörleri | iSperm Medical",
+      "description": "İnsan ve veteriner kullanımı için CASA sistemlerimizi ve sperm morfoloji analizörlerimizi keşfedin. DSÖ 6. baskı uyumlu semen analizör çözümleri.",
+      "locale": "tr"
+    },
+    {
+      "id": "faq",
+      "path": "/faq",
+      "title": "Bilgi Merkezi | CASA Sistemi SSS | iSperm Medical",
+      "description": "Kapsamlı CASA sistemi SSS, WHO 6. baskı rehberleri ve semen analizi kaynakları. Sperm morfoloji analizörleri hakkında uzman görüşleri.",
+      "locale": "tr"
+    }
+  ],
+  "images": [
+    {
+      "id": "nexus-dx1-0",
+      "src": "/nexus-dx1-cover.webp",
+      "alt": "Nexus Dx1 - Product image 1",
+      "filename": "nexus-dx1-cover.webp",
+      "type": "product",
+      "associatedContent": {
+        "type": "product",
+        "id": "nexus-dx1",
+        "title": "Nexus Dx1",
+        "url": "/products/nexus-dx1"
+      },
+      "locale": "tr"
+    },
+    {
+      "id": "nexus-dx1-1",
+      "src": "/nexus-dx1.webp",
+      "alt": "Nexus Dx1 - Product image 2",
+      "filename": "nexus-dx1.webp",
+      "type": "product",
+      "associatedContent": {
+        "type": "product",
+        "id": "nexus-dx1",
+        "title": "Nexus Dx1",
+        "url": "/products/nexus-dx1"
+      },
+      "locale": "tr"
+    },
+    {
+      "id": "nexus-dx1-2",
+      "src": "/nexus-dx1-2.webp",
+      "alt": "Nexus Dx1 - Product image 3",
+      "filename": "nexus-dx1-2.webp",
+      "type": "product",
+      "associatedContent": {
+        "type": "product",
+        "id": "nexus-dx1",
+        "title": "Nexus Dx1",
+        "url": "/products/nexus-dx1"
+      },
+      "locale": "tr"
+    },
+    {
+      "id": "nexus-dx1-3",
+      "src": "/nexus-dx1-3.webp",
+      "alt": "Nexus Dx1 - Product image 4",
+      "filename": "nexus-dx1-3.webp",
+      "type": "product",
+      "associatedContent": {
+        "type": "product",
+        "id": "nexus-dx1",
+        "title": "Nexus Dx1",
+        "url": "/products/nexus-dx1"
+      },
+      "locale": "tr"
+    },
+    {
+      "id": "nexus-dx1-4",
+      "src": "/nexus-dx1-4.webp",
+      "alt": "Nexus Dx1 - Product image 5",
+      "filename": "nexus-dx1-4.webp",
+      "type": "product",
+      "associatedContent": {
+        "type": "product",
+        "id": "nexus-dx1",
+        "title": "Nexus Dx1",
+        "url": "/products/nexus-dx1"
+      },
+      "locale": "tr"
+    },
+    {
+      "id": "msqa-100-0",
+      "src": "/MSQA-100/msqa-100-cover.webp",
+      "alt": "MSQA-100 - Product image 1",
+      "filename": "msqa-100-cover.webp",
+      "type": "product",
+      "associatedContent": {
+        "type": "product",
+        "id": "msqa-100",
+        "title": "MSQA-100",
+        "url": "/products/msqa-100"
+      },
+      "locale": "tr"
+    },
+    {
+      "id": "msqa-100-1",
+      "src": "/MSQA-100/msqa-100-1.webp",
+      "alt": "MSQA-100 - Product image 2",
+      "filename": "msqa-100-1.webp",
+      "type": "product",
+      "associatedContent": {
+        "type": "product",
+        "id": "msqa-100",
+        "title": "MSQA-100",
+        "url": "/products/msqa-100"
+      },
+      "locale": "tr"
+    },
+    {
+      "id": "msqa-100-2",
+      "src": "/MSQA-100/msqa-100-2.webp",
+      "alt": "MSQA-100 - Product image 3",
+      "filename": "msqa-100-2.webp",
+      "type": "product",
+      "associatedContent": {
+        "type": "product",
+        "id": "msqa-100",
+        "title": "MSQA-100",
+        "url": "/products/msqa-100"
+      },
+      "locale": "tr"
+    },
+    {
+      "id": "sqa-6100vet-0",
+      "src": "/sqa-6100vet-cover.webp",
+      "alt": "SQA-6100vet - Product image 1",
+      "filename": "sqa-6100vet-cover.webp",
+      "type": "product",
+      "associatedContent": {
+        "type": "product",
+        "id": "sqa-6100vet",
+        "title": "SQA-6100vet",
+        "url": "/products/sqa-6100vet"
+      },
+      "locale": "tr"
+    },
+    {
+      "id": "sqa-6100vet-1",
+      "src": "/sqa-6100vet-1.webp",
+      "alt": "SQA-6100vet - Product image 2",
+      "filename": "sqa-6100vet-1.webp",
+      "type": "product",
+      "associatedContent": {
+        "type": "product",
+        "id": "sqa-6100vet",
+        "title": "SQA-6100vet",
+        "url": "/products/sqa-6100vet"
+      },
+      "locale": "tr"
+    },
+    {
+      "id": "sqa-6100vet-2",
+      "src": "/sqa-6100vet-2.webp",
+      "alt": "SQA-6100vet - Product image 3",
+      "filename": "sqa-6100vet-2.webp",
+      "type": "product",
+      "associatedContent": {
+        "type": "product",
+        "id": "sqa-6100vet",
+        "title": "SQA-6100vet",
+        "url": "/products/sqa-6100vet"
+      },
+      "locale": "tr"
+    },
+    {
+      "id": "article-faq-human-semen-standards",
+      "src": "/Knowledge Hub/Human Semen Analysis Standards/Human Semen Analysis Standards.webp",
+      "alt": "CASA sistemi, Sperm Motilitesi, Sperm Morfolojisi ve dahili ısıtma aşaması ile WHO 6. Baskı Semen Analizi Standartları rehberi, insan androlojisi için",
+      "filename": "Human Semen Analysis Standards.webp",
+      "type": "article",
+      "associatedContent": {
+        "type": "article",
+        "id": "faq-human-semen-standards",
+        "title": "İnsan Semen Analizi için Küresel Standartlar",
+        "url": "/faq/faq-human-semen-standards"
+      },
+      "locale": "tr"
+    },
+    {
+      "id": "article-who-6th-edition-semen-analysis-standards",
+      "src": "/WHO6.webp",
+      "alt": "CASA sistemi, Nexus Dx1, Sperm Motilitesi, Sperm Morfolojisi ve dahili ısıtma aşaması ile WHO 6. Baskı Semen Analizi Standartları rehberi",
+      "filename": "WHO6.webp",
+      "type": "article",
+      "associatedContent": {
+        "type": "article",
+        "id": "who-6th-edition-semen-analysis-standards",
+        "title": "Semen Analizi Mükemmelliği: WHO 6. Baskı Standartları ve CASA Teknolojisi Hakkında Kapsamlı Rehber",
+        "url": "/faq/who-6th-edition-semen-analysis-standards"
+      },
+      "locale": "tr"
+    },
+    {
+      "id": "article-iso-23162-2021-laboratory-competence-guide",
+      "src": "/ISO.webp",
+      "alt": "CASA sistemi, Nexus Dx1, Semen inceleme gereksinimleri, Kalite kontrolü ve Laboratuvar standartları ile ISO 23162:2021 Laboratuvar Yeterliliği rehberi",
+      "filename": "ISO.webp",
+      "type": "article",
+      "associatedContent": {
+        "type": "article",
+        "id": "iso-23162-2021-laboratory-competence-guide",
+        "title": "Küresel Standartları Köprülemek: ISO 23162:2021 ve Laboratuvar Yeterliliği Hakkında Derinlemesine İnceleme",
+        "url": "/faq/iso-23162-2021-laboratory-competence-guide"
+      },
+      "locale": "tr"
+    },
+    {
+      "id": "article-eshre-guidelines-clinical-semen-examination",
+      "src": "/ESHRE.webp",
+      "alt": "CASA sistemi, Nexus Dx1, ART mükemmelliği, IVF, ICSI ve Yardımcı Üreme Teknolojisi ile ESHRE Kılavuzları Klinik Semen İncelemesi rehberi",
+      "filename": "ESHRE.webp",
+      "type": "article",
+      "associatedContent": {
+        "type": "article",
+        "id": "eshre-guidelines-clinical-semen-examination",
+        "title": "Klinik Mükemmellik: Semen İncelemesi ve Hasta Yönetimi için ESHRE Kılavuzları",
+        "url": "/faq/eshre-guidelines-clinical-semen-examination"
+      },
+      "locale": "tr"
+    },
+    {
+      "id": "article-asrm-male-infertility-evaluation-protocols",
+      "src": "/ASRM.webp",
+      "alt": "CASA sistemi, Nexus Dx1, Erkek infertilite çalışması, IUI, IVF, ICSI ve Klinik Laboratuvar standartları ile ASRM Erkek İnfertilite Değerlendirmesi Protokolleri rehberi",
+      "filename": "ASRM.webp",
+      "type": "article",
+      "associatedContent": {
+        "type": "article",
+        "id": "asrm-male-infertility-evaluation-protocols",
+        "title": "Klinik Bütünlük: Erkek İnfertilite Değerlendirmesi ve Semen Analizi için ASRM Kılavuzları",
+        "url": "/faq/asrm-male-infertility-evaluation-protocols"
+      },
+      "locale": "tr"
+    },
+    {
+      "id": "article-faq-bull-breeding-soundness",
+      "src": "/Knowledge Hub/Bull Breeding Soundness Guide/Bull Breeding Soundness Guide.webp",
+      "alt": "SFT Veteriner Semen Analizi Yönergeleri, CASA sistemi, Sperm Motilitesi ve dahili ısıtma aşaması ile Boğa Üreme Sağlığı Muayenesi rehberi",
+      "filename": "Bull Breeding Soundness Guide.webp",
+      "type": "article",
+      "associatedContent": {
+        "type": "article",
+        "id": "faq-bull-breeding-soundness",
+        "title": "Boğa Üreme Sağlığı İçin Kesin Rehber",
+        "url": "/faq/faq-bull-breeding-soundness"
+      },
+      "locale": "tr"
+    },
+    {
+      "id": "article-faq-canine-semen-analysis",
+      "src": "/Knowledge Hub/Canine Semen Analysis Guide/Canine Semen Analysis Guide.webp",
+      "alt": "Köpek doğurganlığı için SFT Veteriner standartları, CASA sistemi, Sperm Motilitesi, Sperm Morfolojisi ve dahili ısıtma aşaması ile Köpek Semen Analizi rehberi",
+      "filename": "Canine Semen Analysis Guide.webp",
+      "type": "article",
+      "associatedContent": {
+        "type": "article",
+        "id": "faq-canine-semen-analysis",
+        "title": "Köpek Semen Analizi Profesyonel Rehberi",
+        "url": "/faq/faq-canine-semen-analysis"
+      },
+      "locale": "tr"
+    },
+    {
+      "id": "article-faq-poultry-semen-analysis",
+      "src": "/Knowledge Hub/Poultry Semen Analysis Guide/Poultry Semen Analysis Guide.webp",
+      "alt": "Horoz doğurganlığı için SFT Veteriner standartları, CASA sistemi, Sperm Motilitesi, Sperm Morfolojisi ve dahili ısıtma aşaması ile Kanatlı Semen Analizi rehberi",
+      "filename": "Poultry Semen Analysis Guide.webp",
+      "type": "article",
+      "associatedContent": {
+        "type": "article",
+        "id": "faq-poultry-semen-analysis",
+        "title": "Kanatlı Semen Analizi Profesyonel Rehberi",
+        "url": "/faq/faq-poultry-semen-analysis"
+      },
+      "locale": "tr"
+    },
+    {
+      "id": "article-faq-stallion-semen-analysis",
+      "src": "/Knowledge Hub/Stallion Semen Analysis Guide/Stallion Semen Analysis Guide.webp",
+      "alt": "At üreme sağlığı için SFT Veteriner standartları, CASA sistemi, Sperm Motilitesi, Sperm Morfolojisi ve dahili ısıtma aşaması ile Aygır Semen Analizi rehberi",
+      "filename": "Stallion Semen Analysis Guide.webp",
+      "type": "article",
+      "associatedContent": {
+        "type": "article",
+        "id": "faq-stallion-semen-analysis",
+        "title": "Aygır Semen Analizi Profesyonel Rehberi",
+        "url": "/faq/faq-stallion-semen-analysis"
+      },
+      "locale": "tr"
+    },
+    {
+      "id": "article-faq-camelid-andrology",
+      "src": "/Knowledge Hub/Camelid Andrology Guide/Camelid Andrology Guide.webp",
+      "alt": "Deve doğurganlığı değerlendirmesi için SFT Veteriner standartları, CASA sistemi, Sperm Motilitesi, Sperm Morfolojisi ve dahili ısıtma aşaması ile Devegiller Androlojisi rehberi",
+      "filename": "Camelid Andrology Guide.webp",
+      "type": "article",
+      "associatedContent": {
+        "type": "article",
+        "id": "faq-camelid-andrology",
+        "title": "Devegiller Androlojisi Profesyonel Standardı",
+        "url": "/faq/faq-camelid-andrology"
+      },
+      "locale": "tr"
+    },
+    {
+      "id": "article-faq-fish-semen-analysis",
+      "src": "/Knowledge Hub/Fish Semen Analysis Guide/Fish Semen Analysis Guide.webp",
+      "alt": "Anaç stok yönetimi için SFT Veteriner standartları, CASA sistemi, Sperm Motilitesi, Sperm Morfolojisi ve dahili ısıtma aşaması ile Balık Semen Analizi rehberi",
+      "filename": "Fish Semen Analysis Guide.webp",
+      "type": "article",
+      "associatedContent": {
+        "type": "article",
+        "id": "faq-fish-semen-analysis",
+        "title": "Balık Semen Analizi Yetkili Rehberi",
+        "url": "/faq/faq-fish-semen-analysis"
+      },
+      "locale": "tr"
+    },
+    {
+      "id": "article-faq-ram-breeding-soundness",
+      "src": "/Knowledge Hub/Ram Breeding Soundness Examination (RBSE)/Ram Breeding Soundness Examination (RBSE).webp",
+      "alt": "Koç doğurganlığı değerlendirmesi için SFT Veteriner standartları, CASA sistemi, Sperm Motilitesi, Sperm Morfolojisi ve dahili ısıtma aşaması ile Koç Üreme Sağlığı Muayenesi rehberi",
+      "filename": "Ram Breeding Soundness Examination (RBSE).webp",
+      "type": "article",
+      "associatedContent": {
+        "type": "article",
+        "id": "faq-ram-breeding-soundness",
+        "title": "Koç Üreme Sağlığı Muayenesi (RBSE)",
+        "url": "/faq/faq-ram-breeding-soundness"
+      },
+      "locale": "tr"
+    },
+    {
+      "id": "article-faq-boar-semen-evaluation",
+      "src": "/Knowledge Hub/Boar Semen Evaluation Guide/Boar Semen Evaluation Guide.webp",
+      "alt": "Domuz üreme sağlığı muayenesi için SFT Veteriner standartları, CASA sistemi, Sperm Motilitesi, Sperm Morfolojisi ve dahili ısıtma aşaması ile Domuz Semen Değerlendirme rehberi",
+      "filename": "Boar Semen Evaluation Guide.webp",
+      "type": "article",
+      "associatedContent": {
+        "type": "article",
+        "id": "faq-boar-semen-evaluation",
+        "title": "Domuz Semen Değerlendirme ve İşleme Standartları",
+        "url": "/faq/faq-boar-semen-evaluation"
+      },
+      "locale": "tr"
+    },
+    {
+      "id": "about-0",
+      "src": "/About%20us%20(1).webp",
+      "alt": "iSperm Medical ekibi sergide tam otomatik CASA sistemi ve sperm kalite analizörü sunuyor",
+      "filename": "About%20us%20(1).webp",
+      "type": "about",
+      "associatedContent": {
+        "type": "page",
+        "id": "about",
+        "title": "Hakkımızda | iSperm Medical | CASA Sistem Üreticisi",
+        "url": "/about"
+      },
+      "locale": "tr"
+    },
+    {
+      "id": "about-1",
+      "src": "/About%20us%20(2).webp",
+      "alt": "iSperm Medical profesyonelleri veteriner semen analizörü ve hayvan yetiştirme çözümlerini tartışıyor",
+      "filename": "About%20us%20(2).webp",
+      "type": "about",
+      "associatedContent": {
+        "type": "page",
+        "id": "about",
+        "title": "Hakkımızda | iSperm Medical | CASA Sistem Üreticisi",
+        "url": "/about"
+      },
+      "locale": "tr"
+    },
+    {
+      "id": "about-2",
+      "src": "/About%20Us%202.webp",
+      "alt": "iSperm Medical ekibi ve etkinlikleri CASA teknolojisi ve üreme sağlığı çözümlerini sergiliyor",
+      "filename": "About%20Us%202.webp",
+      "type": "about",
+      "associatedContent": {
+        "type": "page",
+        "id": "about",
+        "title": "Hakkımızda | iSperm Medical | CASA Sistem Üreticisi",
+        "url": "/about"
+      },
+      "locale": "tr"
+    },
+    {
+      "id": "about-3",
+      "src": "/About%20Us%204.webp",
+      "alt": "iSperm Medical ekibi otomatik semen analiz sistemleri içeren sunumlar ve sergiler düzenliyor",
+      "filename": "About%20Us%204.webp",
+      "type": "about",
+      "associatedContent": {
+        "type": "page",
+        "id": "about",
+        "title": "Hakkımızda | iSperm Medical | CASA Sistem Üreticisi",
+        "url": "/about"
+      },
+      "locale": "tr"
+    },
+    {
+      "id": "about-4",
+      "src": "/About%20Us%205.webp",
+      "alt": "iSperm Medical etkinlikleri ve ekibi yenilikçi CASA sistemleri ve sperm kalite analizörlerini sergiliyor",
+      "filename": "About%20Us%205.webp",
+      "type": "about",
+      "associatedContent": {
+        "type": "page",
+        "id": "about",
+        "title": "Hakkımızda | iSperm Medical | CASA Sistem Üreticisi",
+        "url": "/about"
+      },
+      "locale": "tr"
+    },
+    {
+      "id": "banner-0",
+      "src": "/banner%20(1).webp",
+      "alt": "iSperm Medical - Banner image 1",
+      "filename": "banner%20(1).webp",
+      "type": "banner",
+      "associatedContent": {
+        "type": "page",
+        "id": "home",
+        "title": "iSperm Semen Analizörü - Semen Analizinde Devrim",
+        "url": "/"
+      },
+      "locale": "tr"
+    },
+    {
+      "id": "banner-1",
+      "src": "/banner%20(2).webp",
+      "alt": "iSperm Medical - Banner image 2",
+      "filename": "banner%20(2).webp",
+      "type": "banner",
+      "associatedContent": {
+        "type": "page",
+        "id": "home",
+        "title": "iSperm Semen Analizörü - Semen Analizinde Devrim",
+        "url": "/"
+      },
+      "locale": "tr"
+    },
+    {
+      "id": "banner-2",
+      "src": "/banner%20(3).webp",
+      "alt": "iSperm Medical - Banner image 3",
+      "filename": "banner%20(3).webp",
+      "type": "banner",
+      "associatedContent": {
+        "type": "page",
+        "id": "home",
+        "title": "iSperm Semen Analizörü - Semen Analizinde Devrim",
+        "url": "/"
+      },
+      "locale": "tr"
+    }
+  ],
+  "locale": "tr"
+}

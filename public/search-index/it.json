@@ -1,0 +1,714 @@
+{
+  "products": [
+    {
+      "id": "nexus-dx1",
+      "slug": "nexus-dx1",
+      "name": "Nexus Dx1",
+      "description": "Sistema CASA completamente automatizzato progettato per uso clinico e di laboratorio, con algoritmi IA avanzati e analisi completa dei parametri.",
+      "subtitle": "Sistema CASA Umano Completamente Automatizzato",
+      "images": [
+        "/nexus-dx1-cover.webp",
+        "/nexus-dx1.webp",
+        "/nexus-dx1-2.webp",
+        "/nexus-dx1-3.webp",
+        "/nexus-dx1-4.webp"
+      ],
+      "features": [
+        "Completamente automatizzato",
+        "Touch screen",
+        "Piastra Termica Integrata",
+        "Sistema standalone all-in-one",
+        "Algoritmo IA dinamico gaussiano avanzato per immagini",
+        "Camera di conteggio: 2 camere migliorate/trattate, profondità fissa 10μm",
+        "Campi di visualizzazione multipli personalizzabili, fino a 1500 spermatozoi per campo di visualizzazione",
+        "Supporta riproduzione video",
+        "Supporta scanner di codici a barre esterno",
+        "Workstation PC",
+        "Analisi completamente automatizzata",
+        "Piastra termica integrata",
+        "Supporto workstation PC"
+      ],
+      "locale": "it"
+    },
+    {
+      "id": "msqa-100",
+      "slug": "msqa-100",
+      "name": "MSQA-100",
+      "description": "Sistema CASA portatile per uso domestico con compatibilità smartphone, offrendo prestazioni di livello laboratoristico in un formato compatto.",
+      "subtitle": "Analizzatore di Sperma CASA Portatile",
+      "images": [
+        "/MSQA-100/msqa-100-cover.webp",
+        "/MSQA-100/msqa-100-1.webp",
+        "/MSQA-100/msqa-100-2.webp"
+      ],
+      "features": [
+        "Compatibile con smartphone",
+        "Controllo temperatura integrato",
+        "Analisi IA basata su cloud"
+      ],
+      "locale": "it"
+    },
+    {
+      "id": "sqa-6100vet",
+      "slug": "sqa-6100vet",
+      "name": "SQA-6100vet",
+      "description": "Sistema CASA completamente automatizzato rivoluzionario per la valutazione riproduttiva animale, con supporto per analisi multi-specie e capacità portatili sul campo.",
+      "subtitle": "Sistema CASA Veterinario Completamente Automatizzato",
+      "images": [
+        "/sqa-6100vet-cover.webp",
+        "/sqa-6100vet-1.webp",
+        "/sqa-6100vet-2.webp"
+      ],
+      "features": [
+        "Completamente automatizzato",
+        "Touch screen",
+        "Piastra Termica Integrata",
+        "Sistema standalone all-in-one",
+        "Algoritmo IA dinamico gaussiano avanzato per immagini",
+        "Camera di conteggio: 6 camere migliorate/trattate, profondità fissa 20μm",
+        "Tempo di analisi veloce fino a 15 secondi, campi di visualizzazione multipli selezionabili",
+        "Supporta riproduzione video",
+        "Supporta scanner di codici a barre esterno",
+        "Workstation PC",
+        "Supporta multi-specie",
+        "Supporto multi-specie",
+        "Tempo di analisi 15 secondi",
+        "Design portatile all-in-one"
+      ],
+      "locale": "it"
+    }
+  ],
+  "articles": [
+    {
+      "id": "faq-human-semen-standards",
+      "slug": "faq-human-semen-standards",
+      "title": "Standard Globali per l'Analisi dello Sperma Umano",
+      "subtitle": "Guida Comparativa (OMS 6a, ISO 23162, ESHRE, & ASRM)",
+      "content": "Nel 2021, il panorama dell'andrologia umana è stato ridefinito dal doppio rilascio del Manuale della 6a Edizione OMS e dello standard ISO 23162:2021. Questi documenti hanno spostato il campo verso una standardizzazione rigorosa, sottolineando che l'accuratezza è possibile solo attraverso un rigoroso controllo di qualità e la riduzione della soggettività umana. 1. Fase Pre-analitica: La Base della Qualità La standardizzazione inizia prima che il campione raggiunga il microscopio. Sia l'OMS 6a che",
+      "image": "/Knowledge Hub/Human Semen Analysis Standards/Human Semen Analysis Standards.webp",
+      "alt": "Guida agli Standard di Analisi dello Sperma della 6a Edizione OMS con sistema CASA, Motilità degli Spermatozoi, Morfologia degli Spermatozoi e piastra termica integrata per andrologia umana",
+      "category": "human",
+      "locale": "it"
+    },
+    {
+      "id": "who-6th-edition-semen-analysis-standards",
+      "slug": "who-6th-edition-semen-analysis-standards",
+      "title": "Eccellenza nell'Analisi dello Sperma: Una Guida Completa agli Standard della 6a Edizione OMS e alla Tecnologia CASA",
+      "subtitle": "Padroneggiare gli standard della 6a Edizione OMS con tecnologia CASA avanzata per una valutazione precisa della fertilità maschile",
+      "content": "Nel campo della medicina riproduttiva, l'analisi dello sperma rimane la pietra angolare della valutazione della fertilità maschile. Con il rilascio della 6a Edizione OMS (2021), l'industria si è spostata verso una maggiore precisione, un controllo di qualità più rigoroso e l'integrazione di sistemi avanzati di Analisi Computerizzata dello Sperma (CASA). Questo articolo esplora l'evoluzione di questi standard e i requisiti tecnici per la diagnostica clinica moderna. Capitolo 1: Il Ruolo del CASA ",
+      "image": "/WHO6.webp",
+      "alt": "Guida agli Standard di Analisi dello Sperma della 6a Edizione OMS con sistema CASA, Nexus Dx1, Motilità degli Spermatozoi, Morfologia degli Spermatozoi e piastra termica integrata",
+      "category": "human",
+      "locale": "it"
+    },
+    {
+      "id": "iso-23162-2021-laboratory-competence-guide",
+      "slug": "iso-23162-2021-laboratory-competence-guide",
+      "title": "Colmare gli Standard Globali: Un Approfondimento su ISO 23162:2021 e la Competenza di Laboratorio",
+      "subtitle": "Padroneggiare i requisiti tecnici ISO 23162:2021 e il quadro di gestione della qualità per risultati di esame dello sperma globalmente comparabili",
+      "content": "Questo articolo si concentra su ISO 23162:2021, lo standard internazionale che specifica i requisiti e i metodi di prova per l'esame base dello sperma umano. Mentre la 6a Edizione OMS fornisce il manuale clinico, ISO 23162 fornisce il quadro tecnico e di gestione della qualità per i laboratori per garantire che i loro risultati siano globalmente comparabili. Il rilascio di ISO 23162:2021 ha segnato una pietra miliare nella medicina riproduttiva, essendo il primo standard internazionale dedicato ",
+      "image": "/ISO.webp",
+      "alt": "Guida alla Competenza di Laboratorio ISO 23162:2021 con sistema CASA, Nexus Dx1, Requisiti di esame dello sperma, Controllo di qualità e Standard di laboratorio",
+      "category": "human",
+      "locale": "it"
+    },
+    {
+      "id": "eshre-guidelines-clinical-semen-examination",
+      "slug": "eshre-guidelines-clinical-semen-examination",
+      "title": "Eccellenza Clinica: Linee Guida ESHRE per l'Esame dello Sperma e la Gestione del Paziente",
+      "subtitle": "Linee guida ESHRE basate sull'evidenza che collegano i risultati di laboratorio e il processo decisionale clinico per risultati ART ottimali",
+      "content": "Mentre il Manuale OMS fornisce il \"come fare\" e ISO 23162 fornisce le \"specifiche tecniche\", ESHRE si concentra sullo Standard di Cura—come queste diagnosi dovrebbero essere integrate nella pratica clinica per migliorare i risultati nella Tecnologia di Riproduzione Assistita (ART). Come autorità leader nella medicina riproduttiva europea, ESHRE fornisce linee guida basate sull'evidenza che colmano il divario tra i risultati di laboratorio e il processo decisionale clinico. Capitolo 1: L'Utilità ",
+      "image": "/ESHRE.webp",
+      "alt": "Guida all'Esame Clinico dello Sperma ESHRE con sistema CASA, Nexus Dx1, Eccellenza ART, IVF, ICSI e Tecnologia di Riproduzione Assistita",
+      "category": "human",
+      "locale": "it"
+    },
+    {
+      "id": "asrm-male-infertility-evaluation-protocols",
+      "slug": "asrm-male-infertility-evaluation-protocols",
+      "title": "Integrità Clinica: Linee Guida ASRM per la Valutazione dell'Infertilità Maschile e l'Analisi dello Sperma",
+      "subtitle": "Protocolli ASRM basati sull'evidenza che integrano l'analisi dello sperma nella diagnosi e nei percorsi di trattamento olistici dell'infertilità maschile",
+      "content": "Mentre il Manuale OMS fornisce il \"come fare\" e ISO 23162 fornisce gli \"standard tecnici\", ASRM si concentra sul Percorso Clinico—dirigendo come i risultati dell'analisi dello sperma dovrebbero guidare il lavoro diagnostico e il trattamento del maschio infertile in un contesto clinico. Come autorità principale nella medicina riproduttiva negli Stati Uniti, ASRM stabilisce i protocolli basati sull'evidenza che definiscono la cura della fertilità moderna. Capitolo 1: L'Analisi dello Sperma come Fo",
+      "image": "/ASRM.webp",
+      "alt": "Guida ai Protocolli di Valutazione dell'Infertilità Maschile ASRM con sistema CASA, Nexus Dx1, Lavoro di infertilità maschile, IUI, IVF, ICSI e Standard di laboratorio clinico",
+      "category": "human",
+      "locale": "it"
+    },
+    {
+      "id": "faq-bull-breeding-soundness",
+      "slug": "faq-bull-breeding-soundness",
+      "title": "Guida Definitiva all'Idoneità Riproduttiva dei Tori",
+      "subtitle": "Standard Clinici e Metodologia Moderna",
+      "content": "Questa guida completa fornisce ai professionisti veterinari e ai produttori gli standard clinici e le metodologie moderne necessarie per eseguire un Esame Completo di Idoneità Riproduttiva del Toro (BSE) secondo le linee guida della Society for Theriogenology (SFT). Capitolo 1: La Valutazione Bio-Comportamentale del Riproduttore Nella nostra pratica clinica come andrologi, ricordiamo spesso ai produttori che il valore di un toro non si trova in una provetta, ma nella sua capacità di servire una ",
+      "image": "/Knowledge Hub/Bull Breeding Soundness Guide/Bull Breeding Soundness Guide.webp",
+      "alt": "Guida all'Esame di Idoneità Riproduttiva del Toro con Linee Guida SFT per Analisi dello Sperma Veterinario, sistema CASA, Motilità degli Spermatozoi e piastra termica integrata",
+      "category": "veterinary",
+      "locale": "it"
+    },
+    {
+      "id": "faq-canine-semen-analysis",
+      "slug": "faq-canine-semen-analysis",
+      "title": "Guida Professionale all'Analisi dello Sperma Canino",
+      "subtitle": "Standard Clinici per la Fertilità Canina e l'Integrità Riproduttiva",
+      "content": "Questa guida completa fornisce ai professionisti veterinari e agli allevatori gli standard clinici e le metodologie necessarie per eseguire un Esame Completo di Idoneità Riproduttiva Canina (BSE) e analisi dello sperma. Capitolo 1: Selezione e Ciclo di Vita Riproduttivo La valutazione di un cane da riproduzione inizia con il suo pedigree e la storia dello sviluppo. Nell'andrologia canina, la pubertà tipicamente si verifica tra i 6 e i 12 mesi, a seconda della razza (le razze più grandi spesso ma",
+      "image": "/Knowledge Hub/Canine Semen Analysis Guide/Canine Semen Analysis Guide.webp",
+      "alt": "Guida all'Analisi dello Sperma Canino con standard veterinari SFT, sistema CASA, Motilità degli Spermatozoi, Morfologia degli Spermatozoi e piastra termica integrata per la fertilità canina",
+      "category": "veterinary",
+      "locale": "it"
+    },
+    {
+      "id": "faq-poultry-semen-analysis",
+      "slug": "faq-poultry-semen-analysis",
+      "title": "Guida Professionale all'Analisi dello Sperma Avicolo",
+      "subtitle": "Standard Clinici per la Fertilità del Gallo",
+      "content": "Nell'industria avicola, specificamente per i riproduttori da carne e le ovaiole, la valutazione della fertilità del gallo è la pietra angolare del successo dell'incubatoio e del ricambio del gregge. A differenza dei mammiferi, non esiste un unico \"Manuale SFT\" per il pollame; invece, gli standard sono governati dalle linee guida della World's Poultry Science Association (WPSA), dai protocolli FAO per le Risorse Genetiche Animali, e dai manuali tecnici dei riproduttori primari (come Aviagen e Cob",
+      "image": "/Knowledge Hub/Poultry Semen Analysis Guide/Poultry Semen Analysis Guide.webp",
+      "alt": "Guida all'Analisi dello Sperma Avicolo con standard veterinari SFT, sistema CASA, Motilità degli Spermatozoi, Morfologia degli Spermatozoi e piastra termica integrata per la fertilità del gallo",
+      "category": "veterinary",
+      "locale": "it"
+    },
+    {
+      "id": "faq-stallion-semen-analysis",
+      "slug": "faq-stallion-semen-analysis",
+      "title": "Guida Professionale all'Analisi dello Sperma di Stallone",
+      "subtitle": "Standard Clinici per l'Idoneità Riproduttiva Equina (EBSE)",
+      "content": "Questa guida completa fornisce ai professionisti veterinari e agli allevatori gli standard clinici e le metodologie necessarie per eseguire una Valutazione Completa di Idoneità Riproduttiva Equina (EBSE) e analisi dello sperma. Capitolo 1: Selezione dello Stallone e Comportamento Riproduttivo La valutazione di uno stallone inizia con il suo pedigree genetico e una valutazione approfondita del suo comportamento riproduttivo. Nell'industria equina, uno stallone deve possedere una libido forte e co",
+      "image": "/Knowledge Hub/Stallion Semen Analysis Guide/Stallion Semen Analysis Guide.webp",
+      "alt": "Guida all'Analisi dello Sperma di Stallone con standard veterinari SFT, sistema CASA, Motilità degli Spermatozoi, Morfologia degli Spermatozoi e piastra termica integrata per l'idoneità riproduttiva equina",
+      "category": "veterinary",
+      "locale": "it"
+    },
+    {
+      "id": "faq-camelid-andrology",
+      "slug": "faq-camelid-andrology",
+      "title": "Standard Professionale per l'Andrologia dei Camelidi",
+      "subtitle": "Linee Guida per la Valutazione Clinica e l'Analisi Digitale della Fertilità del Cammello",
+      "content": "L'andrologia dei camelidi è uno dei campi più impegnativi e specializzati nella riproduzione veterinaria. Che si tratti di dromedari (a una gobba) o cammelli della Battriana (a due gobbe), le caratteristiche fisiologiche uniche di queste \"navi del deserto\"—in particolare la stagionalità intensa e la viscosità estrema del loro sperma—richiedono un approccio diagnostico specializzato. Capitolo 1: Stagionalità e Fisiologia del \"Calore\" Nella riproduzione dei camelidi, la stagionalità è il fattore d",
+      "image": "/Knowledge Hub/Camelid Andrology Guide/Camelid Andrology Guide.webp",
+      "alt": "Guida all'Andrologia dei Camelidi con standard veterinari SFT, sistema CASA, Motilità degli Spermatozoi, Morfologia degli Spermatozoi e piastra termica integrata per la valutazione della fertilità del cammello",
+      "category": "veterinary",
+      "locale": "it"
+    },
+    {
+      "id": "faq-fish-semen-analysis",
+      "slug": "faq-fish-semen-analysis",
+      "title": "Guida Autorevole all'Analisi dello Sperma dei Pesci",
+      "subtitle": "Standard Clinici per la Gestione dei Riproduttori e il Successo Riproduttivo",
+      "content": "Il fondamento di un incubatoio di successo risiede nella selezione dei \"Riproduttori\". A differenza dei mammiferi, la fertilità dei pesci è profondamente intrecciata con i cicli ambientali e la maturazione specifica per età. Questa guida completa affronta le sfide uniche dell'analisi dello sperma dei pesci e della gestione dei riproduttori. Capitolo 1: Selezione e Gestione dei Riproduttori Maschi Valutiamo i riproduttori in base alla loro \"Prontezza Fenotipica\"—indicatori come caratteristiche se",
+      "image": "/Knowledge Hub/Fish Semen Analysis Guide/Fish Semen Analysis Guide.webp",
+      "alt": "Guida all'Analisi dello Sperma dei Pesci con standard veterinari SFT, sistema CASA, Motilità degli Spermatozoi, Morfologia degli Spermatozoi e piastra termica integrata per la gestione dei riproduttori",
+      "category": "veterinary",
+      "locale": "it"
+    },
+    {
+      "id": "faq-ram-breeding-soundness",
+      "slug": "faq-ram-breeding-soundness",
+      "title": "Esame di Idoneità Riproduttiva del Montone (RBSE)",
+      "subtitle": "Standard Clinici per la Valutazione della Fertilità del Montone",
+      "content": "Uno dei fattori più critici nella fertilità del montone che lo distingue da altro bestiame è la sua stagionalità intensa. I montoni sono riproduttori \"a giorni brevi\"; il loro sistema endocrino riproduttivo è governato dal fotoperiodo. Questa guida completa fornisce ai professionisti veterinari e ai produttori gli standard clinici necessari per eseguire un Esame Completo di Idoneità Riproduttiva del Montone (RBSE). Capitolo 1: Stagionalità, Fotoperiodo e Pubertà Man mano che la lunghezza del gio",
+      "image": "/Knowledge Hub/Ram Breeding Soundness Examination (RBSE)/Ram Breeding Soundness Examination (RBSE).webp",
+      "alt": "Guida all'Esame di Idoneità Riproduttiva del Montone con standard veterinari SFT, sistema CASA, Motilità degli Spermatozoi, Morfologia degli Spermatozoi e piastra termica integrata per la valutazione della fertilità del montone",
+      "category": "veterinary",
+      "locale": "it"
+    },
+    {
+      "id": "faq-boar-semen-evaluation",
+      "slug": "faq-boar-semen-evaluation",
+      "title": "Standard di Valutazione e Elaborazione dello Sperma del Verro",
+      "subtitle": "Esame di Idoneità Riproduttiva del Verro (BBSE)",
+      "content": "Il percorso di un riproduttore ad alte prestazioni inizia con la selezione. A differenza del bestiame, dove il servizio naturale è ancora comune, il verro moderno è quasi esclusivamente un donatore di Inseminazione Artificiale (IA). Questa guida completa fornisce ai professionisti veterinari e ai produttori gli standard clinici necessari per eseguire un Esame Completo di Idoneità Riproduttiva del Verro (BBSE) e valutazione dello sperma. Capitolo 1: Selezione e Pubertà — Il Fondamento Genetico Pr",
+      "image": "/Knowledge Hub/Boar Semen Evaluation Guide/Boar Semen Evaluation Guide.webp",
+      "alt": "Guida alla Valutazione dello Sperma del Verro con standard veterinari SFT, sistema CASA, Motilità degli Spermatozoi, Morfologia degli Spermatozoi e piastra termica integrata per l'esame di idoneità riproduttiva del verro",
+      "category": "veterinary",
+      "locale": "it"
+    }
+  ],
+  "pages": [
+    {
+      "id": "home",
+      "path": "/",
+      "title": "iSperm Analizzatore di Sperma - Rivoluzionare l'Analisi dello Sperma",
+      "description": "Sistema di analisi dello sperma completamente automatizzato progettato per uso clinico e riproduzione animale, con algoritmi di IA avanzati.",
+      "locale": "it"
+    },
+    {
+      "id": "about",
+      "path": "/about",
+      "title": "Chi Siamo | iSperm Medical | Produttore di Sistemi CASA",
+      "description": "Leader nella produzione di sistemi CASA e analizzatori di sperma. Analizzatori di morfologia degli spermatozoi conformi alla 6a edizione dell'OMS per uso umano e veterinario dal 2010.",
+      "locale": "it"
+    },
+    {
+      "id": "contact",
+      "path": "/contact",
+      "title": "Contact iSperm Medical | CASA System Support",
+      "description": "Contact leading CASA system & semen analyzer manufacturer. Get support for WHO 6th edition compliant sperm morphology analyzers.",
+      "locale": "it"
+    },
+    {
+      "id": "products",
+      "path": "/products",
+      "title": "Sistemi CASA & Analizzatori di Sperma | iSperm Medical",
+      "description": "Esplora i nostri sistemi CASA e analizzatori di morfologia degli spermatozoi per uso umano e veterinario. Soluzioni analizzatori di sperma conformi alla 6a edizione dell'OMS.",
+      "locale": "it"
+    },
+    {
+      "id": "faq",
+      "path": "/faq",
+      "title": "Knowledge Hub | FAQ Sistema CASA | iSperm Medical",
+      "description": "FAQ complete sul sistema CASA, guide della 6a edizione OMS e risorse per l'analisi dello sperma. Approfondimenti esperti sugli analizzatori di morfologia degli spermatozoi.",
+      "locale": "it"
+    }
+  ],
+  "images": [
+    {
+      "id": "nexus-dx1-0",
+      "src": "/nexus-dx1-cover.webp",
+      "alt": "Nexus Dx1 - Product image 1",
+      "filename": "nexus-dx1-cover.webp",
+      "type": "product",
+      "associatedContent": {
+        "type": "product",
+        "id": "nexus-dx1",
+        "title": "Nexus Dx1",
+        "url": "/products/nexus-dx1"
+      },
+      "locale": "it"
+    },
+    {
+      "id": "nexus-dx1-1",
+      "src": "/nexus-dx1.webp",
+      "alt": "Nexus Dx1 - Product image 2",
+      "filename": "nexus-dx1.webp",
+      "type": "product",
+      "associatedContent": {
+        "type": "product",
+        "id": "nexus-dx1",
+        "title": "Nexus Dx1",
+        "url": "/products/nexus-dx1"
+      },
+      "locale": "it"
+    },
+    {
+      "id": "nexus-dx1-2",
+      "src": "/nexus-dx1-2.webp",
+      "alt": "Nexus Dx1 - Product image 3",
+      "filename": "nexus-dx1-2.webp",
+      "type": "product",
+      "associatedContent": {
+        "type": "product",
+        "id": "nexus-dx1",
+        "title": "Nexus Dx1",
+        "url": "/products/nexus-dx1"
+      },
+      "locale": "it"
+    },
+    {
+      "id": "nexus-dx1-3",
+      "src": "/nexus-dx1-3.webp",
+      "alt": "Nexus Dx1 - Product image 4",
+      "filename": "nexus-dx1-3.webp",
+      "type": "product",
+      "associatedContent": {
+        "type": "product",
+        "id": "nexus-dx1",
+        "title": "Nexus Dx1",
+        "url": "/products/nexus-dx1"
+      },
+      "locale": "it"
+    },
+    {
+      "id": "nexus-dx1-4",
+      "src": "/nexus-dx1-4.webp",
+      "alt": "Nexus Dx1 - Product image 5",
+      "filename": "nexus-dx1-4.webp",
+      "type": "product",
+      "associatedContent": {
+        "type": "product",
+        "id": "nexus-dx1",
+        "title": "Nexus Dx1",
+        "url": "/products/nexus-dx1"
+      },
+      "locale": "it"
+    },
+    {
+      "id": "msqa-100-0",
+      "src": "/MSQA-100/msqa-100-cover.webp",
+      "alt": "MSQA-100 - Product image 1",
+      "filename": "msqa-100-cover.webp",
+      "type": "product",
+      "associatedContent": {
+        "type": "product",
+        "id": "msqa-100",
+        "title": "MSQA-100",
+        "url": "/products/msqa-100"
+      },
+      "locale": "it"
+    },
+    {
+      "id": "msqa-100-1",
+      "src": "/MSQA-100/msqa-100-1.webp",
+      "alt": "MSQA-100 - Product image 2",
+      "filename": "msqa-100-1.webp",
+      "type": "product",
+      "associatedContent": {
+        "type": "product",
+        "id": "msqa-100",
+        "title": "MSQA-100",
+        "url": "/products/msqa-100"
+      },
+      "locale": "it"
+    },
+    {
+      "id": "msqa-100-2",
+      "src": "/MSQA-100/msqa-100-2.webp",
+      "alt": "MSQA-100 - Product image 3",
+      "filename": "msqa-100-2.webp",
+      "type": "product",
+      "associatedContent": {
+        "type": "product",
+        "id": "msqa-100",
+        "title": "MSQA-100",
+        "url": "/products/msqa-100"
+      },
+      "locale": "it"
+    },
+    {
+      "id": "sqa-6100vet-0",
+      "src": "/sqa-6100vet-cover.webp",
+      "alt": "SQA-6100vet - Product image 1",
+      "filename": "sqa-6100vet-cover.webp",
+      "type": "product",
+      "associatedContent": {
+        "type": "product",
+        "id": "sqa-6100vet",
+        "title": "SQA-6100vet",
+        "url": "/products/sqa-6100vet"
+      },
+      "locale": "it"
+    },
+    {
+      "id": "sqa-6100vet-1",
+      "src": "/sqa-6100vet-1.webp",
+      "alt": "SQA-6100vet - Product image 2",
+      "filename": "sqa-6100vet-1.webp",
+      "type": "product",
+      "associatedContent": {
+        "type": "product",
+        "id": "sqa-6100vet",
+        "title": "SQA-6100vet",
+        "url": "/products/sqa-6100vet"
+      },
+      "locale": "it"
+    },
+    {
+      "id": "sqa-6100vet-2",
+      "src": "/sqa-6100vet-2.webp",
+      "alt": "SQA-6100vet - Product image 3",
+      "filename": "sqa-6100vet-2.webp",
+      "type": "product",
+      "associatedContent": {
+        "type": "product",
+        "id": "sqa-6100vet",
+        "title": "SQA-6100vet",
+        "url": "/products/sqa-6100vet"
+      },
+      "locale": "it"
+    },
+    {
+      "id": "article-faq-human-semen-standards",
+      "src": "/Knowledge Hub/Human Semen Analysis Standards/Human Semen Analysis Standards.webp",
+      "alt": "Guida agli Standard di Analisi dello Sperma della 6a Edizione OMS con sistema CASA, Motilità degli Spermatozoi, Morfologia degli Spermatozoi e piastra termica integrata per andrologia umana",
+      "filename": "Human Semen Analysis Standards.webp",
+      "type": "article",
+      "associatedContent": {
+        "type": "article",
+        "id": "faq-human-semen-standards",
+        "title": "Standard Globali per l'Analisi dello Sperma Umano",
+        "url": "/faq/faq-human-semen-standards"
+      },
+      "locale": "it"
+    },
+    {
+      "id": "article-who-6th-edition-semen-analysis-standards",
+      "src": "/WHO6.webp",
+      "alt": "Guida agli Standard di Analisi dello Sperma della 6a Edizione OMS con sistema CASA, Nexus Dx1, Motilità degli Spermatozoi, Morfologia degli Spermatozoi e piastra termica integrata",
+      "filename": "WHO6.webp",
+      "type": "article",
+      "associatedContent": {
+        "type": "article",
+        "id": "who-6th-edition-semen-analysis-standards",
+        "title": "Eccellenza nell'Analisi dello Sperma: Una Guida Completa agli Standard della 6a Edizione OMS e alla Tecnologia CASA",
+        "url": "/faq/who-6th-edition-semen-analysis-standards"
+      },
+      "locale": "it"
+    },
+    {
+      "id": "article-iso-23162-2021-laboratory-competence-guide",
+      "src": "/ISO.webp",
+      "alt": "Guida alla Competenza di Laboratorio ISO 23162:2021 con sistema CASA, Nexus Dx1, Requisiti di esame dello sperma, Controllo di qualità e Standard di laboratorio",
+      "filename": "ISO.webp",
+      "type": "article",
+      "associatedContent": {
+        "type": "article",
+        "id": "iso-23162-2021-laboratory-competence-guide",
+        "title": "Colmare gli Standard Globali: Un Approfondimento su ISO 23162:2021 e la Competenza di Laboratorio",
+        "url": "/faq/iso-23162-2021-laboratory-competence-guide"
+      },
+      "locale": "it"
+    },
+    {
+      "id": "article-eshre-guidelines-clinical-semen-examination",
+      "src": "/ESHRE.webp",
+      "alt": "Guida all'Esame Clinico dello Sperma ESHRE con sistema CASA, Nexus Dx1, Eccellenza ART, IVF, ICSI e Tecnologia di Riproduzione Assistita",
+      "filename": "ESHRE.webp",
+      "type": "article",
+      "associatedContent": {
+        "type": "article",
+        "id": "eshre-guidelines-clinical-semen-examination",
+        "title": "Eccellenza Clinica: Linee Guida ESHRE per l'Esame dello Sperma e la Gestione del Paziente",
+        "url": "/faq/eshre-guidelines-clinical-semen-examination"
+      },
+      "locale": "it"
+    },
+    {
+      "id": "article-asrm-male-infertility-evaluation-protocols",
+      "src": "/ASRM.webp",
+      "alt": "Guida ai Protocolli di Valutazione dell'Infertilità Maschile ASRM con sistema CASA, Nexus Dx1, Lavoro di infertilità maschile, IUI, IVF, ICSI e Standard di laboratorio clinico",
+      "filename": "ASRM.webp",
+      "type": "article",
+      "associatedContent": {
+        "type": "article",
+        "id": "asrm-male-infertility-evaluation-protocols",
+        "title": "Integrità Clinica: Linee Guida ASRM per la Valutazione dell'Infertilità Maschile e l'Analisi dello Sperma",
+        "url": "/faq/asrm-male-infertility-evaluation-protocols"
+      },
+      "locale": "it"
+    },
+    {
+      "id": "article-faq-bull-breeding-soundness",
+      "src": "/Knowledge Hub/Bull Breeding Soundness Guide/Bull Breeding Soundness Guide.webp",
+      "alt": "Guida all'Esame di Idoneità Riproduttiva del Toro con Linee Guida SFT per Analisi dello Sperma Veterinario, sistema CASA, Motilità degli Spermatozoi e piastra termica integrata",
+      "filename": "Bull Breeding Soundness Guide.webp",
+      "type": "article",
+      "associatedContent": {
+        "type": "article",
+        "id": "faq-bull-breeding-soundness",
+        "title": "Guida Definitiva all'Idoneità Riproduttiva dei Tori",
+        "url": "/faq/faq-bull-breeding-soundness"
+      },
+      "locale": "it"
+    },
+    {
+      "id": "article-faq-canine-semen-analysis",
+      "src": "/Knowledge Hub/Canine Semen Analysis Guide/Canine Semen Analysis Guide.webp",
+      "alt": "Guida all'Analisi dello Sperma Canino con standard veterinari SFT, sistema CASA, Motilità degli Spermatozoi, Morfologia degli Spermatozoi e piastra termica integrata per la fertilità canina",
+      "filename": "Canine Semen Analysis Guide.webp",
+      "type": "article",
+      "associatedContent": {
+        "type": "article",
+        "id": "faq-canine-semen-analysis",
+        "title": "Guida Professionale all'Analisi dello Sperma Canino",
+        "url": "/faq/faq-canine-semen-analysis"
+      },
+      "locale": "it"
+    },
+    {
+      "id": "article-faq-poultry-semen-analysis",
+      "src": "/Knowledge Hub/Poultry Semen Analysis Guide/Poultry Semen Analysis Guide.webp",
+      "alt": "Guida all'Analisi dello Sperma Avicolo con standard veterinari SFT, sistema CASA, Motilità degli Spermatozoi, Morfologia degli Spermatozoi e piastra termica integrata per la fertilità del gallo",
+      "filename": "Poultry Semen Analysis Guide.webp",
+      "type": "article",
+      "associatedContent": {
+        "type": "article",
+        "id": "faq-poultry-semen-analysis",
+        "title": "Guida Professionale all'Analisi dello Sperma Avicolo",
+        "url": "/faq/faq-poultry-semen-analysis"
+      },
+      "locale": "it"
+    },
+    {
+      "id": "article-faq-stallion-semen-analysis",
+      "src": "/Knowledge Hub/Stallion Semen Analysis Guide/Stallion Semen Analysis Guide.webp",
+      "alt": "Guida all'Analisi dello Sperma di Stallone con standard veterinari SFT, sistema CASA, Motilità degli Spermatozoi, Morfologia degli Spermatozoi e piastra termica integrata per l'idoneità riproduttiva equina",
+      "filename": "Stallion Semen Analysis Guide.webp",
+      "type": "article",
+      "associatedContent": {
+        "type": "article",
+        "id": "faq-stallion-semen-analysis",
+        "title": "Guida Professionale all'Analisi dello Sperma di Stallone",
+        "url": "/faq/faq-stallion-semen-analysis"
+      },
+      "locale": "it"
+    },
+    {
+      "id": "article-faq-camelid-andrology",
+      "src": "/Knowledge Hub/Camelid Andrology Guide/Camelid Andrology Guide.webp",
+      "alt": "Guida all'Andrologia dei Camelidi con standard veterinari SFT, sistema CASA, Motilità degli Spermatozoi, Morfologia degli Spermatozoi e piastra termica integrata per la valutazione della fertilità del cammello",
+      "filename": "Camelid Andrology Guide.webp",
+      "type": "article",
+      "associatedContent": {
+        "type": "article",
+        "id": "faq-camelid-andrology",
+        "title": "Standard Professionale per l'Andrologia dei Camelidi",
+        "url": "/faq/faq-camelid-andrology"
+      },
+      "locale": "it"
+    },
+    {
+      "id": "article-faq-fish-semen-analysis",
+      "src": "/Knowledge Hub/Fish Semen Analysis Guide/Fish Semen Analysis Guide.webp",
+      "alt": "Guida all'Analisi dello Sperma dei Pesci con standard veterinari SFT, sistema CASA, Motilità degli Spermatozoi, Morfologia degli Spermatozoi e piastra termica integrata per la gestione dei riproduttori",
+      "filename": "Fish Semen Analysis Guide.webp",
+      "type": "article",
+      "associatedContent": {
+        "type": "article",
+        "id": "faq-fish-semen-analysis",
+        "title": "Guida Autorevole all'Analisi dello Sperma dei Pesci",
+        "url": "/faq/faq-fish-semen-analysis"
+      },
+      "locale": "it"
+    },
+    {
+      "id": "article-faq-ram-breeding-soundness",
+      "src": "/Knowledge Hub/Ram Breeding Soundness Examination (RBSE)/Ram Breeding Soundness Examination (RBSE).webp",
+      "alt": "Guida all'Esame di Idoneità Riproduttiva del Montone con standard veterinari SFT, sistema CASA, Motilità degli Spermatozoi, Morfologia degli Spermatozoi e piastra termica integrata per la valutazione della fertilità del montone",
+      "filename": "Ram Breeding Soundness Examination (RBSE).webp",
+      "type": "article",
+      "associatedContent": {
+        "type": "article",
+        "id": "faq-ram-breeding-soundness",
+        "title": "Esame di Idoneità Riproduttiva del Montone (RBSE)",
+        "url": "/faq/faq-ram-breeding-soundness"
+      },
+      "locale": "it"
+    },
+    {
+      "id": "article-faq-boar-semen-evaluation",
+      "src": "/Knowledge Hub/Boar Semen Evaluation Guide/Boar Semen Evaluation Guide.webp",
+      "alt": "Guida alla Valutazione dello Sperma del Verro con standard veterinari SFT, sistema CASA, Motilità degli Spermatozoi, Morfologia degli Spermatozoi e piastra termica integrata per l'esame di idoneità riproduttiva del verro",
+      "filename": "Boar Semen Evaluation Guide.webp",
+      "type": "article",
+      "associatedContent": {
+        "type": "article",
+        "id": "faq-boar-semen-evaluation",
+        "title": "Standard di Valutazione e Elaborazione dello Sperma del Verro",
+        "url": "/faq/faq-boar-semen-evaluation"
+      },
+      "locale": "it"
+    },
+    {
+      "id": "about-0",
+      "src": "/About%20us%20(1).webp",
+      "alt": "Team iSperm Medical che presenta sistema CASA completamente automatizzato e analizzatore di qualità dello sperma all'esposizione",
+      "filename": "About%20us%20(1).webp",
+      "type": "about",
+      "associatedContent": {
+        "type": "page",
+        "id": "about",
+        "title": "Chi Siamo | iSperm Medical | Produttore di Sistemi CASA",
+        "url": "/about"
+      },
+      "locale": "it"
+    },
+    {
+      "id": "about-1",
+      "src": "/About%20us%20(2).webp",
+      "alt": "Professionisti iSperm Medical che discutono analizzatore di sperma veterinario e soluzioni per l'allevamento animale",
+      "filename": "About%20us%20(2).webp",
+      "type": "about",
+      "associatedContent": {
+        "type": "page",
+        "id": "about",
+        "title": "Chi Siamo | iSperm Medical | Produttore di Sistemi CASA",
+        "url": "/about"
+      },
+      "locale": "it"
+    },
+    {
+      "id": "about-2",
+      "src": "/About%20Us%202.webp",
+      "alt": "Team ed eventi iSperm Medical che mostrano tecnologia CASA e soluzioni per la salute riproduttiva",
+      "filename": "About%20Us%202.webp",
+      "type": "about",
+      "associatedContent": {
+        "type": "page",
+        "id": "about",
+        "title": "Chi Siamo | iSperm Medical | Produttore di Sistemi CASA",
+        "url": "/about"
+      },
+      "locale": "it"
+    },
+    {
+      "id": "about-3",
+      "src": "/About%20Us%204.webp",
+      "alt": "Presentazioni ed esposizioni del team iSperm Medical con sistemi automatizzati di analisi dello sperma",
+      "filename": "About%20Us%204.webp",
+      "type": "about",
+      "associatedContent": {
+        "type": "page",
+        "id": "about",
+        "title": "Chi Siamo | iSperm Medical | Produttore di Sistemi CASA",
+        "url": "/about"
+      },
+      "locale": "it"
+    },
+    {
+      "id": "about-4",
+      "src": "/About%20Us%205.webp",
+      "alt": "Eventi e team iSperm Medical che mostrano sistemi CASA innovativi e analizzatori di qualità dello sperma",
+      "filename": "About%20Us%205.webp",
+      "type": "about",
+      "associatedContent": {
+        "type": "page",
+        "id": "about",
+        "title": "Chi Siamo | iSperm Medical | Produttore di Sistemi CASA",
+        "url": "/about"
+      },
+      "locale": "it"
+    },
+    {
+      "id": "banner-0",
+      "src": "/banner%20(1).webp",
+      "alt": "iSperm Medical - Banner image 1",
+      "filename": "banner%20(1).webp",
+      "type": "banner",
+      "associatedContent": {
+        "type": "page",
+        "id": "home",
+        "title": "iSperm Analizzatore di Sperma - Rivoluzionare l'Analisi dello Sperma",
+        "url": "/"
+      },
+      "locale": "it"
+    },
+    {
+      "id": "banner-1",
+      "src": "/banner%20(2).webp",
+      "alt": "iSperm Medical - Banner image 2",
+      "filename": "banner%20(2).webp",
+      "type": "banner",
+      "associatedContent": {
+        "type": "page",
+        "id": "home",
+        "title": "iSperm Analizzatore di Sperma - Rivoluzionare l'Analisi dello Sperma",
+        "url": "/"
+      },
+      "locale": "it"
+    },
+    {
+      "id": "banner-2",
+      "src": "/banner%20(3).webp",
+      "alt": "iSperm Medical - Banner image 3",
+      "filename": "banner%20(3).webp",
+      "type": "banner",
+      "associatedContent": {
+        "type": "page",
+        "id": "home",
+        "title": "iSperm Analizzatore di Sperma - Rivoluzionare l'Analisi dello Sperma",
+        "url": "/"
+      },
+      "locale": "it"
+    }
+  ],
+  "locale": "it"
+}

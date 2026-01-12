@@ -24,7 +24,8 @@ export const routing = defineRouting({
     '/products/msqa-100': '/products/msqa-100',
     '/products/sqa-6100vet': '/products/sqa-6100vet',
     '/contact': '/contact',
-    '/faq': '/faq'
+    '/faq': '/faq',
+    '/search': '/search'
   }
 });
 

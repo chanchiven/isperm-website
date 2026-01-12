@@ -1,0 +1,48 @@
+{
+  "placeholder": "Пошук продуктів, статей, зображень...",
+  "startTyping": "Почніть вводити для пошуку...",
+  "noResults": "Результатів не знайдено",
+  "tryDifferentQuery": "Спробуйте інший пошуковий запит",
+  "searching": "Пошук...",
+  "error": "Під час пошуку сталася помилка. Будь ласка, спробуйте пізніше.",
+  "shortcutHint": "Натисніть ESC, щоб закрити",
+  "resultsCount": "Знайдено {count} результатів",
+  "pageTitle": "Результати пошуку",
+  "searchingFor": "Пошук",
+  "enterQuery": "Введіть пошуковий запит, щоб знайти продукти, статті та інше",
+  "foundResults": "Знайдено {count} результатів для \"{query}\"",
+  "recentSearches": "Останні пошуки",
+  "clearHistory": "Очистити історію пошуку",
+  "clear": "Очистити",
+  "results": "результатів",
+  "removeFromHistory": "Видалити з історії",
+  "suggestions": "Пропозиції",
+  "popularSearches": "Популярні пошуки",
+  "types": {
+    "product": "Продукт",
+    "article": "Стаття",
+    "image": "Зображення",
+    "page": "Сторінка"
+  },
+  "footer": {
+    "company": "iSperm Medical",
+    "description": "iSperm Medical Ltd. прагне надавати передові технологічні рішення в галузі аналізу сперми.",
+    "quickLinks": "Швидкі посилання",
+    "contact": "Контакти",
+    "email": "Електронна пошта:",
+    "rights": "© 2024 iSperm Medical Ltd. Всі права захищені."
+  },
+  "filters": {
+    "title": "Filters",
+    "type": "Type",
+    "category": "Category",
+    "sortBy": "Sort by",
+    "relevance": "Relevance",
+    "titleSort": "Title",
+    "allTypes": "All Types",
+    "allCategories": "All Categories",
+    "human": "Human Andrology",
+    "veterinary": "Animal Breeding",
+    "clearFilters": "Clear filters"
+  }
+}

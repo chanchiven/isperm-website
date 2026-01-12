@@ -1,0 +1,48 @@
+{
+  "placeholder": "Buscar productos, artículos, imágenes...",
+  "startTyping": "Comience a escribir para buscar...",
+  "noResults": "No se encontraron resultados",
+  "tryDifferentQuery": "Pruebe con una consulta de búsqueda diferente",
+  "searching": "Buscando...",
+  "error": "Ocurrió un error al buscar. Por favor, intente de nuevo más tarde.",
+  "shortcutHint": "Presione ESC para cerrar",
+  "resultsCount": "Se encontraron {count} resultados",
+  "pageTitle": "Resultados de Búsqueda",
+  "searchingFor": "Buscando",
+  "enterQuery": "Ingrese una consulta de búsqueda para encontrar productos, artículos y más",
+  "foundResults": "Se encontraron {count} resultados para \"{query}\"",
+  "recentSearches": "Búsquedas Recientes",
+  "clearHistory": "Limpiar historial de búsqueda",
+  "clear": "Limpiar",
+  "results": "resultados",
+  "removeFromHistory": "Eliminar del historial",
+  "suggestions": "Sugerencias",
+  "popularSearches": "Búsquedas Populares",
+  "types": {
+    "product": "Producto",
+    "article": "Artículo",
+    "image": "Imagen",
+    "page": "Página"
+  },
+  "filters": {
+    "title": "Filtros",
+    "type": "Tipo",
+    "category": "Categoría",
+    "sortBy": "Ordenar por",
+    "relevance": "Relevancia",
+    "titleSort": "Título",
+    "allTypes": "Todos los tipos",
+    "allCategories": "Todas las categorías",
+    "human": "Andrología humana",
+    "veterinary": "Cría de animales",
+    "clearFilters": "Limpiar filtros"
+  },
+  "footer": {
+    "company": "iSperm Medical",
+    "description": "iSperm Medical Ltd. está comprometida a ofrecer soluciones tecnológicas de vanguardia en análisis de semen.",
+    "quickLinks": "Enlaces Rápidos",
+    "contact": "Contacto",
+    "email": "Correo electrónico:",
+    "rights": "© 2024 iSperm Medical Ltd. Todos los derechos reservados."
+  }
+}

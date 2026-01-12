@@ -1,0 +1,48 @@
+{
+  "placeholder": "Rechercher des produits, articles, images...",
+  "startTyping": "Commencez à taper pour rechercher...",
+  "noResults": "Aucun résultat trouvé",
+  "tryDifferentQuery": "Essayez une autre requête de recherche",
+  "searching": "Recherche...",
+  "error": "Une erreur s'est produite lors de la recherche. Veuillez réessayer plus tard.",
+  "shortcutHint": "Appuyez sur ESC pour fermer",
+  "resultsCount": "{count} résultats trouvés",
+  "pageTitle": "Résultats de recherche",
+  "searchingFor": "Recherche de",
+  "enterQuery": "Entrez une requête de recherche pour trouver des produits, articles et plus",
+  "foundResults": "{count} résultats trouvés pour \"{query}\"",
+  "recentSearches": "Recherches récentes",
+  "clearHistory": "Effacer l'historique de recherche",
+  "clear": "Effacer",
+  "results": "résultats",
+  "removeFromHistory": "Retirer de l'historique",
+  "suggestions": "Suggestions",
+  "popularSearches": "Recherches populaires",
+  "types": {
+    "product": "Produit",
+    "article": "Article",
+    "image": "Image",
+    "page": "Page"
+  },
+  "footer": {
+    "company": "iSperm Medical",
+    "description": "iSperm Medical Ltd. s'engage à offrir des solutions technologiques de pointe en analyse de sperme.",
+    "quickLinks": "Liens rapides",
+    "contact": "Contact",
+    "email": "E-mail:",
+    "rights": "© 2024 iSperm Medical Ltd. Tous droits réservés."
+  },
+  "filters": {
+    "title": "Filters",
+    "type": "Type",
+    "category": "Category",
+    "sortBy": "Sort by",
+    "relevance": "Relevance",
+    "titleSort": "Title",
+    "allTypes": "All Types",
+    "allCategories": "All Categories",
+    "human": "Human Andrology",
+    "veterinary": "Animal Breeding",
+    "clearFilters": "Clear filters"
+  }
+}
