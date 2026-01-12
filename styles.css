@@ -2134,7 +2134,7 @@ section:not(.about-hero):not(.timeline-section):not(.founder-section) {
         min-height: auto;
         flex-direction: row;
         align-items: flex-start;
-        gap: 1rem;
+        gap: 1.25rem;
         justify-content: flex-start;
         margin-bottom: 0;
         width: 100%;
@@ -2172,14 +2172,19 @@ section:not(.about-hero):not(.timeline-section):not(.founder-section) {
         padding: 0;
         text-align: left;
         order: 0;
-        position: relative;
+        position: relative !important;
         width: auto;
-        min-width: 70px;
+        min-width: 75px;
+        max-width: 75px;
         line-height: 1.5;
         word-wrap: break-word;
         overflow-wrap: break-word;
         display: block;
         flex-shrink: 0;
+        top: auto !important;
+        left: auto !important;
+        transform: none !important;
+        z-index: auto !important;
     }
 
     .timeline-content {
@@ -2188,8 +2193,12 @@ section:not(.about-hero):not(.timeline-section):not(.founder-section) {
         order: 1;
         flex: 1;
         width: auto;
-        position: relative;
+        position: relative !important;
         display: block;
+        top: auto !important;
+        left: auto !important;
+        right: auto !important;
+        z-index: auto !important;
     }
 
     .timeline-content p {
@@ -2425,7 +2434,9 @@ section:not(.about-hero):not(.timeline-section):not(.founder-section) {
         padding-right: 0 !important;
         margin-bottom: 0 !important;
         flex-direction: row !important;
-        gap: 0.75rem !important;
+        align-items: flex-start !important;
+        gap: 1rem !important;
+        justify-content: flex-start !important;
     }
 
     .timeline-item::before {
@@ -2444,19 +2455,36 @@ section:not(.about-hero):not(.timeline-section):not(.founder-section) {
         font-size: 1.1rem !important;
         margin: 0 !important;
         padding: 0 !important;
-        min-width: 60px !important;
+        min-width: 65px !important;
+        max-width: 65px !important;
         line-height: 1.5 !important;
+        position: relative !important;
+        top: auto !important;
+        left: auto !important;
+        transform: none !important;
+        z-index: auto !important;
+        text-align: left !important;
+        order: 0 !important;
+        flex-shrink: 0 !important;
     }
 
     .timeline-content {
         padding: 0 !important;
         margin: 0 !important;
+        position: relative !important;
+        top: auto !important;
+        left: auto !important;
+        right: auto !important;
+        z-index: auto !important;
+        order: 1 !important;
+        flex: 1 !important;
     }
 
     .timeline-content p {
         font-size: 0.85rem !important;
         line-height: 1.6 !important;
         padding: 0 !important;
+        text-align: left !important;
     }
 }
 
