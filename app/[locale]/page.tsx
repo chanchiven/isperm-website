@@ -22,10 +22,29 @@ export default function HomePage() {
 
       {/* Hero Section */}
       <section className="hero">
-        {/* Banner - Fixed display of first image (carousel disabled) */}
+        {/* Banner - Optimized responsive image for better LCP performance */}
         <div className="hero-carousel">
           <div className="carousel-slides">
-            <div className="carousel-slide active" style={{backgroundImage: `url('/banner%20(1).webp')`}}>
+            <div className="carousel-slide active">
+              <picture>
+                {/* Desktop: larger image (41KB) */}
+                <source media="(min-width: 769px)" srcSet="/banner%20(1).webp" />
+                {/* Mobile: smaller image (13.7KB) for faster loading */}
+                <img 
+                  src="/mobile/banner%20(1).webp"
+                  alt=""
+                  style={{
+                    position: 'absolute',
+                    top: 0,
+                    left: 0,
+                    width: '100%',
+                    height: '100%',
+                    objectFit: 'cover',
+                    objectPosition: 'center'
+                  }}
+                  fetchPriority="high"
+                />
+              </picture>
               <div className="hero-overlay"></div>
             </div>
           </div>

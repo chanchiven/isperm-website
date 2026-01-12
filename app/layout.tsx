@@ -168,8 +168,21 @@ export default function RootLayout({
             "medicalUse": "Semen analysis and fertility diagnostics"
           })}
         </Script>
-        {/* Banner image preload removed - CSS backgroundImage cannot effectively utilize preload */}
-        {/* The banner image is loaded via CSS backgroundImage, which browsers cannot immediately recognize as using the preloaded resource */}
+        {/* Preload banner images for faster LCP - mobile and desktop versions */}
+        <link
+          rel="preload"
+          as="image"
+          href="/mobile/banner%20(1).webp"
+          media="(max-width: 768px)"
+          fetchPriority="high"
+        />
+        <link
+          rel="preload"
+          as="image"
+          href="/banner%20(1).webp"
+          media="(min-width: 769px)"
+          fetchPriority="high"
+        />
         {/* Google tag (gtag.js) */}
         <Script
           src="https://www.googletagmanager.com/gtag/js?id=G-15TP8Z98ZS"
