@@ -1,0 +1,539 @@
+{
+  "timestamp": "2026-01-12T02:42:12.676Z",
+  "desktop": {
+    "total": 47,
+    "success": 0,
+    "errors": 0,
+    "results": [
+      {
+        "file": "banner (1).webp",
+        "status": "optimized",
+        "size": "0.04MB",
+        "saved": "74.6%"
+      },
+      {
+        "file": "banner (2).webp",
+        "status": "optimized",
+        "size": "0.08MB",
+        "saved": "-19.9%"
+      },
+      {
+        "file": "banner (3).webp",
+        "status": "optimized",
+        "size": "0.11MB",
+        "saved": "-19.4%"
+      },
+      {
+        "file": "nexus-dx1-cover.webp",
+        "status": "optimized",
+        "size": "0.05MB",
+        "saved": "44.0%"
+      },
+      {
+        "file": "sqa-6100vet-cover.webp",
+        "status": "optimized",
+        "size": "0.05MB",
+        "saved": "43.8%"
+      },
+      {
+        "file": "nexus-dx1.webp",
+        "status": "optimized",
+        "size": "0.01MB",
+        "saved": "61.7%"
+      },
+      {
+        "file": "nexus-dx1-2.webp",
+        "status": "optimized",
+        "size": "0.01MB",
+        "saved": "59.8%"
+      },
+      {
+        "file": "nexus-dx1-3.webp",
+        "status": "optimized",
+        "size": "0.01MB",
+        "saved": "57.1%"
+      },
+      {
+        "file": "nexus-dx1-4.webp",
+        "status": "optimized",
+        "size": "0.01MB",
+        "saved": "83.3%"
+      },
+      {
+        "file": "MSQA-100/msqa-100-1.webp",
+        "status": "optimized",
+        "size": "0.01MB",
+        "saved": "28.2%"
+      },
+      {
+        "file": "MSQA-100/msqa-100-2.webp",
+        "status": "optimized",
+        "size": "0.01MB",
+        "saved": "29.0%"
+      },
+      {
+        "file": "MSQA-100/msqa-100-3.webp",
+        "status": "optimized",
+        "size": "0.01MB",
+        "saved": "21.8%"
+      },
+      {
+        "file": "MSQA-100/msqa-100-4.webp",
+        "status": "optimized",
+        "size": "0.01MB",
+        "saved": "26.2%"
+      },
+      {
+        "file": "MSQA-100/msqa-100-5.webp",
+        "status": "optimized",
+        "size": "0.01MB",
+        "saved": "49.9%"
+      },
+      {
+        "file": "MSQA-100/msqa-100-6.webp",
+        "status": "optimized",
+        "size": "0.01MB",
+        "saved": "27.7%"
+      },
+      {
+        "file": "MSQA-100/msqa-100-7.webp",
+        "status": "optimized",
+        "size": "0.01MB",
+        "saved": "25.9%"
+      },
+      {
+        "file": "sqa-6100vet-1.webp",
+        "status": "optimized",
+        "size": "0.01MB",
+        "saved": "81.4%"
+      },
+      {
+        "file": "sqa-6100vet-2.webp",
+        "status": "optimized",
+        "size": "0.01MB",
+        "saved": "80.5%"
+      },
+      {
+        "file": "sqa-6100vet-3.webp",
+        "status": "optimized",
+        "size": "0.01MB",
+        "saved": "81.2%"
+      },
+      {
+        "file": "sqa-6100vet-4.webp",
+        "status": "optimized",
+        "size": "0.01MB",
+        "saved": "81.3%"
+      },
+      {
+        "file": "About iSperm.webp",
+        "status": "optimized",
+        "size": "0.03MB",
+        "saved": "81.6%"
+      },
+      {
+        "file": "About us (1).webp",
+        "status": "optimized",
+        "size": "0.03MB",
+        "saved": "27.2%"
+      },
+      {
+        "file": "About us (2).webp",
+        "status": "optimized",
+        "size": "0.03MB",
+        "saved": "72.9%"
+      },
+      {
+        "file": "About Us 2.webp",
+        "status": "optimized",
+        "size": "0.02MB",
+        "saved": "-26.7%"
+      },
+      {
+        "file": "About Us 4.webp",
+        "status": "optimized",
+        "size": "0.04MB",
+        "saved": "51.3%"
+      },
+      {
+        "file": "About Us 5.webp",
+        "status": "optimized",
+        "size": "0.02MB",
+        "saved": "89.0%"
+      },
+      {
+        "file": "About Us.webp",
+        "status": "optimized",
+        "size": "0.03MB",
+        "saved": "72.9%"
+      },
+      {
+        "file": "Zhuang Bin.jpg",
+        "status": "optimized",
+        "size": "0.03MB",
+        "saved": "0.1%"
+      },
+      {
+        "file": "Knowledge Hub/Human Semen Analysis Standards/Human Semen Analysis Standards.webp",
+        "status": "optimized",
+        "size": "0.01MB",
+        "saved": "76.9%"
+      },
+      {
+        "file": "WHO6.webp",
+        "status": "optimized",
+        "size": "0.01MB",
+        "saved": "72.2%"
+      },
+      {
+        "file": "ISO.webp",
+        "status": "optimized",
+        "size": "0.01MB",
+        "saved": "-7.3%"
+      },
+      {
+        "file": "ESHRE.webp",
+        "status": "optimized",
+        "size": "0.02MB",
+        "saved": "71.4%"
+      },
+      {
+        "file": "ASRM.webp",
+        "status": "optimized",
+        "size": "0.01MB",
+        "saved": "85.9%"
+      },
+      {
+        "file": "Knowledge Hub/Bull Breeding Soundness Guide/Bull Breeding Soundness Guide.webp",
+        "status": "optimized",
+        "size": "0.02MB",
+        "saved": "74.8%"
+      },
+      {
+        "file": "Knowledge Hub/Canine Semen Analysis Guide/Canine Semen Analysis Guide.webp",
+        "status": "optimized",
+        "size": "0.04MB",
+        "saved": "60.5%"
+      },
+      {
+        "file": "Knowledge Hub/Poultry Semen Analysis Guide/Poultry Semen Analysis Guide.webp",
+        "status": "optimized",
+        "size": "0.02MB",
+        "saved": "58.3%"
+      },
+      {
+        "file": "Knowledge Hub/Stallion Semen Analysis Guide/Stallion Semen Analysis Guide.webp",
+        "status": "optimized",
+        "size": "0.01MB",
+        "saved": "57.9%"
+      },
+      {
+        "file": "Knowledge Hub/Camelid Andrology Guide/Camelid Andrology Guide.webp",
+        "status": "optimized_but_not_replaced",
+        "size": "0.01MB",
+        "saved": "64.5%",
+        "error": "文件被锁定，优化后的文件保存在: F:\\Git Pages\\isperm-website\\public_desktop_temp\\Knowledge Hub\\Camelid Andrology Guide\\Camelid Andrology Guide.webp"
+      },
+      {
+        "file": "Knowledge Hub/Fish Semen Analysis Guide/Fish Semen Analysis Guide.webp",
+        "status": "optimized_but_not_replaced",
+        "size": "0.02MB",
+        "saved": "69.6%",
+        "error": "文件被锁定，优化后的文件保存在: F:\\Git Pages\\isperm-website\\public_desktop_temp\\Knowledge Hub\\Fish Semen Analysis Guide\\Fish Semen Analysis Guide.webp"
+      },
+      {
+        "file": "Knowledge Hub/Ram Breeding Soundness Examination (RBSE)/Ram Breeding Soundness Examination (RBSE).webp",
+        "status": "optimized_but_not_replaced",
+        "size": "0.03MB",
+        "saved": "63.7%",
+        "error": "文件被锁定，优化后的文件保存在: F:\\Git Pages\\isperm-website\\public_desktop_temp\\Knowledge Hub\\Ram Breeding Soundness Examination (RBSE)\\Ram Breeding Soundness Examination (RBSE).webp"
+      },
+      {
+        "file": "Knowledge Hub/Boar Semen Evaluation Guide/Boar Semen Evaluation Guide.webp",
+        "status": "optimized_but_not_replaced",
+        "size": "0.02MB",
+        "saved": "66.0%",
+        "error": "文件被锁定，优化后的文件保存在: F:\\Git Pages\\isperm-website\\public_desktop_temp\\Knowledge Hub\\Boar Semen Evaluation Guide\\Boar Semen Evaluation Guide.webp"
+      },
+      {
+        "file": "Advanced Technology.webp",
+        "status": "optimized_but_not_replaced",
+        "size": "0.05MB",
+        "saved": "23.8%",
+        "error": "文件被锁定，优化后的文件保存在: F:\\Git Pages\\isperm-website\\public_desktop_temp\\Advanced Technology.webp"
+      },
+      {
+        "file": "awards/About iSperm.jpg",
+        "status": "optimized",
+        "size": "0.04MB",
+        "saved": "0.1%"
+      },
+      {
+        "file": "awards/TEAM2.JPG",
+        "status": "optimized",
+        "size": "0.04MB",
+        "saved": "0.6%"
+      },
+      {
+        "file": "awards/TEAM3.JPG",
+        "status": "optimized",
+        "size": "0.03MB",
+        "saved": "0.5%"
+      },
+      {
+        "file": "awards/TEAM4.JPG",
+        "status": "optimized",
+        "size": "0.05MB",
+        "saved": "1.2%"
+      },
+      {
+        "file": "awards/TEAM5.jpg",
+        "status": "optimized",
+        "size": "0.03MB",
+        "saved": "0.2%"
+      }
+    ]
+  },
+  "mobile": {
+    "total": 47,
+    "success": 47,
+    "errors": 0,
+    "results": [
+      {
+        "file": "banner (1).webp",
+        "status": "success",
+        "size": "0.01MB"
+      },
+      {
+        "file": "banner (2).webp",
+        "status": "success",
+        "size": "0.04MB"
+      },
+      {
+        "file": "banner (3).webp",
+        "status": "success",
+        "size": "0.04MB"
+      },
+      {
+        "file": "nexus-dx1-cover.webp",
+        "status": "success",
+        "size": "0.02MB"
+      },
+      {
+        "file": "sqa-6100vet-cover.webp",
+        "status": "success",
+        "size": "0.02MB"
+      },
+      {
+        "file": "nexus-dx1.webp",
+        "status": "success",
+        "size": "0.01MB"
+      },
+      {
+        "file": "nexus-dx1-2.webp",
+        "status": "success",
+        "size": "0.01MB"
+      },
+      {
+        "file": "nexus-dx1-3.webp",
+        "status": "success",
+        "size": "0.01MB"
+      },
+      {
+        "file": "nexus-dx1-4.webp",
+        "status": "success",
+        "size": "0.01MB"
+      },
+      {
+        "file": "MSQA-100/msqa-100-1.webp",
+        "status": "success",
+        "size": "0.01MB"
+      },
+      {
+        "file": "MSQA-100/msqa-100-2.webp",
+        "status": "success",
+        "size": "0.01MB"
+      },
+      {
+        "file": "MSQA-100/msqa-100-3.webp",
+        "status": "success",
+        "size": "0.01MB"
+      },
+      {
+        "file": "MSQA-100/msqa-100-4.webp",
+        "status": "success",
+        "size": "0.01MB"
+      },
+      {
+        "file": "MSQA-100/msqa-100-5.webp",
+        "status": "success",
+        "size": "0.01MB"
+      },
+      {
+        "file": "MSQA-100/msqa-100-6.webp",
+        "status": "success",
+        "size": "0.01MB"
+      },
+      {
+        "file": "MSQA-100/msqa-100-7.webp",
+        "status": "success",
+        "size": "0.01MB"
+      },
+      {
+        "file": "sqa-6100vet-1.webp",
+        "status": "success",
+        "size": "0.01MB"
+      },
+      {
+        "file": "sqa-6100vet-2.webp",
+        "status": "success",
+        "size": "0.01MB"
+      },
+      {
+        "file": "sqa-6100vet-3.webp",
+        "status": "success",
+        "size": "0.01MB"
+      },
+      {
+        "file": "sqa-6100vet-4.webp",
+        "status": "success",
+        "size": "0.01MB"
+      },
+      {
+        "file": "About iSperm.webp",
+        "status": "success",
+        "size": "0.02MB"
+      },
+      {
+        "file": "About us (1).webp",
+        "status": "success",
+        "size": "0.01MB"
+      },
+      {
+        "file": "About us (2).webp",
+        "status": "success",
+        "size": "0.02MB"
+      },
+      {
+        "file": "About Us 2.webp",
+        "status": "success",
+        "size": "0.01MB"
+      },
+      {
+        "file": "About Us 4.webp",
+        "status": "success",
+        "size": "0.02MB"
+      },
+      {
+        "file": "About Us 5.webp",
+        "status": "success",
+        "size": "0.01MB"
+      },
+      {
+        "file": "About Us.webp",
+        "status": "success",
+        "size": "0.02MB"
+      },
+      {
+        "file": "Zhuang Bin.jpg",
+        "status": "success",
+        "size": "0.02MB"
+      },
+      {
+        "file": "Knowledge Hub/Human Semen Analysis Standards/Human Semen Analysis Standards.webp",
+        "status": "success",
+        "size": "0.01MB"
+      },
+      {
+        "file": "WHO6.webp",
+        "status": "success",
+        "size": "0.01MB"
+      },
+      {
+        "file": "ISO.webp",
+        "status": "success",
+        "size": "0.01MB"
+      },
+      {
+        "file": "ESHRE.webp",
+        "status": "success",
+        "size": "0.02MB"
+      },
+      {
+        "file": "ASRM.webp",
+        "status": "success",
+        "size": "0.01MB"
+      },
+      {
+        "file": "Knowledge Hub/Bull Breeding Soundness Guide/Bull Breeding Soundness Guide.webp",
+        "status": "success",
+        "size": "0.01MB"
+      },
+      {
+        "file": "Knowledge Hub/Canine Semen Analysis Guide/Canine Semen Analysis Guide.webp",
+        "status": "success",
+        "size": "0.02MB"
+      },
+      {
+        "file": "Knowledge Hub/Poultry Semen Analysis Guide/Poultry Semen Analysis Guide.webp",
+        "status": "success",
+        "size": "0.01MB"
+      },
+      {
+        "file": "Knowledge Hub/Stallion Semen Analysis Guide/Stallion Semen Analysis Guide.webp",
+        "status": "success",
+        "size": "0.01MB"
+      },
+      {
+        "file": "Knowledge Hub/Camelid Andrology Guide/Camelid Andrology Guide.webp",
+        "status": "success",
+        "size": "0.01MB"
+      },
+      {
+        "file": "Knowledge Hub/Fish Semen Analysis Guide/Fish Semen Analysis Guide.webp",
+        "status": "success",
+        "size": "0.01MB"
+      },
+      {
+        "file": "Knowledge Hub/Ram Breeding Soundness Examination (RBSE)/Ram Breeding Soundness Examination (RBSE).webp",
+        "status": "success",
+        "size": "0.02MB"
+      },
+      {
+        "file": "Knowledge Hub/Boar Semen Evaluation Guide/Boar Semen Evaluation Guide.webp",
+        "status": "success",
+        "size": "0.01MB"
+      },
+      {
+        "file": "Advanced Technology.webp",
+        "status": "success",
+        "size": "0.03MB"
+      },
+      {
+        "file": "awards/About iSperm.jpg",
+        "status": "success",
+        "size": "0.02MB"
+      },
+      {
+        "file": "awards/TEAM2.JPG",
+        "status": "success",
+        "size": "0.02MB"
+      },
+      {
+        "file": "awards/TEAM3.JPG",
+        "status": "success",
+        "size": "0.02MB"
+      },
+      {
+        "file": "awards/TEAM4.JPG",
+        "status": "success",
+        "size": "0.03MB"
+      },
+      {
+        "file": "awards/TEAM5.jpg",
+        "status": "success",
+        "size": "0.02MB"
+      }
+    ]
+  }
+}
