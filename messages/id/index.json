@@ -52,11 +52,10 @@
   },
   "timeline": {
     "title": "Perjalanan Kami",
-    "subtitle": "Warisan Inovasi",
-    "2010": "Didirikan dengan fokus pada penelitian CASA perintis di China.",
-    "2016": "Mengembangkan sistem CASA penggunaan rumah pertama di China, membawa diagnostik canggih ke tingkat konsumen.",
-    "2017": "Meluncurkan sistem CASA profesional otomatis penuh pertama di China.",
-    "today": "Seri CASA unggulan kami (Nexus Dx1 / SQA-6100vet) berfungsi sebagai pilihan terpercaya untuk penilaian reproduksi otomatis di seluruh dunia."
+    "2010": "Didirikan dengan fokus pada penelitian CASA perintis di China",
+    "2016": "Mengembangkan sistem CASA penggunaan rumah pertama di China, membawa diagnostik canggih ke tingkat konsumen",
+    "2017": "Meluncurkan sistem CASA profesional otomatis penuh pertama di China",
+    "today": "Seri CASA unggulan kami (Nexus Dx1 / SQA-6100vet) berfungsi sebagai pilihan terpercaya untuk penilaian reproduksi otomatis di seluruh dunia"
   },
   "footer": {
     "company": "iSperm Medical",

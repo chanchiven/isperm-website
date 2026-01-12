@@ -373,7 +373,6 @@ export default function HomePage() {
         <div className="container">
           <div className="timeline-header">
             <h2>{t('timeline.title')}</h2>
-            <p>{t('timeline.subtitle')}</p>
           </div>
           <div className="timeline">
             <div className="timeline-item">

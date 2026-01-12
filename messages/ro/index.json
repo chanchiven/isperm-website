@@ -52,11 +52,10 @@
   },
   "timeline": {
     "title": "Călătoria Noastră",
-    "subtitle": "O Moștenire de Inovație",
-    "2010": "Înființat cu focus pe cercetare CASA pionierat în China.",
-    "2016": "Dezvoltat primul sistem CASA pentru uz casnic din China, aducând diagnostic avansat la nivel de consumator.",
-    "2017": "Lansat primul sistem CASA profesional complet automat din China.",
-    "today": "Seria noastră CASA de top (Nexus Dx1 / SQA-6100vet) servește ca alegerea de încredere pentru evaluarea reproductivă automatizată în întreaga lume."
+    "2010": "Înființat cu focus pe cercetare CASA pionierat în China",
+    "2016": "Dezvoltat primul sistem CASA pentru uz casnic din China, aducând diagnostic avansat la nivel de consumator",
+    "2017": "Lansat primul sistem CASA profesional complet automat din China",
+    "today": "Seria noastră CASA de top (Nexus Dx1 / SQA-6100vet) servește ca alegerea de încredere pentru evaluarea reproductivă automatizată în întreaga lume"
   },
   "footer": {
     "company": "iSperm Medical",

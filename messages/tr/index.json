@@ -52,11 +52,10 @@
   },
   "timeline": {
     "title": "Yolculuğumuz",
-    "subtitle": "İnovasyon Mirası",
-    "2010": "Çin'de öncü CASA araştırmalarına odaklanarak kuruldu.",
-    "2016": "Çin'in ilk ev kullanımı CASA sistemini geliştirdi, gelişmiş tanıyı tüketici seviyesine getirdi.",
-    "2017": "Çin'de ilk tam otomatik profesyonel CASA sistemini piyasaya sürdü.",
-    "today": "Bayrak gemisi CASA serimiz (Nexus Dx1 / SQA-6100vet), dünya çapında otomatik üreme değerlendirmesi için güvenilir tercih olarak hizmet vermektedir."
+    "2010": "Çin'de öncü CASA araştırmalarına odaklanarak kuruldu",
+    "2016": "Çin'in ilk ev kullanımı CASA sistemini geliştirdi, gelişmiş tanıyı tüketici seviyesine getirdi",
+    "2017": "Çin'de ilk tam otomatik profesyonel CASA sistemini piyasaya sürdü",
+    "today": "Bayrak gemisi CASA serimiz (Nexus Dx1 / SQA-6100vet), dünya çapında otomatik üreme değerlendirmesi için güvenilir tercih olarak hizmet vermektedir"
   },
   "footer": {
     "company": "iSperm Medical",

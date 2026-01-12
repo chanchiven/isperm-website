@@ -52,11 +52,10 @@
   },
   "timeline": {
     "title": "Nasza Podróż",
-    "subtitle": "Dziedzictwo Innowacji",
-    "2010": "Założona z naciskiem na pionierskie badania CASA w Chinach.",
-    "2016": "Opracowano pierwszy w Chinach system CASA do użytku domowego, wprowadzając zaawansowaną diagnostykę na poziom konsumencki.",
-    "2017": "Wprowadzono pierwszy w pełni zautomatyzowany profesjonalny system CASA w Chinach.",
-    "today": "Nasza flagowa seria CASA (Nexus Dx1 / SQA-6100vet) służy jako zaufany wybór do zautomatyzowanej oceny reprodukcyjnej na całym świecie."
+    "2010": "Założona z naciskiem na pionierskie badania CASA w Chinach",
+    "2016": "Opracowano pierwszy w Chinach system CASA do użytku domowego, wprowadzając zaawansowaną diagnostykę na poziom konsumencki",
+    "2017": "Wprowadzono pierwszy w pełni zautomatyzowany profesjonalny system CASA w Chinach",
+    "today": "Nasza flagowa seria CASA (Nexus Dx1 / SQA-6100vet) służy jako zaufany wybór do zautomatyzowanej oceny reprodukcyjnej na całym świecie"
   },
   "footer": {
     "company": "iSperm Medical",

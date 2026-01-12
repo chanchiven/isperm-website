@@ -52,11 +52,10 @@
   },
   "timeline": {
     "title": "Notre Parcours",
-    "subtitle": "Un Héritage d'Innovation",
-    "2010": "Fondée avec un focus sur la recherche CASA pionnière en Chine.",
-    "2016": "Développement du premier système CASA à usage domestique en Chine, apportant des diagnostics avancés au niveau consommateur.",
-    "2017": "Lancement du premier système CASA professionnel entièrement automatisé en Chine.",
-    "today": "Notre série CASA phare (Nexus Dx1 / SQA-6100vet) sert de choix de confiance pour l'évaluation reproductive automatisée dans le monde entier."
+    "2010": "Fondée avec un focus sur la recherche CASA pionnière en Chine",
+    "2016": "Développement du premier système CASA à usage domestique en Chine, apportant des diagnostics avancés au niveau consommateur",
+    "2017": "Lancement du premier système CASA professionnel entièrement automatisé en Chine",
+    "today": "Notre série CASA phare (Nexus Dx1 / SQA-6100vet) sert de choix de confiance pour l'évaluation reproductive automatisée dans le monde entier"
   },
   "footer": {
     "company": "iSperm Medical",

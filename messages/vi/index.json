@@ -52,11 +52,10 @@
   },
   "timeline": {
     "title": "Hành trình của Chúng tôi",
-    "subtitle": "Di sản Đổi mới",
-    "2010": "Thành lập với trọng tâm nghiên cứu CASA tiên phong tại Trung Quốc.",
-    "2016": "Phát triển hệ thống CASA sử dụng tại nhà đầu tiên của Trung Quốc, mang chẩn đoán tiên tiến đến cấp người tiêu dùng.",
-    "2017": "Ra mắt hệ thống CASA chuyên nghiệp tự động hoàn toàn đầu tiên tại Trung Quốc.",
-    "today": "Dòng CASA hàng đầu của chúng tôi (Nexus Dx1 / SQA-6100vet) phục vụ như lựa chọn đáng tin cậy cho đánh giá sinh sản tự động trên toàn cầu."
+    "2010": "Thành lập với trọng tâm nghiên cứu CASA tiên phong tại Trung Quốc",
+    "2016": "Phát triển hệ thống CASA sử dụng tại nhà đầu tiên của Trung Quốc, mang chẩn đoán tiên tiến đến cấp người tiêu dùng",
+    "2017": "Ra mắt hệ thống CASA chuyên nghiệp tự động hoàn toàn đầu tiên tại Trung Quốc",
+    "today": "Dòng CASA hàng đầu của chúng tôi (Nexus Dx1 / SQA-6100vet) phục vụ như lựa chọn đáng tin cậy cho đánh giá sinh sản tự động trên toàn cầu"
   },
   "footer": {
     "company": "iSperm Medical",
