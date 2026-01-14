@@ -87,9 +87,9 @@ body {
 
 .logo-image {
     display: block;
-    height: 50px !important; /* 缩小50%：从 100px 减少到 50px */
+    height: 40px !important; /* 再缩小20%：从 50px 减少到 40px */
     width: auto !important;
-    max-height: 50px !important;
+    max-height: 40px !important;
 }
 
 .logo-medical {
@@ -107,7 +107,7 @@ body {
     color: var(--text-color);
     text-decoration: none;
     font-weight: 500;
-    font-size: 0.95rem;
+    font-size: 1.14rem; /* 增加20%：从 0.95rem 增加到 1.14rem (0.95 * 1.2) */
     letter-spacing: -0.01em;
     transition: color 0.3s ease;
     overflow-wrap: break-word;
