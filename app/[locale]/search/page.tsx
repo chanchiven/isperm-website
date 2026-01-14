@@ -1,6 +1,6 @@
 'use client';
 
-import { useState, useEffect } from 'react';
+import { useState, useEffect, Suspense } from 'react';
 import { useSearchParams } from 'next/navigation';
 import { useTranslations, useLocale } from 'next-intl';
 import { Navigation } from '@/components/Navigation';
@@ -11,9 +11,9 @@ import { Loader2 } from 'lucide-react';
 import { Link } from '@/i18n/routing';
 
 /**
- * 搜索结果页面
+ * 搜索内容组件（使用 useSearchParams，需要 Suspense 包裹）
  */
-export default function SearchPage() {
+function SearchContent() {
   const t = useTranslations('search');
   const tIndex = useTranslations('index');
   const locale = useLocale();
@@ -169,5 +169,58 @@ export default function SearchPage() {
         }
       `}</style>
     </div>
+  );
+}
+
+/**
+ * 搜索结果页面（主组件，使用 Suspense 包裹 SearchContent）
+ */
+export default function SearchPage() {
+  return (
+    <Suspense fallback={
+      <div>
+        <Navigation />
+        <section className="hero" style={{ minHeight: '40vh', position: 'relative' }}>
+          <div className="hero-background" style={{
+            backgroundImage: `url('/banner%20(1).webp')`,
+            backgroundSize: 'cover',
+            backgroundPosition: 'center',
+            backgroundRepeat: 'no-repeat',
+            position: 'absolute',
+            top: 0,
+            left: 0,
+            width: '100%',
+            height: '100%',
+            zIndex: -2
+          }}></div>
+          <div className="hero-overlay" style={{
+            position: 'absolute',
+            top: 0,
+            left: 0,
+            width: '100%',
+            height: '100%',
+            background: 'linear-gradient(135deg, rgba(0, 0, 0, 0.5) 0%, rgba(0, 0, 0, 0.3) 100%)',
+            zIndex: -1
+          }}></div>
+          <div className="container" style={{ position: 'relative', zIndex: 1 }}>
+            <div className="hero-content">
+              <h1 className="hero-title">Search</h1>
+            </div>
+          </div>
+        </section>
+        <section className="about-section" style={{ padding: '80px 0' }}>
+          <div className="container">
+            <div style={{ textAlign: 'center', padding: '4rem 2rem' }}>
+              <Loader2 size={48} color="var(--primary-color)" style={{ animation: 'spin 1s linear infinite', margin: '0 auto' }} />
+              <p style={{ marginTop: '1rem', color: 'var(--text-color-secondary)' }}>
+                Loading...
+              </p>
+            </div>
+          </div>
+        </section>
+      </div>
+    }>
+      <SearchContent />
+    </Suspense>
   );
 }
