@@ -7,23 +7,17 @@ import {generateHreflangAlternates} from '@/i18n/hreflang';
 export async function generateMetadata({
   params
 }: {
-  params: Promise<{locale: string}>;
+  params?: Promise<{locale: string}>;
 }): Promise<Metadata> {
   try {
-    if (!params) {
-      return {
-        title: '404 - Page Not Found | iSperm Medical',
-        description: 'The page you are looking for does not exist.',
-      };
+    // 处理静态导出时 params 可能为 undefined 的情况
+    let locale = 'en'; // 默认语言
+    if (params) {
+      const resolvedParams = await params;
+      if (resolvedParams && resolvedParams.locale) {
+        locale = resolvedParams.locale;
+      }
     }
-    const resolvedParams = await params;
-    if (!resolvedParams || !resolvedParams.locale) {
-      return {
-        title: '404 - Page Not Found | iSperm Medical',
-        description: 'The page you are looking for does not exist.',
-      };
-    }
-    const {locale} = resolvedParams;
     const t = await getTranslations({locale, namespace: 'index'});
     
     return {
@@ -43,17 +37,17 @@ export async function generateMetadata({
 export default async function NotFoundPage({
   params
 }: {
-  params: Promise<{locale: string}>;
+  params?: Promise<{locale: string}>;
 }) {
   try {
-    if (!params) {
-      throw new Error('Params is undefined in NotFoundPage');
+    // 处理静态导出时 params 可能为 undefined 的情况
+    let locale = 'en'; // 默认语言
+    if (params) {
+      const resolvedParams = await params;
+      if (resolvedParams && resolvedParams.locale) {
+        locale = resolvedParams.locale;
+      }
     }
-    const resolvedParams = await params;
-    if (!resolvedParams || !resolvedParams.locale) {
-      throw new Error('Resolved params is invalid in NotFoundPage');
-    }
-    const {locale} = resolvedParams;
     const t = await getTranslations({locale, namespace: 'index'});
   
   return (

@@ -230,11 +230,12 @@ export default async function FAQArticlePage({
   
   // Get article content from JSON using unified path structure
   // Try to get intro from current locale, fallback to English
-  let intro = t(`articles.${slug}.intro`, {default: null});
+  // Use t.raw() to get raw HTML string without parsing formatting variables
+  let intro = t.raw(`articles.${slug}.intro`) as string | null;
   
   // If intro not found or is a key path, try English
-  if (isInvalidTranslationKey(intro, 'intro', slug)) {
-    intro = tEn(`articles.${slug}.intro`, {default: null});
+  if (!intro || isInvalidTranslationKey(intro, 'intro', slug)) {
+    intro = tEn.raw(`articles.${slug}.intro`) as string | null;
   }
   
   // If intro still doesn't exist, trigger 404
@@ -283,13 +284,14 @@ export default async function FAQArticlePage({
   }
   
   // If no conclusion in chapters, try separate conclusion field
+  // Use t.raw() to get raw HTML string without parsing formatting variables
   if (!conclusion) {
-    conclusion = t(`articles.${slug}.conclusion`, {default: null});
+    conclusion = t.raw(`articles.${slug}.conclusion`) as string | null;
     // Fallback to English if not found (tEn already defined above)
-    if (isInvalidTranslationKey(conclusion, 'conclusion', slug)) {
-      conclusion = tEn(`articles.${slug}.conclusion`, {default: null});
+    if (!conclusion || isInvalidTranslationKey(conclusion, 'conclusion', slug)) {
+      conclusion = tEn.raw(`articles.${slug}.conclusion`) as string | null;
       // If English also returns key path, set to null
-      if (isInvalidTranslationKey(conclusion, 'conclusion', slug)) {
+      if (!conclusion || isInvalidTranslationKey(conclusion, 'conclusion', slug)) {
         conclusion = null;
       }
     }
