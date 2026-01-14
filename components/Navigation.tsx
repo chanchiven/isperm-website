@@ -72,7 +72,11 @@ export function Navigation() {
         <div className="nav-wrapper">
           <div className="logo">
             <Link href="/" locale={locale as any} onClick={closeMenu}>
-              iSperm<span className="logo-medical">Medical</span>
+              <img
+                src="/iSperm LOGO.svg"
+                alt="iSperm Medical"
+                className="logo-image"
+              />
             </Link>
           </div>
           

@@ -6,10 +6,9 @@ export const metadata: Metadata = {
   title: 'iSperm Semen analyzer - Revolutionizing Semen Analysis',
   description: 'Fully automated semen analysis system designed for clinical and animal breeding use, featuring advanced AI algorithms.',
   icons: {
-    icon: {
-      url: 'data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y=".9em" font-size="90">🧬</text></svg>',
-      type: 'image/svg+xml',
-    },
+    icon: '/icon.svg',
+    shortcut: '/icon.svg',
+    apple: '/icon.svg',
   },
   alternates: {
     types: {
