@@ -465,19 +465,21 @@ export default async function FAQArticlePage({
                 return (
                   <>
                     {/* Introduction */}
-                    <p 
-                      style={{
-                        marginTop: '1.5rem', 
-                        color: 'var(--text-light)', 
-                        fontSize: '1.1rem', 
-                        lineHeight: 1.8,
-                        overflowWrap: 'break-word',
-                        wordWrap: 'break-word',
-                        wordBreak: 'break-word',
-                        hyphens: locale === 'ar' ? 'none' : 'auto'
-                      }}
-                      dangerouslySetInnerHTML={{ __html: processContentWithInternalLinks(intro, locale) }}
-                    />
+                    {intro && (
+                      <p 
+                        style={{
+                          marginTop: '1.5rem', 
+                          color: 'var(--text-light)', 
+                          fontSize: '1.1rem', 
+                          lineHeight: 1.8,
+                          overflowWrap: 'break-word',
+                          wordWrap: 'break-word',
+                          wordBreak: 'break-word',
+                          hyphens: locale === 'ar' ? 'none' : 'auto'
+                        }}
+                        dangerouslySetInnerHTML={{ __html: processContentWithInternalLinks(intro, locale) }}
+                      />
+                    )}
 
                     {/* Chapters */}
                     {chapters && chapters.map((chapter, chapterIndex) => {
@@ -742,7 +744,7 @@ export default async function FAQArticlePage({
                             wordBreak: 'break-word',
                             hyphens: locale === 'ar' ? 'none' : 'auto'
                           }}
-                          dangerouslySetInnerHTML={{ __html: processContentWithInternalLinks(conclusion, locale) }}
+                          dangerouslySetInnerHTML={{ __html: processContentWithInternalLinks(conclusion!, locale) }}
                         />
                       </>
                     )}
