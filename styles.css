@@ -87,9 +87,9 @@ body {
 
 .logo-image {
     display: block;
-    height: 40px !important; /* 再缩小20%：从 50px 减少到 40px */
+    height: 32.8px !important; /* 再减小18%：从 40px 减少到 32.8px (40 * 0.82) */
     width: auto !important;
-    max-height: 40px !important;
+    max-height: 32.8px !important;
 }
 
 .logo-medical {
