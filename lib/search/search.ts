@@ -130,7 +130,8 @@ export async function search(
   }
 
   // 配置 Fuse.js 选项
-  const fuseOptions: Fuse.IFuseOptions<any> = {
+  // 使用类型推断，避免命名空间类型错误
+  const fuseOptions = {
     keys: [
       { name: 'title', weight: 0.4 },
       { name: 'description', weight: 0.3 },
