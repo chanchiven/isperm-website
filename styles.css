@@ -88,7 +88,7 @@ body {
 .logo-image {
     display: block;
     height: auto;
-    max-height: 40px;
+    max-height: 100px; /* 从 40px 增加到 100px (250%) */
     width: auto;
 }
 

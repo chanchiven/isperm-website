@@ -5,11 +5,7 @@ export const metadata: Metadata = {
   metadataBase: new URL('https://www.isperm.com'),
   title: 'iSperm Semen analyzer - Revolutionizing Semen Analysis',
   description: 'Fully automated semen analysis system designed for clinical and animal breeding use, featuring advanced AI algorithms.',
-  icons: {
-    icon: '/icon.svg',
-    shortcut: '/icon.svg',
-    apple: '/icon.svg',
-  },
+  // Next.js 13+ 会自动识别 app/icon.svg 作为 favicon，无需手动配置
   alternates: {
     types: {
       'application/atom+xml': [
