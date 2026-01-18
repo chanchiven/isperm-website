@@ -201,7 +201,7 @@ export default async function SQA6100VetPage({
                 gap: '2rem',
                 padding: '2rem'
               }}>
-                <div className="product-image-item" style={{position: 'relative', aspectRatio: '4/3'}}>
+                <div className="product-image-item" style={{position: 'relative', aspectRatio: '16/9'}}>
                   <Image 
                     src="/sqa-6100vet-1.webp" 
                     alt={`${getT('products.sqavet.name')} multi-species CASA system for professional bull breeding soundness examination with built-in heating stage and automated sperm analysis`}
@@ -212,7 +212,7 @@ export default async function SQA6100VetPage({
                     sizes="(max-width: 768px) 100vw, (max-width: 968px) 50vw, 50vw"
                   />
                 </div>
-                <div className="product-image-item" style={{position: 'relative', aspectRatio: '4/3'}}>
+                <div className="product-image-item" style={{position: 'relative', aspectRatio: '16/9'}}>
                   <Image 
                     src="/sqa-6100vet-2.webp" 
                     alt={`${getT('products.sqavet.name')} portable veterinary CASA analyzer for field breeding soundness evaluation with all-in-one design and touch screen interface`}
@@ -222,7 +222,7 @@ export default async function SQA6100VetPage({
                     sizes="(max-width: 768px) 100vw, (max-width: 968px) 50vw, 50vw"
                   />
                 </div>
-                <div className="product-image-item" style={{position: 'relative', aspectRatio: '4/3'}}>
+                <div className="product-image-item" style={{position: 'relative', aspectRatio: '16/9'}}>
                   <Image 
                     src="/sqa-6100vet-3.webp" 
                     alt={`${getT('products.sqavet.name')} CASA system touch screen interface displaying automated sperm motility and morphology analysis results for multi-species veterinary assessment`}
@@ -232,7 +232,7 @@ export default async function SQA6100VetPage({
                     sizes="(max-width: 768px) 100vw, (max-width: 968px) 50vw, 50vw"
                   />
                 </div>
-                <div className="product-image-item" style={{position: 'relative', aspectRatio: '4/3'}}>
+                <div className="product-image-item" style={{position: 'relative', aspectRatio: '16/9'}}>
                   <Image 
                     src="/sqa-6100vet-4.webp" 
                     alt={`${getT('products.sqavet.name')} veterinary CASA system with advanced imaging capabilities and multi-species semen analysis features`}
