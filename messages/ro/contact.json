@@ -29,7 +29,6 @@
   },
   "form": {
     "emailTitle": "Email de Contact",
-    "responsePromise": "Promitem să răspundem în 24 de ore.",
     "name": "Nume",
     "company": "Companie",
     "email": "Email",

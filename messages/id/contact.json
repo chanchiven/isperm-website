@@ -29,7 +29,6 @@
   },
   "form": {
     "emailTitle": "Email Kontak",
-    "responsePromise": "Kami berjanji akan merespons dalam 24 jam.",
     "name": "Nama",
     "company": "Perusahaan",
     "email": "Email",

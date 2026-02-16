@@ -29,7 +29,6 @@
   },
   "form": {
     "emailTitle": "Email Liên hệ",
-    "responsePromise": "Chúng tôi cam kết phản hồi trong vòng 24 giờ.",
     "name": "Tên",
     "company": "Công ty",
     "email": "Email",

@@ -29,7 +29,6 @@
   },
   "form": {
     "emailTitle": "연락처 이메일",
-    "responsePromise": "24시간 이내에 응답하겠습니다.",
     "name": "이름",
     "company": "회사",
     "email": "이메일",

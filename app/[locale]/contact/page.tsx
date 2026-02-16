@@ -408,17 +408,6 @@ export default function ContactPage() {
               >
                 market@isperm.com
               </HoverableLink>
-              <p style={{
-                fontSize: '1rem',
-                color: '#666666',
-                lineHeight: '1.6',
-                padding: '1rem',
-                background: '#F8F9FA',
-                borderRadius: '8px',
-                borderLeft: '4px solid #00776E'
-              }}>
-                {t('form.responsePromise')}
-              </p>
             </div>
 
             {/* Right: Contact Form */}

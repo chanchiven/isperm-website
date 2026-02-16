@@ -29,7 +29,6 @@
   },
   "form": {
     "emailTitle": "E-mail de Contato",
-    "responsePromise": "Prometemos responder em até 24 horas.",
     "name": "Nome",
     "company": "Empresa",
     "email": "E-mail",

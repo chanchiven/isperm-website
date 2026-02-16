@@ -29,7 +29,6 @@
   },
   "form": {
     "emailTitle": "Контактный email",
-    "responsePromise": "Мы обещаем ответить в течение 24 часов.",
     "name": "Имя",
     "company": "Компания",
     "email": "Email",

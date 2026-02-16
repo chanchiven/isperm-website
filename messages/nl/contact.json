@@ -29,7 +29,6 @@
   },
   "form": {
     "emailTitle": "Contact E-mail",
-    "responsePromise": "We beloven binnen 24 uur te reageren.",
     "name": "Naam",
     "company": "Bedrijf",
     "email": "E-mail",

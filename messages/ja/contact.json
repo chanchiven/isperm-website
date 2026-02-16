@@ -29,7 +29,6 @@
   },
   "form": {
     "emailTitle": "お問い合わせメール",
-    "responsePromise": "24時間以内に返信することをお約束します。",
     "name": "お名前",
     "company": "会社名",
     "email": "メールアドレス",
