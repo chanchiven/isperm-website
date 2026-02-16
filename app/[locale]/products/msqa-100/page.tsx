@@ -30,7 +30,7 @@ export async function generateMetadata({
     return {
       title: t('products.msqaMeta.title'),
       description: t('products.msqaMeta.description'),
-      alternates: generateHreflangAlternates('/products/msqa-100'),
+      alternates: generateHreflangAlternates('/products/msqa-100', locale),
     };
   } catch (error) {
     console.error('Error in msqa-100 generateMetadata:', error);
@@ -322,6 +322,7 @@ export default async function MSQA100Page({
                 <li><Link href="/" locale={locale as any}>{t('nav.home')}</Link></li>
                 <li><Link href="/products" locale={locale as any}>{t('nav.products')}</Link></li>
                 <li><Link href="/about" locale={locale as any}>{t('nav.about')}</Link></li>
+                <li><Link href="/faq" locale={locale as any}>{t('nav.knowledgeHub')}</Link></li>
                 <li><Link href="/contact" locale={locale as any}>{t('nav.contact')}</Link></li>
               </ul>
             </div>

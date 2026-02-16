@@ -25,13 +25,13 @@
       "badge": "Professionelles CASA-System",
       "heroSubtitle": "Vollautomatisches Human-CASA-System",
       "subtitle": "Vollautomatisches Human-CASA-System",
-      "description": "Vollautomatisches CASA-System für den klinischen und Laborgebrauch mit fortschrittlichen KI-Algorithmen und umfassender Parameteranalyse.",
+      "description": "WHO 6. Auflage konformes vollautomatisches CASA-System für den klinischen und Laborgebrauch mit fortschrittlichen KI-Algorithmen und umfassender Parameteranalyse.",
       "feature1": "Vollautomatische Analyse",
       "feature2": "Eingebaute Heizstufe",
       "feature3": "PC-Workstation-Unterstützung",
       "button": "Details anzeigen",
       "detail": {
-        "description": "Professionelles CASA-System für den klinischen und Laborgebrauch mit fortschrittlichen KI-Algorithmen und umfassender Parameteranalyse für die humane Samenbewertung.",
+        "description": "WHO 6. Auflage konformes professionelles CASA-System für den klinischen und Laborgebrauch mit fortschrittlichen KI-Algorithmen und umfassender Parameteranalyse für die humane Samenbewertung.",
         "keyFeatures": {
           "title": "Hauptfunktionen",
           "items": [
@@ -128,13 +128,13 @@
       "badge": "Tragbares Heim-CASA-System",
       "heroSubtitle": "Tragbares Heim-CASA-System",
       "subtitle": "Tragbarer CASA-Samenanalysator",
-      "description": "Tragbares CASA-System für den Heimgebrauch mit Smartphone-Kompatibilität, das Laborqualitäts-Leistung in kompaktem Format liefert.",
+      "description": "WHO 6. Auflage konformes tragbares CASA-System für den Heimgebrauch mit Smartphone-Kompatibilität, das Laborqualitäts-Leistung in kompaktem Format liefert.",
       "feature1": "Smartphone-kompatibel",
       "feature2": "Eingebaute Temperaturkontrolle",
       "feature3": "Cloud-basierte KI-Analyse",
       "button": "Details anzeigen",
       "detail": {
-        "description": "Das MSQA-100 ist ein tragbares CASA-System (Computer-Assisted Sperm Analysis) für den Heimgebrauch, das für schnelle, genaue und benutzerfreundliche Samenbewertung entwickelt wurde. Durch die Kombination von Mikrofluidik-Technologie, Präzisionsfertigung und KI-gesteuerter Bildanalyse liefert das MSQA-100 Laborqualitäts-Leistung in kompaktem und zugänglichem Format.",
+        "description": "Das MSQA-100 ist ein WHO 6. Auflage konformes tragbares CASA-System (Computer-Assisted Sperm Analysis) für den Heimgebrauch, das für schnelle, genaue und benutzerfreundliche Samenbewertung entwickelt wurde. Durch die Kombination von Mikrofluidik-Technologie, Präzisionsfertigung und KI-gesteuerter Bildanalyse liefert das MSQA-100 Laborqualitäts-Leistung in kompaktem und zugänglichem Format.",
         "keyTechnologies": {
           "title": "Schlüsseltechnologien & Funktionen",
           "items": [
@@ -342,8 +342,8 @@
       "description": "Nexus Dx1 vollautomatisches Human-CASA-System. WHO 6. Auflage konformer Samenanalysator mit KI-gesteuerter Spermien-Morphologie-Analyse."
     },
     "msqaMeta": {
-      "title": "MSQA-100 Tragbares CASA-System | iSperm Medical",
-      "description": "MSQA-100 tragbares Heim-CASA-System. Smartphone-kompatibler Samenanalysator mit Cloud-KI für Spermien-Morphologie-Analyse."
+      "title": "MSQA-100 Tragbares CASA-System | WHO 6. Auflage | iSperm Medical",
+      "description": "MSQA-100 WHO 6. Auflage konformes tragbares Heim-CASA-System. Smartphone-kompatibler Samenanalysator mit Cloud-KI für Spermien-Morphologie-Analyse."
     },
     "sqavetMeta": {
       "title": "SQA-6100vet Veterinär-CASA-System | iSperm Medical",

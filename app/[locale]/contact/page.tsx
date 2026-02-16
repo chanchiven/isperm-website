@@ -160,6 +160,31 @@ export default function ContactPage() {
       {/* Navigation */}
       <Navigation />
 
+      {/* Page Header - SEO: single h1 per page */}
+      <section style={{
+        padding: '120px 0 2rem',
+        background: '#FFFFFF',
+        textAlign: 'center'
+      }}>
+        <div className="container">
+          <h1 style={{
+            fontSize: '2.5rem',
+            fontWeight: 600,
+            color: '#333333',
+            marginBottom: '0.5rem'
+          }}>
+            {t('hero.title')}
+          </h1>
+          <p style={{
+            fontSize: '1.2rem',
+            color: '#666666',
+            margin: 0
+          }}>
+            {t('hero.subtitle')}
+          </p>
+        </div>
+      </section>
+
       {/* Action Cards */}
       <section style={{
         padding: '120px 0',
@@ -695,6 +720,7 @@ export default function ContactPage() {
                 <li><Link href="/" locale={locale as any}>{t('nav.home')}</Link></li>
                 <li><Link href="/products" locale={locale as any}>{t('nav.products')}</Link></li>
                 <li><Link href="/about" locale={locale as any}>{t('nav.about')}</Link></li>
+                <li><Link href="/faq" locale={locale as any}>{t('nav.knowledgeHub')}</Link></li>
                 <li><Link href="/contact" locale={locale as any}>{t('nav.contact')}</Link></li>
               </ul>
             </div>

@@ -1,4 +1,4 @@
-﻿{
+{
   "meta": {
     "title": "지식 허브 | CASA 시스템 FAQ | iSperm Medical",
     "description": "포괄적인 CASA 시스템 FAQ, WHO 6판 가이드 및 정액 분석 리소스. 정자 형태 분석기에 대한 전문가 인사이트."
@@ -1388,7 +1388,13 @@
         }
       ],
       "conclusion": "돼지 정액 평가 및 처리 표준은 현대 돼지 인공 수정 프로그램의 기초를 나타냅니다. SQA-6100VET과 같은 최신 CASA 기술의 통합은 돼지 정액의 정확한 평가에 필요한 정밀성과 객관성을 제공하여 최적의 희석 비율과 AI 용량 준비를 보장합니다. SFT 표준을 준수하고 엄격한 생물학적 안전 프로토콜을 유지함으로써 수의학 전문가와 생산자들은 돼지가 최고 수준의 진단 정확성으로 평가되도록 보장할 수 있으며, 임신률을 최대화하고 전체 생산 시스템의 건강을 보호할 수 있습니다.<br/><br/><strong>면책 조항:</strong> 이 가이드는 교육 목적으로 제공됩니다. 모든 임상 진단은 현지 규정에 따라 자격을 갖춘 수의학 전문가가 수행해야 합니다.",
-      "references": []
+      "references": [
+        "Pork Information Gateway (PIG). Semen Collection, Evaluation and Processing in the Boar. Available at: https://porkgateway.org/?s=Semen+Collection%2C+Evaluation+and+Processing+in+the+Boar",
+        "Flowers, W. L. (1997). Management of reproduction in the boar. In: Current Therapy in Large Animal Theriogenology.",
+        "Althouse, G. C. (1998). Semen evaluation and processing in the boar. Veterinary Clinics: Food Animal Practice.",
+        "Knox, R. V. (2021). Boar Management and Semen Evaluation. MSD Veterinary Manual. Available at: https://www.msdvetmanual.com/management-and-nutrition/management-of-reproduction-pigs/boar-management",
+        "Amann, R. P., & Waberski, D. (2014). Computer-assisted sperm analysis (CASA): capabilities and potential developments. Theriogenology."
+      ]
     },
     "who-6th-edition-semen-analysis-standards": {
       "title": "정액 분석의 우수성: WHO 6판 표준 및 CASA 기술에 대한 포괄적인 가이드",

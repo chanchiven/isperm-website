@@ -4,7 +4,7 @@
       "id": "nexus-dx1",
       "slug": "nexus-dx1",
       "name": "Nexus Dx1",
-      "description": "Système CASA entièrement automatisé conçu pour un usage clinique et de laboratoire, doté d'algorithmes d'IA avancés et d'une analyse complète des paramètres.",
+      "description": "Système CASA entièrement automatisé conforme à la 6e édition de l'OMS, conçu pour un usage clinique et de laboratoire, doté d'algorithmes d'IA avancés et d'une analyse complète des paramètres.",
       "subtitle": "Système CASA Humain Entièrement Automatisé",
       "images": [
         "/nexus-dx1-cover.webp",
@@ -34,7 +34,7 @@
       "id": "msqa-100",
       "slug": "msqa-100",
       "name": "MSQA-100",
-      "description": "Système CASA portable à usage domestique compatible avec smartphone, offrant des performances de niveau laboratoire dans un format compact.",
+      "description": "Système CASA portable conforme à la 6e édition de l'OMS à usage domestique compatible avec smartphone, offrant des performances de niveau laboratoire dans un format compact.",
       "subtitle": "Analyseur de Sperme CASA Portable",
       "images": [
         "/MSQA-100/msqa-100-cover.webp",

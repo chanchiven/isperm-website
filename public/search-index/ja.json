@@ -4,7 +4,7 @@
       "id": "nexus-dx1",
       "slug": "nexus-dx1",
       "name": "Nexus Dx1",
-      "description": "臨床および実験室使用のために設計された完全自動化CASAシステム。高度なAIアルゴリズムと包括的なパラメータ分析を備えています。",
+      "description": "WHO第6版準拠の完全自動化CASAシステム。臨床および実験室使用のために設計され、高度なAIアルゴリズムと包括的なパラメータ分析を備えています。",
       "subtitle": "完全自動化ヒト用CASAシステム",
       "images": [
         "/nexus-dx1-cover.webp",
@@ -34,7 +34,7 @@
       "id": "msqa-100",
       "slug": "msqa-100",
       "name": "MSQA-100",
-      "description": "スマートフォン対応のポータブル家庭用CASAシステム。コンパクトなフォーマットで実験室レベルの性能を提供します。",
+      "description": "WHO第6版準拠のスマートフォン対応ポータブル家庭用CASAシステム。コンパクトなフォーマットで実験室レベルの性能を提供します。",
       "subtitle": "ポータブルCASA精液分析装置",
       "images": [
         "/MSQA-100/msqa-100-cover.webp",

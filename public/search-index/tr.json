@@ -4,7 +4,7 @@
       "id": "nexus-dx1",
       "slug": "nexus-dx1",
       "name": "Nexus Dx1",
-      "description": "Klinik ve laboratuvar kullanımı için tasarlanmış, gelişmiş AI algoritmaları ve kapsamlı parametre analizi özelliklerine sahip tam otomatik CASA sistemi.",
+      "description": "DSÖ 6. baskı uyumlu, klinik ve laboratuvar kullanımı için tasarlanmış, gelişmiş AI algoritmaları ve kapsamlı parametre analizi özelliklerine sahip tam otomatik CASA sistemi.",
       "subtitle": "Tam Otomatik İnsan CASA Sistemi",
       "images": [
         "/nexus-dx1-cover.webp",
@@ -34,7 +34,7 @@
       "id": "msqa-100",
       "slug": "msqa-100",
       "name": "MSQA-100",
-      "description": "Akıllı telefon uyumluluğuna sahip taşınabilir, ev kullanımı CASA sistemi, kompakt formatta laboratuvar seviyesi performans sunar.",
+      "description": "DSÖ 6. baskı uyumlu, akıllı telefon uyumluluğuna sahip taşınabilir ev kullanımı CASA sistemi, kompakt formatta laboratuvar seviyesi performans sunar.",
       "subtitle": "Taşınabilir CASA Semen Analizörü",
       "images": [
         "/MSQA-100/msqa-100-cover.webp",

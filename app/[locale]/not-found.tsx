@@ -23,7 +23,7 @@ export async function generateMetadata({
     return {
       title: t('notFound.title'),
       description: t('notFound.description'),
-      alternates: generateHreflangAlternates('/404'),
+      alternates: generateHreflangAlternates('/404', locale),
     };
   } catch (error) {
     console.error('Error in not-found generateMetadata:', error);
@@ -64,17 +64,17 @@ export default async function NotFoundPage({
         justifyContent: 'center'
       }}>
         <div className="container" style={{textAlign: 'center'}}>
-          <h1 style={{
+          <div style={{
             fontSize: '8rem',
             fontWeight: 700,
             color: 'var(--primary-color)',
             marginBottom: '1rem',
             lineHeight: 1
-          }}>
+          }} aria-hidden="true">
             {t('notFound.statusCode')}
-          </h1>
+          </div>
           
-          <h2 style={{
+          <h1 style={{
             fontSize: '2.5rem',
             fontWeight: 600,
             color: 'var(--dark-color)',
@@ -82,7 +82,7 @@ export default async function NotFoundPage({
             lineHeight: 1.3
           }}>
             {t('notFound.title')}
-          </h2>
+          </h1>
           
           <p style={{
             fontSize: '1.2rem',
@@ -139,6 +139,7 @@ export default async function NotFoundPage({
                 <li><Link href="/" locale={locale as any}>{t('nav.home')}</Link></li>
                 <li><Link href="/products" locale={locale as any}>{t('nav.products')}</Link></li>
                 <li><Link href="/about" locale={locale as any}>{t('nav.about')}</Link></li>
+                <li><Link href="/faq" locale={locale as any}>{t('nav.knowledgeHub')}</Link></li>
                 <li><Link href="/contact" locale={locale as any}>{t('nav.contact')}</Link></li>
               </ul>
             </div>

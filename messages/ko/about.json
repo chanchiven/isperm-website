@@ -42,6 +42,11 @@
       "item1": "국가 \"만인계획\" 전문가; 심천 고급 인재",
       "item2": "수상: 중국 청년 혁신 금상, 의료기기 혁신상",
       "item3": "30개 이상의 글로벌 특허; \"세포 수준 미세유체 칩의 발명가\"로 불림"
+    },
+    "research": {
+      "title": "연구",
+      "intro": "2020년 Benjamin은 AI 기반 정자 분석에 관한 연구를 발표했습니다. 논문 보기: ",
+      "linkText": "Web- and Artificial Intelligence-Based Image Recognition For Sperm Motility Analysis (Verification Study)"
     }
   },
   "showcase": {

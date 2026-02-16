@@ -42,6 +42,11 @@
       "item1": "Chuyên gia Kế hoạch \"10,000 Talents Plan\" Quốc gia; Nhân tài Cấp cao Thâm Quyến",
       "item2": "Giải thưởng: Giải Vàng Đổi mới Thanh niên Trung Quốc, Giải thưởng Đổi mới Thiết bị Y tế",
       "item3": "Hơn 30 bằng sáng chế toàn cầu; được mệnh danh \"Nhà phát minh Chip Vi lưu chất Cấp Tế bào\""
+    },
+    "research": {
+      "title": "Nghiên cứu",
+      "intro": "Năm 2020, Benjamin đã công bố bài nghiên cứu về phân tích tinh trùng bằng AI. Xem bài viết: ",
+      "linkText": "Web- and Artificial Intelligence-Based Image Recognition For Sperm Motility Analysis (Verification Study)"
     }
   },
   "showcase": {

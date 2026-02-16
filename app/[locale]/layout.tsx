@@ -50,12 +50,30 @@ export async function generateMetadata({
       // 为首页生成 hreflang 链接
       // 注意：layout.tsx 中的 hreflang 只适用于首页
       // 其他页面需要在各自的 generateMetadata 中添加 hreflang
-      const alternates = generateHreflangAlternates('/');
+      const alternates = generateHreflangAlternates('/', locale);
       
+      const title = t('meta.title');
+      const description = t('meta.description');
+      const baseUrl = 'https://www.isperm.com';
+      const pageUrl = `${baseUrl}/${locale}`;
+
       return {
-        title: t('meta.title'),
-        description: t('meta.description'),
+        title,
+        description,
         alternates: alternates,
+        openGraph: {
+          title,
+          description,
+          url: pageUrl,
+          siteName: 'iSperm Medical',
+          images: [{ url: `${baseUrl}/banner%20(1).webp`, width: 1200, height: 630, alt: t('hero.bannerAlt') }],
+          locale: locale.replace('-', '_'),
+        },
+        twitter: {
+          card: 'summary_large_image',
+          title,
+          description,
+        },
       };
     } catch (error) {
       // 如果翻译加载失败，使用默认值

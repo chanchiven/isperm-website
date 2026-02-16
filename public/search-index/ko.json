@@ -4,7 +4,7 @@
       "id": "nexus-dx1",
       "slug": "nexus-dx1",
       "name": "Nexus Dx1",
-      "description": "임상 및 실험실 사용을 위해 설계된 완전 자동화 CASA 시스템으로, 고급 AI 알고리즘과 포괄적인 매개변수 분석 기능을 갖추고 있습니다.",
+      "description": "WHO 6판 준수 완전 자동화 CASA 시스템으로, 임상 및 실험실 사용을 위해 설계되었으며 고급 AI 알고리즘과 포괄적인 매개변수 분석 기능을 갖추고 있습니다.",
       "subtitle": "완전 자동화 인간용 CASA 시스템",
       "images": [
         "/nexus-dx1-cover.webp",
@@ -34,7 +34,7 @@
       "id": "msqa-100",
       "slug": "msqa-100",
       "name": "MSQA-100",
-      "description": "스마트폰 호환성을 갖춘 휴대용 가정용 CASA 시스템으로, 컴팩트한 형식으로 실험실 수준의 성능을 제공합니다.",
+      "description": "WHO 6판 준수 스마트폰 호환 휴대용 가정용 CASA 시스템으로, 컴팩트한 형식으로 실험실 수준의 성능을 제공합니다.",
       "subtitle": "휴대용 CASA 정액 분석기",
       "images": [
         "/MSQA-100/msqa-100-cover.webp",

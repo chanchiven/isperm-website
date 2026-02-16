@@ -42,6 +42,11 @@
       "item1": "Nationaler \"10.000 Talente Plan\" Experte; Shenzhen High-Level Talent",
       "item2": "Auszeichnungen: China Youth Innovation Gold Award, Medical Device Innovation Award",
       "item3": "30+ globale Patente; bezeichnet als \"Erfinder der zellulären Mikrofluidik-Chips\""
+    },
+    "research": {
+      "title": "Forschung",
+      "intro": "2020 veröffentlichte Benjamin eine Studie zur KI-basierten Spermienanalyse. Siehe den Artikel: ",
+      "linkText": "Web- and Artificial Intelligence-Based Image Recognition For Sperm Motility Analysis (Verification Study)"
     }
   },
   "showcase": {

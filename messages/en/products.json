@@ -25,13 +25,13 @@
       "badge": "Professional CASA System",
       "heroSubtitle": "Fully Automated Human CASA System",
       "subtitle": "Fully Automated Human CASA System",
-      "description": "Fully automated CASA system designed for clinical and laboratory use, featuring advanced AI algorithms and comprehensive parameter analysis.",
+      "description": "WHO 6th edition compliant fully automated CASA system designed for clinical and laboratory use, featuring advanced AI algorithms and comprehensive parameter analysis.",
       "feature1": "Fully automated analysis",
       "feature2": "Built-in heating stage",
       "feature3": "PC workstation support",
       "button": "View Details",
       "detail": {
-        "description": "Professional CASA system designed for clinical and laboratory use, featuring advanced AI algorithms and comprehensive parameter analysis for human semen evaluation.",
+        "description": "WHO 6th edition compliant professional CASA system designed for clinical and laboratory use, featuring advanced AI algorithms and comprehensive parameter analysis for human semen evaluation.",
         "keyFeatures": {
           "title": "Key Features",
           "items": [
@@ -128,13 +128,13 @@
       "badge": "Portable Home-Use CASA",
       "heroSubtitle": "Portable Home-Use CASA System",
       "subtitle": "Portable CASA Semen Analyzer",
-      "description": "Portable, home-use CASA system with smartphone compatibility, delivering laboratory-level performance in a compact format.",
+      "description": "WHO 6th edition compliant portable home-use CASA system with smartphone compatibility, delivering laboratory-level performance in a compact format.",
       "feature1": "Smartphone compatible",
       "feature2": "Built-in temperature control",
       "feature3": "Cloud-based AI analysis",
       "button": "View Details",
       "detail": {
-        "description": "The MSQA-100 is a portable, home-use Computer-Assisted Sperm Analysis (CASA) system designed for fast, accurate, and user-friendly semen evaluation. By combining microfluidic technology, precision manufacturing, and AI-driven image analysis, the MSQA-100 delivers laboratory-level performance in a compact and accessible format.",
+        "description": "The MSQA-100 is a WHO 6th edition compliant portable, home-use Computer-Assisted Sperm Analysis (CASA) system designed for fast, accurate, and user-friendly semen evaluation. By combining microfluidic technology, precision manufacturing, and AI-driven image analysis, the MSQA-100 delivers laboratory-level performance in a compact and accessible format.",
         "keyTechnologies": {
           "title": "Key Technologies & Features",
           "items": [
@@ -342,8 +342,8 @@
       "description": "Nexus Dx1 fully automated human CASA system. WHO 6th edition compliant semen analyzer with AI-powered sperm morphology analysis."
     },
     "msqaMeta": {
-      "title": "MSQA-100 Portable CASA System | iSperm Medical",
-      "description": "MSQA-100 portable home-use CASA system. Smartphone-compatible semen analyzer with cloud AI for sperm morphology analysis."
+      "title": "MSQA-100 Portable CASA System | WHO 6th Edition | iSperm Medical",
+      "description": "MSQA-100 portable home-use CASA system. WHO 6th edition compliant semen analyzer with smartphone compatibility and cloud AI for sperm morphology analysis."
     },
     "sqavetMeta": {
       "title": "SQA-6100vet Veterinary CASA System | iSperm Medical",

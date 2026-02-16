@@ -25,13 +25,13 @@
       "badge": "Professioneel CASA Systeem",
       "heroSubtitle": "Volledig Geautomatiseerd Menselijk CASA Systeem",
       "subtitle": "Volledig Geautomatiseerd Menselijk CASA Systeem",
-      "description": "Volledig geautomatiseerd CASA systeem ontworpen voor klinisch en laboratoriumgebruik, met geavanceerde AI-algoritmen en uitgebreide parameteranalyse.",
+      "description": "Volledig geautomatiseerd CASA systeem conform WHO 6e editie, ontworpen voor klinisch en laboratoriumgebruik, met geavanceerde AI-algoritmen en uitgebreide parameteranalyse.",
       "feature1": "Volledig geautomatiseerde analyse",
       "feature2": "Ingebouwde verwarmingsfase",
       "feature3": "PC werkstation ondersteuning",
       "button": "Details Bekijken",
       "detail": {
-        "description": "Professioneel CASA systeem ontworpen voor klinisch en laboratoriumgebruik, met geavanceerde AI-algoritmen en uitgebreide parameteranalyse voor menselijke semen evaluatie.",
+        "description": "Professioneel CASA systeem conform WHO 6e editie, ontworpen voor klinisch en laboratoriumgebruik, met geavanceerde AI-algoritmen en uitgebreide parameteranalyse voor menselijke semen evaluatie.",
         "keyFeatures": {
           "title": "Belangrijkste Functies",
           "items": [
@@ -128,13 +128,13 @@
       "badge": "Draagbaar Thuisgebruik CASA",
       "heroSubtitle": "Draagbaar Thuisgebruik CASA Systeem",
       "subtitle": "Draagbare CASA Semen Analysator",
-      "description": "Draagbaar CASA systeem voor thuisgebruik met smartphone compatibiliteit, dat laboratoriumniveau prestaties levert in compact formaat.",
+      "description": "Draagbaar CASA systeem conform WHO 6e editie voor thuisgebruik met smartphone compatibiliteit, dat laboratoriumniveau prestaties levert in compact formaat.",
       "feature1": "Smartphone compatibel",
       "feature2": "Ingebouwde temperatuurregeling",
       "feature3": "Cloud-gebaseerde AI-analyse",
       "button": "Details Bekijken",
       "detail": {
-        "description": "De MSQA-100 is een draagbaar, thuisgebruik Computer-Assisted Sperm Analysis (CASA) systeem ontworpen voor snelle, accurate en gebruiksvriendelijke semen evaluatie. Door microfluïdische technologie, precisieproductie en AI-gedreven beeldanalyse te combineren, levert de MSQA-100 laboratoriumniveau prestaties in een compact en toegankelijk formaat.",
+        "description": "De MSQA-100 is een draagbaar CASA systeem conform WHO 6e editie voor thuisgebruik, ontworpen voor snelle, accurate en gebruiksvriendelijke semen evaluatie. Door microfluïdische technologie, precisieproductie en AI-gedreven beeldanalyse te combineren, levert de MSQA-100 laboratoriumniveau prestaties in een compact en toegankelijk formaat.",
         "keyTechnologies": {
           "title": "Belangrijkste Technologieën & Functies",
           "items": [
@@ -342,8 +342,8 @@
       "description": "Nexus Dx1 volledig geautomatiseerd menselijk CASA systeem. WHO 6e editie compatibele semen analysator met AI-gedreven spermamorfologie analyse."
     },
     "msqaMeta": {
-      "title": "MSQA-100 Draagbaar CASA Systeem | iSperm Medical",
-      "description": "MSQA-100 draagbaar thuisgebruik CASA systeem. Smartphone-compatibele semen analysator met cloud AI voor spermamorfologie analyse."
+      "title": "MSQA-100 Draagbaar CASA Systeem | WHO 6e Editie | iSperm Medical",
+      "description": "MSQA-100 draagbaar CASA systeem conform WHO 6e editie voor thuisgebruik. Smartphone-compatibele semen analysator met cloud AI voor spermamorfologie analyse."
     },
     "sqavetMeta": {
       "title": "SQA-6100vet Veterinair CASA Systeem | iSperm Medical",

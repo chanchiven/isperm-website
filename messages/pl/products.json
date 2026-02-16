@@ -25,13 +25,13 @@
       "badge": "Profesjonalny System CASA",
       "heroSubtitle": "W pełni Zautomatyzowany Ludzki System CASA",
       "subtitle": "W pełni Zautomatyzowany Ludzki System CASA",
-      "description": "W pełni zautomatyzowany system CASA zaprojektowany do zastosowań klinicznych i laboratoryjnych, wyposażony w zaawansowane algorytmy AI i kompleksową analizę parametrów.",
+      "description": "W pełni zautomatyzowany system CASA zgodny z 6. wydaniem WHO, zaprojektowany do zastosowań klinicznych i laboratoryjnych, wyposażony w zaawansowane algorytmy AI i kompleksową analizę parametrów.",
       "feature1": "W pełni zautomatyzowana analiza",
       "feature2": "Wbudowany stopień grzewczy",
       "feature3": "Wsparcie dla stacji roboczej PC",
       "button": "Zobacz Szczegóły",
       "detail": {
-        "description": "Profesjonalny system CASA zaprojektowany do zastosowań klinicznych i laboratoryjnych, wyposażony w zaawansowane algorytmy AI i kompleksową analizę parametrów do oceny ludzkiego nasienia.",
+        "description": "Profesjonalny system CASA zgodny z 6. wydaniem WHO, zaprojektowany do zastosowań klinicznych i laboratoryjnych, wyposażony w zaawansowane algorytmy AI i kompleksową analizę parametrów do oceny ludzkiego nasienia.",
         "keyFeatures": {
           "title": "Kluczowe Funkcje",
           "items": [
@@ -128,13 +128,13 @@
       "badge": "Przenośny CASA do Użytku Domowego",
       "heroSubtitle": "Przenośny System CASA do Użytku Domowego",
       "subtitle": "Przenośny Analizator Nasienia CASA",
-      "description": "Przenośny system CASA do użytku domowego z kompatybilnością ze smartfonem, zapewniający wydajność na poziomie laboratoryjnym w kompaktowym formacie.",
+      "description": "Przenośny system CASA zgodny z 6. wydaniem WHO do użytku domowego z kompatybilnością ze smartfonem, zapewniający wydajność na poziomie laboratoryjnym w kompaktowym formacie.",
       "feature1": "Kompatybilny ze smartfonem",
       "feature2": "Wbudowana kontrola temperatury",
       "feature3": "Analiza AI oparta na chmurze",
       "button": "Zobacz Szczegóły",
       "detail": {
-        "description": "MSQA-100 to przenośny system analizy plemników wspomaganej komputerowo (CASA) do użytku domowego, zaprojektowany do szybkiej, dokładnej i przyjaznej dla użytkownika oceny nasienia. Łącząc technologię mikroprzepływową, precyzyjną produkcję i analizę obrazu napędzaną AI, MSQA-100 zapewnia wydajność na poziomie laboratoryjnym w kompaktowym i dostępnym formacie.",
+        "description": "MSQA-100 to przenośny system CASA zgodny z 6. wydaniem WHO do użytku domowego, zaprojektowany do szybkiej, dokładnej i przyjaznej dla użytkownika oceny nasienia. Łącząc technologię mikroprzepływową, precyzyjną produkcję i analizę obrazu napędzaną AI, MSQA-100 zapewnia wydajność na poziomie laboratoryjnym w kompaktowym i dostępnym formacie.",
         "keyTechnologies": {
           "title": "Kluczowe Technologie i Funkcje",
           "items": [
@@ -342,8 +342,8 @@
       "description": "Nexus Dx1 w pełni zautomatyzowany ludzki system CASA. Analizator nasienia zgodny z 6. wydaniem WHO z analizą morfologii plemników napędzaną AI."
     },
     "msqaMeta": {
-      "title": "MSQA-100 Przenośny System CASA | iSperm Medical",
-      "description": "MSQA-100 przenośny system CASA do użytku domowego. Analizator nasienia kompatybilny ze smartfonem z AI w chmurze do analizy morfologii plemników."
+      "title": "MSQA-100 Przenośny System CASA | WHO 6. Wydanie | iSperm Medical",
+      "description": "MSQA-100 przenośny system CASA zgodny z 6. wydaniem WHO do użytku domowego. Analizator nasienia kompatybilny ze smartfonem z AI w chmurze do analizy morfologii plemników."
     },
     "sqavetMeta": {
       "title": "SQA-6100vet Weterynaryjny System CASA | iSperm Medical",

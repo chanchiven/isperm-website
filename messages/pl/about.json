@@ -42,6 +42,11 @@
       "item1": "Ekspert krajowego \"Planu 10 000 Talentów\"; Wysokiej Rangi Talent Shenzhen",
       "item2": "Nagrody: Złota Nagroda Innowacji Młodzieży Chin, Nagroda Innowacji Urządzeń Medycznych",
       "item3": "30+ globalnych patentów; nazwany \"Wynalazcą Chipów Mikrofluidycznych na Poziomie Komórkowym\""
+    },
+    "research": {
+      "title": "Badania",
+      "intro": "W 2020 roku Benjamin opublikował badanie dotyczące analizy plemników z wykorzystaniem AI. Zobacz artykuł: ",
+      "linkText": "Web- and Artificial Intelligence-Based Image Recognition For Sperm Motility Analysis (Verification Study)"
     }
   },
   "showcase": {

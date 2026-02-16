@@ -4,7 +4,7 @@
       "id": "nexus-dx1",
       "slug": "nexus-dx1",
       "name": "Nexus Dx1",
-      "description": "Fully automated CASA system designed for clinical and laboratory use, featuring advanced AI algorithms and comprehensive parameter analysis.",
+      "description": "WHO 6th edition compliant fully automated CASA system designed for clinical and laboratory use, featuring advanced AI algorithms and comprehensive parameter analysis.",
       "subtitle": "Fully Automated Human CASA System",
       "images": [
         "/nexus-dx1-cover.webp",
@@ -34,7 +34,7 @@
       "id": "msqa-100",
       "slug": "msqa-100",
       "name": "MSQA-100",
-      "description": "Portable, home-use CASA system with smartphone compatibility, delivering laboratory-level performance in a compact format.",
+      "description": "WHO 6th edition compliant portable home-use CASA system with smartphone compatibility, delivering laboratory-level performance in a compact format.",
       "subtitle": "Portable CASA Semen Analyzer",
       "images": [
         "/MSQA-100/msqa-100-cover.webp",
@@ -228,7 +228,7 @@
       "id": "home",
       "path": "/",
       "title": "iSperm Semen analyzer - Revolutionizing Semen Analysis",
-      "description": "Fully automated semen analysis system designed for clinical and animal breeding use, featuring advanced AI algorithms.",
+      "description": "Fully automated CASA semen analyzers for human & veterinary use. WHO 6th edition compliant. AI-powered sperm morphology analysis. Explore Nexus Dx1, MSQA-100 & SQA-6100vet.",
       "locale": "en"
     },
     {

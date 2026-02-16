@@ -25,13 +25,13 @@
       "badge": "전문 CASA 시스템",
       "heroSubtitle": "완전 자동화 인간용 CASA 시스템",
       "subtitle": "완전 자동화 인간용 CASA 시스템",
-      "description": "임상 및 실험실 사용을 위해 설계된 완전 자동화 CASA 시스템으로, 고급 AI 알고리즘과 포괄적인 매개변수 분석 기능을 갖추고 있습니다.",
+      "description": "WHO 6판 준수 완전 자동화 CASA 시스템으로, 임상 및 실험실 사용을 위해 설계되었으며 고급 AI 알고리즘과 포괄적인 매개변수 분석 기능을 갖추고 있습니다.",
       "feature1": "완전 자동화 분석",
       "feature2": "내장 가열 스테이지",
       "feature3": "PC 워크스테이션 지원",
       "button": "자세히 보기",
       "detail": {
-        "description": "인간 정액 평가를 위한 고급 AI 알고리즘과 포괄적인 매개변수 분석 기능을 갖춘 임상 및 실험실 사용을 위해 설계된 전문 CASA 시스템.",
+        "description": "WHO 6판 준수 전문 CASA 시스템으로, 인간 정액 평가를 위한 고급 AI 알고리즘과 포괄적인 매개변수 분석 기능을 갖추고 임상 및 실험실 사용을 위해 설계되었습니다.",
         "keyFeatures": {
           "title": "주요 기능",
           "items": [
@@ -128,13 +128,13 @@
       "badge": "휴대용 가정용 CASA",
       "heroSubtitle": "휴대용 가정용 CASA 시스템",
       "subtitle": "휴대용 CASA 정액 분석기",
-      "description": "스마트폰 호환성을 갖춘 휴대용 가정용 CASA 시스템으로, 컴팩트한 형식으로 실험실 수준의 성능을 제공합니다.",
+      "description": "WHO 6판 준수 스마트폰 호환 휴대용 가정용 CASA 시스템으로, 컴팩트한 형식으로 실험실 수준의 성능을 제공합니다.",
       "feature1": "스마트폰 호환",
       "feature2": "내장 온도 제어",
       "feature3": "클라우드 기반 AI 분석",
       "button": "자세히 보기",
       "detail": {
-        "description": "MSQA-100은 빠르고 정확하며 사용자 친화적인 정액 평가를 위해 설계된 휴대용 가정용 컴퓨터 보조 정자 분석(CASA) 시스템입니다. 미세유체 기술, 정밀 제조 및 AI 기반 이미지 분석을 결합하여 MSQA-100은 컴팩트하고 접근 가능한 형식으로 실험실 수준의 성능을 제공합니다.",
+        "description": "MSQA-100은 WHO 6판 준수 휴대용 가정용 CASA 시스템으로, 빠르고 정확하며 사용자 친화적인 정액 평가를 위해 설계되었습니다. 미세유체 기술, 정밀 제조 및 AI 기반 이미지 분석을 결합하여 MSQA-100은 컴팩트하고 접근 가능한 형식으로 실험실 수준의 성능을 제공합니다.",
         "keyTechnologies": {
           "title": "주요 기술 및 기능",
           "items": [
@@ -342,8 +342,8 @@
       "description": "Nexus Dx1 완전 자동화 인간용 CASA 시스템. AI 기반 정자 형태 분석을 갖춘 WHO 6판 준수 정액 분석기."
     },
     "msqaMeta": {
-      "title": "MSQA-100 휴대용 CASA 시스템 | iSperm Medical",
-      "description": "MSQA-100 휴대용 가정용 CASA 시스템. 정자 형태 분석을 위한 클라우드 AI를 갖춘 스마트폰 호환 정액 분석기."
+      "title": "MSQA-100 휴대용 CASA 시스템 | WHO 6판 | iSperm Medical",
+      "description": "MSQA-100 WHO 6판 준수 휴대용 가정용 CASA 시스템. 정자 형태 분석을 위한 클라우드 AI를 갖춘 스마트폰 호환 정액 분석기."
     },
     "sqavetMeta": {
       "title": "SQA-6100vet 수의학 CASA 시스템 | iSperm Medical",

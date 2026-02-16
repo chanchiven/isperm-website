@@ -38,7 +38,7 @@ export default function RootLayout({
             "@type": "Organization",
             "name": "Semen analyzer, CASA - iSperm Medical",
             "url": "https://www.isperm.com",
-            "logo": "https://www.isperm.com/logo.png",
+            "logo": "https://www.isperm.com/iSperm%20LOGO.svg",
             "contactPoint": {
               "@type": "ContactPoint",
               "email": "market@isperm.com",

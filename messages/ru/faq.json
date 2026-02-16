@@ -1,4 +1,4 @@
-﻿{
+{
   "meta": {
     "title": "База знаний | Часто задаваемые вопросы о системе CASA | iSperm Medical",
     "description": "Подробные часто задаваемые вопросы о системе CASA, руководства по 6-му изданию ВОЗ и ресурсы по анализу спермы. Экспертные знания об анализаторах морфологии сперматозоидов."
@@ -1377,7 +1377,13 @@
         }
       ],
       "conclusion": "Стандарты оценки и обработки спермы хряков представляют основу современных программ искусственного осеменения свиней. Интеграция современной технологии CASA, такой как SQA-6100VET, обеспечивает точность и объективность, необходимые для точной оценки спермы хряков, гарантируя оптимальные коэффициенты разбавления и подготовку доз AI. Соблюдая стандарты SFT и поддерживая строгие протоколы биобезопасности, ветеринарные специалисты и производители могут обеспечить оценку хряков с высочайшим уровнем диагностической точности, максимизируя показатели зачатия и защищая здоровье всей производственной системы.<br/><br/><strong>Отказ от ответственности:</strong> Это руководство предназначено для образовательных целей. Все клинические диагнозы должны ставиться квалифицированными ветеринарными специалистами в соответствии с местными правилами.",
-      "references": []
+      "references": [
+        "Pork Information Gateway (PIG). Semen Collection, Evaluation and Processing in the Boar. Available at: https://porkgateway.org/?s=Semen+Collection%2C+Evaluation+and+Processing+in+the+Boar",
+        "Flowers, W. L. (1997). Management of reproduction in the boar. In: Current Therapy in Large Animal Theriogenology.",
+        "Althouse, G. C. (1998). Semen evaluation and processing in the boar. Veterinary Clinics: Food Animal Practice.",
+        "Knox, R. V. (2021). Boar Management and Semen Evaluation. MSD Veterinary Manual. Available at: https://www.msdvetmanual.com/management-and-nutrition/management-of-reproduction-pigs/boar-management",
+        "Amann, R. P., & Waberski, D. (2014). Computer-assisted sperm analysis (CASA): capabilities and potential developments. Theriogenology."
+      ]
     },
     "who-6th-edition-semen-analysis-standards": {
       "title": "Превосходство анализа спермы: Комплексное руководство по стандартам ВОЗ 6-го издания и технологии CASA",

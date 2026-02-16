@@ -32,7 +32,7 @@ export default function HomePage() {
                 {/* Mobile: smaller image (13.7KB) for faster loading */}
                 <img 
                   src="/mobile/banner%20(1).webp"
-                  alt=""
+                  alt={t('hero.bannerAlt')}
                   style={{
                     position: 'absolute',
                     top: 0,
@@ -417,6 +417,7 @@ export default function HomePage() {
                 <li><Link href="/" locale={locale as any}>{t('nav.home')}</Link></li>
                 <li><Link href="/products" locale={locale as any}>{t('nav.products')}</Link></li>
                 <li><Link href="/about" locale={locale as any}>{t('nav.about')}</Link></li>
+                <li><Link href="/faq" locale={locale as any}>{t('nav.knowledgeHub')}</Link></li>
                 <li><Link href="/contact" locale={locale as any}>{t('nav.contact')}</Link></li>
               </ul>
             </div>

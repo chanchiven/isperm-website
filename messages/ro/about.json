@@ -42,6 +42,11 @@
       "item1": "Expert în Planul Național \"10.000 Talente\"; Talent de Nivel Înalt Shenzhen",
       "item2": "Premii: Premiul de Aur pentru Inovație Tineret China, Premiul pentru Inovație Dispozitive Medicale",
       "item3": "Peste 30 de brevete globale; numit \"Inventatorul Chipurilor Microfluidice la Nivel Celular\""
+    },
+    "research": {
+      "title": "Cercetare",
+      "intro": "În 2020, Benjamin a publicat un studiu despre analiza spermei bazată pe IA. Vezi articolul: ",
+      "linkText": "Web- and Artificial Intelligence-Based Image Recognition For Sperm Motility Analysis (Verification Study)"
     }
   },
   "showcase": {

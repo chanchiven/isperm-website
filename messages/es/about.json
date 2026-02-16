@@ -42,6 +42,11 @@
       "item1": "Experto del Plan Nacional \"10,000 Talentos\"; Talento de Alto Nivel de Shenzhen",
       "item2": "Premios: Premio de Oro de Innovación Juvenil de China, Premio de Innovación de Dispositivos Médicos",
       "item3": "Más de 30 patentes globales; apodado \"Inventor de Chips Microfluídicos a Nivel Celular\""
+    },
+    "research": {
+      "title": "Investigación",
+      "intro": "En 2020, Benjamin publicó un estudio sobre análisis de esperma con IA. Ver el artículo: ",
+      "linkText": "Web- and Artificial Intelligence-Based Image Recognition For Sperm Motility Analysis (Verification Study)"
     }
   },
   "showcase": {

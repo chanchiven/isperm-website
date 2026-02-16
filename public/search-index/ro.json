@@ -4,7 +4,7 @@
       "id": "nexus-dx1",
       "slug": "nexus-dx1",
       "name": "Nexus Dx1",
-      "description": "Sistem CASA complet automat proiectat pentru uz clinic și de laborator, cu algoritmi AI avansați și analiză comprehensivă a parametrilor.",
+      "description": "Sistem CASA complet automat conform cu ediția a 6-a WHO, proiectat pentru uz clinic și de laborator, cu algoritmi AI avansați și analiză comprehensivă a parametrilor.",
       "subtitle": "Sistem CASA Uman Complet Automat",
       "images": [
         "/nexus-dx1-cover.webp",
@@ -34,7 +34,7 @@
       "id": "msqa-100",
       "slug": "msqa-100",
       "name": "MSQA-100",
-      "description": "Sistem CASA portabil pentru uz casnic, compatibil cu smartphone, oferind performanță de nivel de laborator într-un format compact.",
+      "description": "Sistem CASA portabil conform cu ediția a 6-a WHO pentru uz casnic, compatibil cu smartphone, oferind performanță de nivel de laborator într-un format compact.",
       "subtitle": "Analizor de Spermă CASA Portabil",
       "images": [
         "/MSQA-100/msqa-100-cover.webp",

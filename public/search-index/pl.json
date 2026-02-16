@@ -4,7 +4,7 @@
       "id": "nexus-dx1",
       "slug": "nexus-dx1",
       "name": "Nexus Dx1",
-      "description": "W pełni zautomatyzowany system CASA zaprojektowany do zastosowań klinicznych i laboratoryjnych, wyposażony w zaawansowane algorytmy AI i kompleksową analizę parametrów.",
+      "description": "W pełni zautomatyzowany system CASA zgodny z 6. wydaniem WHO, zaprojektowany do zastosowań klinicznych i laboratoryjnych, wyposażony w zaawansowane algorytmy AI i kompleksową analizę parametrów.",
       "subtitle": "W pełni Zautomatyzowany Ludzki System CASA",
       "images": [
         "/nexus-dx1-cover.webp",
@@ -34,7 +34,7 @@
       "id": "msqa-100",
       "slug": "msqa-100",
       "name": "MSQA-100",
-      "description": "Przenośny system CASA do użytku domowego z kompatybilnością ze smartfonem, zapewniający wydajność na poziomie laboratoryjnym w kompaktowym formacie.",
+      "description": "Przenośny system CASA zgodny z 6. wydaniem WHO do użytku domowego z kompatybilnością ze smartfonem, zapewniający wydajność na poziomie laboratoryjnym w kompaktowym formacie.",
       "subtitle": "Przenośny Analizator Nasienia CASA",
       "images": [
         "/MSQA-100/msqa-100-cover.webp",

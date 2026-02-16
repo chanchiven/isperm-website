@@ -147,6 +147,7 @@ function SearchContent() {
                 <li><Link href="/" locale={locale as any}>{tIndex('nav.home')}</Link></li>
                 <li><Link href="/products" locale={locale as any}>{tIndex('nav.products')}</Link></li>
                 <li><Link href="/about" locale={locale as any}>{tIndex('nav.about')}</Link></li>
+                <li><Link href="/faq" locale={locale as any}>{tIndex('nav.knowledgeHub')}</Link></li>
                 <li><Link href="/contact" locale={locale as any}>{tIndex('nav.contact')}</Link></li>
               </ul>
             </div>

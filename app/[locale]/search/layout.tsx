@@ -10,35 +10,35 @@ export async function generateMetadata({
   try {
     if (!params) {
       return {
-        title: 'Products | iSperm Medical',
-        description: 'CASA systems and semen analyzers from iSperm Medical.',
+        title: 'Search | iSperm Medical',
+        description: 'Search CASA systems and semen analyzers.',
       };
     }
     const resolvedParams = await params;
     if (!resolvedParams || !resolvedParams.locale) {
       return {
-        title: 'Products | iSperm Medical',
-        description: 'CASA systems and semen analyzers from iSperm Medical.',
+        title: 'Search | iSperm Medical',
+        description: 'Search CASA systems and semen analyzers.',
       };
     }
     const {locale} = resolvedParams;
-    const t = await getTranslations({locale, namespace: 'products'});
+    const t = await getTranslations({locale, namespace: 'search'});
 
     return {
       title: t('meta.title'),
       description: t('meta.description'),
-      alternates: generateHreflangAlternates('/products', locale),
+      alternates: generateHreflangAlternates('/search', locale),
     };
   } catch (error) {
-    console.error('Error in products generateMetadata:', error);
+    console.error('Error in search generateMetadata:', error);
     return {
-      title: 'Products | iSperm Medical',
-      description: 'CASA systems and semen analyzers from iSperm Medical.',
+      title: 'Search | iSperm Medical',
+      description: 'Search CASA systems and semen analyzers.',
     };
   }
 }
 
-export default function ProductsLayout({
+export default function SearchLayout({
   children
 }: {
   children: React.ReactNode;

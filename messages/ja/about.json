@@ -42,6 +42,11 @@
       "item1": "国家「万人計画」専門家；深圳高層次人材",
       "item2": "受賞：中国青年イノベーション金賞、医療機器イノベーション賞",
       "item3": "30以上のグローバル特許；「細胞レベルマイクロ流体チップの発明者」と呼ばれる"
+    },
+    "research": {
+      "title": "研究",
+      "intro": "2020年、BenjaminはAIによる精子分析に関する研究を発表しました。記事はこちら：",
+      "linkText": "Web- and Artificial Intelligence-Based Image Recognition For Sperm Motility Analysis (Verification Study)"
     }
   },
   "showcase": {

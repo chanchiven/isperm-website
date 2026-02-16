@@ -155,7 +155,7 @@ export async function generateMetadata({
     return {
       title: `${title} | ${t('meta.title', {default: 'Knowledge Hub | CASA System FAQs | iSperm Medical'})}`,
       description: subtitle,
-      alternates: generateHreflangAlternates(`/faq/${slug}`),
+      alternates: generateHreflangAlternates(`/faq/${slug}`, locale),
     };
   } catch (error) {
     console.error('Error in faq/[slug] generateMetadata:', error);
@@ -324,7 +324,7 @@ export default async function FAQArticlePage({
       "name": "iSperm Medical",
       "logo": {
         "@type": "ImageObject",
-        "url": `${baseUrl}/logo.png`
+        "url": `${baseUrl}/iSperm%20LOGO.svg`
       }
     },
     "datePublished": new Date().toISOString(),
@@ -827,6 +827,7 @@ export default async function FAQArticlePage({
                 <li><Link href="/" locale={locale as any}>{t('nav.home')}</Link></li>
                 <li><Link href="/products" locale={locale as any}>{t('nav.products')}</Link></li>
                 <li><Link href="/about" locale={locale as any}>{t('nav.about')}</Link></li>
+                <li><Link href="/faq" locale={locale as any}>{t('nav.knowledgeHub')}</Link></li>
                 <li><Link href="/contact" locale={locale as any}>{t('nav.contact')}</Link></li>
               </ul>
             </div>

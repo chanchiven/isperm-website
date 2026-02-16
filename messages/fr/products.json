@@ -25,13 +25,13 @@
       "badge": "Système CASA Professionnel",
       "heroSubtitle": "Système CASA Humain Entièrement Automatisé",
       "subtitle": "Système CASA Humain Entièrement Automatisé",
-      "description": "Système CASA entièrement automatisé conçu pour un usage clinique et de laboratoire, doté d'algorithmes d'IA avancés et d'une analyse complète des paramètres.",
+      "description": "Système CASA entièrement automatisé conforme à la 6e édition de l'OMS, conçu pour un usage clinique et de laboratoire, doté d'algorithmes d'IA avancés et d'une analyse complète des paramètres.",
       "feature1": "Analyse entièrement automatisée",
       "feature2": "Platine chauffante intégrée",
       "feature3": "Support de poste de travail PC",
       "button": "Voir les Détails",
       "detail": {
-        "description": "Système CASA professionnel conçu pour un usage clinique et de laboratoire, doté d'algorithmes d'IA avancés et d'une analyse complète des paramètres pour l'évaluation du sperme humain.",
+        "description": "Système CASA professionnel conforme à la 6e édition de l'OMS, conçu pour un usage clinique et de laboratoire, doté d'algorithmes d'IA avancés et d'une analyse complète des paramètres pour l'évaluation du sperme humain.",
         "keyFeatures": {
           "title": "Caractéristiques Principales",
           "items": [
@@ -128,7 +128,7 @@
       "badge": "CASA Portable à Usage Domestique",
       "heroSubtitle": "Système CASA Portable à Usage Domestique",
       "subtitle": "Analyseur de Sperme CASA Portable",
-      "description": "Système CASA portable à usage domestique compatible avec smartphone, offrant des performances de niveau laboratoire dans un format compact.",
+      "description": "Système CASA portable conforme à la 6e édition de l'OMS à usage domestique compatible avec smartphone, offrant des performances de niveau laboratoire dans un format compact.",
       "feature1": "Compatible smartphone",
       "feature2": "Contrôle de température intégré",
       "feature3": "Analyse IA basée sur le cloud",
@@ -342,8 +342,8 @@
       "description": "Système CASA humain entièrement automatisé Nexus Dx1. Analyseur de sperme conforme à la 6e édition de l'OMS avec analyse de morphologie du sperme alimentée par l'IA."
     },
     "msqaMeta": {
-      "title": "Système CASA Portable MSQA-100 | iSperm Medical",
-      "description": "Système CASA portable à usage domestique MSQA-100. Analyseur de sperme compatible smartphone avec IA cloud pour l'analyse de morphologie du sperme."
+      "title": "Système CASA Portable MSQA-100 | 6e Édition OMS | iSperm Medical",
+      "description": "Système CASA portable conforme à la 6e édition de l'OMS à usage domestique MSQA-100. Analyseur de sperme compatible smartphone avec IA cloud pour l'analyse de morphologie du sperme."
     },
     "sqavetMeta": {
       "title": "Système CASA Vétérinaire SQA-6100vet | iSperm Medical",

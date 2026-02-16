@@ -1,7 +1,7 @@
 {
   "meta": {
     "title": "iSperm Semen analyzer - Revolutionizing Semen Analysis",
-    "description": "Fully automated semen analysis system designed for clinical and animal breeding use, featuring advanced AI algorithms."
+    "description": "Fully automated CASA semen analyzers for human & veterinary use. WHO 6th edition compliant. AI-powered sperm morphology analysis. Explore Nexus Dx1, MSQA-100 & SQA-6100vet."
   },
   "nav": {
     "home": "Home",
@@ -17,7 +17,8 @@
     "subtitle": "Pioneering the Future of CASA Automation",
     "description": "Fully automated CASA systems for human and veterinary semen analysis",
     "exploreProducts": "Explore Products",
-    "learnMore": "Read Our Story"
+    "learnMore": "Read Our Story",
+    "bannerAlt": "iSperm Medical CASA semen analyzer - Fully automated sperm analysis system for clinical and veterinary reproductive diagnostics"
   },
   "about": {
     "title": "About iSperm Medical",

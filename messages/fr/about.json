@@ -42,6 +42,11 @@
       "item1": "Expert du Plan National \"10 000 Talents\" ; Talent de Haut Niveau de Shenzhen",
       "item2": "Prix : Prix d'Or de l'Innovation Jeunesse de Chine, Prix d'Innovation des Dispositifs Médicaux",
       "item3": "30+ brevets mondiaux ; surnommé \"Inventeur des Puces Microfluidiques au Niveau Cellulaire\""
+    },
+    "research": {
+      "title": "Recherche",
+      "intro": "En 2020, Benjamin a publié une étude sur l'analyse du sperme par IA. Voir l'article : ",
+      "linkText": "Web- and Artificial Intelligence-Based Image Recognition For Sperm Motility Analysis (Verification Study)"
     }
   },
   "showcase": {

@@ -1,4 +1,4 @@
-﻿{
+{
   "meta": {
     "title": "Knowledge Hub | CASA System FAQs | iSperm Medical",
     "description": "Comprehensive CASA system FAQs, WHO 6th edition guides, and semen analysis resources. Expert insights on sperm morphology analyzers."
@@ -1388,7 +1388,13 @@
         }
       ],
       "conclusion": "Boar Semen Evaluation and Processing Standards represent the foundation of modern swine artificial insemination programs. The integration of modern CASA technology, such as the SQA-6100VET, provides the precision and objectivity necessary for accurate evaluation of boar semen, ensuring optimal dilution ratios and AI dose preparation. By adhering to SFT standards and maintaining strict biosecurity protocols, veterinary professionals and producers can ensure that boars are evaluated with the highest level of diagnostic accuracy, maximizing conception rates and protecting the health of the entire production system.<br/><br/><strong>Disclaimer:</strong> This guide is for educational purposes. All clinical diagnoses should be made by qualified veterinary professionals in accordance with local regulations.",
-      "references": []
+      "references": [
+        "Pork Information Gateway (PIG). Semen Collection, Evaluation and Processing in the Boar. Available at: https://porkgateway.org/?s=Semen+Collection%2C+Evaluation+and+Processing+in+the+Boar",
+        "Flowers, W. L. (1997). Management of reproduction in the boar. In: Current Therapy in Large Animal Theriogenology.",
+        "Althouse, G. C. (1998). Semen evaluation and processing in the boar. Veterinary Clinics: Food Animal Practice.",
+        "Knox, R. V. (2021). Boar Management and Semen Evaluation. MSD Veterinary Manual. Available at: https://www.msdvetmanual.com/management-and-nutrition/management-of-reproduction-pigs/boar-management",
+        "Amann, R. P., & Waberski, D. (2014). Computer-assisted sperm analysis (CASA): capabilities and potential developments. Theriogenology."
+      ]
     },
     "who-6th-edition-semen-analysis-standards": {
       "title": "Semen Analysis Excellence: A Comprehensive Guide to WHO 6th Edition Standards and CASA Technology",

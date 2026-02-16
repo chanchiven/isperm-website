@@ -4,7 +4,7 @@
       "id": "nexus-dx1",
       "slug": "nexus-dx1",
       "name": "Nexus Dx1",
-      "description": "Vollautomatisches CASA-System für den klinischen und Laborgebrauch mit fortschrittlichen KI-Algorithmen und umfassender Parameteranalyse.",
+      "description": "WHO 6. Auflage konformes vollautomatisches CASA-System für den klinischen und Laborgebrauch mit fortschrittlichen KI-Algorithmen und umfassender Parameteranalyse.",
       "subtitle": "Vollautomatisches Human-CASA-System",
       "images": [
         "/nexus-dx1-cover.webp",
@@ -34,7 +34,7 @@
       "id": "msqa-100",
       "slug": "msqa-100",
       "name": "MSQA-100",
-      "description": "Tragbares CASA-System für den Heimgebrauch mit Smartphone-Kompatibilität, das Laborqualitäts-Leistung in kompaktem Format liefert.",
+      "description": "WHO 6. Auflage konformes tragbares CASA-System für den Heimgebrauch mit Smartphone-Kompatibilität, das Laborqualitäts-Leistung in kompaktem Format liefert.",
       "subtitle": "Tragbarer CASA-Samenanalysator",
       "images": [
         "/MSQA-100/msqa-100-cover.webp",

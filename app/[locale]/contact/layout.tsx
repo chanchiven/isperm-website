@@ -34,7 +34,7 @@ export async function generateMetadata({
     return {
       title: t('meta.title'),
       description: t('meta.description'),
-      alternates: generateHreflangAlternates('/contact'),
+      alternates: generateHreflangAlternates('/contact', locale),
     };
   } catch (error) {
     console.error('Error in contact generateMetadata:', error);

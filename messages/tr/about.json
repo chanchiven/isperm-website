@@ -42,6 +42,11 @@
       "item1": "Ulusal \"10.000 Yetenek Planı\" uzmanı; Shenzhen Yüksek Seviye Yetenek",
       "item2": "Ödüller: China Youth Innovation Gold Award, Medical Device Innovation Award",
       "item3": "30+ küresel patent; \"Hücresel Seviye Mikroakışkan Çiplerin Mucidi\" olarak anıldı"
+    },
+    "research": {
+      "title": "Araştırma",
+      "intro": "2020'de Benjamin, yapay zeka tabanlı sperm analizi üzerine bir çalışma yayınladı. Makaleyi görün: ",
+      "linkText": "Web- and Artificial Intelligence-Based Image Recognition For Sperm Motility Analysis (Verification Study)"
     }
   },
   "showcase": {

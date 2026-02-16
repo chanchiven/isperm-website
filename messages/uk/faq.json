@@ -1,4 +1,4 @@
-﻿{
+{
   "meta": {
     "title": "База знань | Часто задавані питання про систему CASA | iSperm Medical",
     "description": "Комплексні часто задавані питання про систему CASA, посібники 6-го видання ВООЗ та ресурси з аналізу сперми. Експертні знання про аналізатори морфології сперматозоїдів."
@@ -1377,7 +1377,13 @@
         }
       ],
       "conclusion": "Стандарти оцінки та обробки сперми кабанів представляють основу сучасних програм штучного осіменіння свиней. Інтеграція сучасної технології CASA, такої як SQA-6100VET, забезпечує точність та об'єктивність, необхідні для точної оцінки сперми кабанів, гарантуючи оптимальні співвідношення розведення та підготовку дози ШО. Дотримуючись стандартів SFT та підтримуючи суворі протоколи біобезпеки, ветеринарні спеціалісти та виробники можуть забезпечити оцінку кабанів з найвищим рівнем діагностичної точності, максимізуючи показники запліднення та захищаючи здоров'я всієї системи виробництва.<br/><br/><strong>Відмова від відповідальності:</strong> Цей посібник призначений для навчальних цілей. Усі клінічні діагнози повинні бути встановлені кваліфікованими ветеринарними спеціалістами відповідно до місцевих нормативних актів.",
-      "references": []
+      "references": [
+        "Pork Information Gateway (PIG). Semen Collection, Evaluation and Processing in the Boar. Available at: https://porkgateway.org/?s=Semen+Collection%2C+Evaluation+and+Processing+in+the+Boar",
+        "Flowers, W. L. (1997). Management of reproduction in the boar. In: Current Therapy in Large Animal Theriogenology.",
+        "Althouse, G. C. (1998). Semen evaluation and processing in the boar. Veterinary Clinics: Food Animal Practice.",
+        "Knox, R. V. (2021). Boar Management and Semen Evaluation. MSD Veterinary Manual. Available at: https://www.msdvetmanual.com/management-and-nutrition/management-of-reproduction-pigs/boar-management",
+        "Amann, R. P., & Waberski, D. (2014). Computer-assisted sperm analysis (CASA): capabilities and potential developments. Theriogenology."
+      ]
     },
     "who-6th-edition-semen-analysis-standards": {
       "title": "Досконалість аналізу сперми: Комплексний посібник зі стандартів ВООЗ 6-го видання та технології CASA",

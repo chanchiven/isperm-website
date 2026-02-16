@@ -25,13 +25,13 @@
       "badge": "Sistem CASA Profesional",
       "heroSubtitle": "Sistem CASA Manusia Otomatis Penuh",
       "subtitle": "Sistem CASA Manusia Otomatis Penuh",
-      "description": "Sistem CASA otomatis penuh yang dirancang untuk penggunaan klinis dan laboratorium, menampilkan algoritma AI canggih dan analisis parameter komprehensif.",
+      "description": "Sistem CASA otomatis penuh sesuai WHO edisi ke-6 yang dirancang untuk penggunaan klinis dan laboratorium, menampilkan algoritma AI canggih dan analisis parameter komprehensif.",
       "feature1": "Analisis otomatis penuh",
       "feature2": "Panggung pemanas built-in",
       "feature3": "Dukungan workstation PC",
       "button": "Lihat Detail",
       "detail": {
-        "description": "Sistem CASA profesional yang dirancang untuk penggunaan klinis dan laboratorium, menampilkan algoritma AI canggih dan analisis parameter komprehensif untuk evaluasi semen manusia.",
+        "description": "Sistem CASA profesional sesuai WHO edisi ke-6 yang dirancang untuk penggunaan klinis dan laboratorium, menampilkan algoritma AI canggih dan analisis parameter komprehensif untuk evaluasi semen manusia.",
         "keyFeatures": {
           "title": "Fitur Utama",
           "items": [
@@ -128,13 +128,13 @@
       "badge": "CASA Penggunaan Rumah Portabel",
       "heroSubtitle": "Sistem CASA Penggunaan Rumah Portabel",
       "subtitle": "Analisis Semen CASA Portabel",
-      "description": "Sistem CASA penggunaan rumah portabel dengan kompatibilitas smartphone, memberikan kinerja tingkat laboratorium dalam format kompak.",
+      "description": "Sistem CASA penggunaan rumah portabel sesuai WHO edisi ke-6 dengan kompatibilitas smartphone, memberikan kinerja tingkat laboratorium dalam format kompak.",
       "feature1": "Kompatibel smartphone",
       "feature2": "Kontrol suhu built-in",
       "feature3": "Analisis AI berbasis cloud",
       "button": "Lihat Detail",
       "detail": {
-        "description": "MSQA-100 adalah sistem Computer-Assisted Sperm Analysis (CASA) penggunaan rumah portabel yang dirancang untuk evaluasi semen yang cepat, akurat, dan ramah pengguna. Dengan menggabungkan teknologi mikrofluida, manufaktur presisi, dan analisis gambar berbasis AI, MSQA-100 memberikan kinerja tingkat laboratorium dalam format yang kompak dan mudah diakses.",
+        "description": "MSQA-100 adalah sistem CASA penggunaan rumah portabel sesuai WHO edisi ke-6 yang dirancang untuk evaluasi semen yang cepat, akurat, dan ramah pengguna. Dengan menggabungkan teknologi mikrofluida, manufaktur presisi, dan analisis gambar berbasis AI, MSQA-100 memberikan kinerja tingkat laboratorium dalam format yang kompak dan mudah diakses.",
         "keyTechnologies": {
           "title": "Teknologi & Fitur Utama",
           "items": [
@@ -342,8 +342,8 @@
       "description": "Sistem CASA manusia otomatis penuh Nexus Dx1. Analisis semen sesuai dengan WHO edisi ke-6 dengan analisis morfologi sperma berbasis AI."
     },
     "msqaMeta": {
-      "title": "Sistem CASA Portabel MSQA-100 | iSperm Medical",
-      "description": "Sistem CASA penggunaan rumah portabel MSQA-100. Analisis semen kompatibel smartphone dengan AI cloud untuk analisis morfologi sperma."
+      "title": "Sistem CASA Portabel MSQA-100 | WHO Edisi ke-6 | iSperm Medical",
+      "description": "Sistem CASA penggunaan rumah portabel sesuai WHO edisi ke-6 MSQA-100. Analisis semen kompatibel smartphone dengan AI cloud untuk analisis morfologi sperma."
     },
     "sqavetMeta": {
       "title": "Sistem CASA Hewan SQA-6100vet | iSperm Medical",

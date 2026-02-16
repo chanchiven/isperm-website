@@ -1,4 +1,4 @@
-﻿{
+{
   "meta": {
     "title": "Trung tâm Kiến thức | Câu hỏi Thường gặp về Hệ thống CASA | iSperm Medical",
     "description": "Câu hỏi thường gặp toàn diện về hệ thống CASA, hướng dẫn WHO phiên bản thứ 6, và tài nguyên phân tích tinh dịch. Hiểu biết chuyên gia về máy phân tích hình thái tinh trùng."
@@ -1388,7 +1388,13 @@
         }
       ],
       "conclusion": "Tiêu chuẩn Đánh giá và Xử lý Tinh dịch Lợn đực đại diện cho nền tảng của các chương trình thụ tinh nhân tạo lợn hiện đại. Việc tích hợp công nghệ CASA hiện đại, chẳng hạn như SQA-6100VET, cung cấp độ chính xác và khách quan cần thiết cho việc đánh giá chính xác tinh dịch lợn đực, đảm bảo tỷ lệ pha loãng tối ưu và chuẩn bị liều AI. Bằng cách tuân thủ các tiêu chuẩn SFT và duy trì các giao thức an toàn sinh học nghiêm ngặt, các chuyên gia thú y và nhà sản xuất có thể đảm bảo rằng lợn đực được đánh giá với mức độ chính xác chẩn đoán cao nhất, tối đa hóa tỷ lệ thụ thai và bảo vệ sức khỏe của toàn bộ hệ thống sản xuất.<br/><br/><strong>Từ chối trách nhiệm:</strong> Hướng dẫn này dành cho mục đích giáo dục. Tất cả các chẩn đoán lâm sàng phải được thực hiện bởi các chuyên gia thú y có trình độ phù hợp với các quy định địa phương.",
-      "references": []
+      "references": [
+        "Pork Information Gateway (PIG). Semen Collection, Evaluation and Processing in the Boar. Available at: https://porkgateway.org/?s=Semen+Collection%2C+Evaluation+and+Processing+in+the+Boar",
+        "Flowers, W. L. (1997). Management of reproduction in the boar. In: Current Therapy in Large Animal Theriogenology.",
+        "Althouse, G. C. (1998). Semen evaluation and processing in the boar. Veterinary Clinics: Food Animal Practice.",
+        "Knox, R. V. (2021). Boar Management and Semen Evaluation. MSD Veterinary Manual. Available at: https://www.msdvetmanual.com/management-and-nutrition/management-of-reproduction-pigs/boar-management",
+        "Amann, R. P., & Waberski, D. (2014). Computer-assisted sperm analysis (CASA): capabilities and potential developments. Theriogenology."
+      ]
     },
     "who-6th-edition-semen-analysis-standards": {
       "title": "Xuất sắc trong Phân tích Tinh dịch: Hướng dẫn Toàn diện về Tiêu chuẩn WHO Phiên bản thứ 6 và Công nghệ CASA",

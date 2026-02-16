@@ -25,13 +25,13 @@
       "badge": "Sistema CASA Profissional",
       "heroSubtitle": "Sistema CASA Humano Totalmente Automatizado",
       "subtitle": "Sistema CASA Humano Totalmente Automatizado",
-      "description": "Sistema CASA totalmente automatizado projetado para uso clínico e laboratorial, com algoritmos avançados de IA e análise abrangente de parâmetros.",
+      "description": "Sistema CASA totalmente automatizado conforme à 6ª edição da OMS, projetado para uso clínico e laboratorial, com algoritmos avançados de IA e análise abrangente de parâmetros.",
       "feature1": "Análise totalmente automatizada",
       "feature2": "Estágio de aquecimento integrado",
       "feature3": "Suporte para estação de trabalho PC",
       "button": "Ver Detalhes",
       "detail": {
-        "description": "Sistema CASA profissional projetado para uso clínico e laboratorial, com algoritmos avançados de IA e análise abrangente de parâmetros para avaliação de sêmen humano.",
+        "description": "Sistema CASA profissional conforme à 6ª edição da OMS, projetado para uso clínico e laboratorial, com algoritmos avançados de IA e análise abrangente de parâmetros para avaliação de sêmen humano.",
         "keyFeatures": {
           "title": "Características Principais",
           "items": [
@@ -128,13 +128,13 @@
       "badge": "CASA Portátil para Uso Doméstico",
       "heroSubtitle": "Sistema CASA Portátil para Uso Doméstico",
       "subtitle": "Analisador de Sêmen CASA Portátil",
-      "description": "Sistema CASA portátil para uso doméstico com compatibilidade com smartphone, oferecendo desempenho de nível laboratorial em formato compacto.",
+      "description": "Sistema CASA portátil conforme à 6ª edição da OMS para uso doméstico com compatibilidade com smartphone, oferecendo desempenho de nível laboratorial em formato compacto.",
       "feature1": "Compatível com smartphone",
       "feature2": "Controle de temperatura integrado",
       "feature3": "Análise de IA baseada em nuvem",
       "button": "Ver Detalhes",
       "detail": {
-        "description": "O MSQA-100 é um sistema CASA portátil para uso doméstico (Computer-Assisted Sperm Analysis) projetado para avaliação de sêmen rápida, precisa e fácil de usar. Ao combinar tecnologia microfluídica, manufatura de precisão e análise de imagem baseada em IA, o MSQA-100 oferece desempenho de nível laboratorial em um formato compacto e acessível.",
+        "description": "O MSQA-100 é um sistema CASA portátil conforme à 6ª edição da OMS para uso doméstico projetado para avaliação de sêmen rápida, precisa e fácil de usar. Ao combinar tecnologia microfluídica, manufatura de precisão e análise de imagem baseada em IA, o MSQA-100 oferece desempenho de nível laboratorial em um formato compacto e acessível.",
         "keyTechnologies": {
           "title": "Tecnologias e Características Principais",
           "items": [
@@ -342,8 +342,8 @@
       "description": "Nexus Dx1 fully automated human CASA system. WHO 6th edition compliant semen analyzer with AI-powered sperm morphology analysis."
     },
     "msqaMeta": {
-      "title": "MSQA-100 Portable CASA System | iSperm Medical",
-      "description": "MSQA-100 portable home-use CASA system. Smartphone-compatible semen analyzer with cloud AI for sperm morphology analysis."
+      "title": "MSQA-100 Portable CASA System | 6ª Edição OMS | iSperm Medical",
+      "description": "MSQA-100 sistema CASA portátil conforme à 6ª edição da OMS para uso doméstico. Analisador de sêmen compatível com smartphone com IA em nuvem para análise de morfologia de espermatozoides."
     },
     "sqavetMeta": {
       "title": "SQA-6100vet Veterinary CASA System | iSperm Medical",

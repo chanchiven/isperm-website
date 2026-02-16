@@ -4,7 +4,7 @@
       "id": "nexus-dx1",
       "slug": "nexus-dx1",
       "name": "Nexus Dx1",
-      "description": "Hệ thống CASA tự động hoàn toàn được thiết kế cho sử dụng lâm sàng và phòng thí nghiệm, có thuật toán AI tiên tiến và phân tích tham số toàn diện.",
+      "description": "Hệ thống CASA tự động hoàn toàn tuân thủ WHO phiên bản thứ 6, được thiết kế cho sử dụng lâm sàng và phòng thí nghiệm, có thuật toán AI tiên tiến và phân tích tham số toàn diện.",
       "subtitle": "Hệ thống CASA Người Tự động Hoàn toàn",
       "images": [
         "/nexus-dx1-cover.webp",
@@ -34,7 +34,7 @@
       "id": "msqa-100",
       "slug": "msqa-100",
       "name": "MSQA-100",
-      "description": "Hệ thống CASA di động, sử dụng tại nhà với khả năng tương thích smartphone, mang lại hiệu suất cấp phòng thí nghiệm trong định dạng nhỏ gọn.",
+      "description": "Hệ thống CASA di động tuân thủ WHO phiên bản thứ 6, sử dụng tại nhà với khả năng tương thích smartphone, mang lại hiệu suất cấp phòng thí nghiệm trong định dạng nhỏ gọn.",
       "subtitle": "Máy phân tích Tinh dịch CASA Di động",
       "images": [
         "/MSQA-100/msqa-100-cover.webp",

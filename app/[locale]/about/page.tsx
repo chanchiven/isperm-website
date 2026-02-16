@@ -29,7 +29,7 @@ export async function generateMetadata({
     return {
       title: t('meta.title'),
       description: t('meta.description'),
-      alternates: generateHreflangAlternates('/about'),
+      alternates: generateHreflangAlternates('/about', locale),
     };
   } catch (error) {
     console.error('Error in about generateMetadata:', error);
@@ -151,6 +151,16 @@ export default async function AboutPage({
                   <li>{t('founder.achievements.item3')}</li>
                 </ul>
               </div>
+
+              <div className="info-section">
+                <h4>{t('founder.research.title')}</h4>
+                <p>
+                  {t('founder.research.intro')}
+                  <a href="https://www.researchgate.net/publication/347329061_Web-_and_Artificial_Intelligence-Based_Image_Recognition_For_Sperm_Motility_Analysis_Verification_Study" target="_blank" rel="noopener noreferrer" style={{color: 'var(--primary-color)', textDecoration: 'underline'}}>
+                    {t('founder.research.linkText')}
+                  </a>
+                </p>
+              </div>
             </div>
           </div>
         </div>
@@ -197,6 +207,7 @@ export default async function AboutPage({
                 <li><Link href="/" locale={locale as any}>{t('nav.home')}</Link></li>
                 <li><Link href="/products" locale={locale as any}>{t('nav.products')}</Link></li>
                 <li><Link href="/about" locale={locale as any}>{t('nav.about')}</Link></li>
+                <li><Link href="/faq" locale={locale as any}>{t('nav.knowledgeHub')}</Link></li>
                 <li><Link href="/contact" locale={locale as any}>{t('nav.contact')}</Link></li>
               </ul>
             </div>

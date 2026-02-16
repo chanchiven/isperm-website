@@ -1,4 +1,4 @@
-﻿{
+{
   "meta": {
     "title": "Centru de Cunoștințe | Întrebări Frecvente Sistem CASA | iSperm Medical",
     "description": "Întrebări frecvente comprehensive despre sistemele CASA, ghiduri ediția a 6-a WHO și resurse pentru analiza spermei. Perspective experte despre analizoarele de morfologie a spermatozoizilor."
@@ -1388,7 +1388,13 @@
         }
       ],
       "conclusion": "Standardele de Evaluare și Procesare a Spermei de Porc reprezintă fundația programelor moderne de inseminare artificială porcină. Integrarea tehnologiei CASA moderne, precum SQA-6100VET, oferă precizia și obiectivitatea necesare pentru evaluarea precisă a spermei de porc, asigurând rapoarte optime de diluare și pregătirea dozei IA. Prin respectarea standardelor SFT și menținerea protocolurilor stricte de biosiguranță, profesioniștii veterinari și producătorii pot asigura că porcii sunt evaluați cu cel mai înalt nivel de acuratețe diagnostică, maximizând ratele de concepție și protejând sănătatea întregului sistem de producție.<br/><br/><strong>Disclaimer:</strong> Acest ghid este în scopuri educaționale. Toate diagnozele clinice trebuie făcute de profesioniști veterinari calificați în conformitate cu reglementările locale.",
-      "references": []
+      "references": [
+        "Pork Information Gateway (PIG). Semen Collection, Evaluation and Processing in the Boar. Available at: https://porkgateway.org/?s=Semen+Collection%2C+Evaluation+and+Processing+in+the+Boar",
+        "Flowers, W. L. (1997). Management of reproduction in the boar. In: Current Therapy in Large Animal Theriogenology.",
+        "Althouse, G. C. (1998). Semen evaluation and processing in the boar. Veterinary Clinics: Food Animal Practice.",
+        "Knox, R. V. (2021). Boar Management and Semen Evaluation. MSD Veterinary Manual. Available at: https://www.msdvetmanual.com/management-and-nutrition/management-of-reproduction-pigs/boar-management",
+        "Amann, R. P., & Waberski, D. (2014). Computer-assisted sperm analysis (CASA): capabilities and potential developments. Theriogenology."
+      ]
     },
     "who-6th-edition-semen-analysis-standards": {
       "title": "Excelență în Analiza Spermei: Un Ghid Comprehensiv la Standardele Ediției a 6-a WHO și Tehnologia CASA",

@@ -42,6 +42,11 @@
       "item1": "Nationale \"10,000 Talents Plan\" expert; Shenzhen Hoog-Niveau Talent",
       "item2": "Prijzen: China Youth Innovation Gold Award, Medical Device Innovation Award",
       "item3": "30+ wereldwijde patenten; genoemd \"Uitvinder van Cel-Niveau Microfluidica Chips\""
+    },
+    "research": {
+      "title": "Onderzoek",
+      "intro": "In 2020 publiceerde Benjamin een studie over AI-gebaseerde spermianalyse. Zie het artikel: ",
+      "linkText": "Web- and Artificial Intelligence-Based Image Recognition For Sperm Motility Analysis (Verification Study)"
     }
   },
   "showcase": {

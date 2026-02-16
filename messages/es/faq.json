@@ -1,4 +1,4 @@
-﻿{
+{
   "meta": {
     "title": "Centro de Conocimiento | Preguntas Frecuentes sobre Sistemas CASA | iSperm Medical",
     "description": "Preguntas frecuentes integrales sobre sistemas CASA, guías de la 6ª edición de la OMS y recursos de análisis de semen. Perspectivas expertas sobre analizadores de morfología de esperma."
@@ -1388,7 +1388,13 @@
         }
       ],
       "conclusion": "Los Estándares de Evaluación y Procesamiento de Semen de Cerdo representan la base de los programas modernos de inseminación artificial porcina. La integración de tecnología CASA moderna, como el SQA-6100VET, proporciona la precisión y objetividad necesarias para la evaluación precisa del semen de cerdo, asegurando proporciones de dilución óptimas y preparación de dosis de IA. Al adherirse a los estándares SFT y mantener protocolos estrictos de bioseguridad, los profesionales veterinarios y productores pueden asegurar que los cerdos sean evaluados con el más alto nivel de precisión diagnóstica, maximizando las tasas de concepción y protegiendo la salud de todo el sistema de producción.<br/><br/><strong>Descargo de responsabilidad:</strong> Esta guía es con fines educativos. Todos los diagnósticos clínicos deben ser realizados por profesionales veterinarios calificados de acuerdo con las regulaciones locales.",
-      "references": []
+      "references": [
+        "Pork Information Gateway (PIG). Semen Collection, Evaluation and Processing in the Boar. Available at: https://porkgateway.org/?s=Semen+Collection%2C+Evaluation+and+Processing+in+the+Boar",
+        "Flowers, W. L. (1997). Management of reproduction in the boar. In: Current Therapy in Large Animal Theriogenology.",
+        "Althouse, G. C. (1998). Semen evaluation and processing in the boar. Veterinary Clinics: Food Animal Practice.",
+        "Knox, R. V. (2021). Boar Management and Semen Evaluation. MSD Veterinary Manual. Available at: https://www.msdvetmanual.com/management-and-nutrition/management-of-reproduction-pigs/boar-management",
+        "Amann, R. P., & Waberski, D. (2014). Computer-assisted sperm analysis (CASA): capabilities and potential developments. Theriogenology."
+      ]
     },
     "who-6th-edition-semen-analysis-standards": {
       "title": "Excelencia en Análisis de Semen: Una Guía Integral de los Estándares de la 6ª Edición de la OMS y Tecnología CASA",

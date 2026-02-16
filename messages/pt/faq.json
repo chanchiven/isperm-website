@@ -1,4 +1,4 @@
-﻿{
+{
   "meta": {
     "title": "Centro de Conhecimento | Perguntas Frequentes do Sistema CASA | iSperm Medical",
     "description": "Perguntas frequentes abrangentes do sistema CASA, guias da 6ª edição da OMS e recursos de análise de sêmen. Insights especializados sobre analisadores de morfologia espermática."
@@ -1388,7 +1388,13 @@
         }
       ],
       "conclusion": "Os Padrões de Avaliação e Processamento de Sêmen de Javali representam a base dos programas modernos de inseminação artificial suína. A integração da tecnologia CASA moderna, como o SQA-6100VET, fornece a precisão e objetividade necessárias para avaliação precisa do sêmen de javali, garantindo proporções de diluição ótimas e preparação de dose de IA. Ao aderir aos padrões SFT e manter protocolos rigorosos de biossegurança, profissionais veterinários e produtores podem garantir que javalis sejam avaliados com o mais alto nível de precisão diagnóstica, maximizando taxas de concepção e protegendo a saúde de todo o sistema de produção.<br/><br/><strong>Disclaimer:</strong> Este guia é para fins educativos. Todos os diagnósticos clínicos devem ser feitos por profissionais veterinários qualificados de acordo com os regulamentos locais.",
-      "references": []
+      "references": [
+        "Pork Information Gateway (PIG). Semen Collection, Evaluation and Processing in the Boar. Available at: https://porkgateway.org/?s=Semen+Collection%2C+Evaluation+and+Processing+in+the+Boar",
+        "Flowers, W. L. (1997). Management of reproduction in the boar. In: Current Therapy in Large Animal Theriogenology.",
+        "Althouse, G. C. (1998). Semen evaluation and processing in the boar. Veterinary Clinics: Food Animal Practice.",
+        "Knox, R. V. (2021). Boar Management and Semen Evaluation. MSD Veterinary Manual. Available at: https://www.msdvetmanual.com/management-and-nutrition/management-of-reproduction-pigs/boar-management",
+        "Amann, R. P., & Waberski, D. (2014). Computer-assisted sperm analysis (CASA): capabilities and potential developments. Theriogenology."
+      ]
     },
     "who-6th-edition-semen-analysis-standards": {
       "title": "Excelência em Análise de Sêmen: Um Guia Abrangente aos Padrões da 6ª Edição da WHO e Tecnologia CASA",

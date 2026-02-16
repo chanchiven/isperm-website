@@ -25,13 +25,13 @@
       "badge": "Sistem CASA Profesional",
       "heroSubtitle": "Sistem CASA Uman Complet Automat",
       "subtitle": "Sistem CASA Uman Complet Automat",
-      "description": "Sistem CASA complet automat proiectat pentru uz clinic și de laborator, cu algoritmi AI avansați și analiză comprehensivă a parametrilor.",
+      "description": "Sistem CASA complet automat conform cu ediția a 6-a WHO, proiectat pentru uz clinic și de laborator, cu algoritmi AI avansați și analiză comprehensivă a parametrilor.",
       "feature1": "Analiză complet automată",
       "feature2": "Plată termică integrată",
       "feature3": "Suport stație de lucru PC",
       "button": "Vezi Detalii",
       "detail": {
-        "description": "Sistem CASA profesional proiectat pentru uz clinic și de laborator, cu algoritmi AI avansați și analiză comprehensivă a parametrilor pentru evaluarea spermei umane.",
+        "description": "Sistem CASA profesional conform cu ediția a 6-a WHO, proiectat pentru uz clinic și de laborator, cu algoritmi AI avansați și analiză comprehensivă a parametrilor pentru evaluarea spermei umane.",
         "keyFeatures": {
           "title": "Caracteristici Cheie",
           "items": [
@@ -128,13 +128,13 @@
       "badge": "CASA Portabil pentru Uz Casnic",
       "heroSubtitle": "Sistem CASA Portabil pentru Uz Casnic",
       "subtitle": "Analizor de Spermă CASA Portabil",
-      "description": "Sistem CASA portabil pentru uz casnic, compatibil cu smartphone, oferind performanță de nivel de laborator într-un format compact.",
+      "description": "Sistem CASA portabil conform cu ediția a 6-a WHO pentru uz casnic, compatibil cu smartphone, oferind performanță de nivel de laborator într-un format compact.",
       "feature1": "Compatibil cu smartphone",
       "feature2": "Control de temperatură integrat",
       "feature3": "Analiză AI bazată pe cloud",
       "button": "Vezi Detalii",
       "detail": {
-        "description": "MSQA-100 este un sistem CASA (Computer-Assisted Sperm Analysis) portabil pentru uz casnic, proiectat pentru evaluarea rapidă, precisă și ușor de utilizat a spermei. Prin combinarea tehnologiei microfluidice, fabricației de precizie și analizei de imagini bazate pe AI, MSQA-100 oferă performanță de nivel de laborator într-un format compact și accesibil.",
+        "description": "MSQA-100 este un sistem CASA portabil conform cu ediția a 6-a WHO pentru uz casnic, proiectat pentru evaluarea rapidă, precisă și ușor de utilizat a spermei. Prin combinarea tehnologiei microfluidice, fabricației de precizie și analizei de imagini bazate pe AI, MSQA-100 oferă performanță de nivel de laborator într-un format compact și accesibil.",
         "keyTechnologies": {
           "title": "Tehnologii și Caracteristici Cheie",
           "items": [
@@ -342,8 +342,8 @@
       "description": "Sistem CASA uman complet automat Nexus Dx1. Analizor de spermă conform cu ediția a 6-a WHO cu analiză de morfologie a spermatozoizilor bazată pe AI."
     },
     "msqaMeta": {
-      "title": "Sistem CASA Portabil MSQA-100 | iSperm Medical",
-      "description": "Sistem CASA portabil pentru uz casnic MSQA-100. Analizor de spermă compatibil cu smartphone cu AI cloud pentru analiză de morfologie a spermatozoizilor."
+      "title": "Sistem CASA Portabil MSQA-100 | Ediția a 6-a WHO | iSperm Medical",
+      "description": "Sistem CASA portabil conform cu ediția a 6-a WHO pentru uz casnic MSQA-100. Analizor de spermă compatibil cu smartphone cu AI cloud pentru analiză de morfologie a spermatozoizilor."
     },
     "sqavetMeta": {
       "title": "Sistem CASA Veterinar SQA-6100vet | iSperm Medical",

@@ -25,13 +25,13 @@
       "badge": "Profesyonel CASA Sistemi",
       "heroSubtitle": "Tam Otomatik İnsan CASA Sistemi",
       "subtitle": "Tam Otomatik İnsan CASA Sistemi",
-      "description": "Klinik ve laboratuvar kullanımı için tasarlanmış, gelişmiş AI algoritmaları ve kapsamlı parametre analizi özelliklerine sahip tam otomatik CASA sistemi.",
+      "description": "DSÖ 6. baskı uyumlu, klinik ve laboratuvar kullanımı için tasarlanmış, gelişmiş AI algoritmaları ve kapsamlı parametre analizi özelliklerine sahip tam otomatik CASA sistemi.",
       "feature1": "Tam otomatik analiz",
       "feature2": "Dahili ısıtma aşaması",
       "feature3": "PC iş istasyonu desteği",
       "button": "Detayları Görüntüle",
       "detail": {
-        "description": "İnsan semen değerlendirmesi için gelişmiş AI algoritmaları ve kapsamlı parametre analizi özelliklerine sahip, klinik ve laboratuvar kullanımı için tasarlanmış profesyonel CASA sistemi.",
+        "description": "DSÖ 6. baskı uyumlu, insan semen değerlendirmesi için gelişmiş AI algoritmaları ve kapsamlı parametre analizi özelliklerine sahip, klinik ve laboratuvar kullanımı için tasarlanmış profesyonel CASA sistemi.",
         "keyFeatures": {
           "title": "Temel Özellikler",
           "items": [
@@ -128,13 +128,13 @@
       "badge": "Taşınabilir Ev Kullanımı CASA",
       "heroSubtitle": "Taşınabilir Ev Kullanımı CASA Sistemi",
       "subtitle": "Taşınabilir CASA Semen Analizörü",
-      "description": "Akıllı telefon uyumluluğuna sahip taşınabilir, ev kullanımı CASA sistemi, kompakt formatta laboratuvar seviyesi performans sunar.",
+      "description": "DSÖ 6. baskı uyumlu, akıllı telefon uyumluluğuna sahip taşınabilir ev kullanımı CASA sistemi, kompakt formatta laboratuvar seviyesi performans sunar.",
       "feature1": "Akıllı telefon uyumlu",
       "feature2": "Dahili sıcaklık kontrolü",
       "feature3": "Bulut tabanlı AI analizi",
       "button": "Detayları Görüntüle",
       "detail": {
-        "description": "MSQA-100, hızlı, doğru ve kullanıcı dostu semen değerlendirmesi için tasarlanmış taşınabilir, ev kullanımı Bilgisayar Destekli Sperm Analizi (CASA) sistemidir. Mikroakışkan teknoloji, hassas üretim ve AI destekli görüntü analizini birleştirerek, MSQA-100 kompakt ve erişilebilir bir formatta laboratuvar seviyesi performans sunar.",
+        "description": "MSQA-100, DSÖ 6. baskı uyumlu, hızlı, doğru ve kullanıcı dostu semen değerlendirmesi için tasarlanmış taşınabilir ev kullanımı CASA sistemidir. Mikroakışkan teknoloji, hassas üretim ve AI destekli görüntü analizini birleştirerek, MSQA-100 kompakt ve erişilebilir bir formatta laboratuvar seviyesi performans sunar.",
         "keyTechnologies": {
           "title": "Temel Teknolojiler ve Özellikler",
           "items": [
@@ -342,8 +342,8 @@
       "description": "Nexus Dx1 tam otomatik insan CASA sistemi. AI destekli sperm morfoloji analizi ile DSÖ 6. baskı uyumlu semen analizörü."
     },
     "msqaMeta": {
-      "title": "MSQA-100 Taşınabilir CASA Sistemi | iSperm Medical",
-      "description": "MSQA-100 taşınabilir ev kullanımı CASA sistemi. Sperm morfoloji analizi için bulut AI ile akıllı telefon uyumlu semen analizörü."
+      "title": "MSQA-100 Taşınabilir CASA Sistemi | DSÖ 6. Baskı | iSperm Medical",
+      "description": "MSQA-100 DSÖ 6. baskı uyumlu taşınabilir ev kullanımı CASA sistemi. Sperm morfoloji analizi için bulut AI ile akıllı telefon uyumlu semen analizörü."
     },
     "sqavetMeta": {
       "title": "SQA-6100vet Veteriner CASA Sistemi | iSperm Medical",

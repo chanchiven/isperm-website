@@ -1,4 +1,4 @@
-﻿{
+{
   "meta": {
     "title": "Knowledge Hub | FAQ Sistema CASA | iSperm Medical",
     "description": "FAQ complete sul sistema CASA, guide della 6a edizione OMS e risorse per l'analisi dello sperma. Approfondimenti esperti sugli analizzatori di morfologia degli spermatozoi."
@@ -1380,7 +1380,13 @@
         }
       ],
       "conclusion": "Gli Standard di Valutazione e Elaborazione dello Sperma del Verro rappresentano la base dei programmi moderni di inseminazione artificiale suina. L'integrazione della tecnologia CASA moderna, come lo SQA-6100VET, fornisce la precisione e l'oggettività necessarie per la valutazione accurata dello sperma del verro, assicurando rapporti di diluizione ottimali e preparazione della dose di IA. Aderendo agli standard SFT e mantenendo protocolli rigorosi di biosicurezza, i professionisti veterinari e i produttori possono assicurare che i verri siano valutati con il massimo livello di accuratezza diagnostica, massimizzando i tassi di concepimento e proteggendo la salute dell'intero sistema di produzione.<br/><br/><strong>Disclaimer:</strong> Questa guida è a scopo educativo. Tutte le diagnosi cliniche devono essere effettuate da professionisti veterinari qualificati in conformità con le normative locali.",
-      "references": []
+      "references": [
+        "Pork Information Gateway (PIG). Semen Collection, Evaluation and Processing in the Boar. Available at: https://porkgateway.org/?s=Semen+Collection%2C+Evaluation+and+Processing+in+the+Boar",
+        "Flowers, W. L. (1997). Management of reproduction in the boar. In: Current Therapy in Large Animal Theriogenology.",
+        "Althouse, G. C. (1998). Semen evaluation and processing in the boar. Veterinary Clinics: Food Animal Practice.",
+        "Knox, R. V. (2021). Boar Management and Semen Evaluation. MSD Veterinary Manual. Available at: https://www.msdvetmanual.com/management-and-nutrition/management-of-reproduction-pigs/boar-management",
+        "Amann, R. P., & Waberski, D. (2014). Computer-assisted sperm analysis (CASA): capabilities and potential developments. Theriogenology."
+      ]
     },
     "who-6th-edition-semen-analysis-standards": {
       "title": "Eccellenza nell'Analisi dello Sperma: Una Guida Completa agli Standard della 6a Edizione OMS e alla Tecnologia CASA",

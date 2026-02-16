@@ -74,7 +74,7 @@ export function Navigation() {
             <Link href="/" locale={locale as any} onClick={closeMenu}>
               <img
                 src="/iSperm LOGO.svg"
-                alt="iSperm Medical"
+                alt="iSperm Medical - CASA semen analyzer and sperm quality analyzer manufacturer"
                 className="logo-image"
               />
             </Link>
