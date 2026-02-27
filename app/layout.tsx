@@ -163,21 +163,8 @@ export default function RootLayout({
             "medicalUse": "Semen analysis and fertility diagnostics"
           })}
         </Script>
-        {/* Preload banner images for faster LCP - mobile and desktop versions */}
-        <link
-          rel="preload"
-          as="image"
-          href="/mobile/banner%20(1).webp"
-          media="(max-width: 768px)"
-          fetchPriority="high"
-        />
-        <link
-          rel="preload"
-          as="image"
-          href="/banner%20(1).webp"
-          media="(min-width: 769px)"
-          fetchPriority="high"
-        />
+        {/* Banner preload 已移除：preload 在根 layout 会对所有页面生效，但 banner 仅在首页使用，
+            导致其他页面出现 "preloaded but not used" 警告。首页的 picture 元素会正常加载 banner。 */}
         {/* Google tag (gtag.js) */}
         <Script
           src="https://www.googletagmanager.com/gtag/js?id=G-15TP8Z98ZS"
