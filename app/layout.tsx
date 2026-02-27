@@ -178,8 +178,8 @@ export default function RootLayout({
             gtag('config', 'G-15TP8Z98ZS');
           `}
         </Script>
-        {/* Suppress browser extension errors - execute as early as possible */}
-        <Script id="suppress-extension-errors" strategy="afterInteractive">
+        {/* Suppress browser extension errors - execute before page interactive to catch extension errors early */}
+        <Script id="suppress-extension-errors" strategy="beforeInteractive">
           {`
             (function() {
               // 在最早阶段拦截浏览器扩展错误

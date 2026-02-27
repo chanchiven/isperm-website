@@ -7,9 +7,11 @@ const withNextIntl = createNextIntlPlugin('./i18n/request.ts');
 
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  // 输出静态文件（用于 GitHub Pages 部署）
+  // 输出静态文件（用于 GitHub Pages / Cloudflare Pages 部署）
   // 只在生产构建时启用静态导出，开发模式需要中间件支持
   ...(process.env.NODE_ENV === 'production' && { output: 'export' }),
+  // 生成 en/index.html 而非 en.html，使 /en/ 在静态托管（Cloudflare/GitHub Pages）上正确解析
+  trailingSlash: true,
   
   // GitHub Pages 基础路径配置
   // 如果仓库名不是 'username.github.io'，需要设置 basePath
