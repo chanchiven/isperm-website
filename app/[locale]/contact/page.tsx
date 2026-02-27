@@ -162,7 +162,7 @@ export default function ContactPage() {
 
       {/* Page Header - SEO: single h1 per page */}
       <section style={{
-        padding: '120px 0 2rem',
+        padding: '180px 0 3rem',
         background: '#FFFFFF',
         textAlign: 'center'
       }}>
