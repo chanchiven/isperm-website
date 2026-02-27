@@ -58,20 +58,8 @@ export default function middleware(request: NextRequest) {
   //   );
   // }
   
-  // 显式处理根路径 - 重定向到默认语言或检测到的语言
-  if (pathname === '/') {
-    // 先让 next-intl 中间件处理，它会根据 Accept-Language 和 Cookie 决定重定向到哪个语言
-    const response = intlMiddleware(request);
-    // 如果 next-intl 没有重定向（理论上不应该发生），手动重定向到默认语言
-    if (response.status === 200 || response.status === 404) {
-      const defaultLocale = routing.defaultLocale;
-      const redirectUrl = new URL(`/${defaultLocale}`, request.url);
-      redirectUrl.search = request.nextUrl.search;
-      return NextResponse.redirect(redirectUrl);
-    }
-    return response;
-  }
-  
+  // 根路径 / 的重定向已由 Cloudflare Redirect Rules 处理，此处不再重复处理
+
   // 处理重复语言代码的情况，如 /es/es -> /es
   const pathSegments = pathname.split('/').filter(Boolean);
   if (pathSegments.length >= 2) {
