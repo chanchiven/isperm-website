@@ -77,14 +77,21 @@ function getPriorityAndChangefreq(type: PageType): { priority: string; changefre
   }
 }
 
+/** 确保路径带尾部斜杠，与 next.config trailingSlash: true 一致 */
+function pathWithTrailingSlash(p: string): string {
+  if (p === '/') return '/';
+  return p.endsWith('/') ? p : `${p}/`;
+}
+
 function buildHreflangLinks(path: string): string {
   const lines: string[] = [];
-  const pathPart = path === '/' ? '/' : path;
+  const pathPart = pathWithTrailingSlash(path);
+  const suffix = pathPart === '/' ? '/' : pathPart;
   for (const locale of LOCALES) {
-    const url = `${BASE_URL}/${locale}${pathPart}`;
+    const url = `${BASE_URL}/${locale}${suffix}`;
     lines.push(`    <xhtml:link rel="alternate" hreflang="${locale}" href="${url}"/>`);
   }
-  const defaultUrl = `${BASE_URL}/${DEFAULT_LOCALE}${pathPart}`;
+  const defaultUrl = `${BASE_URL}/${DEFAULT_LOCALE}${suffix}`;
   lines.push(`    <xhtml:link rel="alternate" hreflang="x-default" href="${defaultUrl}"/>`);
   return lines.join('\n');
 }
@@ -96,7 +103,8 @@ function getLastmod(): string {
 
 function generateUrlBlock(entry: SitemapEntry): string {
   const { priority, changefreq } = getPriorityAndChangefreq(entry.type);
-  const loc = `${BASE_URL}/${DEFAULT_LOCALE}${entry.path === '/' ? '/' : entry.path}`;
+  const pathSuffix = pathWithTrailingSlash(entry.path);
+  const loc = `${BASE_URL}/${DEFAULT_LOCALE}${pathSuffix === '/' ? '/' : pathSuffix}`;
   const hreflang = buildHreflangLinks(entry.path);
   const lastmod = getLastmod();
 
