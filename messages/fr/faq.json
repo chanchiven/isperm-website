@@ -1547,6 +1547,48 @@
       "references": [
         "American Society for Reproductive Medicine (ASRM). Practice Committee Documents. Disponible sur : https://www.asrm.org/practice-guidance/practice-committee-documents/practice-document-pdfs/"
       ]
+    },
+    "spermmaxxing-male-fertility-optimization-guide": {
+      "title": "Qu'est-ce que le Spermmaxxing ? La Tendance 2026 en Matière de Fertilité Masculine Soutenue par la Science",
+      "subtitle": "Découvrez la science de la spermatogenèse et comment optimiser le sperme en 90 jours",
+      "image": "/Knowledge Hub/Articles/article-1.webp",
+      "alt": "Cycle d'optimisation du sperme sur 90 jours",
+      "link": "/faq/spermmaxxing-male-fertility-optimization-guide",
+      "intro": "Le Spermmaxxing est une tendance émergente en 2026.",
+      "chapters": [{
+        "title": "Qu'est-ce que le Spermmaxxing ?",
+        "content": "L'optimisation délibérée et axée sur les données de la santé reproductive masculine."
+      }],
+      "conclusion": "Prenez le contrôle de votre santé reproductive.",
+      "references": ["Manuel de l'OMS 2021"]
+    },
+    "sperm-health-biomarker-male-longevity-overall-wellbeing": {
+      "title": "Pourquoi la Santé du Sperme Reflète la Santé Globale en 2026",
+      "subtitle": "La qualité du sperme en tant que biomarqueur vital pour la santé masculine",
+      "image": "/Knowledge Hub/Articles/article-2.webp",
+      "alt": "Santé reproductive numérique et biomarqueur ADN",
+      "link": "/faq/sperm-health-biomarker-male-longevity-overall-wellbeing",
+      "intro": "Un nouveau paradigme reconnaît la qualité du sperme comme indicateur de santé.",
+      "chapters": [{
+        "title": "La Percée Médicale 2026",
+        "content": "Une corrélation entre la qualité du sperme et les risques de santé plus larges."
+      }],
+      "conclusion": "La santé du sperme reflète votre santé globale.",
+      "references": ["Études épidémiologiques 2025-2026"]
+    },
+    "male-fertility-crisis-facts-sperm-count-decline-2026": {
+      "title": "La Crise de la Fertilité Masculine en Mai 2026 : Faits vs Fictions",
+      "subtitle": "Comprendre la crise de la fertilité et l'horloge biologique masculine",
+      "image": "/Knowledge Hub/Articles/article-3.webp",
+      "alt": "Toxines environnementales et bouclier protecteur du sperme",
+      "link": "/faq/male-fertility-crisis-facts-sperm-count-decline-2026",
+      "intro": "La crise de la fertilité masculine en mai 2026.",
+      "chapters": [{
+        "title": "Faits : Le Nombre de Spermatozoïdes Decline",
+        "content": "Confirmé mondialement par des méta-analyses."
+      }],
+      "conclusion": "La crise est réelle mais réversible.",
+      "references": ["Données 1973-2026"]
     }
   },
   "footer": {

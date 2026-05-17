@@ -20,6 +20,9 @@
     },
     "veterinary": {
       "title": "Andrología Veterinaria"
+    },
+    "articles": {
+      "title": "Artículos"
     }
   },
   "articles": {
@@ -1547,7 +1550,10 @@
       "references": [
         "American Society for Reproductive Medicine (ASRM). Practice Committee Documents. Available at: https://www.asrm.org/practice-guidance/practice-committee-documents/practice-document-pdfs/"
       ]
-    }
+    },
+    "spermmaxxing-male-fertility-optimization-guide": {"title": "What is Spermmaxxing? The 2026 Male Fertility Trend Backed by Science", "subtitle": "Discover how to optimize sperm in 90 days", "image": "/Knowledge Hub/Articles/article-1.webp", "alt": "90-day sperm optimization cycle", "link": "/faq/spermmaxxing-male-fertility-optimization-guide", "intro": "Spermmaxxing is dominating men's health conversations in 2026.", "chapters": [{"title": "What is Spermmaxxing?", "content": "Optimizing male reproductive health through data-driven choices."}], "conclusion": "Take control of your reproductive health.", "references": ["WHO 2021"]},
+    "sperm-health-biomarker-male-longevity-overall-wellbeing": {"title": "Why Your Sperm Health is a Window to Your Overall Health in 2026", "subtitle": "Sperm quality as a vital health biomarker", "image": "/Knowledge Hub/Articles/article-2.webp", "alt": "Digital reproductive health and DNA biomarker", "link": "/faq/sperm-health-biomarker-male-longevity-overall-wellbeing", "intro": "A new paradigm recognizes sperm quality as a health indicator.", "chapters": [{"title": "Medical Breakthrough", "content": "Poor semen quality indicates broader health risks."}], "conclusion": "Sperm health matters.", "references": ["Studies 2025-2026"]},
+    "male-fertility-crisis-facts-sperm-count-decline-2026": {"title": "The Male Fertility Crisis in May 2026: Fact vs. Fiction", "subtitle": "Understanding the fertility crisis and male biological clock", "image": "/Knowledge Hub/Articles/article-3.webp", "alt": "Environmental toxins and sperm protective shield", "link": "/faq/male-fertility-crisis-facts-sperm-count-decline-2026", "intro": "May 2026 headlines highlight declining male fertility.", "chapters": [{"title": "Sperm Counts Are Declining", "content": "Confirmed globally."}], "conclusion": "The crisis is reversible.", "references": ["1973-2026 data"]}
   },
   "footer": {
     "company": "iSperm Medical",

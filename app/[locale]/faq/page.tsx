@@ -103,7 +103,10 @@ export default async function FAQPage({
     camelid: 'faq-camelid-andrology',
     fish: 'faq-fish-semen-analysis',
     ram: 'faq-ram-breeding-soundness',
-    boar: 'faq-boar-semen-evaluation'
+    boar: 'faq-boar-semen-evaluation',
+    spermmaxxing: 'spermmaxxing-male-fertility-optimization-guide',
+    spermHealthBiomarker: 'sperm-health-biomarker-male-longevity-overall-wellbeing',
+    maleFertilityCrisis: 'male-fertility-crisis-facts-sperm-count-decline-2026'
   };
 
   return (
@@ -272,6 +275,43 @@ export default async function FAQPage({
               subtitle={getT(`articles.${articleSlugs.boar}.subtitle`)}
               image={getT(`articles.${articleSlugs.boar}.image`)}
               alt={getT(`articles.${articleSlugs.boar}.alt`)}
+              fixedImageHeight={false}
+            />
+          </div>
+
+          {/* Articles Section */}
+          <div className="section-header" id="articles">
+            <h2>{t('sections.articles.title')}</h2>
+          </div>
+          <div className="articles-grid" style={{
+            display: 'grid', 
+            gridTemplateColumns: 'repeat(auto-fit, minmax(300px, 1fr))', 
+            gap: '2rem',
+            alignItems: 'stretch',
+            marginBottom: '4rem'
+          }}>
+            <FAQArticleCard
+              slug={articleSlugs.spermmaxxing}
+              title={getT(`articles.${articleSlugs.spermmaxxing}.title`)}
+              subtitle={getT(`articles.${articleSlugs.spermmaxxing}.subtitle`)}
+              image={getT(`articles.${articleSlugs.spermmaxxing}.image`)}
+              alt={getT(`articles.${articleSlugs.spermmaxxing}.alt`)}
+              fixedImageHeight={false}
+            />
+            <FAQArticleCard
+              slug={articleSlugs.spermHealthBiomarker}
+              title={getT(`articles.${articleSlugs.spermHealthBiomarker}.title`)}
+              subtitle={getT(`articles.${articleSlugs.spermHealthBiomarker}.subtitle`)}
+              image={getT(`articles.${articleSlugs.spermHealthBiomarker}.image`)}
+              alt={getT(`articles.${articleSlugs.spermHealthBiomarker}.alt`)}
+              fixedImageHeight={false}
+            />
+            <FAQArticleCard
+              slug={articleSlugs.maleFertilityCrisis}
+              title={getT(`articles.${articleSlugs.maleFertilityCrisis}.title`)}
+              subtitle={getT(`articles.${articleSlugs.maleFertilityCrisis}.subtitle`)}
+              image={getT(`articles.${articleSlugs.maleFertilityCrisis}.image`)}
+              alt={getT(`articles.${articleSlugs.maleFertilityCrisis}.alt`)}
               fixedImageHeight={false}
             />
           </div>

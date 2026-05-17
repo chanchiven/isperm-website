@@ -83,7 +83,10 @@ const VALID_SLUGS = [
   'who-6th-edition-semen-analysis-standards',
   'iso-23162-2021-laboratory-competence-guide',
   'eshre-guidelines-clinical-semen-examination',
-  'asrm-male-infertility-evaluation-protocols'
+  'asrm-male-infertility-evaluation-protocols',
+  'spermmaxxing-male-fertility-optimization-guide',
+  'sperm-health-biomarker-male-longevity-overall-wellbeing',
+  'male-fertility-crisis-facts-sperm-count-decline-2026'
 ];
 
 /**

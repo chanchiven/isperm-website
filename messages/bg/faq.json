@@ -1547,6 +1547,39 @@
       "references": [
         "American Society for Reproductive Medicine (ASRM). Practice Committee Documents. Available at: https://www.asrm.org/practice-guidance/practice-committee-documents/practice-document-pdfs/"
       ]
+    },
+    "spermmaxxing-male-fertility-optimization-guide": {
+      "title": "What is Spermmaxxing? The 2026 Male Fertility Trend Backed by Science",
+      "subtitle": "Discover the science of spermatogenesis and how to optimize sperm in 90 days with data-driven lifestyle changes",
+      "image": "/Knowledge Hub/Articles/article-1.webp",
+      "alt": "90-day sperm optimization cycle",
+      "link": "/faq/spermmaxxing-male-fertility-optimization-guide",
+      "intro": "If you've spent any time on men's health forums, TikTok, or Reddit in early 2026, you've probably seen a new buzzword dominating the conversation: Spermmaxxing.",
+      "chapters": [{"title": "What Exactly is Spermmaxxing?", "content": "Spermmaxxing is the relentless, data-driven pursuit of optimizing male reproductive health."}],
+      "conclusion": "Take control of your reproductive health. Test, optimize, and track your progress with data-driven insights.",
+      "references": ["WHO laboratory manual for the examination and processing of human semen (2021)"]
+    },
+    "sperm-health-biomarker-male-longevity-overall-wellbeing": {
+      "title": "More Than Just Fertility: Why Your Sperm Health is a Window to Your Overall Health in 2026",
+      "subtitle": "Learn why medical experts now consider sperm count a vital biomarker for male longevity and overall wellness",
+      "image": "/Knowledge Hub/Articles/article-2.webp",
+      "alt": "Digital reproductive health and DNA biomarker",
+      "link": "/faq/sperm-health-biomarker-male-longevity-overall-wellbeing",
+      "intro": "For decades, the narrative around sperm health has been strictly confined to one topic. But in 2026, a massive paradigm shift is shaking up men's healthcare.",
+      "chapters": [{"title": "The 2026 Medical Breakthrough", "content": "Data reveals a correlation between poor semen quality and higher health risks."}],
+      "conclusion": "Your sperm health is a window into your overall health.",
+      "references": ["Major epidemiological studies on male infertility as a health biomarker (2025-2026)"]
+    },
+    "male-fertility-crisis-facts-sperm-count-decline-2026": {
+      "title": "The Male Fertility Crisis Making Headlines in May 2026: Fact vs. Fiction",
+      "subtitle": "Breaking down the 2026 crisis headlines and the reality of the male biological clock",
+      "image": "/Knowledge Hub/Articles/article-3.webp",
+      "alt": "Environmental toxins and sperm protective energy shield",
+      "link": "/faq/male-fertility-crisis-facts-sperm-count-decline-2026",
+      "intro": "If you've checked the news in May 2026, you've likely seen alarming headlines about the global male fertility crisis.",
+      "chapters": [{"title": "Fact: Sperm Counts Are Declining", "content": "Multiple meta-analyses confirm a downward trajectory in sperm concentration globally."}],
+      "conclusion": "The male fertility crisis is real, but it is not irreversible.",
+      "references": ["Meta-analyses on global sperm count decline (1973-2026)"]
     }
   },
   "footer": {

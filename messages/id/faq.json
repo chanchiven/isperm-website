@@ -1547,7 +1547,10 @@
       "references": [
         "American Society for Reproductive Medicine (ASRM). Practice Committee Documents. Available at: https://www.asrm.org/practice-guidance/practice-committee-documents/practice-document-pdfs/"
       ]
-    }
+    },
+    "spermmaxxing-male-fertility-optimization-guide": {"title": "What is Spermmaxxing? The 2026 Male Fertility Trend", "subtitle": "Optimize sperm in 90 days", "image": "/Knowledge Hub/Articles/article-1.webp", "alt": "90-day sperm optimization cycle", "link": "/faq/spermmaxxing-male-fertility-optimization-guide", "intro": "Spermmaxxing in 2026.", "chapters": [{"title": "Spermmaxxing", "content": "Optimizing male fertility."}], "conclusion": "Take control.", "references": ["WHO 2021"]},
+    "sperm-health-biomarker-male-longevity-overall-wellbeing": {"title": "Why Sperm Health Matters in 2026", "subtitle": "Sperm quality indicator", "image": "/Knowledge Hub/Articles/article-2.webp", "alt": "Digital reproductive health and DNA biomarker", "link": "/faq/sperm-health-biomarker-male-longevity-overall-wellbeing", "intro": "Sperm quality indicator.", "chapters": [{"title": "Health", "content": "Overall wellness."}], "conclusion": "Important.", "references": ["Studies"]},
+    "male-fertility-crisis-facts-sperm-count-decline-2026": {"title": "The Male Fertility Crisis in 2026", "subtitle": "Crisis facts", "image": "/Knowledge Hub/Articles/article-3.webp", "alt": "Environmental toxins and sperm protective shield", "link": "/faq/male-fertility-crisis-facts-sperm-count-decline-2026", "intro": "Fertility crisis.", "chapters": [{"title": "Facts", "content": "Decline."}], "conclusion": "Reversible.", "references": ["Data"]}
   },
   "footer": {
     "company": "iSperm Medical",
