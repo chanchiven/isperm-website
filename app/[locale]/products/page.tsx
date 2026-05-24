@@ -1,55 +1,18 @@
-'use client';
-
-import {useTranslations, useLocale} from 'next-intl';
+import {getTranslations, setRequestLocale} from 'next-intl/server';
 import {Link} from '@/i18n/routing';
 import {Navigation} from '@/components/Navigation';
-import {useEffect, useRef} from 'react';
+import {Footer} from '@/components/Footer';
+import {FadeInObserver} from '@/components/FadeInObserver';
 import Image from 'next/image';
 
-export default function ProductsPage() {
-  const t = useTranslations('products');
-  const locale = useLocale();
-  const productCardsRef = useRef<(HTMLAnchorElement | null)[]>([]);
-
-  useEffect(() => {
-    // Ensure we're in the browser environment
-    if (typeof window === 'undefined') return;
-
-    // Add visible class to fade-in-up elements when they enter viewport
-    const observerOptions = {
-      threshold: 0.1,
-      rootMargin: '0px 0px -50px 0px'
-    };
-
-    const observer = new IntersectionObserver((entries) => {
-      entries.forEach(entry => {
-        if (entry.isIntersecting) {
-          entry.target.classList.add('visible');
-          observer.unobserve(entry.target);
-        }
-      });
-    }, observerOptions);
-
-    // Use requestAnimationFrame to delay viewport check and avoid layout thrashing
-    requestAnimationFrame(() => {
-      productCardsRef.current.forEach(card => {
-        if (card) {
-          // Check if element is already in viewport
-          const rect = card.getBoundingClientRect();
-          const isInViewport = rect.top < window.innerHeight && rect.bottom > 0;
-          if (isInViewport) {
-            card.classList.add('visible');
-          } else {
-            observer.observe(card);
-          }
-        }
-      });
-    });
-
-    return () => {
-      observer.disconnect();
-    };
-  }, []);
+export default async function ProductsPage({
+  params
+}: {
+  params: Promise<{locale: string}>;
+}) {
+  const {locale} = await params;
+  setRequestLocale(locale);
+  const t = await getTranslations({locale, namespace: 'products'});
 
   return (
     <div>
@@ -59,7 +22,7 @@ export default function ProductsPage() {
       {/* Products Hero Section with Banner */}
       <section className="hero" style={{minHeight: '60vh', position: 'relative'}}>
         <div className="hero-background" style={{
-          backgroundImage: `url('/banner%20(1).webp')`,
+          backgroundImage: `url('/banner-product.webp')`,
           backgroundSize: 'cover',
           backgroundPosition: 'center',
           backgroundRepeat: 'no-repeat',
@@ -97,12 +60,12 @@ export default function ProductsPage() {
               <h2>{t('section.title')}</h2>
               <p>{t('section.subtitle')}</p>
             </div>
+            <FadeInObserver>
             <div className="products-grid products-page-grid">
-              {/* Nexus Dx1 */}
+              {/* Nexus DX1 */}
               <Link 
                 href="/products/nexus-dx1"
                 locale={locale as any}
-                ref={(el) => { if (el) productCardsRef.current[0] = el as any; }}
                 className="product-card product-card-nexus fade-in-up"
                 style={{cursor: 'pointer', textDecoration: 'none', color: 'inherit', display: 'block'}}
               >
@@ -137,7 +100,6 @@ export default function ProductsPage() {
               <Link 
                 href="/products/msqa-100"
                 locale={locale as any}
-                ref={(el) => { if (el) productCardsRef.current[1] = el as any; }}
                 className="product-card product-card-msqa fade-in-up"
                 style={{cursor: 'pointer', textDecoration: 'none', color: 'inherit', display: 'block'}}
               >
@@ -172,7 +134,6 @@ export default function ProductsPage() {
               <Link 
                 href="/products/sqa-6100vet"
                 locale={locale as any}
-                ref={(el) => { if (el) productCardsRef.current[2] = el as any; }}
                 className="product-card product-card-vet fade-in-up"
                 style={{cursor: 'pointer', textDecoration: 'none', color: 'inherit', display: 'block'}}
               >
@@ -203,39 +164,12 @@ export default function ProductsPage() {
                 </div>
               </Link>
             </div>
+            </FadeInObserver>
           </section>
         </div>
       </section>
 
-      {/* Footer */}
-      <footer className="footer">
-        <div className="container">
-          <div className="footer-content">
-            <div className="footer-section">
-              <h3>{t('footer.company')}</h3>
-              <p>{t('footer.description')}</p>
-            </div>
-            <div className="footer-section">
-              <h4>{t('footer.quickLinks')}</h4>
-              <ul>
-                <li><Link href="/" locale={locale as any}>{t('nav.home')}</Link></li>
-                <li><Link href="/products" locale={locale as any}>{t('nav.products')}</Link></li>
-                <li><Link href="/about" locale={locale as any}>{t('nav.about')}</Link></li>
-                <li><Link href="/faq" locale={locale as any}>{t('nav.knowledgeHub')}</Link></li>
-                <li><Link href="/contact" locale={locale as any}>{t('nav.contact')}</Link></li>
-              </ul>
-            </div>
-            <div className="footer-section">
-              <h4>{t('footer.contact')}</h4>
-              <p>{t('footer.email')} <a href="mailto:market@isperm.com">market@isperm.com</a></p>
-              <p>{t('footer.address')} {t('footer.fullAddress')}</p>
-            </div>
-          </div>
-          <div className="footer-bottom">
-            <p>{t('footer.rights')}</p>
-          </div>
-        </div>
-      </footer>
+      <Footer locale={locale} />
     </div>
   );
 }

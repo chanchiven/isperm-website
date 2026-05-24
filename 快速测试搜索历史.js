@@ -43,7 +43,7 @@ try {
 console.log('测试 3: 添加测试数据');
 try {
   const testQueries = [
-    { query: 'Nexus Dx1', count: 5 },
+    { query: 'Nexus DX1', count: 5 },
     { query: 'CASA system', count: 10 },
     { query: 'WHO 6th Edition', count: 8 }
   ];
@@ -88,14 +88,14 @@ try {
   
   // 添加重复搜索
   const filtered = history.filter(item => item.query.toLowerCase() !== 'nexus dx1');
-  const newItem = { query: 'Nexus Dx1', timestamp: Date.now(), resultCount: 15 };
+  const newItem = { query: 'Nexus DX1', timestamp: Date.now(), resultCount: 15 };
   const newHistory = [newItem, ...filtered].slice(0, 20);
   localStorage.setItem('isperm_search_history', JSON.stringify(newHistory));
   
   const afterHistory = JSON.parse(localStorage.getItem('isperm_search_history'));
   const afterCount = afterHistory.filter(h => h.query.toLowerCase() === 'nexus dx1').length;
   
-  if (afterCount === 1 && afterHistory[0].query === 'Nexus Dx1') {
+  if (afterCount === 1 && afterHistory[0].query === 'Nexus DX1') {
     console.log('✅ 重复搜索正确处理（合并为1条，移到最前）');
   } else {
     console.log('❌ 重复搜索处理失败');

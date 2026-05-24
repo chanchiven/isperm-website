@@ -3,7 +3,7 @@
     {
       "id": "nexus-dx1",
       "slug": "nexus-dx1",
-      "name": "Nexus Dx1",
+      "name": "Nexus DX1",
       "description": "WHO第6版準拠の完全自動化CASAシステム。臨床および実験室使用のために設計され、高度なAIアルゴリズムと包括的なパラメータ分析を備えています。",
       "subtitle": "完全自動化ヒト用CASAシステム",
       "images": [
@@ -95,9 +95,9 @@
       "slug": "who-6th-edition-semen-analysis-standards",
       "title": "精液分析の卓越性：WHO第6版基準とCASA技術の包括的ガイド",
       "subtitle": "高度なCASA技術でWHO第6版基準をマスターし、精密な男性不妊評価を実現",
-      "content": "生殖医学の分野において、精液分析は男性不妊評価の基盤であり続けています。WHO第6版（2021年）のリリースにより、業界はより高い精度、より厳格な品質管理、および高度なコンピューター支援精子分析（CASA）システムの統合に向けてシフトしています。本記事では、これらの基準の進化と現代の臨床診断のための技術要件を探ります。 第1章：現代の男性学におけるCASAの役割 伝統的な手動顕微鏡検査は、長い歴史があるものの、オペレーター内および実験室間の有意な変動性に陥りやすいです。Nexus Dx1などのコンピューター支援精子分析（CASA）システムは、高解像度医療画像とAI駆動アルゴリズムを活用して以下を提供します：<br/><br/><strong>客観性：</strong>カウントと運動性評価における人間の偏見を排除。<br/><br/><strong>再現性：</strong>異なるシフトやクリニック間で一貫した結果を保証。<br/><br/><strong>運動学的深度：</strong>人間の目では定量化できない詳細な速度と軌道データ（VCL、VSL、VAP）を提供。 第2章：基準限界",
+      "content": "生殖医学の分野において、精液分析は男性不妊評価の基盤であり続けています。WHO第6版（2021年）のリリースにより、業界はより高い精度、より厳格な品質管理、および高度なコンピューター支援精子分析（CASA）システムの統合に向けてシフトしています。本記事では、これらの基準の進化と現代の臨床診断のための技術要件を探ります。 第1章：現代の男性学におけるCASAの役割 伝統的な手動顕微鏡検査は、長い歴史があるものの、オペレーター内および実験室間の有意な変動性に陥りやすいです。Nexus DX1などのコンピューター支援精子分析（CASA）システムは、高解像度医療画像とAI駆動アルゴリズムを活用して以下を提供します：<br/><br/><strong>客観性：</strong>カウントと運動性評価における人間の偏見を排除。<br/><br/><strong>再現性：</strong>異なるシフトやクリニック間で一貫した結果を保証。<br/><br/><strong>運動学的深度：</strong>人間の目では定量化できない詳細な速度と軌道データ（VCL、VSL、VAP）を提供。 第2章：基準限界",
       "image": "/WHO6.webp",
-      "alt": "CASAシステム、Nexus Dx1、精子運動性、精子形態学、内蔵加熱ステージを備えたWHO第6版精液分析基準ガイド",
+      "alt": "CASAシステム、Nexus DX1、精子運動性、精子形態学、内蔵加熱ステージを備えたWHO第6版精液分析基準ガイド",
       "category": "human",
       "locale": "ja"
     },
@@ -108,7 +108,7 @@
       "subtitle": "グローバルに比較可能な精液検査結果のためのISO 23162:2021技術要件と品質管理フレームワークのマスター",
       "content": "本記事は、基本的なヒト精液検査の要件と試験方法を指定する国際基準であるISO 23162:2021に焦点を当てています。WHO第6版が臨床マニュアルを提供する一方で、ISO 23162は、実験室が結果をグローバルに比較可能にするための技術的および品質管理フレームワークを提供します。ISO 23162:2021のリリースは、基本的な精液検査に特化した最初の国際基準として、生殖医学のマイルストーンをマークしました。クリニックと実験室にとって、ISO 23162への準拠はもはや単なる選択肢ではありません—それは技術的能力と診断信頼性のバッジです。このガイドでは、基準の核心仕様と、それが現代のCASA技術とどのように統合されるかを概説します。 第1章：統一フレームワーク（ISO 23162 vs. WHO第6版） ISO 23162は、WHO第6版実験室マニュアルと並行して開発されました。2つの文書は補完的です：<br/><br/><strong>WHO第6版：</strong>精子分析の生物学的および臨床的側面（「方法」と臨床的解釈）に焦点を当てます。<br/><br/><strong>IS",
       "image": "/ISO.webp",
-      "alt": "CASAシステム、Nexus Dx1、精液検査要件、品質管理、実験室基準を備えたISO 23162:2021実験室能力ガイド",
+      "alt": "CASAシステム、Nexus DX1、精液検査要件、品質管理、実験室基準を備えたISO 23162:2021実験室能力ガイド",
       "category": "human",
       "locale": "ja"
     },
@@ -119,7 +119,7 @@
       "subtitle": "最適なART結果のための実験室結果と臨床意思決定を橋渡しするエビデンスベースのESHREガイドライン",
       "content": "WHOマニュアルが「方法」を提供し、ISO 23162が「技術仕様」を提供する一方で、ESHREはケアの標準—これらの診断を臨床実践に統合して、補助生殖技術（ART）の結果を改善する方法—に焦点を当てています。ヨーロッパの生殖医学の主要な権威として、ESHREは、実験室結果と臨床意思決定の間のギャップを橋渡しするエビデンスベースのガイドラインを提供します。現代の不妊クリニックにとって、ESHREの推奨事項に従うことで、精液分析が単なるデータ収集演習ではなく、IVF、ICSI、IUIの成功率を最適化するための重要なツールであることが保証されます。 第1章：精液分析の臨床的有用性 ESHREは、標準化された精液分析が男性不妊評価の最初で最も重要なステップであることを強調しています。ESHREによると、分析の主な目標は：<br/><br/><strong>治療選択：</strong>最も適切なART経路の決定（例：重度の乏精子症に対するICSIの提案）。<br/><br/><strong>予後価値：</strong>運動性と形態学データを使用して、患者の自然および補助受胎の見通しについてカウ",
       "image": "/ESHRE.webp",
-      "alt": "CASAシステム、Nexus Dx1、ART卓越性、IVF、ICSI、補助生殖技術を備えたESHRE臨床精液検査ガイドライン",
+      "alt": "CASAシステム、Nexus DX1、ART卓越性、IVF、ICSI、補助生殖技術を備えたESHRE臨床精液検査ガイドライン",
       "category": "human",
       "locale": "ja"
     },
@@ -130,7 +130,7 @@
       "subtitle": "精液分析を包括的な男性不妊診断と治療経路に統合するエビデンスベースのASRMプロトコル",
       "content": "WHOマニュアルが「方法」を提供し、ISO 23162が「技術基準」を提供する一方で、ASRMは臨床経路—精液分析結果が臨床設定での不妊男性の診断評価と治療をどのように導くべきか—に焦点を当てています。米国の生殖医学の主要な権威として、ASRMは現代の不妊ケアを定義するエビデンスベースのプロトコルを確立しています。臨床医と実験室ディレクターにとって、ASRM委員会の意見に従うことで、精液分析が患者診断の包括的アプローチに統合され、子宮内授精（IUI）、IVF、またはICSIを通じた成功結果の可能性を最大化することが保証されます。 第1章：診断基盤としての精液分析 ASRMは、男性パートナーの評価が女性パートナーと同時に行われるべきであることを強調しています。精液分析は「基盤的」テストとして認識されています。ASRMによると：<br/><br/><strong>初期評価：</strong>精子産生の自然な生物学的変動性を考慮して、ベースラインを確立するために、少なくとも2つの適切に実施された精液分析が推奨されます。<br/><br/><strong>標準化：</strong>ASRMは、",
       "image": "/ASRM.webp",
-      "alt": "CASAシステム、Nexus Dx1、男性不妊評価、IUI、IVF、ICSI、臨床実験室基準を備えたASRM男性不妊評価プロトコルガイド",
+      "alt": "CASAシステム、Nexus DX1、男性不妊評価、IUI、IVF、ICSI、臨床実験室基準を備えたASRM男性不妊評価プロトコルガイド",
       "category": "human",
       "locale": "ja"
     },
@@ -264,13 +264,13 @@
     {
       "id": "nexus-dx1-0",
       "src": "/nexus-dx1-cover.webp",
-      "alt": "Nexus Dx1 - Product image 1",
+      "alt": "Nexus DX1 - Product image 1",
       "filename": "nexus-dx1-cover.webp",
       "type": "product",
       "associatedContent": {
         "type": "product",
         "id": "nexus-dx1",
-        "title": "Nexus Dx1",
+        "title": "Nexus DX1",
         "url": "/products/nexus-dx1"
       },
       "locale": "ja"
@@ -278,13 +278,13 @@
     {
       "id": "nexus-dx1-1",
       "src": "/nexus-dx1.webp",
-      "alt": "Nexus Dx1 - Product image 2",
+      "alt": "Nexus DX1 - Product image 2",
       "filename": "nexus-dx1.webp",
       "type": "product",
       "associatedContent": {
         "type": "product",
         "id": "nexus-dx1",
-        "title": "Nexus Dx1",
+        "title": "Nexus DX1",
         "url": "/products/nexus-dx1"
       },
       "locale": "ja"
@@ -292,13 +292,13 @@
     {
       "id": "nexus-dx1-2",
       "src": "/nexus-dx1-2.webp",
-      "alt": "Nexus Dx1 - Product image 3",
+      "alt": "Nexus DX1 - Product image 3",
       "filename": "nexus-dx1-2.webp",
       "type": "product",
       "associatedContent": {
         "type": "product",
         "id": "nexus-dx1",
-        "title": "Nexus Dx1",
+        "title": "Nexus DX1",
         "url": "/products/nexus-dx1"
       },
       "locale": "ja"
@@ -306,13 +306,13 @@
     {
       "id": "nexus-dx1-3",
       "src": "/nexus-dx1-3.webp",
-      "alt": "Nexus Dx1 - Product image 4",
+      "alt": "Nexus DX1 - Product image 4",
       "filename": "nexus-dx1-3.webp",
       "type": "product",
       "associatedContent": {
         "type": "product",
         "id": "nexus-dx1",
-        "title": "Nexus Dx1",
+        "title": "Nexus DX1",
         "url": "/products/nexus-dx1"
       },
       "locale": "ja"
@@ -320,13 +320,13 @@
     {
       "id": "nexus-dx1-4",
       "src": "/nexus-dx1-4.webp",
-      "alt": "Nexus Dx1 - Product image 5",
+      "alt": "Nexus DX1 - Product image 5",
       "filename": "nexus-dx1-4.webp",
       "type": "product",
       "associatedContent": {
         "type": "product",
         "id": "nexus-dx1",
-        "title": "Nexus Dx1",
+        "title": "Nexus DX1",
         "url": "/products/nexus-dx1"
       },
       "locale": "ja"
@@ -432,7 +432,7 @@
     {
       "id": "article-who-6th-edition-semen-analysis-standards",
       "src": "/WHO6.webp",
-      "alt": "CASAシステム、Nexus Dx1、精子運動性、精子形態学、内蔵加熱ステージを備えたWHO第6版精液分析基準ガイド",
+      "alt": "CASAシステム、Nexus DX1、精子運動性、精子形態学、内蔵加熱ステージを備えたWHO第6版精液分析基準ガイド",
       "filename": "WHO6.webp",
       "type": "article",
       "associatedContent": {
@@ -446,7 +446,7 @@
     {
       "id": "article-iso-23162-2021-laboratory-competence-guide",
       "src": "/ISO.webp",
-      "alt": "CASAシステム、Nexus Dx1、精液検査要件、品質管理、実験室基準を備えたISO 23162:2021実験室能力ガイド",
+      "alt": "CASAシステム、Nexus DX1、精液検査要件、品質管理、実験室基準を備えたISO 23162:2021実験室能力ガイド",
       "filename": "ISO.webp",
       "type": "article",
       "associatedContent": {
@@ -460,7 +460,7 @@
     {
       "id": "article-eshre-guidelines-clinical-semen-examination",
       "src": "/ESHRE.webp",
-      "alt": "CASAシステム、Nexus Dx1、ART卓越性、IVF、ICSI、補助生殖技術を備えたESHRE臨床精液検査ガイドライン",
+      "alt": "CASAシステム、Nexus DX1、ART卓越性、IVF、ICSI、補助生殖技術を備えたESHRE臨床精液検査ガイドライン",
       "filename": "ESHRE.webp",
       "type": "article",
       "associatedContent": {
@@ -474,7 +474,7 @@
     {
       "id": "article-asrm-male-infertility-evaluation-protocols",
       "src": "/ASRM.webp",
-      "alt": "CASAシステム、Nexus Dx1、男性不妊評価、IUI、IVF、ICSI、臨床実験室基準を備えたASRM男性不妊評価プロトコルガイド",
+      "alt": "CASAシステム、Nexus DX1、男性不妊評価、IUI、IVF、ICSI、臨床実験室基準を備えたASRM男性不妊評価プロトコルガイド",
       "filename": "ASRM.webp",
       "type": "article",
       "associatedContent": {

@@ -220,7 +220,7 @@
 
             // 测试 1: 添加数据
             results.push('测试 1: 添加搜索历史...');
-            const testQueries = ['Nexus Dx1', 'CASA system', 'WHO 6th Edition', 'Semen analysis'];
+            const testQueries = ['Nexus DX1', 'CASA system', 'WHO 6th Edition', 'Semen analysis'];
             testQueries.forEach((q, i) => {
                 const history = getHistory();
                 const filtered = history.filter(item => item.query.toLowerCase() !== q.toLowerCase());
@@ -248,7 +248,7 @@
 
             // 测试 3: 重复搜索
             results.push('<br>测试 3: 重复搜索处理...');
-            const duplicateQuery = 'Nexus Dx1';
+            const duplicateQuery = 'Nexus DX1';
             const historyBefore = getHistory();
             const beforeCount = historyBefore.filter(h => h.query.toLowerCase() === duplicateQuery.toLowerCase()).length;
             const filtered = historyBefore.filter(item => item.query.toLowerCase() !== duplicateQuery.toLowerCase());

@@ -1,4 +1,8 @@
 {
+  "meta": {
+    "title": "Tìm hệ thống CASA và máy phân tích tinh dịch | iSperm Medical",
+    "description": "Tìm sản phẩm iSperm Medical, hệ thống CASA, máy phân tích tinh dịch và bài viết trung tâm kiến thức. Nexus DX1, MSQA-100, SQA-6100vet và hơn thế nữa."
+  },
   "placeholder": "Tìm kiếm sản phẩm, bài viết, hình ảnh...",
   "startTyping": "Bắt đầu nhập để tìm kiếm...",
   "noResults": "Không tìm thấy kết quả",
@@ -33,16 +37,16 @@
     "rights": "© 2024 iSperm Medical Ltd. Bảo lưu mọi quyền."
   },
   "filters": {
-    "title": "Filters",
-    "type": "Type",
-    "category": "Category",
-    "sortBy": "Sort by",
-    "relevance": "Relevance",
-    "titleSort": "Title",
-    "allTypes": "All Types",
-    "allCategories": "All Categories",
-    "human": "Nam học người",
-    "veterinary": "Animal Breeding",
-    "clearFilters": "Clear filters"
+    "title": "Bộ lọc",
+    "type": "Loại",
+    "category": "Danh mục",
+    "sortBy": "Sắp xếp theo",
+    "relevance": "Mức độ liên quan",
+    "titleSort": "Tiêu đề",
+    "allTypes": "Tất cả loại",
+    "allCategories": "Tất cả danh mục",
+    "human": "Nam khoa người",
+    "veterinary": "Chăn nuôi động vật",
+    "clearFilters": "Xóa bộ lọc"
   }
 }

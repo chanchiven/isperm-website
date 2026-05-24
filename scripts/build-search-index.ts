@@ -9,7 +9,6 @@ import { SearchIndex, ProductIndex, ArticleIndex, PageIndex, ImageIndex } from '
 
 const LOCALES = ['en', 'es', 'ar', 'de', 'it', 'pt', 'ru', 'tr', 'fr', 'pl', 'nl', 'ko', 'ja', 'vi', 'id', 'uk', 'bg', 'ro'];
 const MESSAGES_DIR = path.join(process.cwd(), 'messages');
-const PUBLIC_DIR = path.join(process.cwd(), 'public');
 const OUTPUT_DIR = path.join(process.cwd(), 'public', 'search-index');
 
 // 产品 slug 列表
@@ -83,7 +82,7 @@ function buildProductIndex(locale: string): ProductIndex[] {
 
   const products: ProductIndex[] = [];
 
-  // Nexus Dx1
+  // Nexus DX1
   if (productsData.products.nexus) {
     const nexus = productsData.products.nexus;
     const features: string[] = [];
@@ -269,14 +268,14 @@ function buildImageIndex(locale: string): ImageIndex[] {
 
   // 产品图片
   if (productsData && productsData.products) {
-    // Nexus Dx1 图片
+    // Nexus DX1 图片
     if (productsData.products.nexus) {
       const nexusImages = ['/nexus-dx1-cover.webp', '/nexus-dx1.webp', '/nexus-dx1-2.webp', '/nexus-dx1-3.webp', '/nexus-dx1-4.webp'];
       nexusImages.forEach((src, index) => {
         images.push({
           id: `nexus-dx1-${index}`,
           src,
-          alt: `${productsData.products.nexus.name || 'Nexus Dx1'} - Product image ${index + 1}`,
+          alt: `${productsData.products.nexus.name || 'Nexus DX1'} - Product image ${index + 1}`,
           filename: path.basename(src),
           type: 'product',
           associatedContent: {
@@ -450,5 +449,3 @@ function main() {
 if (require.main === module) {
   main();
 }
-
-export { buildIndexForLocale };

@@ -20,7 +20,7 @@
   },
   "products": {
     "nexus": {
-      "name": "Nexus Dx1",
+      "name": "Nexus DX1",
       "tag": "Umano",
       "badge": "Sistema CASA Professionale",
       "heroSubtitle": "Sistema CASA Umano Completamente Automatizzato",
@@ -97,25 +97,25 @@
               "slug": "who-6th-edition-semen-analysis-standards",
               "name": "WHO 6th",
               "title": "Linee guida OMS 6a Edizione",
-              "description": "Il <strong>Nexus Dx1</strong> è pienamente conforme alle linee guida dell'<strong>OMS 6a Edizione</strong>. Leggi la nostra analisi dettagliata."
+              "description": "Il <strong>Nexus DX1</strong> è pienamente conforme alle linee guida dell'<strong>OMS 6a Edizione</strong>. Leggi la nostra analisi dettagliata."
             },
             {
               "slug": "iso-23162-2021-laboratory-competence-guide",
               "name": "ISO 23162",
               "title": "Linee guida ISO 23162",
-              "description": "Il <strong>Nexus Dx1</strong> è pienamente conforme alle linee guida <strong>ISO 23162</strong>. Leggi la nostra analisi dettagliata."
+              "description": "Il <strong>Nexus DX1</strong> è pienamente conforme alle linee guida <strong>ISO 23162</strong>. Leggi la nostra analisi dettagliata."
             },
             {
               "slug": "eshre-guidelines-clinical-semen-examination",
               "name": "ESHRE",
               "title": "Linee guida ESHRE",
-              "description": "Il <strong>Nexus Dx1</strong> è pienamente conforme alle linee guida <strong>ESHRE</strong>. Leggi la nostra analisi dettagliata."
+              "description": "Il <strong>Nexus DX1</strong> è pienamente conforme alle linee guida <strong>ESHRE</strong>. Leggi la nostra analisi dettagliata."
             },
             {
               "slug": "asrm-male-infertility-evaluation-protocols",
               "name": "ASRM",
               "title": "Linee guida ASRM",
-              "description": "Il <strong>Nexus Dx1</strong> è pienamente conforme alle linee guida <strong>ASRM</strong>. Leggi la nostra analisi dettagliata."
+              "description": "Il <strong>Nexus DX1</strong> è pienamente conforme alle linee guida <strong>ASRM</strong>. Leggi la nostra analisi dettagliata."
             }
           ],
           "learnMore": "Scopri di più →"
@@ -338,8 +338,8 @@
       }
     },
     "nexusMeta": {
-      "title": "Sistema CASA Nexus Dx1 | 6a Edizione OMS | iSperm Medical",
-      "description": "Sistema CASA umano completamente automatizzato Nexus Dx1. Analizzatore di sperma conforme alla 6a edizione dell'OMS con analisi della morfologia degli spermatozoi alimentata dall'IA."
+      "title": "Sistema CASA Nexus DX1 | 6a Edizione OMS | iSperm Medical",
+      "description": "Sistema CASA umano completamente automatizzato Nexus DX1. Analizzatore di sperma conforme alla 6a edizione dell'OMS con analisi della morfologia degli spermatozoi alimentata dall'IA."
     },
     "msqaMeta": {
       "title": "Sistema CASA Portatile MSQA-100 | 6a Edizione OMS | iSperm Medical",

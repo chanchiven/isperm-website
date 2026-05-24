@@ -3,7 +3,7 @@
     {
       "id": "nexus-dx1",
       "slug": "nexus-dx1",
-      "name": "Nexus Dx1",
+      "name": "Nexus DX1",
       "description": "Volledig geautomatiseerd CASA systeem conform WHO 6e editie, ontworpen voor klinisch en laboratoriumgebruik, met geavanceerde AI-algoritmen en uitgebreide parameteranalyse.",
       "subtitle": "Volledig Geautomatiseerd Menselijk CASA Systeem",
       "images": [
@@ -97,7 +97,7 @@
       "subtitle": "Beheersing van WHO 6e Editie standaarden met geavanceerde CASA technologie voor precieze mannelijke vruchtbaarheidsbeoordeling",
       "content": "Op het gebied van reproductieve geneeskunde blijft sperma analyse de hoeksteen van mannelijke vruchtbaarheidsbeoordeling. Met de release van de WHO 6e Editie (2021) heeft de industrie zich verplaatst naar hogere precisie, strengere kwaliteitscontrole en de integratie van geavanceerde Computer-Gestuurde Sperma Analyse (CASA) systemen. Dit artikel onderzoekt de evolutie van deze standaarden en de technische vereisten voor moderne klinische diagnostiek. Hoofdstuk 1: De Rol van CASA in Moderne Andro",
       "image": "/WHO6.webp",
-      "alt": "WHO 6e Editie Sperma Analyse Standaarden gids met CASA systeem, Nexus Dx1, Sperma Beweglijkheid, Sperma Morfologie en Ingebouwde verwarmingsstage",
+      "alt": "WHO 6e Editie Sperma Analyse Standaarden gids met CASA systeem, Nexus DX1, Sperma Beweglijkheid, Sperma Morfologie en Ingebouwde verwarmingsstage",
       "category": "human",
       "locale": "nl"
     },
@@ -108,7 +108,7 @@
       "subtitle": "Beheersing van ISO 23162:2021 technische vereisten en kwaliteitsbeheerskader voor wereldwijd vergelijkbare spermaonderzoeksresultaten",
       "content": "Dit artikel richt zich op ISO 23162:2021, de internationale standaard die vereisten en testmethoden specificeert voor basisonderzoek van menselijk sperma. Terwijl de WHO 6e Editie het klinische handboek biedt, biedt ISO 23162 het technische en kwaliteitsbeheerskader voor laboratoria om ervoor te zorgen dat hun resultaten wereldwijd vergelijkbaar zijn. De release van ISO 23162:2021 markeerde een mijlpaal in de reproductieve geneeskunde, als de eerste toegewijde internationale standaard voor basis",
       "image": "/ISO.webp",
-      "alt": "ISO 23162:2021 Laboratoriumcompetentie gids met CASA systeem, Nexus Dx1, Spermaonderzoek vereisten, Kwaliteitscontrole en Laboratoriumstandaarden",
+      "alt": "ISO 23162:2021 Laboratoriumcompetentie gids met CASA systeem, Nexus DX1, Spermaonderzoek vereisten, Kwaliteitscontrole en Laboratoriumstandaarden",
       "category": "human",
       "locale": "nl"
     },
@@ -119,7 +119,7 @@
       "subtitle": "Op bewijs gebaseerde ESHRE richtlijnen die laboratoriumresultaten en klinische besluitvorming verbinden voor optimale ART resultaten",
       "content": "Terwijl het WHO Handboek de \"hoe-te-doen\" biedt en ISO 23162 de \"technische specificaties\" biedt, richt ESHRE zich op de Zorgstandaard—hoe deze diagnostiek moet worden geïntegreerd in de klinische praktijk om resultaten in Geassisteerde Reproductieve Technologie (ART) te verbeteren. Als de leidende autoriteit in Europese reproductieve geneeskunde, biedt ESHRE op bewijs gebaseerde richtlijnen die de kloof tussen laboratoriumresultaten en klinische besluitvorming overbruggen. Voor moderne vruchtba",
       "image": "/ESHRE.webp",
-      "alt": "ESHRE Richtlijnen Klinisch Sperma Onderzoek gids met CASA systeem, Nexus Dx1, ART uitmuntendheid, IVF, ICSI en Geassisteerde Reproductieve Technologie",
+      "alt": "ESHRE Richtlijnen Klinisch Sperma Onderzoek gids met CASA systeem, Nexus DX1, ART uitmuntendheid, IVF, ICSI en Geassisteerde Reproductieve Technologie",
       "category": "human",
       "locale": "nl"
     },
@@ -130,7 +130,7 @@
       "subtitle": "Op bewijs gebaseerde ASRM protocollen die sperma analyse integreren in holistische mannelijke onvruchtbaarheid diagnose en behandelingspaden",
       "content": "Terwijl het WHO Handboek de \"hoe-te-doen\" biedt en ISO 23162 de \"technische standaarden\" biedt, richt ASRM zich op het Klinische Pad—het sturen van hoe sperma analyse resultaten het diagnostische onderzoek en de behandeling van de onvruchtbare man moeten begeleiden in een klinische setting. Als de belangrijkste autoriteit in reproductieve geneeskunde in de Verenigde Staten, stelt ASRM op bewijs gebaseerde protocollen vast die moderne vruchtbaarheidszorg definiëren. Voor clinici en laboratoriumdi",
       "image": "/ASRM.webp",
-      "alt": "ASRM Mannelijke Onvruchtbaarheid Evaluatie Protocollen gids met CASA systeem, Nexus Dx1, Mannelijke onvruchtbaarheid onderzoek, IUI, IVF, ICSI en Klinische Laboratoriumstandaarden",
+      "alt": "ASRM Mannelijke Onvruchtbaarheid Evaluatie Protocollen gids met CASA systeem, Nexus DX1, Mannelijke onvruchtbaarheid onderzoek, IUI, IVF, ICSI en Klinische Laboratoriumstandaarden",
       "category": "human",
       "locale": "nl"
     },
@@ -264,13 +264,13 @@
     {
       "id": "nexus-dx1-0",
       "src": "/nexus-dx1-cover.webp",
-      "alt": "Nexus Dx1 - Product image 1",
+      "alt": "Nexus DX1 - Product image 1",
       "filename": "nexus-dx1-cover.webp",
       "type": "product",
       "associatedContent": {
         "type": "product",
         "id": "nexus-dx1",
-        "title": "Nexus Dx1",
+        "title": "Nexus DX1",
         "url": "/products/nexus-dx1"
       },
       "locale": "nl"
@@ -278,13 +278,13 @@
     {
       "id": "nexus-dx1-1",
       "src": "/nexus-dx1.webp",
-      "alt": "Nexus Dx1 - Product image 2",
+      "alt": "Nexus DX1 - Product image 2",
       "filename": "nexus-dx1.webp",
       "type": "product",
       "associatedContent": {
         "type": "product",
         "id": "nexus-dx1",
-        "title": "Nexus Dx1",
+        "title": "Nexus DX1",
         "url": "/products/nexus-dx1"
       },
       "locale": "nl"
@@ -292,13 +292,13 @@
     {
       "id": "nexus-dx1-2",
       "src": "/nexus-dx1-2.webp",
-      "alt": "Nexus Dx1 - Product image 3",
+      "alt": "Nexus DX1 - Product image 3",
       "filename": "nexus-dx1-2.webp",
       "type": "product",
       "associatedContent": {
         "type": "product",
         "id": "nexus-dx1",
-        "title": "Nexus Dx1",
+        "title": "Nexus DX1",
         "url": "/products/nexus-dx1"
       },
       "locale": "nl"
@@ -306,13 +306,13 @@
     {
       "id": "nexus-dx1-3",
       "src": "/nexus-dx1-3.webp",
-      "alt": "Nexus Dx1 - Product image 4",
+      "alt": "Nexus DX1 - Product image 4",
       "filename": "nexus-dx1-3.webp",
       "type": "product",
       "associatedContent": {
         "type": "product",
         "id": "nexus-dx1",
-        "title": "Nexus Dx1",
+        "title": "Nexus DX1",
         "url": "/products/nexus-dx1"
       },
       "locale": "nl"
@@ -320,13 +320,13 @@
     {
       "id": "nexus-dx1-4",
       "src": "/nexus-dx1-4.webp",
-      "alt": "Nexus Dx1 - Product image 5",
+      "alt": "Nexus DX1 - Product image 5",
       "filename": "nexus-dx1-4.webp",
       "type": "product",
       "associatedContent": {
         "type": "product",
         "id": "nexus-dx1",
-        "title": "Nexus Dx1",
+        "title": "Nexus DX1",
         "url": "/products/nexus-dx1"
       },
       "locale": "nl"
@@ -432,7 +432,7 @@
     {
       "id": "article-who-6th-edition-semen-analysis-standards",
       "src": "/WHO6.webp",
-      "alt": "WHO 6e Editie Sperma Analyse Standaarden gids met CASA systeem, Nexus Dx1, Sperma Beweglijkheid, Sperma Morfologie en Ingebouwde verwarmingsstage",
+      "alt": "WHO 6e Editie Sperma Analyse Standaarden gids met CASA systeem, Nexus DX1, Sperma Beweglijkheid, Sperma Morfologie en Ingebouwde verwarmingsstage",
       "filename": "WHO6.webp",
       "type": "article",
       "associatedContent": {
@@ -446,7 +446,7 @@
     {
       "id": "article-iso-23162-2021-laboratory-competence-guide",
       "src": "/ISO.webp",
-      "alt": "ISO 23162:2021 Laboratoriumcompetentie gids met CASA systeem, Nexus Dx1, Spermaonderzoek vereisten, Kwaliteitscontrole en Laboratoriumstandaarden",
+      "alt": "ISO 23162:2021 Laboratoriumcompetentie gids met CASA systeem, Nexus DX1, Spermaonderzoek vereisten, Kwaliteitscontrole en Laboratoriumstandaarden",
       "filename": "ISO.webp",
       "type": "article",
       "associatedContent": {
@@ -460,7 +460,7 @@
     {
       "id": "article-eshre-guidelines-clinical-semen-examination",
       "src": "/ESHRE.webp",
-      "alt": "ESHRE Richtlijnen Klinisch Sperma Onderzoek gids met CASA systeem, Nexus Dx1, ART uitmuntendheid, IVF, ICSI en Geassisteerde Reproductieve Technologie",
+      "alt": "ESHRE Richtlijnen Klinisch Sperma Onderzoek gids met CASA systeem, Nexus DX1, ART uitmuntendheid, IVF, ICSI en Geassisteerde Reproductieve Technologie",
       "filename": "ESHRE.webp",
       "type": "article",
       "associatedContent": {
@@ -474,7 +474,7 @@
     {
       "id": "article-asrm-male-infertility-evaluation-protocols",
       "src": "/ASRM.webp",
-      "alt": "ASRM Mannelijke Onvruchtbaarheid Evaluatie Protocollen gids met CASA systeem, Nexus Dx1, Mannelijke onvruchtbaarheid onderzoek, IUI, IVF, ICSI en Klinische Laboratoriumstandaarden",
+      "alt": "ASRM Mannelijke Onvruchtbaarheid Evaluatie Protocollen gids met CASA systeem, Nexus DX1, Mannelijke onvruchtbaarheid onderzoek, IUI, IVF, ICSI en Klinische Laboratoriumstandaarden",
       "filename": "ASRM.webp",
       "type": "article",
       "associatedContent": {

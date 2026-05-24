@@ -2,6 +2,7 @@ import {getTranslations, setRequestLocale} from 'next-intl/server';
 import {Metadata} from 'next';
 import {Link} from '@/i18n/routing';
 import {Navigation} from '@/components/Navigation';
+import {Footer} from '@/components/Footer';
 import {FAQArticleCard} from '@/components/FAQArticleCard';
 import {generateHreflangAlternates} from '@/i18n/hreflang';
 
@@ -91,6 +92,9 @@ export default async function FAQPage({
 
   // Article slugs for list page (using new unified structure)
   const articleSlugs = {
+    spermmaxxing: 'article-what-is-spermmaxxing-2026',
+    spermBiomarker: 'article-sperm-health-biomarker-2026',
+    fertilityCrisis: 'article-male-fertility-crisis-2026',
     humanSemen: 'faq-human-semen-standards',
     who6th: 'who-6th-edition-semen-analysis-standards',
     iso23162: 'iso-23162-2021-laboratory-competence-guide',
@@ -103,10 +107,7 @@ export default async function FAQPage({
     camelid: 'faq-camelid-andrology',
     fish: 'faq-fish-semen-analysis',
     ram: 'faq-ram-breeding-soundness',
-    boar: 'faq-boar-semen-evaluation',
-    spermmaxxing: 'spermmaxxing-male-fertility-optimization-guide',
-    spermHealthBiomarker: 'sperm-health-biomarker-male-longevity-overall-wellbeing',
-    maleFertilityCrisis: 'male-fertility-crisis-facts-sperm-count-decline-2026'
+    boar: 'faq-boar-semen-evaluation'
   };
 
   return (
@@ -148,6 +149,48 @@ export default async function FAQPage({
       {/* Articles Grid */}
       <section className="about-section" style={{padding: '80px 0'}}>
         <div className="container">
+          {/* Article Section */}
+          <div className="section-header" id="article">
+            <h2>{getT('sections.article.title')}</h2>
+          </div>
+          <div className="articles-grid" style={{
+            display: 'grid',
+            gridTemplateColumns: 'repeat(auto-fit, minmax(300px, 350px))',
+            gap: '2rem',
+            marginBottom: '4rem',
+            justifyContent: 'start',
+            alignItems: 'stretch',
+            alignContent: 'start'
+          }}>
+            <FAQArticleCard
+              slug={articleSlugs.spermmaxxing}
+              title={getT(`articles.${articleSlugs.spermmaxxing}.title`)}
+              subtitle={getT(`articles.${articleSlugs.spermmaxxing}.subtitle`)}
+              image={getT(`articles.${articleSlugs.spermmaxxing}.image`)}
+              alt={getT(`articles.${articleSlugs.spermmaxxing}.alt`)}
+              fixedImageHeight={true}
+              locale={locale}
+            />
+            <FAQArticleCard
+              slug={articleSlugs.spermBiomarker}
+              title={getT(`articles.${articleSlugs.spermBiomarker}.title`)}
+              subtitle={getT(`articles.${articleSlugs.spermBiomarker}.subtitle`)}
+              image={getT(`articles.${articleSlugs.spermBiomarker}.image`)}
+              alt={getT(`articles.${articleSlugs.spermBiomarker}.alt`)}
+              fixedImageHeight={true}
+              locale={locale}
+            />
+            <FAQArticleCard
+              slug={articleSlugs.fertilityCrisis}
+              title={getT(`articles.${articleSlugs.fertilityCrisis}.title`)}
+              subtitle={getT(`articles.${articleSlugs.fertilityCrisis}.subtitle`)}
+              image={getT(`articles.${articleSlugs.fertilityCrisis}.image`)}
+              alt={getT(`articles.${articleSlugs.fertilityCrisis}.alt`)}
+              fixedImageHeight={true}
+              locale={locale}
+            />
+          </div>
+
           {/* Human Andrology Section */}
           <div className="section-header" id="human">
             <h2>{t('sections.human.title')}</h2>
@@ -168,6 +211,7 @@ export default async function FAQPage({
               image={getT(`articles.${articleSlugs.humanSemen}.image`)}
               alt={getT(`articles.${articleSlugs.humanSemen}.alt`)}
               fixedImageHeight={true}
+              locale={locale}
             />
             <FAQArticleCard
               slug={articleSlugs.who6th}
@@ -176,6 +220,7 @@ export default async function FAQPage({
               image={getT(`articles.${articleSlugs.who6th}.image`)}
               alt={getT(`articles.${articleSlugs.who6th}.alt`)}
               fixedImageHeight={true}
+              locale={locale}
             />
             <FAQArticleCard
               slug={articleSlugs.iso23162}
@@ -184,6 +229,7 @@ export default async function FAQPage({
               image={getT(`articles.${articleSlugs.iso23162}.image`)}
               alt={getT(`articles.${articleSlugs.iso23162}.alt`)}
               fixedImageHeight={true}
+              locale={locale}
             />
             <FAQArticleCard
               slug={articleSlugs.eshre}
@@ -192,6 +238,7 @@ export default async function FAQPage({
               image={getT(`articles.${articleSlugs.eshre}.image`)}
               alt={getT(`articles.${articleSlugs.eshre}.alt`)}
               fixedImageHeight={true}
+              locale={locale}
             />
             <FAQArticleCard
               slug={articleSlugs.asrm}
@@ -200,6 +247,7 @@ export default async function FAQPage({
               image={getT(`articles.${articleSlugs.asrm}.image`)}
               alt={getT(`articles.${articleSlugs.asrm}.alt`)}
               fixedImageHeight={true}
+              locale={locale}
             />
           </div>
 
@@ -220,6 +268,7 @@ export default async function FAQPage({
               image={getT(`articles.${articleSlugs.bull}.image`)}
               alt={getT(`articles.${articleSlugs.bull}.alt`)}
               fixedImageHeight={false}
+              locale={locale}
             />
             <FAQArticleCard
               slug={articleSlugs.canine}
@@ -228,6 +277,7 @@ export default async function FAQPage({
               image={getT(`articles.${articleSlugs.canine}.image`)}
               alt={getT(`articles.${articleSlugs.canine}.alt`)}
               fixedImageHeight={false}
+              locale={locale}
             />
             <FAQArticleCard
               slug={articleSlugs.poultry}
@@ -236,6 +286,7 @@ export default async function FAQPage({
               image={getT(`articles.${articleSlugs.poultry}.image`)}
               alt={getT(`articles.${articleSlugs.poultry}.alt`)}
               fixedImageHeight={false}
+              locale={locale}
             />
             <FAQArticleCard
               slug={articleSlugs.stallion}
@@ -244,6 +295,7 @@ export default async function FAQPage({
               image={getT(`articles.${articleSlugs.stallion}.image`)}
               alt={getT(`articles.${articleSlugs.stallion}.alt`)}
               fixedImageHeight={false}
+              locale={locale}
             />
             <FAQArticleCard
               slug={articleSlugs.camelid}
@@ -252,6 +304,7 @@ export default async function FAQPage({
               image={getT(`articles.${articleSlugs.camelid}.image`)}
               alt={getT(`articles.${articleSlugs.camelid}.alt`)}
               fixedImageHeight={false}
+              locale={locale}
             />
             <FAQArticleCard
               slug={articleSlugs.fish}
@@ -260,6 +313,7 @@ export default async function FAQPage({
               image={getT(`articles.${articleSlugs.fish}.image`)}
               alt={getT(`articles.${articleSlugs.fish}.alt`)}
               fixedImageHeight={false}
+              locale={locale}
             />
             <FAQArticleCard
               slug={articleSlugs.ram}
@@ -268,6 +322,7 @@ export default async function FAQPage({
               image={getT(`articles.${articleSlugs.ram}.image`)}
               alt={getT(`articles.${articleSlugs.ram}.alt`)}
               fixedImageHeight={false}
+              locale={locale}
             />
             <FAQArticleCard
               slug={articleSlugs.boar}
@@ -276,77 +331,13 @@ export default async function FAQPage({
               image={getT(`articles.${articleSlugs.boar}.image`)}
               alt={getT(`articles.${articleSlugs.boar}.alt`)}
               fixedImageHeight={false}
-            />
-          </div>
-
-          {/* Articles Section */}
-          <div className="section-header" id="articles">
-            <h2>{t('sections.articles.title')}</h2>
-          </div>
-          <div className="articles-grid" style={{
-            display: 'grid', 
-            gridTemplateColumns: 'repeat(auto-fit, minmax(300px, 1fr))', 
-            gap: '2rem',
-            alignItems: 'stretch',
-            marginBottom: '4rem'
-          }}>
-            <FAQArticleCard
-              slug={articleSlugs.spermmaxxing}
-              title={getT(`articles.${articleSlugs.spermmaxxing}.title`)}
-              subtitle={getT(`articles.${articleSlugs.spermmaxxing}.subtitle`)}
-              image={getT(`articles.${articleSlugs.spermmaxxing}.image`)}
-              alt={getT(`articles.${articleSlugs.spermmaxxing}.alt`)}
-              fixedImageHeight={false}
-            />
-            <FAQArticleCard
-              slug={articleSlugs.spermHealthBiomarker}
-              title={getT(`articles.${articleSlugs.spermHealthBiomarker}.title`)}
-              subtitle={getT(`articles.${articleSlugs.spermHealthBiomarker}.subtitle`)}
-              image={getT(`articles.${articleSlugs.spermHealthBiomarker}.image`)}
-              alt={getT(`articles.${articleSlugs.spermHealthBiomarker}.alt`)}
-              fixedImageHeight={false}
-            />
-            <FAQArticleCard
-              slug={articleSlugs.maleFertilityCrisis}
-              title={getT(`articles.${articleSlugs.maleFertilityCrisis}.title`)}
-              subtitle={getT(`articles.${articleSlugs.maleFertilityCrisis}.subtitle`)}
-              image={getT(`articles.${articleSlugs.maleFertilityCrisis}.image`)}
-              alt={getT(`articles.${articleSlugs.maleFertilityCrisis}.alt`)}
-              fixedImageHeight={false}
+              locale={locale}
             />
           </div>
         </div>
       </section>
 
-      {/* Footer */}
-      <footer className="footer">
-        <div className="container">
-          <div className="footer-content">
-            <div className="footer-section">
-              <h3>{t('footer.company')}</h3>
-              <p>{t('footer.description')}</p>
-            </div>
-            <div className="footer-section">
-              <h4>{t('footer.quickLinks')}</h4>
-              <ul>
-                <li><Link href="/" locale={locale as any}>{t('nav.home')}</Link></li>
-                <li><Link href="/products" locale={locale as any}>{t('nav.products')}</Link></li>
-                <li><Link href="/about" locale={locale as any}>{t('nav.about')}</Link></li>
-                <li><Link href="/faq" locale={locale as any}>{t('nav.knowledgeHub')}</Link></li>
-                <li><Link href="/contact" locale={locale as any}>{t('nav.contact')}</Link></li>
-              </ul>
-            </div>
-            <div className="footer-section">
-              <h4>{t('footer.contact')}</h4>
-              <p>{t('footer.email')} <a href="mailto:market@isperm.com">market@isperm.com</a></p>
-              <p>{t('footer.address')} {t('footer.fullAddress')}</p>
-            </div>
-          </div>
-          <div className="footer-bottom">
-            <p>{t('footer.rights')}</p>
-          </div>
-        </div>
-      </footer>
+      <Footer locale={locale} />
     </div>
   );
   } catch (error) {

@@ -130,11 +130,16 @@ ${urlBlocks}
 }
 
 function main() {
-  const outputPath = path.join(process.cwd(), 'public', 'sitemap.xml');
   const sitemap = generateSitemap();
+  const outputs = [
+    path.join(process.cwd(), 'public', 'sitemap.xml'),
+    path.join(process.cwd(), 'sitemap.xml'),
+  ];
 
-  fs.writeFileSync(outputPath, sitemap, 'utf-8');
-  console.log(`[sitemap] Generated ${outputPath}`);
+  for (const outputPath of outputs) {
+    fs.writeFileSync(outputPath, sitemap, 'utf-8');
+    console.log(`[sitemap] Generated ${outputPath}`);
+  }
 }
 
 main();

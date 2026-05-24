@@ -10,55 +10,8 @@ import {NextRequest, NextResponse} from 'next/server';
 // 4. defaultLocale - 默认语言 (en)
 const intlMiddleware = createMiddleware(routing);
 
-// 检测是否为中文用户（简体或繁体）或中国/台湾IP（不包括香港）
-function isChineseUser(request: NextRequest): boolean {
-  // 1. 检测浏览器语言
-  // 只匹配简体中文(zh-CN)和繁体中文-台湾(zh-TW)
-  // 注意：排除香港(zh-HK)，允许香港用户正常访问
-  const acceptLanguage = request.headers.get('accept-language') || '';
-  // 只匹配 zh-CN 或 zh-TW，明确排除 zh-HK 和其他变体
-  const isChineseLang = /zh[-_]?(CN|TW)/i.test(acceptLanguage);
-  
-  // 2. 检测IP地址地理位置
-  // 只检测中国(CN)和台湾(TW)，不包括香港(HK)
-  // Vercel 自动提供 geo 信息，其他平台（如自托管）可能需要配置
-  // 如果 geo 不可用，只依赖语言检测
-  const country = request.geo?.country || '';
-  const isChineseIP = country === 'CN' || country === 'TW';
-  
-  // 只要满足语言或IP任一条件，就返回简单404（不包括香港）
-  return isChineseLang || isChineseIP;
-}
-
 export default function middleware(request: NextRequest) {
   const {pathname} = request.nextUrl;
-  
-  // 暂时关闭地域和语言阻止功能 - 允许所有用户访问
-  // 检测中文用户（简体或繁体）或中国/台湾IP（不包括香港），直接返回简单404页面
-  // if (isChineseUser(request)) {
-  //   // 返回最简单的404页面
-  //   return new NextResponse(
-  //     `<!DOCTYPE html>
-  // <html>
-  // <head>
-  //   <meta charset="utf-8">
-  //   <title>404</title>
-  // </head>
-  // <body>
-  //   <h1>404</h1>
-  //   <p>Not Found</p>
-  // </body>
-  // </html>`,
-  //     {
-  //       status: 404,
-  //       headers: {
-  //         'Content-Type': 'text/html; charset=utf-8',
-  //       },
-  //     }
-  //   );
-  // }
-  
-  // 根路径 / 的重定向已由 Cloudflare Redirect Rules 处理，此处不再重复处理
 
   // 处理重复语言代码的情况，如 /es/es -> /es
   const pathSegments = pathname.split('/').filter(Boolean);

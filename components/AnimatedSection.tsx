@@ -1,15 +1,11 @@
 'use client';
 
-import {ReactNode, Suspense} from 'react';
+import {ReactNode, useEffect, useState} from 'react';
 import dynamic from 'next/dynamic';
 
-// 动态导入 framer-motion，禁用 SSR
 const MotionDiv = dynamic(
   () => import('framer-motion').then((mod) => mod.motion.div),
-  { 
-    ssr: false,
-    loading: () => <div style={{opacity: 0}} />
-  }
+  {ssr: false}
 );
 
 interface AnimatedSectionProps {
@@ -33,20 +29,31 @@ export default function AnimatedSection({
   transition = {duration: 0.6},
   whileHover
 }: AnimatedSectionProps) {
-  return (
-    <Suspense fallback={<div style={style}>{children}</div>}>
-      <MotionDiv
-        className={className}
-        style={style}
-        initial={initial}
-        whileInView={whileInView}
-        viewport={viewport}
-        transition={transition}
-        whileHover={whileHover}
-      >
+  const [mounted, setMounted] = useState(false);
+
+  useEffect(() => {
+    setMounted(true);
+  }, []);
+
+  if (!mounted) {
+    return (
+      <div className={className} style={style}>
         {children}
-      </MotionDiv>
-    </Suspense>
+      </div>
+    );
+  }
+
+  return (
+    <MotionDiv
+      className={className}
+      style={style}
+      initial={initial}
+      whileInView={whileInView}
+      viewport={viewport}
+      transition={transition}
+      whileHover={whileHover}
+    >
+      {children}
+    </MotionDiv>
   );
 }
-

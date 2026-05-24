@@ -20,7 +20,7 @@
   },
   "products": {
     "nexus": {
-      "name": "Nexus Dx1",
+      "name": "Nexus DX1",
       "tag": "Human",
       "badge": "Professional CASA System",
       "heroSubtitle": "Fully Automated Human CASA System",
@@ -97,25 +97,25 @@
               "slug": "who-6th-edition-semen-analysis-standards",
               "name": "WHO 6th",
               "title": "WHO 6th Guidelines",
-              "description": "The <strong>Nexus Dx1</strong> fully complies with <strong>WHO 6th</strong> guidelines. Read our detailed analysis."
+              "description": "The <strong>Nexus DX1</strong> fully complies with <strong>WHO 6th</strong> guidelines. Read our detailed analysis."
             },
             {
               "slug": "iso-23162-2021-laboratory-competence-guide",
               "name": "ISO 23162",
               "title": "ISO 23162 Guidelines",
-              "description": "The <strong>Nexus Dx1</strong> fully complies with <strong>ISO 23162</strong> guidelines. Read our detailed analysis."
+              "description": "The <strong>Nexus DX1</strong> fully complies with <strong>ISO 23162</strong> guidelines. Read our detailed analysis."
             },
             {
               "slug": "eshre-guidelines-clinical-semen-examination",
               "name": "ESHRE",
               "title": "ESHRE Guidelines",
-              "description": "The <strong>Nexus Dx1</strong> fully complies with <strong>ESHRE</strong> guidelines. Read our detailed analysis."
+              "description": "The <strong>Nexus DX1</strong> fully complies with <strong>ESHRE</strong> guidelines. Read our detailed analysis."
             },
             {
               "slug": "asrm-male-infertility-evaluation-protocols",
               "name": "ASRM",
               "title": "ASRM Guidelines",
-              "description": "The <strong>Nexus Dx1</strong> fully complies with <strong>ASRM</strong> guidelines. Read our detailed analysis."
+              "description": "The <strong>Nexus DX1</strong> fully complies with <strong>ASRM</strong> guidelines. Read our detailed analysis."
             }
           ],
           "learnMore": "Learn more →"
@@ -338,8 +338,8 @@
       }
     },
     "nexusMeta": {
-      "title": "Nexus Dx1 CASA System | WHO 6th Edition | iSperm Medical",
-      "description": "Nexus Dx1 fully automated human CASA system. WHO 6th edition compliant semen analyzer with AI-powered sperm morphology analysis."
+      "title": "Nexus DX1 CASA System | WHO 6th Edition | iSperm Medical",
+      "description": "Nexus DX1 fully automated human CASA system. WHO 6th edition compliant semen analyzer with AI-powered sperm morphology analysis."
     },
     "msqaMeta": {
       "title": "MSQA-100 Portable CASA System | WHO 6th Edition | iSperm Medical",

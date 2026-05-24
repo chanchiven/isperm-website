@@ -30,4 +30,4 @@ export const routing = defineRouting({
 });
 
 // 导出经过封装的导航组件，Cursor 以后写跳转必须用这里的 Link
-export const {Link, redirect, usePathname, useRouter} = createNavigation(routing);
+export const {Link} = createNavigation(routing);

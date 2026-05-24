@@ -3,7 +3,7 @@
     {
       "id": "nexus-dx1",
       "slug": "nexus-dx1",
-      "name": "Nexus Dx1",
+      "name": "Nexus DX1",
       "description": "Sistema CASA completamente automatizzato conforme alla 6a edizione dell'OMS, progettato per uso clinico e di laboratorio, con algoritmi IA avanzati e analisi completa dei parametri.",
       "subtitle": "Sistema CASA Umano Completamente Automatizzato",
       "images": [
@@ -97,7 +97,7 @@
       "subtitle": "Padroneggiare gli standard della 6a Edizione OMS con tecnologia CASA avanzata per una valutazione precisa della fertilità maschile",
       "content": "Nel campo della medicina riproduttiva, l'analisi dello sperma rimane la pietra angolare della valutazione della fertilità maschile. Con il rilascio della 6a Edizione OMS (2021), l'industria si è spostata verso una maggiore precisione, un controllo di qualità più rigoroso e l'integrazione di sistemi avanzati di Analisi Computerizzata dello Sperma (CASA). Questo articolo esplora l'evoluzione di questi standard e i requisiti tecnici per la diagnostica clinica moderna. Capitolo 1: Il Ruolo del CASA ",
       "image": "/WHO6.webp",
-      "alt": "Guida agli Standard di Analisi dello Sperma della 6a Edizione OMS con sistema CASA, Nexus Dx1, Motilità degli Spermatozoi, Morfologia degli Spermatozoi e piastra termica integrata",
+      "alt": "Guida agli Standard di Analisi dello Sperma della 6a Edizione OMS con sistema CASA, Nexus DX1, Motilità degli Spermatozoi, Morfologia degli Spermatozoi e piastra termica integrata",
       "category": "human",
       "locale": "it"
     },
@@ -108,7 +108,7 @@
       "subtitle": "Padroneggiare i requisiti tecnici ISO 23162:2021 e il quadro di gestione della qualità per risultati di esame dello sperma globalmente comparabili",
       "content": "Questo articolo si concentra su ISO 23162:2021, lo standard internazionale che specifica i requisiti e i metodi di prova per l'esame base dello sperma umano. Mentre la 6a Edizione OMS fornisce il manuale clinico, ISO 23162 fornisce il quadro tecnico e di gestione della qualità per i laboratori per garantire che i loro risultati siano globalmente comparabili. Il rilascio di ISO 23162:2021 ha segnato una pietra miliare nella medicina riproduttiva, essendo il primo standard internazionale dedicato ",
       "image": "/ISO.webp",
-      "alt": "Guida alla Competenza di Laboratorio ISO 23162:2021 con sistema CASA, Nexus Dx1, Requisiti di esame dello sperma, Controllo di qualità e Standard di laboratorio",
+      "alt": "Guida alla Competenza di Laboratorio ISO 23162:2021 con sistema CASA, Nexus DX1, Requisiti di esame dello sperma, Controllo di qualità e Standard di laboratorio",
       "category": "human",
       "locale": "it"
     },
@@ -119,7 +119,7 @@
       "subtitle": "Linee guida ESHRE basate sull'evidenza che collegano i risultati di laboratorio e il processo decisionale clinico per risultati ART ottimali",
       "content": "Mentre il Manuale OMS fornisce il \"come fare\" e ISO 23162 fornisce le \"specifiche tecniche\", ESHRE si concentra sullo Standard di Cura—come queste diagnosi dovrebbero essere integrate nella pratica clinica per migliorare i risultati nella Tecnologia di Riproduzione Assistita (ART). Come autorità leader nella medicina riproduttiva europea, ESHRE fornisce linee guida basate sull'evidenza che colmano il divario tra i risultati di laboratorio e il processo decisionale clinico. Capitolo 1: L'Utilità ",
       "image": "/ESHRE.webp",
-      "alt": "Guida all'Esame Clinico dello Sperma ESHRE con sistema CASA, Nexus Dx1, Eccellenza ART, IVF, ICSI e Tecnologia di Riproduzione Assistita",
+      "alt": "Guida all'Esame Clinico dello Sperma ESHRE con sistema CASA, Nexus DX1, Eccellenza ART, IVF, ICSI e Tecnologia di Riproduzione Assistita",
       "category": "human",
       "locale": "it"
     },
@@ -130,7 +130,7 @@
       "subtitle": "Protocolli ASRM basati sull'evidenza che integrano l'analisi dello sperma nella diagnosi e nei percorsi di trattamento olistici dell'infertilità maschile",
       "content": "Mentre il Manuale OMS fornisce il \"come fare\" e ISO 23162 fornisce gli \"standard tecnici\", ASRM si concentra sul Percorso Clinico—dirigendo come i risultati dell'analisi dello sperma dovrebbero guidare il lavoro diagnostico e il trattamento del maschio infertile in un contesto clinico. Come autorità principale nella medicina riproduttiva negli Stati Uniti, ASRM stabilisce i protocolli basati sull'evidenza che definiscono la cura della fertilità moderna. Capitolo 1: L'Analisi dello Sperma come Fo",
       "image": "/ASRM.webp",
-      "alt": "Guida ai Protocolli di Valutazione dell'Infertilità Maschile ASRM con sistema CASA, Nexus Dx1, Lavoro di infertilità maschile, IUI, IVF, ICSI e Standard di laboratorio clinico",
+      "alt": "Guida ai Protocolli di Valutazione dell'Infertilità Maschile ASRM con sistema CASA, Nexus DX1, Lavoro di infertilità maschile, IUI, IVF, ICSI e Standard di laboratorio clinico",
       "category": "human",
       "locale": "it"
     },
@@ -264,13 +264,13 @@
     {
       "id": "nexus-dx1-0",
       "src": "/nexus-dx1-cover.webp",
-      "alt": "Nexus Dx1 - Product image 1",
+      "alt": "Nexus DX1 - Product image 1",
       "filename": "nexus-dx1-cover.webp",
       "type": "product",
       "associatedContent": {
         "type": "product",
         "id": "nexus-dx1",
-        "title": "Nexus Dx1",
+        "title": "Nexus DX1",
         "url": "/products/nexus-dx1"
       },
       "locale": "it"
@@ -278,13 +278,13 @@
     {
       "id": "nexus-dx1-1",
       "src": "/nexus-dx1.webp",
-      "alt": "Nexus Dx1 - Product image 2",
+      "alt": "Nexus DX1 - Product image 2",
       "filename": "nexus-dx1.webp",
       "type": "product",
       "associatedContent": {
         "type": "product",
         "id": "nexus-dx1",
-        "title": "Nexus Dx1",
+        "title": "Nexus DX1",
         "url": "/products/nexus-dx1"
       },
       "locale": "it"
@@ -292,13 +292,13 @@
     {
       "id": "nexus-dx1-2",
       "src": "/nexus-dx1-2.webp",
-      "alt": "Nexus Dx1 - Product image 3",
+      "alt": "Nexus DX1 - Product image 3",
       "filename": "nexus-dx1-2.webp",
       "type": "product",
       "associatedContent": {
         "type": "product",
         "id": "nexus-dx1",
-        "title": "Nexus Dx1",
+        "title": "Nexus DX1",
         "url": "/products/nexus-dx1"
       },
       "locale": "it"
@@ -306,13 +306,13 @@
     {
       "id": "nexus-dx1-3",
       "src": "/nexus-dx1-3.webp",
-      "alt": "Nexus Dx1 - Product image 4",
+      "alt": "Nexus DX1 - Product image 4",
       "filename": "nexus-dx1-3.webp",
       "type": "product",
       "associatedContent": {
         "type": "product",
         "id": "nexus-dx1",
-        "title": "Nexus Dx1",
+        "title": "Nexus DX1",
         "url": "/products/nexus-dx1"
       },
       "locale": "it"
@@ -320,13 +320,13 @@
     {
       "id": "nexus-dx1-4",
       "src": "/nexus-dx1-4.webp",
-      "alt": "Nexus Dx1 - Product image 5",
+      "alt": "Nexus DX1 - Product image 5",
       "filename": "nexus-dx1-4.webp",
       "type": "product",
       "associatedContent": {
         "type": "product",
         "id": "nexus-dx1",
-        "title": "Nexus Dx1",
+        "title": "Nexus DX1",
         "url": "/products/nexus-dx1"
       },
       "locale": "it"
@@ -432,7 +432,7 @@
     {
       "id": "article-who-6th-edition-semen-analysis-standards",
       "src": "/WHO6.webp",
-      "alt": "Guida agli Standard di Analisi dello Sperma della 6a Edizione OMS con sistema CASA, Nexus Dx1, Motilità degli Spermatozoi, Morfologia degli Spermatozoi e piastra termica integrata",
+      "alt": "Guida agli Standard di Analisi dello Sperma della 6a Edizione OMS con sistema CASA, Nexus DX1, Motilità degli Spermatozoi, Morfologia degli Spermatozoi e piastra termica integrata",
       "filename": "WHO6.webp",
       "type": "article",
       "associatedContent": {
@@ -446,7 +446,7 @@
     {
       "id": "article-iso-23162-2021-laboratory-competence-guide",
       "src": "/ISO.webp",
-      "alt": "Guida alla Competenza di Laboratorio ISO 23162:2021 con sistema CASA, Nexus Dx1, Requisiti di esame dello sperma, Controllo di qualità e Standard di laboratorio",
+      "alt": "Guida alla Competenza di Laboratorio ISO 23162:2021 con sistema CASA, Nexus DX1, Requisiti di esame dello sperma, Controllo di qualità e Standard di laboratorio",
       "filename": "ISO.webp",
       "type": "article",
       "associatedContent": {
@@ -460,7 +460,7 @@
     {
       "id": "article-eshre-guidelines-clinical-semen-examination",
       "src": "/ESHRE.webp",
-      "alt": "Guida all'Esame Clinico dello Sperma ESHRE con sistema CASA, Nexus Dx1, Eccellenza ART, IVF, ICSI e Tecnologia di Riproduzione Assistita",
+      "alt": "Guida all'Esame Clinico dello Sperma ESHRE con sistema CASA, Nexus DX1, Eccellenza ART, IVF, ICSI e Tecnologia di Riproduzione Assistita",
       "filename": "ESHRE.webp",
       "type": "article",
       "associatedContent": {
@@ -474,7 +474,7 @@
     {
       "id": "article-asrm-male-infertility-evaluation-protocols",
       "src": "/ASRM.webp",
-      "alt": "Guida ai Protocolli di Valutazione dell'Infertilità Maschile ASRM con sistema CASA, Nexus Dx1, Lavoro di infertilità maschile, IUI, IVF, ICSI e Standard di laboratorio clinico",
+      "alt": "Guida ai Protocolli di Valutazione dell'Infertilità Maschile ASRM con sistema CASA, Nexus DX1, Lavoro di infertilità maschile, IUI, IVF, ICSI e Standard di laboratorio clinico",
       "filename": "ASRM.webp",
       "type": "article",
       "associatedContent": {

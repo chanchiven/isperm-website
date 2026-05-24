@@ -1,8 +1,7 @@
 'use client';
 
-import { useState, useEffect, useRef } from 'react';
-import { useLocale } from 'next-intl';
-import { Search, X } from 'lucide-react';
+import { useState, useEffect } from 'react';
+import { Search } from 'lucide-react';
 import { SearchModal } from './SearchModal';
 
 /**
@@ -11,7 +10,6 @@ import { SearchModal } from './SearchModal';
  */
 export function SearchBar() {
   const [isOpen, setIsOpen] = useState(false);
-  const locale = useLocale();
 
   // 键盘快捷键支持 (Ctrl/Cmd + K)
   useEffect(() => {
@@ -61,7 +59,6 @@ export function SearchBar() {
         <SearchModal
           isOpen={isOpen}
           onClose={() => setIsOpen(false)}
-          locale={locale}
         />
       )}
     </>

@@ -2,6 +2,7 @@ import {getTranslations, setRequestLocale} from 'next-intl/server';
 import {Metadata} from 'next';
 import {Link} from '@/i18n/routing';
 import {Navigation} from '@/components/Navigation';
+import {Footer} from '@/components/Footer';
 import {HoverableDiv} from '@/components/HoverableDiv';
 import Image from 'next/image';
 import {generateHreflangAlternates} from '@/i18n/hreflang';
@@ -14,14 +15,14 @@ export async function generateMetadata({
   try {
     if (!params) {
       return {
-        title: 'Nexus Dx1 | iSperm Medical',
+        title: 'Nexus DX1 | iSperm Medical',
         description: 'Advanced CASA system for human semen analysis.',
       };
     }
     const resolvedParams = await params;
     if (!resolvedParams || !resolvedParams.locale) {
       return {
-        title: 'Nexus Dx1 | iSperm Medical',
+        title: 'Nexus DX1 | iSperm Medical',
         description: 'Advanced CASA system for human semen analysis.',
       };
     }
@@ -36,7 +37,7 @@ export async function generateMetadata({
   } catch (error) {
     console.error('Error in nexus-dx1 generateMetadata:', error);
     return {
-      title: 'Nexus Dx1 | iSperm Medical',
+      title: 'Nexus DX1 | iSperm Medical',
       description: 'Advanced CASA system for human semen analysis.',
     };
   }
@@ -319,7 +320,7 @@ export default async function NexusDx1Page({
 
               return standards.map((standard, index) => {
                 return (
-                  <HoverableDiv 
+                  <HoverableDiv
                     key={index}
                     style={{
                       padding: '2rem',
@@ -327,14 +328,6 @@ export default async function NexusDx1Page({
                       borderRadius: '12px',
                       boxShadow: 'var(--shadow)',
                       cursor: 'pointer'
-                    }}
-                    hoverStyle={{
-                      transform: 'translateY(-5px)',
-                      boxShadow: '0 8px 16px rgba(0,0,0,0.15)'
-                    }}
-                    defaultStyle={{
-                      transform: 'translateY(0)',
-                      boxShadow: 'var(--shadow)'
                     }}
                   >
                     <Link 
@@ -379,35 +372,7 @@ export default async function NexusDx1Page({
         </div>
       </section>
 
-      {/* Footer */}
-      <footer className="footer">
-        <div className="container">
-          <div className="footer-content">
-            <div className="footer-section">
-              <h3>{t('footer.company')}</h3>
-              <p>{t('footer.description')}</p>
-            </div>
-            <div className="footer-section">
-              <h4>{t('footer.quickLinks')}</h4>
-              <ul>
-                <li><Link href="/" locale={locale as any}>{t('nav.home')}</Link></li>
-                <li><Link href="/products" locale={locale as any}>{t('nav.products')}</Link></li>
-                <li><Link href="/about" locale={locale as any}>{t('nav.about')}</Link></li>
-                <li><Link href="/faq" locale={locale as any}>{t('nav.knowledgeHub')}</Link></li>
-                <li><Link href="/contact" locale={locale as any}>{t('nav.contact')}</Link></li>
-              </ul>
-            </div>
-            <div className="footer-section">
-              <h4>{t('footer.contact')}</h4>
-              <p>{t('footer.email')} <a href="mailto:market@isperm.com">market@isperm.com</a></p>
-              <p>{t('footer.address')} {t('footer.fullAddress')}</p>
-            </div>
-          </div>
-          <div className="footer-bottom">
-            <p>{t('footer.rights')}</p>
-          </div>
-        </div>
-      </footer>
+      <Footer locale={locale} />
     </div>
   );
   } catch (error) {

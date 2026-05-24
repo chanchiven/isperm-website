@@ -1,15 +1,19 @@
-'use client';
-
-import {useTranslations, useLocale} from 'next-intl';
+import {getTranslations, setRequestLocale} from 'next-intl/server';
 import {Link} from '@/i18n/routing';
 import {Navigation} from '@/components/Navigation';
+import {Footer} from '@/components/Footer';
 import AnimatedSection from '@/components/AnimatedSection';
 import {Activity, Brain, Package, BarChart3} from 'lucide-react';
 import Image from 'next/image';
 
-export default function HomePage() {
-  const t = useTranslations('index');
-  const locale = useLocale();
+export default async function HomePage({
+  params
+}: {
+  params: Promise<{locale: string}>;
+}) {
+  const {locale} = await params;
+  setRequestLocale(locale);
+  const t = await getTranslations({locale, namespace: 'index'});
 
   // Hero carousel functionality - DISABLED
   // Banner is now fixed to display only the first image (banner (1).webp)
@@ -403,35 +407,7 @@ export default function HomePage() {
         </div>
       </section>
 
-      {/* Footer */}
-      <footer className="footer">
-        <div className="container">
-          <div className="footer-content">
-            <div className="footer-section">
-              <h3>{t('footer.company')}</h3>
-              <p>{t('footer.description')}</p>
-            </div>
-            <div className="footer-section">
-              <h4>{t('footer.quickLinks')}</h4>
-              <ul>
-                <li><Link href="/" locale={locale as any}>{t('nav.home')}</Link></li>
-                <li><Link href="/products" locale={locale as any}>{t('nav.products')}</Link></li>
-                <li><Link href="/about" locale={locale as any}>{t('nav.about')}</Link></li>
-                <li><Link href="/faq" locale={locale as any}>{t('nav.knowledgeHub')}</Link></li>
-                <li><Link href="/contact" locale={locale as any}>{t('nav.contact')}</Link></li>
-              </ul>
-            </div>
-            <div className="footer-section">
-              <h4>{t('footer.contact')}</h4>
-              <p>{t('footer.email')} <a href="mailto:market@isperm.com">market@isperm.com</a></p>
-              <p>{t('footer.address')} {t('footer.fullAddress')}</p>
-            </div>
-          </div>
-          <div className="footer-bottom">
-            <p>{t('footer.rights')}</p>
-          </div>
-        </div>
-      </footer>
+      <Footer locale={locale} />
     </div>
   );
 }

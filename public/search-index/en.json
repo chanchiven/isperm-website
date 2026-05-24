@@ -3,7 +3,7 @@
     {
       "id": "nexus-dx1",
       "slug": "nexus-dx1",
-      "name": "Nexus Dx1",
+      "name": "Nexus DX1",
       "description": "WHO 6th edition compliant fully automated CASA system designed for clinical and laboratory use, featuring advanced AI algorithms and comprehensive parameter analysis.",
       "subtitle": "Fully Automated Human CASA System",
       "images": [
@@ -97,7 +97,7 @@
       "subtitle": "Mastering WHO 6th Edition standards with advanced CASA technology for precision male fertility assessment",
       "content": "In the field of reproductive medicine, semen analysis remains the cornerstone of male fertility assessment. With the release of the WHO 6th Edition (2021), the industry has shifted toward higher precision, stricter quality control, and the integration of advanced Computer-Aided Sperm Analysis (CASA) systems. This article explores the evolution of these standards and the technical requirements for modern clinical diagnostics. Chapter 1: The Role of CASA in Modern Andrology Traditional manual micr",
       "image": "/WHO6.webp",
-      "alt": "WHO 6th Edition Semen Analysis Standards guide with CASA system, Nexus Dx1, Sperm Motility, Sperm Morphology, and Built-in heating stage",
+      "alt": "WHO 6th Edition Semen Analysis Standards guide with CASA system, Nexus DX1, Sperm Motility, Sperm Morphology, and Built-in heating stage",
       "category": "human",
       "locale": "en"
     },
@@ -108,7 +108,7 @@
       "subtitle": "Mastering ISO 23162:2021 technical requirements and quality management framework for globally comparable semen examination results",
       "content": "This article focuses on ISO 23162:2021, the international standard that specifies requirements and test methods for basic human semen examination. While the WHO 6th Edition provides the clinical manual, ISO 23162 provides the technical and quality management framework for laboratories to ensure their results are globally comparable. The release of ISO 23162:2021 marked a milestone in reproductive medicine, being the first dedicated international standard for basic semen examination. For clinics ",
       "image": "/ISO.webp",
-      "alt": "ISO 23162:2021 Laboratory Competence guide with CASA system, Nexus Dx1, Semen examination requirements, Quality control, and Laboratory standards",
+      "alt": "ISO 23162:2021 Laboratory Competence guide with CASA system, Nexus DX1, Semen examination requirements, Quality control, and Laboratory standards",
       "category": "human",
       "locale": "en"
     },
@@ -119,7 +119,7 @@
       "subtitle": "Evidence-based ESHRE guidelines bridging laboratory results and clinical decision-making for optimal ART outcomes",
       "content": "While the WHO Manual provides the \"how-to\" and ISO 23162 provides the \"technical specifications,\" ESHRE focuses on the Standard of Care—how these diagnostics should be integrated into clinical practice to improve outcomes in Assisted Reproductive Technology (ART). As the leading authority in European reproductive medicine, ESHRE provides evidence-based guidelines that bridge the gap between laboratory results and clinical decision-making. For modern fertility clinics, adhering to ESHRE recommend",
       "image": "/ESHRE.webp",
-      "alt": "ESHRE Guidelines Clinical Semen Examination guide with CASA system, Nexus Dx1, ART excellence, IVF, ICSI, and Assisted Reproductive Technology",
+      "alt": "ESHRE Guidelines Clinical Semen Examination guide with CASA system, Nexus DX1, ART excellence, IVF, ICSI, and Assisted Reproductive Technology",
       "category": "human",
       "locale": "en"
     },
@@ -130,7 +130,7 @@
       "subtitle": "Evidence-based ASRM protocols integrating semen analysis into holistic male infertility diagnosis and treatment pathways",
       "content": "While the WHO Manual provides the \"how-to\" and ISO 23162 provides the \"technical standards,\" ASRM focuses on the Clinical Pathway—directing how semen analysis results should guide the diagnostic workup and treatment of the infertile male in a clinical setting. As the premier authority on reproductive medicine in the United States, ASRM establishes the evidence-based protocols that define modern fertility care. For clinicians and laboratory directors, following ASRM committee opinions ensures tha",
       "image": "/ASRM.webp",
-      "alt": "ASRM Male Infertility Evaluation Protocols guide with CASA system, Nexus Dx1, Male infertility workup, IUI, IVF, ICSI, and Clinical Laboratory standards",
+      "alt": "ASRM Male Infertility Evaluation Protocols guide with CASA system, Nexus DX1, Male infertility workup, IUI, IVF, ICSI, and Clinical Laboratory standards",
       "category": "human",
       "locale": "en"
     },
@@ -228,7 +228,7 @@
       "id": "home",
       "path": "/",
       "title": "iSperm Semen analyzer - Revolutionizing Semen Analysis",
-      "description": "Fully automated CASA semen analyzers for human & veterinary use. WHO 6th edition compliant. AI-powered sperm morphology analysis. Explore Nexus Dx1, MSQA-100 & SQA-6100vet.",
+      "description": "Fully automated CASA semen analyzers for human & veterinary use. WHO 6th edition compliant. AI-powered sperm morphology analysis. Explore Nexus DX1, MSQA-100 & SQA-6100vet.",
       "locale": "en"
     },
     {
@@ -264,13 +264,13 @@
     {
       "id": "nexus-dx1-0",
       "src": "/nexus-dx1-cover.webp",
-      "alt": "Nexus Dx1 - Product image 1",
+      "alt": "Nexus DX1 - Product image 1",
       "filename": "nexus-dx1-cover.webp",
       "type": "product",
       "associatedContent": {
         "type": "product",
         "id": "nexus-dx1",
-        "title": "Nexus Dx1",
+        "title": "Nexus DX1",
         "url": "/products/nexus-dx1"
       },
       "locale": "en"
@@ -278,13 +278,13 @@
     {
       "id": "nexus-dx1-1",
       "src": "/nexus-dx1.webp",
-      "alt": "Nexus Dx1 - Product image 2",
+      "alt": "Nexus DX1 - Product image 2",
       "filename": "nexus-dx1.webp",
       "type": "product",
       "associatedContent": {
         "type": "product",
         "id": "nexus-dx1",
-        "title": "Nexus Dx1",
+        "title": "Nexus DX1",
         "url": "/products/nexus-dx1"
       },
       "locale": "en"
@@ -292,13 +292,13 @@
     {
       "id": "nexus-dx1-2",
       "src": "/nexus-dx1-2.webp",
-      "alt": "Nexus Dx1 - Product image 3",
+      "alt": "Nexus DX1 - Product image 3",
       "filename": "nexus-dx1-2.webp",
       "type": "product",
       "associatedContent": {
         "type": "product",
         "id": "nexus-dx1",
-        "title": "Nexus Dx1",
+        "title": "Nexus DX1",
         "url": "/products/nexus-dx1"
       },
       "locale": "en"
@@ -306,13 +306,13 @@
     {
       "id": "nexus-dx1-3",
       "src": "/nexus-dx1-3.webp",
-      "alt": "Nexus Dx1 - Product image 4",
+      "alt": "Nexus DX1 - Product image 4",
       "filename": "nexus-dx1-3.webp",
       "type": "product",
       "associatedContent": {
         "type": "product",
         "id": "nexus-dx1",
-        "title": "Nexus Dx1",
+        "title": "Nexus DX1",
         "url": "/products/nexus-dx1"
       },
       "locale": "en"
@@ -320,13 +320,13 @@
     {
       "id": "nexus-dx1-4",
       "src": "/nexus-dx1-4.webp",
-      "alt": "Nexus Dx1 - Product image 5",
+      "alt": "Nexus DX1 - Product image 5",
       "filename": "nexus-dx1-4.webp",
       "type": "product",
       "associatedContent": {
         "type": "product",
         "id": "nexus-dx1",
-        "title": "Nexus Dx1",
+        "title": "Nexus DX1",
         "url": "/products/nexus-dx1"
       },
       "locale": "en"
@@ -432,7 +432,7 @@
     {
       "id": "article-who-6th-edition-semen-analysis-standards",
       "src": "/WHO6.webp",
-      "alt": "WHO 6th Edition Semen Analysis Standards guide with CASA system, Nexus Dx1, Sperm Motility, Sperm Morphology, and Built-in heating stage",
+      "alt": "WHO 6th Edition Semen Analysis Standards guide with CASA system, Nexus DX1, Sperm Motility, Sperm Morphology, and Built-in heating stage",
       "filename": "WHO6.webp",
       "type": "article",
       "associatedContent": {
@@ -446,7 +446,7 @@
     {
       "id": "article-iso-23162-2021-laboratory-competence-guide",
       "src": "/ISO.webp",
-      "alt": "ISO 23162:2021 Laboratory Competence guide with CASA system, Nexus Dx1, Semen examination requirements, Quality control, and Laboratory standards",
+      "alt": "ISO 23162:2021 Laboratory Competence guide with CASA system, Nexus DX1, Semen examination requirements, Quality control, and Laboratory standards",
       "filename": "ISO.webp",
       "type": "article",
       "associatedContent": {
@@ -460,7 +460,7 @@
     {
       "id": "article-eshre-guidelines-clinical-semen-examination",
       "src": "/ESHRE.webp",
-      "alt": "ESHRE Guidelines Clinical Semen Examination guide with CASA system, Nexus Dx1, ART excellence, IVF, ICSI, and Assisted Reproductive Technology",
+      "alt": "ESHRE Guidelines Clinical Semen Examination guide with CASA system, Nexus DX1, ART excellence, IVF, ICSI, and Assisted Reproductive Technology",
       "filename": "ESHRE.webp",
       "type": "article",
       "associatedContent": {
@@ -474,7 +474,7 @@
     {
       "id": "article-asrm-male-infertility-evaluation-protocols",
       "src": "/ASRM.webp",
-      "alt": "ASRM Male Infertility Evaluation Protocols guide with CASA system, Nexus Dx1, Male infertility workup, IUI, IVF, ICSI, and Clinical Laboratory standards",
+      "alt": "ASRM Male Infertility Evaluation Protocols guide with CASA system, Nexus DX1, Male infertility workup, IUI, IVF, ICSI, and Clinical Laboratory standards",
       "filename": "ASRM.webp",
       "type": "article",
       "associatedContent": {

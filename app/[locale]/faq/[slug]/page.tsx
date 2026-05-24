@@ -1,12 +1,13 @@
-import {getTranslations, setRequestLocale} from 'next-intl/server';
+import {getMessages, getTranslations, setRequestLocale} from 'next-intl/server';
 import {Metadata} from 'next';
 import {notFound} from 'next/navigation';
 import {Link} from '@/i18n/routing';
 import {Navigation} from '@/components/Navigation';
+import {Footer} from '@/components/Footer';
 import {generateHreflangAlternates} from '@/i18n/hreflang';
 import {routing} from '@/i18n/routing';
 
-// Helper function to add internal links for CASA and Nexus Dx1 in HTML content
+// Helper function to add internal links for CASA and Nexus DX1 in HTML content
 function processContentWithInternalLinks(content: string, locale: string): string {
   // Split content by HTML tags to process text nodes separately
   const htmlTagRegex = /(<[^>]+>)/g;
@@ -35,10 +36,10 @@ function processContentWithInternalLinks(content: string, locale: string): strin
         return `<a href="${url}" target="_blank" rel="noopener noreferrer" style="color: var(--primary-color); text-decoration: underline;">${url}</a>`;
       });
       
-      // Then, handle internal links (CASA and Nexus Dx1)
+      // Then, handle internal links (CASA and Nexus DX1)
       const patterns = [
         { pattern: /\bCASA\b/gi, link: `/products/nexus-dx1` },
-        { pattern: /\bNexus Dx1\b/gi, link: `/products/nexus-dx1` },
+        { pattern: /\bNexus DX1\b/gi, link: `/products/nexus-dx1` },
         { pattern: /\bNexus Dx-1\b/gi, link: `/products/nexus-dx1` }
       ];
       
@@ -84,9 +85,9 @@ const VALID_SLUGS = [
   'iso-23162-2021-laboratory-competence-guide',
   'eshre-guidelines-clinical-semen-examination',
   'asrm-male-infertility-evaluation-protocols',
-  'spermmaxxing-male-fertility-optimization-guide',
-  'sperm-health-biomarker-male-longevity-overall-wellbeing',
-  'male-fertility-crisis-facts-sperm-count-decline-2026'
+  'article-what-is-spermmaxxing-2026',
+  'article-sperm-health-biomarker-2026',
+  'article-male-fertility-crisis-2026'
 ];
 
 /**
@@ -140,6 +141,7 @@ export async function generateMetadata({
   // Try current locale first, fallback to English
   let title = t(`articles.${slug}.title`, {default: null});
   let subtitle = t(`articles.${slug}.subtitle`, {default: null});
+  let metaDescription = t(`articles.${slug}.metaDescription`, {default: null});
   
   // If not found or is a key path, try English
   if (isInvalidTranslationKey(title, 'title', slug)) {
@@ -149,6 +151,10 @@ export async function generateMetadata({
   if (isInvalidTranslationKey(subtitle, 'subtitle', slug)) {
     subtitle = tEn(`articles.${slug}.subtitle`, {default: null});
   }
+
+  if (isInvalidTranslationKey(metaDescription, 'metaDescription', slug)) {
+    metaDescription = tEn(`articles.${slug}.metaDescription`, {default: null});
+  }
   
   // If article doesn't exist in JSON, trigger 404
   if (isInvalidTranslationKey(title, 'title', slug) || isInvalidTranslationKey(subtitle, 'subtitle', slug)) {
@@ -157,7 +163,7 @@ export async function generateMetadata({
 
     return {
       title: `${title} | ${t('meta.title', {default: 'Knowledge Hub | CASA System FAQs | iSperm Medical'})}`,
-      description: subtitle,
+      description: !isInvalidTranslationKey(metaDescription, 'metaDescription', slug) ? metaDescription : subtitle,
       alternates: generateHreflangAlternates(`/faq/${slug}`, locale),
     };
   } catch (error) {
@@ -178,6 +184,28 @@ function isInvalidTranslationKey(value: string | null | undefined, key: string, 
          value === `faq.articles.${slug}.${key}`;
 }
 
+type FaqMessages = {
+  articles?: Record<
+    string,
+    {conclusion?: string; references?: string[]}
+  >;
+};
+
+function getArticleField(
+  messages: FaqMessages | undefined,
+  slug: string,
+  field: 'conclusion' | 'references'
+): string | string[] | null {
+  const article = messages?.articles?.[slug];
+  if (!article) return null;
+  const value = article[field];
+  if (field === 'conclusion') {
+    return typeof value === 'string' && value.trim() ? value : null;
+  }
+  if (!Array.isArray(value) || value.length === 0) return null;
+  return value.every((item) => typeof item === 'string') ? value : null;
+}
+
 export default async function FAQArticlePage({
   params
 }: {
@@ -194,6 +222,10 @@ export default async function FAQArticlePage({
     const {locale, slug} = resolvedParams;
     setRequestLocale(locale);
     const t = await getTranslations({locale, namespace: 'faq'});
+    const allMessages = (await getMessages({locale})) as {faq?: FaqMessages};
+    const allMessagesEn = (await getMessages({locale: 'en'})) as {faq?: FaqMessages};
+    const faqMessages = allMessages.faq;
+    const faqMessagesEn = allMessagesEn.faq;
 
   // Validate slug - if invalid, trigger 404
   if (!VALID_SLUGS.includes(slug)) {
@@ -286,25 +318,20 @@ export default async function FAQArticlePage({
     }
   }
   
-  // If no conclusion in chapters, try separate conclusion field
-  // Use t.raw() to get raw HTML string without parsing formatting variables
+  // If no conclusion in chapters, try separate conclusion field (optional on some articles)
   if (!conclusion) {
-    conclusion = t.raw(`articles.${slug}.conclusion`) as string | null;
-    // Fallback to English if not found (tEn already defined above)
-    if (!conclusion || isInvalidTranslationKey(conclusion, 'conclusion', slug)) {
-      conclusion = tEn.raw(`articles.${slug}.conclusion`) as string | null;
-      // If English also returns key path, set to null
-      if (!conclusion || isInvalidTranslationKey(conclusion, 'conclusion', slug)) {
-        conclusion = null;
-      }
-    }
+    const standaloneConclusion =
+      getArticleField(faqMessages, slug, 'conclusion') ??
+      getArticleField(faqMessagesEn, slug, 'conclusion');
+    conclusion =
+      typeof standaloneConclusion === 'string' ? standaloneConclusion : null;
   }
-  
-  // Get references with fallback to English
-  let references = t.raw(`articles.${slug}.references`) as string[] | null;
-  if (!references || !Array.isArray(references) || references.length === 0) {
-    references = tEn.raw(`articles.${slug}.references`) as string[] | null;
-  }
+
+  // References are optional (2026 hub articles omit this field)
+  const referencesField =
+    getArticleField(faqMessages, slug, 'references') ??
+    getArticleField(faqMessagesEn, slug, 'references');
+  const references = Array.isArray(referencesField) ? referencesField : null;
   
   // Build canonical URL for structured data
   const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || 'https://www.isperm.com';
@@ -753,7 +780,7 @@ export default async function FAQArticlePage({
                     )}
 
                     {/* References */}
-                    {references && references.length > 0 && (
+                    {Array.isArray(references) && references.length > 0 && (
                       <>
                         <h2 style={{
                           marginTop: '2rem', 
@@ -808,43 +835,15 @@ export default async function FAQArticlePage({
                   </>
                 );
               } catch (error) {
-                // If error occurs, trigger 404
-                notFound();
+                console.error('Error rendering article content:', error);
+                throw error;
               }
             })()}
           </article>
         </div>
       </section>
 
-      {/* Footer */}
-      <footer className="footer">
-        <div className="container">
-          <div className="footer-content">
-            <div className="footer-section">
-              <h3>{t('footer.company')}</h3>
-              <p>{t('footer.description')}</p>
-            </div>
-            <div className="footer-section">
-              <h4>{t('footer.quickLinks')}</h4>
-              <ul>
-                <li><Link href="/" locale={locale as any}>{t('nav.home')}</Link></li>
-                <li><Link href="/products" locale={locale as any}>{t('nav.products')}</Link></li>
-                <li><Link href="/about" locale={locale as any}>{t('nav.about')}</Link></li>
-                <li><Link href="/faq" locale={locale as any}>{t('nav.knowledgeHub')}</Link></li>
-                <li><Link href="/contact" locale={locale as any}>{t('nav.contact')}</Link></li>
-              </ul>
-            </div>
-            <div className="footer-section">
-              <h4>{t('footer.contact')}</h4>
-              <p>{t('footer.email')} <a href="mailto:market@isperm.com">market@isperm.com</a></p>
-              <p>{t('footer.address')} {t('footer.fullAddress')}</p>
-            </div>
-          </div>
-          <div className="footer-bottom">
-            <p>{t('footer.rights')}</p>
-          </div>
-        </div>
-      </footer>
+      <Footer locale={locale} />
     </div>
   );
   } catch (error) {

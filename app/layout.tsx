@@ -36,7 +36,8 @@ export default function RootLayout({
           {JSON.stringify({
             "@context": "https://schema.org",
             "@type": "Organization",
-            "name": "Semen analyzer, CASA - iSperm Medical",
+            "@id": "https://www.isperm.com/#organization",
+            "name": "iSperm Medical Limited",
             "url": "https://www.isperm.com",
             "logo": "https://www.isperm.com/iSperm%20LOGO.svg",
             "contactPoint": {
@@ -52,7 +53,8 @@ export default function RootLayout({
               "addressCountry": "CN"
             },
             "sameAs": [
-              "https://www.isperm.com"
+              "https://www.linkedin.com/company/isperm/",
+              "https://www.facebook.com/profile.php?id=61579351030352"
             ]
           })}
         </Script>
@@ -68,9 +70,7 @@ export default function RootLayout({
             "name": "Semen analyzer, CASA - iSperm Medical",
             "url": "https://www.isperm.com",
             "publisher": {
-              "@type": "Organization",
-              "name": "Semen analyzer, CASA - iSperm Medical",
-              "url": "https://www.isperm.com"
+              "@id": "https://www.isperm.com/#organization"
             },
             "potentialAction": {
               "@type": "SearchAction",
@@ -107,7 +107,7 @@ export default function RootLayout({
               {
                 "@type": "SiteNavigationElement",
                 "position": 3,
-                "name": "Nexus Dx1",
+                "name": "Nexus DX1",
                 "url": "https://www.isperm.com/en/products/nexus-dx1"
               },
               {
@@ -155,9 +155,7 @@ export default function RootLayout({
             "name": "iSperm Medical Semen Analyzer",
             "description": "Fully automated semen analysis system designed for clinical and animal breeding use, featuring advanced AI algorithms.",
             "manufacturer": {
-              "@type": "Organization",
-              "name": "iSperm Medical Ltd.",
-              "url": "https://www.isperm.com"
+              "@id": "https://www.isperm.com/#organization"
             },
             "applicationCategory": "MedicalDevice",
             "medicalUse": "Semen analysis and fertility diagnostics"

@@ -3,7 +3,7 @@
     {
       "id": "nexus-dx1",
       "slug": "nexus-dx1",
-      "name": "Nexus Dx1",
+      "name": "Nexus DX1",
       "description": "DSÖ 6. baskı uyumlu, klinik ve laboratuvar kullanımı için tasarlanmış, gelişmiş AI algoritmaları ve kapsamlı parametre analizi özelliklerine sahip tam otomatik CASA sistemi.",
       "subtitle": "Tam Otomatik İnsan CASA Sistemi",
       "images": [
@@ -97,7 +97,7 @@
       "subtitle": "Gelişmiş CASA teknolojisi ile WHO 6. Baskı standartlarında ustalaşarak hassas erkek doğurganlık değerlendirmesi",
       "content": "Üreme tıbbı alanında, semen analizi erkek doğurganlık değerlendirmesinin temel taşı olmaya devam etmektedir. WHO 6. Baskı'nın (2021) yayınlanmasıyla, endüstri daha yüksek hassasiyet, daha sıkı kalite kontrolü ve gelişmiş Bilgisayar Destekli Sperm Analizi (CASA) sistemlerinin entegrasyonuna doğru kaymıştır. Bu makale, bu standartların evrimini ve modern klinik tanılar için teknik gereksinimleri araştırmaktadır. Bölüm 1: CASA'nın Modern Androlojideki Rolü Geleneksel manuel mikroskopi, uzun süredir",
       "image": "/WHO6.webp",
-      "alt": "CASA sistemi, Nexus Dx1, Sperm Motilitesi, Sperm Morfolojisi ve dahili ısıtma aşaması ile WHO 6. Baskı Semen Analizi Standartları rehberi",
+      "alt": "CASA sistemi, Nexus DX1, Sperm Motilitesi, Sperm Morfolojisi ve dahili ısıtma aşaması ile WHO 6. Baskı Semen Analizi Standartları rehberi",
       "category": "human",
       "locale": "tr"
     },
@@ -108,7 +108,7 @@
       "subtitle": "Küresel olarak karşılaştırılabilir semen inceleme sonuçları için ISO 23162:2021 teknik gereksinimlerinde ve kalite yönetim çerçevesinde ustalaşma",
       "content": "Bu makale, temel insan semen incelemesi için gereksinimleri ve test yöntemlerini belirten uluslararası standart ISO 23162:2021'e odaklanmaktadır. WHO 6. Baskı klinik el kitabını sağlarken, ISO 23162, laboratuvarların sonuçlarının küresel olarak karşılaştırılabilir olmasını sağlamak için teknik ve kalite yönetim çerçevesini sağlar. ISO 23162:2021'in yayınlanması, temel semen incelemesi için ilk özel uluslararası standart olarak üreme tıbbında bir dönüm noktası olmuştur. Klinikler ve laboratuvarla",
       "image": "/ISO.webp",
-      "alt": "CASA sistemi, Nexus Dx1, Semen inceleme gereksinimleri, Kalite kontrolü ve Laboratuvar standartları ile ISO 23162:2021 Laboratuvar Yeterliliği rehberi",
+      "alt": "CASA sistemi, Nexus DX1, Semen inceleme gereksinimleri, Kalite kontrolü ve Laboratuvar standartları ile ISO 23162:2021 Laboratuvar Yeterliliği rehberi",
       "category": "human",
       "locale": "tr"
     },
@@ -119,7 +119,7 @@
       "subtitle": "Laboratuvar sonuçları ile optimal ART sonuçları için klinik karar verme arasında köprü kuran kanıta dayalı ESHRE kılavuzları",
       "content": "WHO El Kitabı \"nasıl yapılır\" sağlarken ve ISO 23162 \"teknik özellikler\" sağlarken, ESHRE Bakım Standardına odaklanır—bu tanıların, Yardımcı Üreme Teknolojisi (ART) sonuçlarını iyileştirmek için klinik uygulamaya nasıl entegre edilmesi gerektiği. Avrupa üreme tıbbının önde gelen otoritesi olarak, ESHRE laboratuvar sonuçları ile klinik karar verme arasındaki boşluğu dolduran kanıta dayalı kılavuzlar sağlar. Modern doğurganlık klinikleri için, ESHRE önerilerine uymak, semen analizinin sadece bir v",
       "image": "/ESHRE.webp",
-      "alt": "CASA sistemi, Nexus Dx1, ART mükemmelliği, IVF, ICSI ve Yardımcı Üreme Teknolojisi ile ESHRE Kılavuzları Klinik Semen İncelemesi rehberi",
+      "alt": "CASA sistemi, Nexus DX1, ART mükemmelliği, IVF, ICSI ve Yardımcı Üreme Teknolojisi ile ESHRE Kılavuzları Klinik Semen İncelemesi rehberi",
       "category": "human",
       "locale": "tr"
     },
@@ -130,7 +130,7 @@
       "subtitle": "Semen analizini bütünsel erkek infertilite tanısı ve tedavi yollarına entegre eden kanıta dayalı ASRM protokolleri",
       "content": "WHO El Kitabı \"nasıl yapılır\" sağlarken ve ISO 23162 \"teknik standartlar\" sağlarken, ASRM Klinik Yoluna odaklanır—semen analizi sonuçlarının, klinik ortamda infertil erkeğin tanı çalışmasını ve tedavisini nasıl yönlendirmesi gerektiği. Amerika Birleşik Devletleri'ndeki üreme tıbbının önde gelen otoritesi olarak, ASRM modern doğurganlık bakımını tanımlayan kanıta dayalı protokolleri oluşturur. Klinisyenler ve laboratuvar direktörleri için, ASRM komite görüşlerini takip etmek, semen analizinin has",
       "image": "/ASRM.webp",
-      "alt": "CASA sistemi, Nexus Dx1, Erkek infertilite çalışması, IUI, IVF, ICSI ve Klinik Laboratuvar standartları ile ASRM Erkek İnfertilite Değerlendirmesi Protokolleri rehberi",
+      "alt": "CASA sistemi, Nexus DX1, Erkek infertilite çalışması, IUI, IVF, ICSI ve Klinik Laboratuvar standartları ile ASRM Erkek İnfertilite Değerlendirmesi Protokolleri rehberi",
       "category": "human",
       "locale": "tr"
     },
@@ -264,13 +264,13 @@
     {
       "id": "nexus-dx1-0",
       "src": "/nexus-dx1-cover.webp",
-      "alt": "Nexus Dx1 - Product image 1",
+      "alt": "Nexus DX1 - Product image 1",
       "filename": "nexus-dx1-cover.webp",
       "type": "product",
       "associatedContent": {
         "type": "product",
         "id": "nexus-dx1",
-        "title": "Nexus Dx1",
+        "title": "Nexus DX1",
         "url": "/products/nexus-dx1"
       },
       "locale": "tr"
@@ -278,13 +278,13 @@
     {
       "id": "nexus-dx1-1",
       "src": "/nexus-dx1.webp",
-      "alt": "Nexus Dx1 - Product image 2",
+      "alt": "Nexus DX1 - Product image 2",
       "filename": "nexus-dx1.webp",
       "type": "product",
       "associatedContent": {
         "type": "product",
         "id": "nexus-dx1",
-        "title": "Nexus Dx1",
+        "title": "Nexus DX1",
         "url": "/products/nexus-dx1"
       },
       "locale": "tr"
@@ -292,13 +292,13 @@
     {
       "id": "nexus-dx1-2",
       "src": "/nexus-dx1-2.webp",
-      "alt": "Nexus Dx1 - Product image 3",
+      "alt": "Nexus DX1 - Product image 3",
       "filename": "nexus-dx1-2.webp",
       "type": "product",
       "associatedContent": {
         "type": "product",
         "id": "nexus-dx1",
-        "title": "Nexus Dx1",
+        "title": "Nexus DX1",
         "url": "/products/nexus-dx1"
       },
       "locale": "tr"
@@ -306,13 +306,13 @@
     {
       "id": "nexus-dx1-3",
       "src": "/nexus-dx1-3.webp",
-      "alt": "Nexus Dx1 - Product image 4",
+      "alt": "Nexus DX1 - Product image 4",
       "filename": "nexus-dx1-3.webp",
       "type": "product",
       "associatedContent": {
         "type": "product",
         "id": "nexus-dx1",
-        "title": "Nexus Dx1",
+        "title": "Nexus DX1",
         "url": "/products/nexus-dx1"
       },
       "locale": "tr"
@@ -320,13 +320,13 @@
     {
       "id": "nexus-dx1-4",
       "src": "/nexus-dx1-4.webp",
-      "alt": "Nexus Dx1 - Product image 5",
+      "alt": "Nexus DX1 - Product image 5",
       "filename": "nexus-dx1-4.webp",
       "type": "product",
       "associatedContent": {
         "type": "product",
         "id": "nexus-dx1",
-        "title": "Nexus Dx1",
+        "title": "Nexus DX1",
         "url": "/products/nexus-dx1"
       },
       "locale": "tr"
@@ -432,7 +432,7 @@
     {
       "id": "article-who-6th-edition-semen-analysis-standards",
       "src": "/WHO6.webp",
-      "alt": "CASA sistemi, Nexus Dx1, Sperm Motilitesi, Sperm Morfolojisi ve dahili ısıtma aşaması ile WHO 6. Baskı Semen Analizi Standartları rehberi",
+      "alt": "CASA sistemi, Nexus DX1, Sperm Motilitesi, Sperm Morfolojisi ve dahili ısıtma aşaması ile WHO 6. Baskı Semen Analizi Standartları rehberi",
       "filename": "WHO6.webp",
       "type": "article",
       "associatedContent": {
@@ -446,7 +446,7 @@
     {
       "id": "article-iso-23162-2021-laboratory-competence-guide",
       "src": "/ISO.webp",
-      "alt": "CASA sistemi, Nexus Dx1, Semen inceleme gereksinimleri, Kalite kontrolü ve Laboratuvar standartları ile ISO 23162:2021 Laboratuvar Yeterliliği rehberi",
+      "alt": "CASA sistemi, Nexus DX1, Semen inceleme gereksinimleri, Kalite kontrolü ve Laboratuvar standartları ile ISO 23162:2021 Laboratuvar Yeterliliği rehberi",
       "filename": "ISO.webp",
       "type": "article",
       "associatedContent": {
@@ -460,7 +460,7 @@
     {
       "id": "article-eshre-guidelines-clinical-semen-examination",
       "src": "/ESHRE.webp",
-      "alt": "CASA sistemi, Nexus Dx1, ART mükemmelliği, IVF, ICSI ve Yardımcı Üreme Teknolojisi ile ESHRE Kılavuzları Klinik Semen İncelemesi rehberi",
+      "alt": "CASA sistemi, Nexus DX1, ART mükemmelliği, IVF, ICSI ve Yardımcı Üreme Teknolojisi ile ESHRE Kılavuzları Klinik Semen İncelemesi rehberi",
       "filename": "ESHRE.webp",
       "type": "article",
       "associatedContent": {
@@ -474,7 +474,7 @@
     {
       "id": "article-asrm-male-infertility-evaluation-protocols",
       "src": "/ASRM.webp",
-      "alt": "CASA sistemi, Nexus Dx1, Erkek infertilite çalışması, IUI, IVF, ICSI ve Klinik Laboratuvar standartları ile ASRM Erkek İnfertilite Değerlendirmesi Protokolleri rehberi",
+      "alt": "CASA sistemi, Nexus DX1, Erkek infertilite çalışması, IUI, IVF, ICSI ve Klinik Laboratuvar standartları ile ASRM Erkek İnfertilite Değerlendirmesi Protokolleri rehberi",
       "filename": "ASRM.webp",
       "type": "article",
       "associatedContent": {

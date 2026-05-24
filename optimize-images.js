@@ -14,7 +14,7 @@ const desktopConfig = {
   'msqa-100-cover.webp': { width: 600, height: 450, fit: 'contain' },
   'sqa-6100vet-cover.webp': { width: 600, height: 450, fit: 'contain' },
   
-  // Nexus Dx1 产品详情
+  // Nexus DX1 产品详情
   'nexus-dx1.webp': { width: 700, height: 394, fit: 'contain' },
   'nexus-dx1-2.webp': { width: 700, height: 394, fit: 'contain' },
   'nexus-dx1-3.webp': { width: 700, height: 394, fit: 'contain' },
@@ -85,7 +85,7 @@ const mobileConfig = {
   'msqa-100-cover.webp': { width: 400, height: 300, fit: 'contain' },
   'sqa-6100vet-cover.webp': { width: 400, height: 300, fit: 'contain' },
   
-  // Nexus Dx1 产品详情
+  // Nexus DX1 产品详情
   'nexus-dx1.webp': { width: 768, height: 432, fit: 'contain' },
   'nexus-dx1-2.webp': { width: 768, height: 432, fit: 'contain' },
   'nexus-dx1-3.webp': { width: 768, height: 432, fit: 'contain' },

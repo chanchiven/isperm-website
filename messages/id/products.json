@@ -20,7 +20,7 @@
   },
   "products": {
     "nexus": {
-      "name": "Nexus Dx1",
+      "name": "Nexus DX1",
       "tag": "Manusia",
       "badge": "Sistem CASA Profesional",
       "heroSubtitle": "Sistem CASA Manusia Otomatis Penuh",
@@ -97,25 +97,25 @@
               "slug": "who-6th-edition-semen-analysis-standards",
               "name": "WHO 6th",
               "title": "Panduan WHO Edisi ke-6",
-              "description": "<strong>Nexus Dx1</strong> sepenuhnya mematuhi panduan <strong>WHO Edisi ke-6</strong>. Baca analisis detail kami."
+              "description": "<strong>Nexus DX1</strong> sepenuhnya mematuhi panduan <strong>WHO Edisi ke-6</strong>. Baca analisis detail kami."
             },
             {
               "slug": "iso-23162-2021-laboratory-competence-guide",
               "name": "ISO 23162",
               "title": "Panduan ISO 23162",
-              "description": "<strong>Nexus Dx1</strong> sepenuhnya mematuhi panduan <strong>ISO 23162</strong>. Baca analisis detail kami."
+              "description": "<strong>Nexus DX1</strong> sepenuhnya mematuhi panduan <strong>ISO 23162</strong>. Baca analisis detail kami."
             },
             {
               "slug": "eshre-guidelines-clinical-semen-examination",
               "name": "ESHRE",
               "title": "Panduan ESHRE",
-              "description": "<strong>Nexus Dx1</strong> sepenuhnya mematuhi panduan <strong>ESHRE</strong>. Baca analisis detail kami."
+              "description": "<strong>Nexus DX1</strong> sepenuhnya mematuhi panduan <strong>ESHRE</strong>. Baca analisis detail kami."
             },
             {
               "slug": "asrm-male-infertility-evaluation-protocols",
               "name": "ASRM",
               "title": "Panduan ASRM",
-              "description": "<strong>Nexus Dx1</strong> sepenuhnya mematuhi panduan <strong>ASRM</strong>. Baca analisis detail kami."
+              "description": "<strong>Nexus DX1</strong> sepenuhnya mematuhi panduan <strong>ASRM</strong>. Baca analisis detail kami."
             }
           ],
           "learnMore": "Pelajari lebih lanjut →"
@@ -338,8 +338,8 @@
       }
     },
     "nexusMeta": {
-      "title": "Sistem CASA Nexus Dx1 | WHO Edisi ke-6 | iSperm Medical",
-      "description": "Sistem CASA manusia otomatis penuh Nexus Dx1. Analisis semen sesuai dengan WHO edisi ke-6 dengan analisis morfologi sperma berbasis AI."
+      "title": "Sistem CASA Nexus DX1 | WHO Edisi ke-6 | iSperm Medical",
+      "description": "Sistem CASA manusia otomatis penuh Nexus DX1. Analisis semen sesuai dengan WHO edisi ke-6 dengan analisis morfologi sperma berbasis AI."
     },
     "msqaMeta": {
       "title": "Sistem CASA Portabel MSQA-100 | WHO Edisi ke-6 | iSperm Medical",

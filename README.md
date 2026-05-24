@@ -4,7 +4,7 @@ Official website for iSperm Medical Ltd. - Leading manufacturer of fully automat
 
 ## Products
 
-- **Nexus Dx1** - Fully Automated Human CASA System
+- **Nexus DX1** - Fully Automated Human CASA System
 - **SQA-6100vet** - Fully Automated Veterinary CASA System
 
 ## Technologies

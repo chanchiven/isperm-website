@@ -3,7 +3,7 @@
     {
       "id": "nexus-dx1",
       "slug": "nexus-dx1",
-      "name": "Nexus Dx1",
+      "name": "Nexus DX1",
       "description": "Sistem CASA otomatis penuh sesuai WHO edisi ke-6 yang dirancang untuk penggunaan klinis dan laboratorium, menampilkan algoritma AI canggih dan analisis parameter komprehensif.",
       "subtitle": "Sistem CASA Manusia Otomatis Penuh",
       "images": [
@@ -97,7 +97,7 @@
       "subtitle": "Menguasai standar Edisi ke-6 WHO dengan teknologi CASA canggih untuk penilaian kesuburan pria yang presisi",
       "content": "Dalam bidang kedokteran reproduksi, analisis semen tetap menjadi landasan penilaian kesuburan pria. Dengan rilis Edisi ke-6 WHO (2021), industri telah bergeser menuju presisi yang lebih tinggi, kontrol kualitas yang lebih ketat, dan integrasi sistem Analisis Sperma Berbantuan Komputer (CASA) canggih. Artikel ini mengeksplorasi evolusi standar ini dan persyaratan teknis untuk diagnostik klinis modern. Bab 1: Peran CASA dalam Andrologi Modern Mikroskopi manual tradisional, meskipun sudah lama ada,",
       "image": "/WHO6.webp",
-      "alt": "Panduan Standar Analisis Semen Edisi ke-6 WHO dengan sistem CASA, Nexus Dx1, Motilitas Sperma, Morfologi Sperma, dan panggung pemanas built-in",
+      "alt": "Panduan Standar Analisis Semen Edisi ke-6 WHO dengan sistem CASA, Nexus DX1, Motilitas Sperma, Morfologi Sperma, dan panggung pemanas built-in",
       "category": "human",
       "locale": "id"
     },
@@ -108,7 +108,7 @@
       "subtitle": "Menguasai persyaratan teknis ISO 23162:2021 dan kerangka manajemen kualitas untuk hasil pemeriksaan semen yang dapat dibandingkan secara global",
       "content": "Artikel ini berfokus pada ISO 23162:2021, standar internasional yang menentukan persyaratan dan metode uji untuk pemeriksaan semen manusia dasar. Sementara Edisi ke-6 WHO menyediakan manual klinis, ISO 23162 menyediakan kerangka teknis dan manajemen kualitas untuk laboratorium untuk memastikan hasil mereka dapat dibandingkan secara global. Rilis ISO 23162:2021 menandai tonggak dalam kedokteran reproduksi, menjadi standar internasional pertama yang didedikasikan untuk pemeriksaan semen dasar. Unt",
       "image": "/ISO.webp",
-      "alt": "Panduan Kompetensi Laboratorium ISO 23162:2021 dengan sistem CASA, Nexus Dx1, Persyaratan pemeriksaan semen, Kontrol kualitas, dan Standar laboratorium",
+      "alt": "Panduan Kompetensi Laboratorium ISO 23162:2021 dengan sistem CASA, Nexus DX1, Persyaratan pemeriksaan semen, Kontrol kualitas, dan Standar laboratorium",
       "category": "human",
       "locale": "id"
     },
@@ -119,7 +119,7 @@
       "subtitle": "Pedoman ESHRE berbasis bukti yang menjembatani hasil laboratorium dan pengambilan keputusan klinis untuk hasil ART yang optimal",
       "content": "Sementara Manual WHO menyediakan \"cara\" dan ISO 23162 menyediakan \"spesifikasi teknis\", ESHRE fokus pada Standar Perawatan—bagaimana diagnostik ini harus diintegrasikan ke dalam praktik klinis untuk meningkatkan hasil dalam Teknologi Reproduksi Berbantuan (ART). Sebagai otoritas terkemuka dalam kedokteran reproduksi Eropa, ESHRE menyediakan pedoman berbasis bukti yang menjembatani kesenjangan antara hasil laboratorium dan pengambilan keputusan klinis. Untuk klinik kesuburan modern, mengikuti rek",
       "image": "/ESHRE.webp",
-      "alt": "Panduan Pemeriksaan Semen Klinis ESHRE dengan sistem CASA, Nexus Dx1, Keunggulan ART, IVF, ICSI, dan Teknologi Reproduksi Berbantuan",
+      "alt": "Panduan Pemeriksaan Semen Klinis ESHRE dengan sistem CASA, Nexus DX1, Keunggulan ART, IVF, ICSI, dan Teknologi Reproduksi Berbantuan",
       "category": "human",
       "locale": "id"
     },
@@ -130,7 +130,7 @@
       "subtitle": "Protokol ASRM berbasis bukti yang mengintegrasikan analisis semen ke dalam diagnosis holistik infertilitas pria dan jalur perawatan",
       "content": "Sementara Manual WHO menyediakan \"cara\" dan ISO 23162 menyediakan \"standar teknis\", ASRM fokus pada Jalur Klinis—mengarahkan bagaimana hasil analisis semen harus memandu evaluasi diagnostik dan perawatan pria yang tidak subur dalam pengaturan klinis. Sebagai otoritas utama dalam kedokteran reproduksi di Amerika Serikat, ASRM menetapkan protokol berbasis bukti yang mendefinisikan perawatan kesuburan modern. Untuk klinisi dan direktur laboratorium, mengikuti pendapat komite ASRM memastikan bahwa a",
       "image": "/ASRM.webp",
-      "alt": "Panduan Protokol Evaluasi Infertilitas Pria ASRM dengan sistem CASA, Nexus Dx1, Evaluasi infertilitas pria, IUI, IVF, ICSI, dan Standar laboratorium klinis",
+      "alt": "Panduan Protokol Evaluasi Infertilitas Pria ASRM dengan sistem CASA, Nexus DX1, Evaluasi infertilitas pria, IUI, IVF, ICSI, dan Standar laboratorium klinis",
       "category": "human",
       "locale": "id"
     },
@@ -264,13 +264,13 @@
     {
       "id": "nexus-dx1-0",
       "src": "/nexus-dx1-cover.webp",
-      "alt": "Nexus Dx1 - Product image 1",
+      "alt": "Nexus DX1 - Product image 1",
       "filename": "nexus-dx1-cover.webp",
       "type": "product",
       "associatedContent": {
         "type": "product",
         "id": "nexus-dx1",
-        "title": "Nexus Dx1",
+        "title": "Nexus DX1",
         "url": "/products/nexus-dx1"
       },
       "locale": "id"
@@ -278,13 +278,13 @@
     {
       "id": "nexus-dx1-1",
       "src": "/nexus-dx1.webp",
-      "alt": "Nexus Dx1 - Product image 2",
+      "alt": "Nexus DX1 - Product image 2",
       "filename": "nexus-dx1.webp",
       "type": "product",
       "associatedContent": {
         "type": "product",
         "id": "nexus-dx1",
-        "title": "Nexus Dx1",
+        "title": "Nexus DX1",
         "url": "/products/nexus-dx1"
       },
       "locale": "id"
@@ -292,13 +292,13 @@
     {
       "id": "nexus-dx1-2",
       "src": "/nexus-dx1-2.webp",
-      "alt": "Nexus Dx1 - Product image 3",
+      "alt": "Nexus DX1 - Product image 3",
       "filename": "nexus-dx1-2.webp",
       "type": "product",
       "associatedContent": {
         "type": "product",
         "id": "nexus-dx1",
-        "title": "Nexus Dx1",
+        "title": "Nexus DX1",
         "url": "/products/nexus-dx1"
       },
       "locale": "id"
@@ -306,13 +306,13 @@
     {
       "id": "nexus-dx1-3",
       "src": "/nexus-dx1-3.webp",
-      "alt": "Nexus Dx1 - Product image 4",
+      "alt": "Nexus DX1 - Product image 4",
       "filename": "nexus-dx1-3.webp",
       "type": "product",
       "associatedContent": {
         "type": "product",
         "id": "nexus-dx1",
-        "title": "Nexus Dx1",
+        "title": "Nexus DX1",
         "url": "/products/nexus-dx1"
       },
       "locale": "id"
@@ -320,13 +320,13 @@
     {
       "id": "nexus-dx1-4",
       "src": "/nexus-dx1-4.webp",
-      "alt": "Nexus Dx1 - Product image 5",
+      "alt": "Nexus DX1 - Product image 5",
       "filename": "nexus-dx1-4.webp",
       "type": "product",
       "associatedContent": {
         "type": "product",
         "id": "nexus-dx1",
-        "title": "Nexus Dx1",
+        "title": "Nexus DX1",
         "url": "/products/nexus-dx1"
       },
       "locale": "id"
@@ -432,7 +432,7 @@
     {
       "id": "article-who-6th-edition-semen-analysis-standards",
       "src": "/WHO6.webp",
-      "alt": "Panduan Standar Analisis Semen Edisi ke-6 WHO dengan sistem CASA, Nexus Dx1, Motilitas Sperma, Morfologi Sperma, dan panggung pemanas built-in",
+      "alt": "Panduan Standar Analisis Semen Edisi ke-6 WHO dengan sistem CASA, Nexus DX1, Motilitas Sperma, Morfologi Sperma, dan panggung pemanas built-in",
       "filename": "WHO6.webp",
       "type": "article",
       "associatedContent": {
@@ -446,7 +446,7 @@
     {
       "id": "article-iso-23162-2021-laboratory-competence-guide",
       "src": "/ISO.webp",
-      "alt": "Panduan Kompetensi Laboratorium ISO 23162:2021 dengan sistem CASA, Nexus Dx1, Persyaratan pemeriksaan semen, Kontrol kualitas, dan Standar laboratorium",
+      "alt": "Panduan Kompetensi Laboratorium ISO 23162:2021 dengan sistem CASA, Nexus DX1, Persyaratan pemeriksaan semen, Kontrol kualitas, dan Standar laboratorium",
       "filename": "ISO.webp",
       "type": "article",
       "associatedContent": {
@@ -460,7 +460,7 @@
     {
       "id": "article-eshre-guidelines-clinical-semen-examination",
       "src": "/ESHRE.webp",
-      "alt": "Panduan Pemeriksaan Semen Klinis ESHRE dengan sistem CASA, Nexus Dx1, Keunggulan ART, IVF, ICSI, dan Teknologi Reproduksi Berbantuan",
+      "alt": "Panduan Pemeriksaan Semen Klinis ESHRE dengan sistem CASA, Nexus DX1, Keunggulan ART, IVF, ICSI, dan Teknologi Reproduksi Berbantuan",
       "filename": "ESHRE.webp",
       "type": "article",
       "associatedContent": {
@@ -474,7 +474,7 @@
     {
       "id": "article-asrm-male-infertility-evaluation-protocols",
       "src": "/ASRM.webp",
-      "alt": "Panduan Protokol Evaluasi Infertilitas Pria ASRM dengan sistem CASA, Nexus Dx1, Evaluasi infertilitas pria, IUI, IVF, ICSI, dan Standar laboratorium klinis",
+      "alt": "Panduan Protokol Evaluasi Infertilitas Pria ASRM dengan sistem CASA, Nexus DX1, Evaluasi infertilitas pria, IUI, IVF, ICSI, dan Standar laboratorium klinis",
       "filename": "ASRM.webp",
       "type": "article",
       "associatedContent": {

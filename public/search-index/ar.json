@@ -3,7 +3,7 @@
     {
       "id": "nexus-dx1",
       "slug": "nexus-dx1",
-      "name": "Nexus Dx1",
+      "name": "Nexus DX1",
       "description": "نظام CASA آلي بالكامل متوافق مع الإصدار السادس من منظمة الصحة العالمية، مصمم للاستخدام السريري والمختبر، مع خوارزميات ذكاء اصطناعي متقدمة وتحليل شامل للمعاملات.",
       "subtitle": "نظام CASA البشري الآلي بالكامل",
       "images": [
@@ -97,7 +97,7 @@
       "subtitle": "إتقان معايير WHO الإصدار السادس مع تكنولوجيا CASA المتقدمة لتقييم الخصوبة الذكرية الدقيق",
       "content": "في مجال الطب التناسلي، يظل تحليل السائل المنوي حجر الأساس في تقييم الخصوبة الذكرية. مع إصدار WHO الإصدار السادس (2021)، تحولت الصناعة نحو دقة أعلى، ومراقبة جودة أكثر صرامة، ودمج أنظمة تحليل الحيوانات المنوية بمساعدة الكمبيوتر (CASA) المتقدمة. تستكشف هذه المقالة تطور هذه المعايير والمتطلبات التقنية للتشخيص السريري الحديث. الفصل 1: دور CASA في طب الذكورة الحديث المجهر اليدوي التقليدي، رغم طول عمره، عرضة لتباين كبير داخل المشغل وبين المختبرات. تستخدم أنظمة تحليل الحيوانات المنوية بمساعدة الكمبيوتر ",
       "image": "/WHO6.webp",
-      "alt": "دليل معايير تحليل السائل المنوي WHO الإصدار السادس مع نظام CASA، Nexus Dx1، حركة الحيوانات المنوية، مورفولوجيا الحيوانات المنوية، ومرحلة التسخين المدمجة",
+      "alt": "دليل معايير تحليل السائل المنوي WHO الإصدار السادس مع نظام CASA، Nexus DX1، حركة الحيوانات المنوية، مورفولوجيا الحيوانات المنوية، ومرحلة التسخين المدمجة",
       "category": "human",
       "locale": "ar"
     },
@@ -108,7 +108,7 @@
       "subtitle": "إتقان متطلبات ISO 23162:2021 التقنية وإطار إدارة الجودة للحصول على نتائج فحص السائل المنوي قابلة للمقارنة عالمياً",
       "content": "تركز هذه المقالة على ISO 23162:2021، المعيار الدولي الذي يحدد المتطلبات وطرق الاختبار لفحص السائل المنوي البشري الأساسي. بينما يوفر WHO الإصدار السادس الدليل السريري، يوفر ISO 23162 الإطار التقني وإدارة الجودة للمختبرات لضمان أن نتائجها قابلة للمقارنة عالمياً. يمثل إصدار ISO 23162:2021 معلماً في الطب التناسلي، كونه أول معيار دولي مخصص لفحص السائل المنوي الأساسي. بالنسبة للعيادات والمختبرات، لم يعد الامتثال لـ ISO 23162 مجرد خيار—إنه شارة الكفاءة التقنية والموثوقية التشخيصية. يوضح هذا الدليل المو",
       "image": "/ISO.webp",
-      "alt": "دليل كفاءة المختبر ISO 23162:2021 مع نظام CASA، Nexus Dx1، متطلبات فحص السائل المنوي، مراقبة الجودة، ومعايير المختبر",
+      "alt": "دليل كفاءة المختبر ISO 23162:2021 مع نظام CASA، Nexus DX1، متطلبات فحص السائل المنوي، مراقبة الجودة، ومعايير المختبر",
       "category": "human",
       "locale": "ar"
     },
@@ -119,7 +119,7 @@
       "subtitle": "إرشادات ESHRE القائمة على الأدلة التي تربط نتائج المختبر واتخاذ القرارات السريرية للحصول على نتائج ART المثلى",
       "content": "بينما يوفر دليل WHO \"كيفية\" ويوفر ISO 23162 \"المواصفات التقنية\"، تركز ESHRE على معيار الرعاية—كيف يجب دمج هذه التشخيصات في الممارسة السريرية لتحسين النتائج في تكنولوجيا الإنجاب المساعدة (ART). كالسلطة الرائدة في الطب التناسلي الأوروبي، توفر ESHRE إرشادات قائمة على الأدلة تربط الفجوة بين نتائج المختبر واتخاذ القرارات السريرية. بالنسبة لعيادات الخصوبة الحديثة، الالتزام بتوصيات ESHRE يضمن أن تحليل السائل المنوي ليس مجرد تمرين لجمع البيانات، بل أداة حاسمة لتحسين معدلات نجاح IVF وICSI وIUI. الفصل 1: ",
       "image": "/ESHRE.webp",
-      "alt": "دليل فحص السائل المنوي السريري ESHRE مع نظام CASA، Nexus Dx1، تميز ART، IVF، ICSI، وتكنولوجيا الإنجاب المساعدة",
+      "alt": "دليل فحص السائل المنوي السريري ESHRE مع نظام CASA، Nexus DX1، تميز ART، IVF، ICSI، وتكنولوجيا الإنجاب المساعدة",
       "category": "human",
       "locale": "ar"
     },
@@ -130,7 +130,7 @@
       "subtitle": "بروتوكولات ASRM القائمة على الأدلة التي تدمج تحليل السائل المنوي في التشخيص الشامل للعقم الذكري ومسارات العلاج",
       "content": "بينما يوفر دليل WHO \"كيفية\" ويوفر ISO 23162 \"المعايير التقنية\"، تركز ASRM على المسار السريري—توجيه كيفية استخدام نتائج تحليل السائل المنوي لتوجيه التقييم التشخيصي وعلاج الذكر العقيم في بيئة سريرية. كالسلطة الرائدة في الطب التناسلي في الولايات المتحدة، تحدد ASRM البروتوكولات القائمة على الأدلة التي تحدد رعاية الخصوبة الحديثة. بالنسبة للأطباء السريريين ومديري المختبرات، يضمن اتباع آراء لجنة ASRM دمج تحليل السائل المنوي في نهج شامل لتشخيص المريض، مما يزيد من فرص النتائج الناجحة من خلال التلقيح داخل",
       "image": "/ASRM.webp",
-      "alt": "دليل بروتوكولات تقييم العقم الذكري ASRM مع نظام CASA، Nexus Dx1، تقييم العقم الذكري، IUI، IVF، ICSI، ومعايير المختبر السريري",
+      "alt": "دليل بروتوكولات تقييم العقم الذكري ASRM مع نظام CASA، Nexus DX1، تقييم العقم الذكري، IUI، IVF، ICSI، ومعايير المختبر السريري",
       "category": "human",
       "locale": "ar"
     },
@@ -264,13 +264,13 @@
     {
       "id": "nexus-dx1-0",
       "src": "/nexus-dx1-cover.webp",
-      "alt": "Nexus Dx1 - Product image 1",
+      "alt": "Nexus DX1 - Product image 1",
       "filename": "nexus-dx1-cover.webp",
       "type": "product",
       "associatedContent": {
         "type": "product",
         "id": "nexus-dx1",
-        "title": "Nexus Dx1",
+        "title": "Nexus DX1",
         "url": "/products/nexus-dx1"
       },
       "locale": "ar"
@@ -278,13 +278,13 @@
     {
       "id": "nexus-dx1-1",
       "src": "/nexus-dx1.webp",
-      "alt": "Nexus Dx1 - Product image 2",
+      "alt": "Nexus DX1 - Product image 2",
       "filename": "nexus-dx1.webp",
       "type": "product",
       "associatedContent": {
         "type": "product",
         "id": "nexus-dx1",
-        "title": "Nexus Dx1",
+        "title": "Nexus DX1",
         "url": "/products/nexus-dx1"
       },
       "locale": "ar"
@@ -292,13 +292,13 @@
     {
       "id": "nexus-dx1-2",
       "src": "/nexus-dx1-2.webp",
-      "alt": "Nexus Dx1 - Product image 3",
+      "alt": "Nexus DX1 - Product image 3",
       "filename": "nexus-dx1-2.webp",
       "type": "product",
       "associatedContent": {
         "type": "product",
         "id": "nexus-dx1",
-        "title": "Nexus Dx1",
+        "title": "Nexus DX1",
         "url": "/products/nexus-dx1"
       },
       "locale": "ar"
@@ -306,13 +306,13 @@
     {
       "id": "nexus-dx1-3",
       "src": "/nexus-dx1-3.webp",
-      "alt": "Nexus Dx1 - Product image 4",
+      "alt": "Nexus DX1 - Product image 4",
       "filename": "nexus-dx1-3.webp",
       "type": "product",
       "associatedContent": {
         "type": "product",
         "id": "nexus-dx1",
-        "title": "Nexus Dx1",
+        "title": "Nexus DX1",
         "url": "/products/nexus-dx1"
       },
       "locale": "ar"
@@ -320,13 +320,13 @@
     {
       "id": "nexus-dx1-4",
       "src": "/nexus-dx1-4.webp",
-      "alt": "Nexus Dx1 - Product image 5",
+      "alt": "Nexus DX1 - Product image 5",
       "filename": "nexus-dx1-4.webp",
       "type": "product",
       "associatedContent": {
         "type": "product",
         "id": "nexus-dx1",
-        "title": "Nexus Dx1",
+        "title": "Nexus DX1",
         "url": "/products/nexus-dx1"
       },
       "locale": "ar"
@@ -432,7 +432,7 @@
     {
       "id": "article-who-6th-edition-semen-analysis-standards",
       "src": "/WHO6.webp",
-      "alt": "دليل معايير تحليل السائل المنوي WHO الإصدار السادس مع نظام CASA، Nexus Dx1، حركة الحيوانات المنوية، مورفولوجيا الحيوانات المنوية، ومرحلة التسخين المدمجة",
+      "alt": "دليل معايير تحليل السائل المنوي WHO الإصدار السادس مع نظام CASA، Nexus DX1، حركة الحيوانات المنوية، مورفولوجيا الحيوانات المنوية، ومرحلة التسخين المدمجة",
       "filename": "WHO6.webp",
       "type": "article",
       "associatedContent": {
@@ -446,7 +446,7 @@
     {
       "id": "article-iso-23162-2021-laboratory-competence-guide",
       "src": "/ISO.webp",
-      "alt": "دليل كفاءة المختبر ISO 23162:2021 مع نظام CASA، Nexus Dx1، متطلبات فحص السائل المنوي، مراقبة الجودة، ومعايير المختبر",
+      "alt": "دليل كفاءة المختبر ISO 23162:2021 مع نظام CASA، Nexus DX1، متطلبات فحص السائل المنوي، مراقبة الجودة، ومعايير المختبر",
       "filename": "ISO.webp",
       "type": "article",
       "associatedContent": {
@@ -460,7 +460,7 @@
     {
       "id": "article-eshre-guidelines-clinical-semen-examination",
       "src": "/ESHRE.webp",
-      "alt": "دليل فحص السائل المنوي السريري ESHRE مع نظام CASA، Nexus Dx1، تميز ART، IVF، ICSI، وتكنولوجيا الإنجاب المساعدة",
+      "alt": "دليل فحص السائل المنوي السريري ESHRE مع نظام CASA، Nexus DX1، تميز ART، IVF، ICSI، وتكنولوجيا الإنجاب المساعدة",
       "filename": "ESHRE.webp",
       "type": "article",
       "associatedContent": {
@@ -474,7 +474,7 @@
     {
       "id": "article-asrm-male-infertility-evaluation-protocols",
       "src": "/ASRM.webp",
-      "alt": "دليل بروتوكولات تقييم العقم الذكري ASRM مع نظام CASA، Nexus Dx1، تقييم العقم الذكري، IUI، IVF، ICSI، ومعايير المختبر السريري",
+      "alt": "دليل بروتوكولات تقييم العقم الذكري ASRM مع نظام CASA، Nexus DX1، تقييم العقم الذكري، IUI، IVF، ICSI، ومعايير المختبر السريري",
       "filename": "ASRM.webp",
       "type": "article",
       "associatedContent": {

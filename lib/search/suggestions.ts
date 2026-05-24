@@ -116,7 +116,7 @@ function getDefaultPopularSearches(locale: string): string[] {
   // 根据语言返回不同的默认热门搜索
   const defaults: Record<string, string[]> = {
     en: [
-      'Nexus Dx1',
+      'Nexus DX1',
       'CASA system',
       'WHO 6th Edition',
       'Semen analysis',
@@ -126,7 +126,7 @@ function getDefaultPopularSearches(locale: string): string[] {
       'Human andrology'
     ],
     es: [
-      'Nexus Dx1',
+      'Nexus DX1',
       'Sistema CASA',
       'OMS 6ª Edición',
       'Análisis de semen',
@@ -136,7 +136,7 @@ function getDefaultPopularSearches(locale: string): string[] {
       'Andrología humana'
     ],
     de: [
-      'Nexus Dx1',
+      'Nexus DX1',
       'CASA-System',
       'WHO 6. Auflage',
       'Spermaanalyse',
@@ -146,7 +146,7 @@ function getDefaultPopularSearches(locale: string): string[] {
       'Humane Andrologie'
     ],
     fr: [
-      'Nexus Dx1',
+      'Nexus DX1',
       'Système CASA',
       'OMS 6ème édition',
       'Analyse du sperme',
@@ -156,7 +156,7 @@ function getDefaultPopularSearches(locale: string): string[] {
       'Andrologie humaine'
     ],
     ja: [
-      'Nexus Dx1',
+      'Nexus DX1',
       'CASAシステム',
       'WHO第6版',
       '精液分析',
@@ -166,7 +166,7 @@ function getDefaultPopularSearches(locale: string): string[] {
       'ヒト男性学'
     ],
     ko: [
-      'Nexus Dx1',
+      'Nexus DX1',
       'CASA 시스템',
       'WHO 6판',
       '정액 분석',

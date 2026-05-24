@@ -3,7 +3,7 @@
     {
       "id": "nexus-dx1",
       "slug": "nexus-dx1",
-      "name": "Nexus Dx1",
+      "name": "Nexus DX1",
       "description": "Sistema CASA totalmente automatizado conforme à 6ª edição da OMS, projetado para uso clínico e laboratorial, com algoritmos avançados de IA e análise abrangente de parâmetros.",
       "subtitle": "Sistema CASA Humano Totalmente Automatizado",
       "images": [
@@ -97,7 +97,7 @@
       "subtitle": "Dominando os padrões da 6ª Edição da WHO com tecnologia CASA avançada para avaliação precisa da fertilidade masculina",
       "content": "No campo da medicina reprodutiva, a análise de sêmen continua sendo a pedra angular da avaliação da fertilidade masculina. Com o lançamento da 6ª Edição da WHO (2021), a indústria mudou em direção a maior precisão, controle de qualidade mais rigoroso e a integração de sistemas avançados de Análise Espermática Assistida por Computador (CASA). Este artigo explora a evolução desses padrões e os requisitos técnicos para diagnósticos clínicos modernos. Capítulo 1: O Papel do CASA na Andrologia Modern",
       "image": "/WHO6.webp",
-      "alt": "Guia de Padrões de Análise de Sêmen da 6ª Edição da WHO com sistema CASA, Nexus Dx1, Motilidade Espermática, Morfologia Espermática e palco de aquecimento integrado",
+      "alt": "Guia de Padrões de Análise de Sêmen da 6ª Edição da WHO com sistema CASA, Nexus DX1, Motilidade Espermática, Morfologia Espermática e palco de aquecimento integrado",
       "category": "human",
       "locale": "pt"
     },
@@ -108,7 +108,7 @@
       "subtitle": "Dominando os requisitos técnicos do ISO 23162:2021 e a estrutura de gestão de qualidade para resultados de exame de sêmen globalmente comparáveis",
       "content": "Este artigo foca no ISO 23162:2021, o padrão internacional que especifica requisitos e métodos de teste para exame básico de sêmen humano. Enquanto a 6ª Edição da WHO fornece o manual clínico, o ISO 23162 fornece a estrutura técnica e de gestão de qualidade para laboratórios garantirem que seus resultados sejam globalmente comparáveis. O lançamento do ISO 23162:2021 marcou um marco na medicina reprodutiva, sendo o primeiro padrão internacional dedicado para exame básico de sêmen. Para clínicas e",
       "image": "/ISO.webp",
-      "alt": "Guia de Competência Laboratorial ISO 23162:2021 com sistema CASA, Nexus Dx1, Requisitos de exame de sêmen, Controle de qualidade e Padrões laboratoriais",
+      "alt": "Guia de Competência Laboratorial ISO 23162:2021 com sistema CASA, Nexus DX1, Requisitos de exame de sêmen, Controle de qualidade e Padrões laboratoriais",
       "category": "human",
       "locale": "pt"
     },
@@ -119,7 +119,7 @@
       "subtitle": "Diretrizes ESHRE baseadas em evidências conectando resultados laboratoriais e tomada de decisão clínica para resultados ART ótimos",
       "content": "Enquanto o Manual da WHO fornece o \"como fazer\" e o ISO 23162 fornece as \"especificações técnicas\", a ESHRE foca no Padrão de Cuidado—como esses diagnósticos devem ser integrados na prática clínica para melhorar os resultados na Tecnologia de Reprodução Assistida (ART). Como a principal autoridade em medicina reprodutiva europeia, a ESHRE fornece diretrizes baseadas em evidências que conectam a lacuna entre resultados laboratoriais e tomada de decisão clínica. Para clínicas de fertilidade modern",
       "image": "/ESHRE.webp",
-      "alt": "Guia de Exame Clínico de Sêmen das Diretrizes ESHRE com sistema CASA, Nexus Dx1, Excelência ART, IVF, ICSI e Tecnologia de Reprodução Assistida",
+      "alt": "Guia de Exame Clínico de Sêmen das Diretrizes ESHRE com sistema CASA, Nexus DX1, Excelência ART, IVF, ICSI e Tecnologia de Reprodução Assistida",
       "category": "human",
       "locale": "pt"
     },
@@ -130,7 +130,7 @@
       "subtitle": "Protocolos ASRM baseados em evidências integrando análise de sêmen em diagnósticos holísticos de infertilidade masculina e vias de tratamento",
       "content": "Enquanto o Manual da WHO fornece o \"como fazer\" e o ISO 23162 fornece os \"padrões técnicos\", a ASRM foca na Via Clínica—direcionando como os resultados da análise de sêmen devem guiar a avaliação diagnóstica e o tratamento do homem infértil em um ambiente clínico. Como a principal autoridade em medicina reprodutiva nos Estados Unidos, a ASRM estabelece os protocolos baseados em evidências que definem o cuidado moderno de fertilidade. Para clínicos e diretores de laboratório, seguir as opiniões d",
       "image": "/ASRM.webp",
-      "alt": "Guia de Protocolos de Avaliação de Infertilidade Masculina ASRM com sistema CASA, Nexus Dx1, Avaliação de infertilidade masculina, IUI, IVF, ICSI e Padrões de laboratório clínico",
+      "alt": "Guia de Protocolos de Avaliação de Infertilidade Masculina ASRM com sistema CASA, Nexus DX1, Avaliação de infertilidade masculina, IUI, IVF, ICSI e Padrões de laboratório clínico",
       "category": "human",
       "locale": "pt"
     },
@@ -264,13 +264,13 @@
     {
       "id": "nexus-dx1-0",
       "src": "/nexus-dx1-cover.webp",
-      "alt": "Nexus Dx1 - Product image 1",
+      "alt": "Nexus DX1 - Product image 1",
       "filename": "nexus-dx1-cover.webp",
       "type": "product",
       "associatedContent": {
         "type": "product",
         "id": "nexus-dx1",
-        "title": "Nexus Dx1",
+        "title": "Nexus DX1",
         "url": "/products/nexus-dx1"
       },
       "locale": "pt"
@@ -278,13 +278,13 @@
     {
       "id": "nexus-dx1-1",
       "src": "/nexus-dx1.webp",
-      "alt": "Nexus Dx1 - Product image 2",
+      "alt": "Nexus DX1 - Product image 2",
       "filename": "nexus-dx1.webp",
       "type": "product",
       "associatedContent": {
         "type": "product",
         "id": "nexus-dx1",
-        "title": "Nexus Dx1",
+        "title": "Nexus DX1",
         "url": "/products/nexus-dx1"
       },
       "locale": "pt"
@@ -292,13 +292,13 @@
     {
       "id": "nexus-dx1-2",
       "src": "/nexus-dx1-2.webp",
-      "alt": "Nexus Dx1 - Product image 3",
+      "alt": "Nexus DX1 - Product image 3",
       "filename": "nexus-dx1-2.webp",
       "type": "product",
       "associatedContent": {
         "type": "product",
         "id": "nexus-dx1",
-        "title": "Nexus Dx1",
+        "title": "Nexus DX1",
         "url": "/products/nexus-dx1"
       },
       "locale": "pt"
@@ -306,13 +306,13 @@
     {
       "id": "nexus-dx1-3",
       "src": "/nexus-dx1-3.webp",
-      "alt": "Nexus Dx1 - Product image 4",
+      "alt": "Nexus DX1 - Product image 4",
       "filename": "nexus-dx1-3.webp",
       "type": "product",
       "associatedContent": {
         "type": "product",
         "id": "nexus-dx1",
-        "title": "Nexus Dx1",
+        "title": "Nexus DX1",
         "url": "/products/nexus-dx1"
       },
       "locale": "pt"
@@ -320,13 +320,13 @@
     {
       "id": "nexus-dx1-4",
       "src": "/nexus-dx1-4.webp",
-      "alt": "Nexus Dx1 - Product image 5",
+      "alt": "Nexus DX1 - Product image 5",
       "filename": "nexus-dx1-4.webp",
       "type": "product",
       "associatedContent": {
         "type": "product",
         "id": "nexus-dx1",
-        "title": "Nexus Dx1",
+        "title": "Nexus DX1",
         "url": "/products/nexus-dx1"
       },
       "locale": "pt"
@@ -432,7 +432,7 @@
     {
       "id": "article-who-6th-edition-semen-analysis-standards",
       "src": "/WHO6.webp",
-      "alt": "Guia de Padrões de Análise de Sêmen da 6ª Edição da WHO com sistema CASA, Nexus Dx1, Motilidade Espermática, Morfologia Espermática e palco de aquecimento integrado",
+      "alt": "Guia de Padrões de Análise de Sêmen da 6ª Edição da WHO com sistema CASA, Nexus DX1, Motilidade Espermática, Morfologia Espermática e palco de aquecimento integrado",
       "filename": "WHO6.webp",
       "type": "article",
       "associatedContent": {
@@ -446,7 +446,7 @@
     {
       "id": "article-iso-23162-2021-laboratory-competence-guide",
       "src": "/ISO.webp",
-      "alt": "Guia de Competência Laboratorial ISO 23162:2021 com sistema CASA, Nexus Dx1, Requisitos de exame de sêmen, Controle de qualidade e Padrões laboratoriais",
+      "alt": "Guia de Competência Laboratorial ISO 23162:2021 com sistema CASA, Nexus DX1, Requisitos de exame de sêmen, Controle de qualidade e Padrões laboratoriais",
       "filename": "ISO.webp",
       "type": "article",
       "associatedContent": {
@@ -460,7 +460,7 @@
     {
       "id": "article-eshre-guidelines-clinical-semen-examination",
       "src": "/ESHRE.webp",
-      "alt": "Guia de Exame Clínico de Sêmen das Diretrizes ESHRE com sistema CASA, Nexus Dx1, Excelência ART, IVF, ICSI e Tecnologia de Reprodução Assistida",
+      "alt": "Guia de Exame Clínico de Sêmen das Diretrizes ESHRE com sistema CASA, Nexus DX1, Excelência ART, IVF, ICSI e Tecnologia de Reprodução Assistida",
       "filename": "ESHRE.webp",
       "type": "article",
       "associatedContent": {
@@ -474,7 +474,7 @@
     {
       "id": "article-asrm-male-infertility-evaluation-protocols",
       "src": "/ASRM.webp",
-      "alt": "Guia de Protocolos de Avaliação de Infertilidade Masculina ASRM com sistema CASA, Nexus Dx1, Avaliação de infertilidade masculina, IUI, IVF, ICSI e Padrões de laboratório clínico",
+      "alt": "Guia de Protocolos de Avaliação de Infertilidade Masculina ASRM com sistema CASA, Nexus DX1, Avaliação de infertilidade masculina, IUI, IVF, ICSI e Padrões de laboratório clínico",
       "filename": "ASRM.webp",
       "type": "article",
       "associatedContent": {

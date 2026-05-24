@@ -3,7 +3,7 @@
     {
       "id": "nexus-dx1",
       "slug": "nexus-dx1",
-      "name": "Nexus Dx1",
+      "name": "Nexus DX1",
       "description": "W pełni zautomatyzowany system CASA zgodny z 6. wydaniem WHO, zaprojektowany do zastosowań klinicznych i laboratoryjnych, wyposażony w zaawansowane algorytmy AI i kompleksową analizę parametrów.",
       "subtitle": "W pełni Zautomatyzowany Ludzki System CASA",
       "images": [
@@ -97,7 +97,7 @@
       "subtitle": "Opanowanie standardów 6. Wydania WHO dzięki zaawansowanej technologii CASA dla precyzyjnej oceny płodności męskiej",
       "content": "W dziedzinie medycyny reprodukcyjnej analiza nasienia pozostaje kamieniem węgielnym oceny płodności męskiej. Wraz z wydaniem 6. Wydania WHO (2021), branża przesunęła się w kierunku wyższej precyzji, surowszej kontroli jakości i integracji zaawansowanych systemów Komputerowo Wspomaganej Analizy Plemników (CASA). Ten artykuł bada ewolucję tych standardów i wymagania techniczne dla nowoczesnej diagnostyki klinicznej. Rozdział 1: Rola CASA w Nowoczesnej Andrologii Tradycyjna mikroskopia ręczna, choć",
       "image": "/WHO6.webp",
-      "alt": "Przewodnik Standardów Analizy Nasienia 6. Wydania WHO z systemem CASA, Nexus Dx1, Ruchliwością Plemników, Morfologią Plemników i Wbudowanym stolikiem grzewczym",
+      "alt": "Przewodnik Standardów Analizy Nasienia 6. Wydania WHO z systemem CASA, Nexus DX1, Ruchliwością Plemników, Morfologią Plemników i Wbudowanym stolikiem grzewczym",
       "category": "human",
       "locale": "pl"
     },
@@ -108,7 +108,7 @@
       "subtitle": "Opanowanie wymagań technicznych ISO 23162:2021 i ram zarządzania jakością dla globalnie porównywalnych wyników badania nasienia",
       "content": "Ten artykuł koncentruje się na ISO 23162:2021, międzynarodowym standardzie, który określa wymagania i metody testowe dla podstawowego badania nasienia ludzkiego. Podczas gdy 6. Wydanie WHO dostarcza podręcznik kliniczny, ISO 23162 dostarcza ramy techniczne i zarządzania jakością dla laboratoriów, aby zapewnić, że ich wyniki są globalnie porównywalne. Wydanie ISO 23162:2021 oznacza kamień milowy w medycynie reprodukcyjnej, będąc pierwszym dedykowanym międzynarodowym standardem dla podstawowego ba",
       "image": "/ISO.webp",
-      "alt": "Przewodnik Kompetencji Laboratoryjnych ISO 23162:2021 z systemem CASA, Nexus Dx1, Wymaganiami badania nasienia, Kontrolą jakości i Standardami laboratoryjnymi",
+      "alt": "Przewodnik Kompetencji Laboratoryjnych ISO 23162:2021 z systemem CASA, Nexus DX1, Wymaganiami badania nasienia, Kontrolą jakości i Standardami laboratoryjnymi",
       "category": "human",
       "locale": "pl"
     },
@@ -119,7 +119,7 @@
       "subtitle": "Wytyczne ESHRE oparte na dowodach, łączące wyniki laboratoryjne i podejmowanie decyzji klinicznych dla optymalnych wyników ART",
       "content": "Podczas gdy Podręcznik WHO dostarcza \"jak to zrobić\", a ISO 23162 dostarcza \"specyfikacje techniczne\", ESHRE koncentruje się na Standardzie Opieki—jak te diagnostyki powinny być zintegrowane z praktyką kliniczną, aby poprawić wyniki w Technologii Wspomaganego Rozrodu (ART). Jako wiodący autorytet w europejskiej medycynie reprodukcyjnej, ESHRE dostarcza wytyczne oparte na dowodach, które łączą przepaść między wynikami laboratoryjnymi a podejmowaniem decyzji klinicznych. Dla nowoczesnych klinik pł",
       "image": "/ESHRE.webp",
-      "alt": "Przewodnik Badania Nasienia Klinicznego Wytycznych ESHRE z systemem CASA, Nexus Dx1, Doskonałością ART, IVF, ICSI i Technologią Wspomaganego Rozrodu",
+      "alt": "Przewodnik Badania Nasienia Klinicznego Wytycznych ESHRE z systemem CASA, Nexus DX1, Doskonałością ART, IVF, ICSI i Technologią Wspomaganego Rozrodu",
       "category": "human",
       "locale": "pl"
     },
@@ -130,7 +130,7 @@
       "subtitle": "Protokoły ASRM oparte na dowodach, integrujące analizę nasienia z holistyczną diagnozą i ścieżkami leczenia niepłodności męskiej",
       "content": "Podczas gdy Podręcznik WHO dostarcza \"jak to zrobić\", a ISO 23162 dostarcza \"standardy techniczne\", ASRM koncentruje się na Ścieżce Klinicznej—kierując, jak wyniki analizy nasienia powinny prowadzić diagnostykę i leczenie niepłodnego mężczyzny w ustawieniu klinicznym. Jako główny autorytet w medycynie reprodukcyjnej w Stanach Zjednoczonych, ASRM ustanawia protokoły oparte na dowodach, które definiują nowoczesną opiekę płodnościową. Dla klinicystów i dyrektorów laboratoriów, przestrzeganie opinii",
       "image": "/ASRM.webp",
-      "alt": "Przewodnik Protokołów Oceny Niepłodności Męskiej ASRM z systemem CASA, Nexus Dx1, Ocena niepłodności męskiej, IUI, IVF, ICSI i Standardy laboratoryjne kliniczne",
+      "alt": "Przewodnik Protokołów Oceny Niepłodności Męskiej ASRM z systemem CASA, Nexus DX1, Ocena niepłodności męskiej, IUI, IVF, ICSI i Standardy laboratoryjne kliniczne",
       "category": "human",
       "locale": "pl"
     },
@@ -264,13 +264,13 @@
     {
       "id": "nexus-dx1-0",
       "src": "/nexus-dx1-cover.webp",
-      "alt": "Nexus Dx1 - Product image 1",
+      "alt": "Nexus DX1 - Product image 1",
       "filename": "nexus-dx1-cover.webp",
       "type": "product",
       "associatedContent": {
         "type": "product",
         "id": "nexus-dx1",
-        "title": "Nexus Dx1",
+        "title": "Nexus DX1",
         "url": "/products/nexus-dx1"
       },
       "locale": "pl"
@@ -278,13 +278,13 @@
     {
       "id": "nexus-dx1-1",
       "src": "/nexus-dx1.webp",
-      "alt": "Nexus Dx1 - Product image 2",
+      "alt": "Nexus DX1 - Product image 2",
       "filename": "nexus-dx1.webp",
       "type": "product",
       "associatedContent": {
         "type": "product",
         "id": "nexus-dx1",
-        "title": "Nexus Dx1",
+        "title": "Nexus DX1",
         "url": "/products/nexus-dx1"
       },
       "locale": "pl"
@@ -292,13 +292,13 @@
     {
       "id": "nexus-dx1-2",
       "src": "/nexus-dx1-2.webp",
-      "alt": "Nexus Dx1 - Product image 3",
+      "alt": "Nexus DX1 - Product image 3",
       "filename": "nexus-dx1-2.webp",
       "type": "product",
       "associatedContent": {
         "type": "product",
         "id": "nexus-dx1",
-        "title": "Nexus Dx1",
+        "title": "Nexus DX1",
         "url": "/products/nexus-dx1"
       },
       "locale": "pl"
@@ -306,13 +306,13 @@
     {
       "id": "nexus-dx1-3",
       "src": "/nexus-dx1-3.webp",
-      "alt": "Nexus Dx1 - Product image 4",
+      "alt": "Nexus DX1 - Product image 4",
       "filename": "nexus-dx1-3.webp",
       "type": "product",
       "associatedContent": {
         "type": "product",
         "id": "nexus-dx1",
-        "title": "Nexus Dx1",
+        "title": "Nexus DX1",
         "url": "/products/nexus-dx1"
       },
       "locale": "pl"
@@ -320,13 +320,13 @@
     {
       "id": "nexus-dx1-4",
       "src": "/nexus-dx1-4.webp",
-      "alt": "Nexus Dx1 - Product image 5",
+      "alt": "Nexus DX1 - Product image 5",
       "filename": "nexus-dx1-4.webp",
       "type": "product",
       "associatedContent": {
         "type": "product",
         "id": "nexus-dx1",
-        "title": "Nexus Dx1",
+        "title": "Nexus DX1",
         "url": "/products/nexus-dx1"
       },
       "locale": "pl"
@@ -432,7 +432,7 @@
     {
       "id": "article-who-6th-edition-semen-analysis-standards",
       "src": "/WHO6.webp",
-      "alt": "Przewodnik Standardów Analizy Nasienia 6. Wydania WHO z systemem CASA, Nexus Dx1, Ruchliwością Plemników, Morfologią Plemników i Wbudowanym stolikiem grzewczym",
+      "alt": "Przewodnik Standardów Analizy Nasienia 6. Wydania WHO z systemem CASA, Nexus DX1, Ruchliwością Plemników, Morfologią Plemników i Wbudowanym stolikiem grzewczym",
       "filename": "WHO6.webp",
       "type": "article",
       "associatedContent": {
@@ -446,7 +446,7 @@
     {
       "id": "article-iso-23162-2021-laboratory-competence-guide",
       "src": "/ISO.webp",
-      "alt": "Przewodnik Kompetencji Laboratoryjnych ISO 23162:2021 z systemem CASA, Nexus Dx1, Wymaganiami badania nasienia, Kontrolą jakości i Standardami laboratoryjnymi",
+      "alt": "Przewodnik Kompetencji Laboratoryjnych ISO 23162:2021 z systemem CASA, Nexus DX1, Wymaganiami badania nasienia, Kontrolą jakości i Standardami laboratoryjnymi",
       "filename": "ISO.webp",
       "type": "article",
       "associatedContent": {
@@ -460,7 +460,7 @@
     {
       "id": "article-eshre-guidelines-clinical-semen-examination",
       "src": "/ESHRE.webp",
-      "alt": "Przewodnik Badania Nasienia Klinicznego Wytycznych ESHRE z systemem CASA, Nexus Dx1, Doskonałością ART, IVF, ICSI i Technologią Wspomaganego Rozrodu",
+      "alt": "Przewodnik Badania Nasienia Klinicznego Wytycznych ESHRE z systemem CASA, Nexus DX1, Doskonałością ART, IVF, ICSI i Technologią Wspomaganego Rozrodu",
       "filename": "ESHRE.webp",
       "type": "article",
       "associatedContent": {
@@ -474,7 +474,7 @@
     {
       "id": "article-asrm-male-infertility-evaluation-protocols",
       "src": "/ASRM.webp",
-      "alt": "Przewodnik Protokołów Oceny Niepłodności Męskiej ASRM z systemem CASA, Nexus Dx1, Ocena niepłodności męskiej, IUI, IVF, ICSI i Standardy laboratoryjne kliniczne",
+      "alt": "Przewodnik Protokołów Oceny Niepłodności Męskiej ASRM z systemem CASA, Nexus DX1, Ocena niepłodności męskiej, IUI, IVF, ICSI i Standardy laboratoryjne kliniczne",
       "filename": "ASRM.webp",
       "type": "article",
       "associatedContent": {

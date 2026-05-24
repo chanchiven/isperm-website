@@ -3,7 +3,7 @@
     {
       "id": "nexus-dx1",
       "slug": "nexus-dx1",
-      "name": "Nexus Dx1",
+      "name": "Nexus DX1",
       "description": "Hệ thống CASA tự động hoàn toàn tuân thủ WHO phiên bản thứ 6, được thiết kế cho sử dụng lâm sàng và phòng thí nghiệm, có thuật toán AI tiên tiến và phân tích tham số toàn diện.",
       "subtitle": "Hệ thống CASA Người Tự động Hoàn toàn",
       "images": [
@@ -97,7 +97,7 @@
       "subtitle": "Nắm vững tiêu chuẩn WHO Phiên bản thứ 6 với công nghệ CASA tiên tiến để đánh giá khả năng sinh sản nam chính xác",
       "content": "Trong lĩnh vực y học sinh sản, phân tích tinh dịch vẫn là nền tảng của đánh giá khả năng sinh sản nam. Với việc phát hành WHO Phiên bản thứ 6 (2021), ngành công nghiệp đã chuyển hướng sang độ chính xác cao hơn, kiểm soát chất lượng nghiêm ngặt hơn, và tích hợp các hệ thống Phân tích Tinh trùng Hỗ trợ Máy tính (CASA) tiên tiến. Bài viết này khám phá sự tiến hóa của các tiêu chuẩn này và các yêu cầu kỹ thuật cho chẩn đoán lâm sàng hiện đại. Chương 1: Vai trò của CASA trong Nam khoa Hiện đại Kính h",
       "image": "/WHO6.webp",
-      "alt": "Hướng dẫn Tiêu chuẩn Phân tích Tinh dịch WHO Phiên bản thứ 6 với hệ thống CASA, Nexus Dx1, Khả năng Vận động Tinh trùng, Hình thái Tinh trùng, và Bàn gia nhiệt tích hợp",
+      "alt": "Hướng dẫn Tiêu chuẩn Phân tích Tinh dịch WHO Phiên bản thứ 6 với hệ thống CASA, Nexus DX1, Khả năng Vận động Tinh trùng, Hình thái Tinh trùng, và Bàn gia nhiệt tích hợp",
       "category": "human",
       "locale": "vi"
     },
@@ -108,7 +108,7 @@
       "subtitle": "Nắm vững yêu cầu kỹ thuật ISO 23162:2021 và khung quản lý chất lượng cho kết quả kiểm tra tinh dịch có thể so sánh toàn cầu",
       "content": "Bài viết này tập trung vào ISO 23162:2021, tiêu chuẩn quốc tế quy định các yêu cầu và phương pháp kiểm tra cho kiểm tra tinh dịch người cơ bản. Trong khi WHO Phiên bản thứ 6 cung cấp sổ tay lâm sàng, ISO 23162 cung cấp khung kỹ thuật và quản lý chất lượng cho các phòng thí nghiệm để đảm bảo kết quả của họ có thể so sánh toàn cầu. Việc phát hành ISO 23162:2021 đánh dấu một cột mốc trong y học sinh sản, là tiêu chuẩn quốc tế đầu tiên dành riêng cho kiểm tra tinh dịch cơ bản. Đối với các phòng khám",
       "image": "/ISO.webp",
-      "alt": "Hướng dẫn Năng lực Phòng thí nghiệm ISO 23162:2021 với hệ thống CASA, Nexus Dx1, Yêu cầu kiểm tra tinh dịch, Kiểm soát chất lượng, và Tiêu chuẩn phòng thí nghiệm",
+      "alt": "Hướng dẫn Năng lực Phòng thí nghiệm ISO 23162:2021 với hệ thống CASA, Nexus DX1, Yêu cầu kiểm tra tinh dịch, Kiểm soát chất lượng, và Tiêu chuẩn phòng thí nghiệm",
       "category": "human",
       "locale": "vi"
     },
@@ -119,7 +119,7 @@
       "subtitle": "Hướng dẫn ESHRE dựa trên bằng chứng kết nối kết quả phòng thí nghiệm và quyết định lâm sàng cho kết quả ART tối ưu",
       "content": "Trong khi Sổ tay WHO cung cấp \"cách làm\" và ISO 23162 cung cấp \"thông số kỹ thuật\", ESHRE tập trung vào Tiêu chuẩn Chăm sóc—cách các chẩn đoán này nên được tích hợp vào thực hành lâm sàng để cải thiện kết quả trong Công nghệ Hỗ trợ Sinh sản (ART). Là cơ quan hàng đầu trong y học sinh sản châu Âu, ESHRE cung cấp các hướng dẫn dựa trên bằng chứng kết nối khoảng cách giữa kết quả phòng thí nghiệm và quyết định lâm sàng. Đối với các phòng khám khả năng sinh sản hiện đại, tuân thủ các khuyến nghị ESH",
       "image": "/ESHRE.webp",
-      "alt": "Hướng dẫn Kiểm tra Tinh dịch Lâm sàng ESHRE với hệ thống CASA, Nexus Dx1, Xuất sắc ART, IVF, ICSI, và Công nghệ Hỗ trợ Sinh sản",
+      "alt": "Hướng dẫn Kiểm tra Tinh dịch Lâm sàng ESHRE với hệ thống CASA, Nexus DX1, Xuất sắc ART, IVF, ICSI, và Công nghệ Hỗ trợ Sinh sản",
       "category": "human",
       "locale": "vi"
     },
@@ -130,7 +130,7 @@
       "subtitle": "Giao thức ASRM dựa trên bằng chứng tích hợp phân tích tinh dịch vào chẩn đoán và con đường điều trị vô sinh nam toàn diện",
       "content": "Trong khi Sổ tay WHO cung cấp \"cách làm\" và ISO 23162 cung cấp \"tiêu chuẩn kỹ thuật\", ASRM tập trung vào Con đường Lâm sàng—hướng dẫn cách kết quả phân tích tinh dịch nên hướng dẫn công việc chẩn đoán và điều trị nam giới vô sinh trong môi trường lâm sàng. Là cơ quan hàng đầu về y học sinh sản ở Hoa Kỳ, ASRM thiết lập các giao thức dựa trên bằng chứng định nghĩa chăm sóc khả năng sinh sản hiện đại. Đối với các bác sĩ lâm sàng và giám đốc phòng thí nghiệm, tuân theo ý kiến ủy ban ASRM đảm bảo rằn",
       "image": "/ASRM.webp",
-      "alt": "Giao thức Đánh giá Vô sinh Nam ASRM với hệ thống CASA, Nexus Dx1, Đánh giá vô sinh nam, IUI, IVF, ICSI, và Tiêu chuẩn Phòng thí nghiệm Lâm sàng",
+      "alt": "Giao thức Đánh giá Vô sinh Nam ASRM với hệ thống CASA, Nexus DX1, Đánh giá vô sinh nam, IUI, IVF, ICSI, và Tiêu chuẩn Phòng thí nghiệm Lâm sàng",
       "category": "human",
       "locale": "vi"
     },
@@ -264,13 +264,13 @@
     {
       "id": "nexus-dx1-0",
       "src": "/nexus-dx1-cover.webp",
-      "alt": "Nexus Dx1 - Product image 1",
+      "alt": "Nexus DX1 - Product image 1",
       "filename": "nexus-dx1-cover.webp",
       "type": "product",
       "associatedContent": {
         "type": "product",
         "id": "nexus-dx1",
-        "title": "Nexus Dx1",
+        "title": "Nexus DX1",
         "url": "/products/nexus-dx1"
       },
       "locale": "vi"
@@ -278,13 +278,13 @@
     {
       "id": "nexus-dx1-1",
       "src": "/nexus-dx1.webp",
-      "alt": "Nexus Dx1 - Product image 2",
+      "alt": "Nexus DX1 - Product image 2",
       "filename": "nexus-dx1.webp",
       "type": "product",
       "associatedContent": {
         "type": "product",
         "id": "nexus-dx1",
-        "title": "Nexus Dx1",
+        "title": "Nexus DX1",
         "url": "/products/nexus-dx1"
       },
       "locale": "vi"
@@ -292,13 +292,13 @@
     {
       "id": "nexus-dx1-2",
       "src": "/nexus-dx1-2.webp",
-      "alt": "Nexus Dx1 - Product image 3",
+      "alt": "Nexus DX1 - Product image 3",
       "filename": "nexus-dx1-2.webp",
       "type": "product",
       "associatedContent": {
         "type": "product",
         "id": "nexus-dx1",
-        "title": "Nexus Dx1",
+        "title": "Nexus DX1",
         "url": "/products/nexus-dx1"
       },
       "locale": "vi"
@@ -306,13 +306,13 @@
     {
       "id": "nexus-dx1-3",
       "src": "/nexus-dx1-3.webp",
-      "alt": "Nexus Dx1 - Product image 4",
+      "alt": "Nexus DX1 - Product image 4",
       "filename": "nexus-dx1-3.webp",
       "type": "product",
       "associatedContent": {
         "type": "product",
         "id": "nexus-dx1",
-        "title": "Nexus Dx1",
+        "title": "Nexus DX1",
         "url": "/products/nexus-dx1"
       },
       "locale": "vi"
@@ -320,13 +320,13 @@
     {
       "id": "nexus-dx1-4",
       "src": "/nexus-dx1-4.webp",
-      "alt": "Nexus Dx1 - Product image 5",
+      "alt": "Nexus DX1 - Product image 5",
       "filename": "nexus-dx1-4.webp",
       "type": "product",
       "associatedContent": {
         "type": "product",
         "id": "nexus-dx1",
-        "title": "Nexus Dx1",
+        "title": "Nexus DX1",
         "url": "/products/nexus-dx1"
       },
       "locale": "vi"
@@ -432,7 +432,7 @@
     {
       "id": "article-who-6th-edition-semen-analysis-standards",
       "src": "/WHO6.webp",
-      "alt": "Hướng dẫn Tiêu chuẩn Phân tích Tinh dịch WHO Phiên bản thứ 6 với hệ thống CASA, Nexus Dx1, Khả năng Vận động Tinh trùng, Hình thái Tinh trùng, và Bàn gia nhiệt tích hợp",
+      "alt": "Hướng dẫn Tiêu chuẩn Phân tích Tinh dịch WHO Phiên bản thứ 6 với hệ thống CASA, Nexus DX1, Khả năng Vận động Tinh trùng, Hình thái Tinh trùng, và Bàn gia nhiệt tích hợp",
       "filename": "WHO6.webp",
       "type": "article",
       "associatedContent": {
@@ -446,7 +446,7 @@
     {
       "id": "article-iso-23162-2021-laboratory-competence-guide",
       "src": "/ISO.webp",
-      "alt": "Hướng dẫn Năng lực Phòng thí nghiệm ISO 23162:2021 với hệ thống CASA, Nexus Dx1, Yêu cầu kiểm tra tinh dịch, Kiểm soát chất lượng, và Tiêu chuẩn phòng thí nghiệm",
+      "alt": "Hướng dẫn Năng lực Phòng thí nghiệm ISO 23162:2021 với hệ thống CASA, Nexus DX1, Yêu cầu kiểm tra tinh dịch, Kiểm soát chất lượng, và Tiêu chuẩn phòng thí nghiệm",
       "filename": "ISO.webp",
       "type": "article",
       "associatedContent": {
@@ -460,7 +460,7 @@
     {
       "id": "article-eshre-guidelines-clinical-semen-examination",
       "src": "/ESHRE.webp",
-      "alt": "Hướng dẫn Kiểm tra Tinh dịch Lâm sàng ESHRE với hệ thống CASA, Nexus Dx1, Xuất sắc ART, IVF, ICSI, và Công nghệ Hỗ trợ Sinh sản",
+      "alt": "Hướng dẫn Kiểm tra Tinh dịch Lâm sàng ESHRE với hệ thống CASA, Nexus DX1, Xuất sắc ART, IVF, ICSI, và Công nghệ Hỗ trợ Sinh sản",
       "filename": "ESHRE.webp",
       "type": "article",
       "associatedContent": {
@@ -474,7 +474,7 @@
     {
       "id": "article-asrm-male-infertility-evaluation-protocols",
       "src": "/ASRM.webp",
-      "alt": "Giao thức Đánh giá Vô sinh Nam ASRM với hệ thống CASA, Nexus Dx1, Đánh giá vô sinh nam, IUI, IVF, ICSI, và Tiêu chuẩn Phòng thí nghiệm Lâm sàng",
+      "alt": "Giao thức Đánh giá Vô sinh Nam ASRM với hệ thống CASA, Nexus DX1, Đánh giá vô sinh nam, IUI, IVF, ICSI, và Tiêu chuẩn Phòng thí nghiệm Lâm sàng",
       "filename": "ASRM.webp",
       "type": "article",
       "associatedContent": {

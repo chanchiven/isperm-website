@@ -7,7 +7,7 @@
 | 文件 | 状态 | 说明 |
 |------|------|------|
 | `messages/pt/index.json` | ✅ 完成 | 首页所有内容（meta、nav、hero、about、features、timeline、footer） |
-| `messages/pt/products.json` | ✅ 完成 | 所有产品信息（Nexus Dx1、MSQA-100、SQA-6100vet） |
+| `messages/pt/products.json` | ✅ 完成 | 所有产品信息（Nexus DX1、MSQA-100、SQA-6100vet） |
 | `messages/pt/about.json` | ✅ 完成 | 关于我们页面所有内容 |
 | `messages/pt/contact.json` | ✅ 完成 | 联系页面所有内容 |
 | `messages/pt/faq.json` | ✅ 完成 | FAQ中心所有内容 |
@@ -56,7 +56,7 @@
 - ✅ 导航菜单
 - ✅ Hero区域
 - ✅ 所有3个产品的完整信息：
-  - Nexus Dx1
+  - Nexus DX1
   - MSQA-100
   - SQA-6100vet
 - ✅ 每个产品的所有规格、特性、应用场景
