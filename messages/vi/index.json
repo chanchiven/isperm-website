@@ -1,4 +1,4 @@
-{
+﻿{
   "meta": {
     "title": "iSperm Máy phân tích tinh dịch - Cách mạng hóa Phân tích Tinh dịch",
     "description": "Hệ thống phân tích tinh dịch tự động hoàn toàn được thiết kế cho sử dụng lâm sàng và chăn nuôi động vật, có các thuật toán AI tiên tiến."
@@ -60,13 +60,13 @@
   },
   "footer": {
     "company": "iSperm Medical",
-    "description": "iSperm Medical Ltd. cam kết cung cấp các giải pháp công nghệ tiên tiến trong phân tích tinh dịch.",
+    "description": "iSperm Medical Limited cam kết cung cấp các giải pháp công nghệ tiên tiến trong phân tích tinh dịch.",
     "quickLinks": "Liên kết Nhanh",
     "contact": "Liên hệ",
     "email": "Email:",
     "address": "Địa chỉ:",
     "fullAddress": "Tầng 2, Khối B, Công viên Khoa học Sự sống Shenchengtou & Zhongcheng, Quận Pingshan, Thâm Quyến, Quảng Đông, Trung Quốc",
-    "rights": "© 2024 iSperm Medical Ltd. Bảo lưu mọi quyền."
+    "rights": "© 2024 iSperm Medical Limited. Bảo lưu mọi quyền."
   },
   "notFound": {
     "title": "Không tìm thấy trang",

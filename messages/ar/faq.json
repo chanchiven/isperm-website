@@ -1,4 +1,4 @@
-{
+﻿{
   "meta": {
     "title": "مركز المعرفة | أسئلة وأجوبة نظام CASA | iSperm Medical",
     "description": "أسئلة وأجوبة شاملة حول أنظمة CASA، أدلة الإصدار السادس من WHO، وموارد تحليل السائل المنوي. رؤى الخبراء حول محللات مورفولوجيا الحيوانات المنوية."
@@ -1798,13 +1798,13 @@
   },
   "footer": {
     "company": "iSperm Medical",
-    "description": "iSperm Medical Ltd. ملتزمة بتقديم حلول تكنولوجية متطورة في تحليل السائل المنوي.",
+    "description": "iSperm Medical Limited ملتزمة بتقديم حلول تكنولوجية متطورة في تحليل السائل المنوي.",
     "quickLinks": "روابط سريعة",
     "contact": "اتصل بنا",
     "email": "البريد الإلكتروني:",
     "address": "العنوان:",
     "fullAddress": "2F, Block B, Shenchengtou & Zhongcheng Life Science Park, Pingshan District, Shenzhen, Guangdong, China",
-    "rights": "© 2024 iSperm Medical Ltd. جميع الحقوق محفوظة."
+    "rights": "© 2024 iSperm Medical Limited. جميع الحقوق محفوظة."
   },
   "errors": {
     "articleNotFound": {

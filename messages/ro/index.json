@@ -1,4 +1,4 @@
-{
+﻿{
   "meta": {
     "title": "iSperm Analizor de Spermă - Revoluționând Analiza Spermei",
     "description": "Sistem de analiză a spermei complet automatizat, proiectat pentru utilizare clinică și creșterea animalelor, cu algoritmi AI avansați."
@@ -60,13 +60,13 @@
   },
   "footer": {
     "company": "iSperm Medical",
-    "description": "iSperm Medical Ltd. este angajat să ofere soluții tehnologice de ultimă generație în analiza spermei.",
+    "description": "iSperm Medical Limited este angajat să ofere soluții tehnologice de ultimă generație în analiza spermei.",
     "quickLinks": "Linkuri Rapide",
     "contact": "Contact",
     "email": "Email:",
     "address": "Adresă:",
     "fullAddress": "2F, Block B, Shenchengtou & Zhongcheng Life Science Park, Pingshan District, Shenzhen, Guangdong, China",
-    "rights": "© 2024 iSperm Medical Ltd. Toate drepturile rezervate."
+    "rights": "© 2024 iSperm Medical Limited. Toate drepturile rezervate."
   },
   "notFound": {
     "title": "Pagina nu a fost găsită",

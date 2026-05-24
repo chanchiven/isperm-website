@@ -1,4 +1,4 @@
-/**
+﻿/**
  * 生成搜索翻译文件的脚本
  * 为所有语言创建 search.json 文件（基于英文版本）
  */
@@ -51,11 +51,11 @@ const translations = {
     },
     footer: {
       company: "iSperm Medical",
-      description: "iSperm Medical Ltd. está comprometida a ofrecer soluciones tecnológicas de vanguardia en análisis de semen.",
+      description: "iSperm Medical Limited está comprometida a ofrecer soluciones tecnológicas de vanguardia en análisis de semen.",
       quickLinks: "Enlaces Rápidos",
       contact: "Contacto",
       email: "Correo electrónico:",
-      rights: "© 2024 iSperm Medical Ltd. Todos los derechos reservados."
+      rights: "© 2024 iSperm Medical Limited. Todos los derechos reservados."
     }
   },
   de: {
@@ -86,11 +86,11 @@ const translations = {
     },
     footer: {
       company: "iSperm Medical",
-      description: "iSperm Medical Ltd. ist verpflichtet, wegweisende Technologielösungen in der Samenanalyse anzubieten.",
+      description: "iSperm Medical Limited ist verpflichtet, wegweisende Technologielösungen in der Samenanalyse anzubieten.",
       quickLinks: "Schnelllinks",
       contact: "Kontakt",
       email: "E-Mail:",
-      rights: "© 2024 iSperm Medical Ltd. Alle Rechte vorbehalten."
+      rights: "© 2024 iSperm Medical Limited. Alle Rechte vorbehalten."
     }
   },
   fr: {
@@ -121,11 +121,11 @@ const translations = {
     },
     footer: {
       company: "iSperm Medical",
-      description: "iSperm Medical Ltd. s'engage à offrir des solutions technologiques de pointe en analyse de sperme.",
+      description: "iSperm Medical Limited s'engage à offrir des solutions technologiques de pointe en analyse de sperme.",
       quickLinks: "Liens rapides",
       contact: "Contact",
       email: "E-mail:",
-      rights: "© 2024 iSperm Medical Ltd. Tous droits réservés."
+      rights: "© 2024 iSperm Medical Limited. Tous droits réservés."
     }
   },
   ja: {
@@ -156,11 +156,11 @@ const translations = {
     },
     footer: {
       company: "iSperm Medical",
-      description: "iSperm Medical Ltd.は、精液分析における最先端の技術ソリューションの提供に取り組んでいます。",
+      description: "iSperm Medical Limitedは、精液分析における最先端の技術ソリューションの提供に取り組んでいます。",
       quickLinks: "クイックリンク",
       contact: "お問い合わせ",
       email: "メール:",
-      rights: "© 2024 iSperm Medical Ltd. 全著作権所有。"
+      rights: "© 2024 iSperm Medical Limited. 全著作権所有。"
     }
   },
   ko: {
@@ -191,11 +191,11 @@ const translations = {
     },
     footer: {
       company: "iSperm Medical",
-      description: "iSperm Medical Ltd.는 정액 분석 분야의 최첨단 기술 솔루션을 제공하는 데 전념하고 있습니다.",
+      description: "iSperm Medical Limited는 정액 분석 분야의 최첨단 기술 솔루션을 제공하는 데 전념하고 있습니다.",
       quickLinks: "빠른 링크",
       contact: "연락처",
       email: "이메일:",
-      rights: "© 2024 iSperm Medical Ltd. 모든 권리 보유."
+      rights: "© 2024 iSperm Medical Limited. 모든 권리 보유."
     }
   },
   ar: {
@@ -226,11 +226,11 @@ const translations = {
     },
     footer: {
       company: "iSperm Medical",
-      description: "تلتزم iSperm Medical Ltd. بتقديم حلول تكنولوجية متطورة في تحليل السائل المنوي.",
+      description: "تلتزم iSperm Medical Limited بتقديم حلول تكنولوجية متطورة في تحليل السائل المنوي.",
       quickLinks: "روابط سريعة",
       contact: "اتصل",
       email: "البريد الإلكتروني:",
-      rights: "© 2024 iSperm Medical Ltd. جميع الحقوق محفوظة."
+      rights: "© 2024 iSperm Medical Limited. جميع الحقوق محفوظة."
     }
   },
   it: {
@@ -261,11 +261,11 @@ const translations = {
     },
     footer: {
       company: "iSperm Medical",
-      description: "iSperm Medical Ltd. si impegna a fornire soluzioni tecnologiche all'avanguardia nell'analisi dello sperma.",
+      description: "iSperm Medical Limited si impegna a fornire soluzioni tecnologiche all'avanguardia nell'analisi dello sperma.",
       quickLinks: "Link rapidi",
       contact: "Contatto",
       email: "Email:",
-      rights: "© 2024 iSperm Medical Ltd. Tutti i diritti riservati."
+      rights: "© 2024 iSperm Medical Limited. Tutti i diritti riservati."
     }
   },
   pt: {
@@ -296,11 +296,11 @@ const translations = {
     },
     footer: {
       company: "iSperm Medical",
-      description: "iSperm Medical Ltd. está comprometida em fornecer soluções tecnológicas de ponta em análise de sêmen.",
+      description: "iSperm Medical Limited está comprometida em fornecer soluções tecnológicas de ponta em análise de sêmen.",
       quickLinks: "Links rápidos",
       contact: "Contato",
       email: "E-mail:",
-      rights: "© 2024 iSperm Medical Ltd. Todos os direitos reservados."
+      rights: "© 2024 iSperm Medical Limited. Todos os direitos reservados."
     }
   },
   ru: {
@@ -331,11 +331,11 @@ const translations = {
     },
     footer: {
       company: "iSperm Medical",
-      description: "iSperm Medical Ltd. стремится предоставлять передовые технологические решения в области анализа спермы.",
+      description: "iSperm Medical Limited стремится предоставлять передовые технологические решения в области анализа спермы.",
       quickLinks: "Быстрые ссылки",
       contact: "Контакты",
       email: "Электронная почта:",
-      rights: "© 2024 iSperm Medical Ltd. Все права защищены."
+      rights: "© 2024 iSperm Medical Limited. Все права защищены."
     }
   },
   tr: {
@@ -366,11 +366,11 @@ const translations = {
     },
     footer: {
       company: "iSperm Medical",
-      description: "iSperm Medical Ltd., semen analizinde çığır açan teknoloji çözümleri sunmaya kararlıdır.",
+      description: "iSperm Medical Limited, semen analizinde çığır açan teknoloji çözümleri sunmaya kararlıdır.",
       quickLinks: "Hızlı Bağlantılar",
       contact: "İletişim",
       email: "E-posta:",
-      rights: "© 2024 iSperm Medical Ltd. Tüm hakları saklıdır."
+      rights: "© 2024 iSperm Medical Limited. Tüm hakları saklıdır."
     }
   },
   pl: {
@@ -401,11 +401,11 @@ const translations = {
     },
     footer: {
       company: "iSperm Medical",
-      description: "iSperm Medical Ltd. zobowiązuje się dostarczać zaawansowane rozwiązania technologiczne w analizie nasienia.",
+      description: "iSperm Medical Limited zobowiązuje się dostarczać zaawansowane rozwiązania technologiczne w analizie nasienia.",
       quickLinks: "Szybkie linki",
       contact: "Kontakt",
       email: "E-mail:",
-      rights: "© 2024 iSperm Medical Ltd. Wszelkie prawa zastrzeżone."
+      rights: "© 2024 iSperm Medical Limited. Wszelkie prawa zastrzeżone."
     }
   },
   nl: {
@@ -436,11 +436,11 @@ const translations = {
     },
     footer: {
       company: "iSperm Medical",
-      description: "iSperm Medical Ltd. is toegewijd aan het leveren van geavanceerde technologische oplossingen in sperma-analyse.",
+      description: "iSperm Medical Limited is toegewijd aan het leveren van geavanceerde technologische oplossingen in sperma-analyse.",
       quickLinks: "Snelle links",
       contact: "Contact",
       email: "E-mail:",
-      rights: "© 2024 iSperm Medical Ltd. Alle rechten voorbehouden."
+      rights: "© 2024 iSperm Medical Limited. Alle rechten voorbehouden."
     }
   },
   vi: {
@@ -471,11 +471,11 @@ const translations = {
     },
     footer: {
       company: "iSperm Medical",
-      description: "iSperm Medical Ltd. cam kết cung cấp các giải pháp công nghệ tiên tiến trong phân tích tinh dịch.",
+      description: "iSperm Medical Limited cam kết cung cấp các giải pháp công nghệ tiên tiến trong phân tích tinh dịch.",
       quickLinks: "Liên kết nhanh",
       contact: "Liên hệ",
       email: "Email:",
-      rights: "© 2024 iSperm Medical Ltd. Bảo lưu mọi quyền."
+      rights: "© 2024 iSperm Medical Limited. Bảo lưu mọi quyền."
     }
   },
   id: {
@@ -506,11 +506,11 @@ const translations = {
     },
     footer: {
       company: "iSperm Medical",
-      description: "iSperm Medical Ltd. berkomitmen untuk menyediakan solusi teknologi canggih dalam analisis semen.",
+      description: "iSperm Medical Limited berkomitmen untuk menyediakan solusi teknologi canggih dalam analisis semen.",
       quickLinks: "Tautan Cepat",
       contact: "Kontak",
       email: "Email:",
-      rights: "© 2024 iSperm Medical Ltd. Hak cipta dilindungi."
+      rights: "© 2024 iSperm Medical Limited. Hak cipta dilindungi."
     }
   },
   uk: {
@@ -541,11 +541,11 @@ const translations = {
     },
     footer: {
       company: "iSperm Medical",
-      description: "iSperm Medical Ltd. прагне надавати передові технологічні рішення в галузі аналізу сперми.",
+      description: "iSperm Medical Limited прагне надавати передові технологічні рішення в галузі аналізу сперми.",
       quickLinks: "Швидкі посилання",
       contact: "Контакти",
       email: "Електронна пошта:",
-      rights: "© 2024 iSperm Medical Ltd. Всі права захищені."
+      rights: "© 2024 iSperm Medical Limited. Всі права захищені."
     }
   },
   bg: {
@@ -576,11 +576,11 @@ const translations = {
     },
     footer: {
       company: "iSperm Medical",
-      description: "iSperm Medical Ltd. се ангажира да предоставя иновативни технологични решения в анализа на сперма.",
+      description: "iSperm Medical Limited се ангажира да предоставя иновативни технологични решения в анализа на сперма.",
       quickLinks: "Бързи връзки",
       contact: "Контакт",
       email: "Имейл:",
-      rights: "© 2024 iSperm Medical Ltd. Всички права запазени."
+      rights: "© 2024 iSperm Medical Limited. Всички права запазени."
     }
   },
   ro: {
@@ -611,11 +611,11 @@ const translations = {
     },
     footer: {
       company: "iSperm Medical",
-      description: "iSperm Medical Ltd. se angajează să ofere soluții tehnologice de vârf în analiza spermei.",
+      description: "iSperm Medical Limited se angajează să ofere soluții tehnologice de vârf în analiza spermei.",
       quickLinks: "Link-uri rapide",
       contact: "Contact",
       email: "E-mail:",
-      rights: "© 2024 iSperm Medical Ltd. Toate drepturile rezervate."
+      rights: "© 2024 iSperm Medical Limited. Toate drepturile rezervate."
     }
   }
 };

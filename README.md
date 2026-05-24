@@ -1,6 +1,6 @@
-# iSperm Medical Website
+﻿# iSperm Medical Website
 
-Official website for iSperm Medical Ltd. - Leading manufacturer of fully automated CASA (Computer-Assisted Semen Analysis) systems.
+Official website for iSperm Medical Limited - Leading manufacturer of fully automated CASA (Computer-Assisted Semen Analysis) systems.
 
 ## Products
 

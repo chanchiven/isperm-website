@@ -1,4 +1,4 @@
-{
+﻿{
   "meta": {
     "title": "Поиск систем CASA и анализаторов спермы | iSperm Medical",
     "description": "Ищите продукты iSperm Medical, системы CASA, анализаторы спермы и статьи базы знаний. Nexus DX1, MSQA-100, SQA-6100vet и другое."
@@ -30,11 +30,11 @@
   },
   "footer": {
     "company": "iSperm Medical",
-    "description": "iSperm Medical Ltd. стремится предоставлять передовые технологические решения в области анализа спермы.",
+    "description": "iSperm Medical Limited стремится предоставлять передовые технологические решения в области анализа спермы.",
     "quickLinks": "Быстрые ссылки",
     "contact": "Контакты",
     "email": "Электронная почта:",
-    "rights": "© 2024 iSperm Medical Ltd. Все права защищены."
+    "rights": "© 2024 iSperm Medical Limited. Все права защищены."
   },
   "filters": {
     "title": "Filters",

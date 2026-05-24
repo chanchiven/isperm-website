@@ -1,4 +1,4 @@
-{
+﻿{
   "meta": {
     "title": "À propos d'iSperm Medical | Fabricant de Systèmes CASA",
     "description": "Fabricant leader de systèmes CASA et d'analyseurs de sperme. Analyseurs de morphologie du sperme conformes à la 6e édition de l'OMS pour usage humain et vétérinaire depuis 2010."
@@ -72,12 +72,12 @@
   },
   "footer": {
     "company": "iSperm Medical",
-    "description": "iSperm Medical Ltd. s'engage à fournir des solutions technologiques de pointe en analyse du sperme.",
+    "description": "iSperm Medical Limited s'engage à fournir des solutions technologiques de pointe en analyse du sperme.",
     "quickLinks": "Liens Rapides",
     "contact": "Contact",
     "email": "Email :",
     "address": "Adresse :",
     "fullAddress": "2F, Bloc B, Parc des Sciences de la Vie Shenchengtou & Zhongcheng, District de Pingshan, Shenzhen, Guangdong, Chine",
-    "rights": "© 2024 iSperm Medical Ltd. Tous droits réservés."
+    "rights": "© 2024 iSperm Medical Limited. Tous droits réservés."
   }
 }

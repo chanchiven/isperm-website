@@ -1,4 +1,4 @@
-{
+﻿{
   "meta": {
     "title": "지식 허브 | CASA 시스템 FAQ | iSperm Medical",
     "description": "포괄적인 CASA 시스템 FAQ, WHO 6판 가이드 및 정액 분석 리소스. 정자 형태 분석기에 대한 전문가 인사이트."
@@ -1798,13 +1798,13 @@
   },
   "footer": {
     "company": "iSperm Medical",
-    "description": "iSperm Medical Ltd.는 정액 분석 분야의 최첨단 기술 솔루션을 제공하는 데 전념하고 있습니다.",
+    "description": "iSperm Medical Limited는 정액 분석 분야의 최첨단 기술 솔루션을 제공하는 데 전념하고 있습니다.",
     "quickLinks": "빠른 링크",
     "contact": "연락처",
     "email": "이메일:",
     "address": "주소:",
     "fullAddress": "중국 광동성 심천시 핑산구 신성투 & 중성 생명과학 파크 B동 2층",
-    "rights": "© 2024 iSperm Medical Ltd. 모든 권리 보유."
+    "rights": "© 2024 iSperm Medical Limited. 모든 권리 보유."
   },
   "errors": {
     "articleNotFound": {

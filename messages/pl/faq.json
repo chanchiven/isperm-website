@@ -1,4 +1,4 @@
-{
+﻿{
   "meta": {
     "title": "Centrum Wiedzy | Często Zadawane Pytania o Systemy CASA | iSperm Medical",
     "description": "Kompleksowe FAQ dotyczące systemów CASA, przewodniki zgodne z 6. wydaniem WHO oraz zasoby dotyczące analizy nasienia. Eksperckie informacje o analizatorach morfologii plemników."
@@ -1790,13 +1790,13 @@
   },
   "footer": {
     "company": "iSperm Medical",
-    "description": "iSperm Medical Ltd. jest zaangażowana w dostarczanie najnowocześniejszych rozwiązań technologicznych w analizie nasienia.",
+    "description": "iSperm Medical Limited jest zaangażowana w dostarczanie najnowocześniejszych rozwiązań technologicznych w analizie nasienia.",
     "quickLinks": "Szybkie linki",
     "contact": "Kontakt",
     "email": "E-mail:",
     "address": "Adres:",
     "fullAddress": "2F, Blok B, Shenchengtou & Zhongcheng Life Science Park, Dzielnica Pingshan, Shenzhen, Guangdong, Chiny",
-    "rights": "© 2024 iSperm Medical Ltd. Wszelkie prawa zastrzeżone."
+    "rights": "© 2024 iSperm Medical Limited. Wszelkie prawa zastrzeżone."
   },
   "errors": {
     "articleNotFound": {

@@ -1,4 +1,4 @@
-{
+﻿{
   "meta": {
     "title": "Chi Siamo | iSperm Medical | Produttore di Sistemi CASA",
     "description": "Leader nella produzione di sistemi CASA e analizzatori di sperma. Analizzatori di morfologia degli spermatozoi conformi alla 6a edizione dell'OMS per uso umano e veterinario dal 2010."
@@ -72,12 +72,12 @@
   },
   "footer": {
     "company": "iSperm Medical",
-    "description": "iSperm Medical Ltd. si impegna a fornire soluzioni tecnologiche all'avanguardia nell'analisi dello sperma.",
+    "description": "iSperm Medical Limited si impegna a fornire soluzioni tecnologiche all'avanguardia nell'analisi dello sperma.",
     "quickLinks": "Link Rapidi",
     "contact": "Contatti",
     "email": "Email:",
     "address": "Indirizzo:",
     "fullAddress": "2F, Block B, Shenchengtou & Zhongcheng Life Science Park, Pingshan District, Shenzhen, Guangdong, China",
-    "rights": "© 2024 iSperm Medical Ltd. Tutti i diritti riservati."
+    "rights": "© 2024 iSperm Medical Limited. Tutti i diritti riservati."
   }
 }

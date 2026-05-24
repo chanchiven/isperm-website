@@ -1,4 +1,4 @@
-{
+﻿{
   "meta": {
     "title": "CASA 시스템 및 정액 분석기 검색 | iSperm Medical",
     "description": "iSperm Medical 제품, CASA 시스템, 정액 분석기 및 지식 허브 기사를 검색하세요. Nexus DX1, MSQA-100, SQA-6100vet 등을 찾아보세요."
@@ -30,11 +30,11 @@
   },
   "footer": {
     "company": "iSperm Medical",
-    "description": "iSperm Medical Ltd.는 정액 분석 분야의 최첨단 기술 솔루션을 제공하는 데 전념하고 있습니다.",
+    "description": "iSperm Medical Limited는 정액 분석 분야의 최첨단 기술 솔루션을 제공하는 데 전념하고 있습니다.",
     "quickLinks": "빠른 링크",
     "contact": "연락처",
     "email": "이메일:",
-    "rights": "© 2024 iSperm Medical Ltd. 모든 권리 보유."
+    "rights": "© 2024 iSperm Medical Limited. 모든 권리 보유."
   },
   "filters": {
     "title": "Filters",

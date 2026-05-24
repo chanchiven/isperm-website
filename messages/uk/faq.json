@@ -1,4 +1,4 @@
-{
+﻿{
   "meta": {
     "title": "База знань | Часто задавані питання про систему CASA | iSperm Medical",
     "description": "Комплексні часто задавані питання про систему CASA, посібники 6-го видання ВООЗ та ресурси з аналізу сперми. Експертні знання про аналізатори морфології сперматозоїдів."
@@ -1787,13 +1787,13 @@
   },
   "footer": {
     "company": "iSperm Medical",
-    "description": "iSperm Medical Ltd. прагне надавати передові технологічні рішення в аналізі сперми.",
+    "description": "iSperm Medical Limited прагне надавати передові технологічні рішення в аналізі сперми.",
     "quickLinks": "Швидкі посилання",
     "contact": "Контакти",
     "email": "Електронна пошта:",
     "address": "Адреса:",
     "fullAddress": "2F, Block B, Shenchengtou & Zhongcheng Life Science Park, Pingshan District, Shenzhen, Guangdong, China",
-    "rights": "© 2024 iSperm Medical Ltd. Всі права захищені."
+    "rights": "© 2024 iSperm Medical Limited. Всі права захищені."
   },
   "errors": {
     "articleNotFound": {

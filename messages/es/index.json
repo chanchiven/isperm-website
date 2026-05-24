@@ -1,4 +1,4 @@
-{
+﻿{
   "meta": {
     "title": "iSperm Analizador de Semen - Revolucionando el Análisis de Semen",
     "description": "Sistema de análisis de semen totalmente automatizado diseñado para uso clínico y cría animal, con algoritmos de IA avanzados."
@@ -60,13 +60,13 @@
   },
   "footer": {
     "company": "iSperm Medical",
-    "description": "iSperm Medical Ltd. está comprometida a ofrecer soluciones tecnológicas de vanguardia en análisis de semen.",
+    "description": "iSperm Medical Limited está comprometida a ofrecer soluciones tecnológicas de vanguardia en análisis de semen.",
     "quickLinks": "Enlaces Rápidos",
     "contact": "Contacto",
     "email": "Email:",
     "address": "Dirección:",
     "fullAddress": "2F, Block B, Shenchengtou & Zhongcheng Life Science Park, Pingshan District, Shenzhen, Guangdong, China",
-    "rights": "© 2024 iSperm Medical Ltd. Todos los derechos reservados."
+    "rights": "© 2024 iSperm Medical Limited. Todos los derechos reservados."
   },
   "notFound": {
     "title": "Página no encontrada",

@@ -1,4 +1,4 @@
-Banner: 
+﻿Banner: 
 Revolutionizing Semen Analysis
 Pioneering the Future of CASA Automation
 Sub-title
@@ -12,7 +12,7 @@ Who We Are
 iSperm Medical is a pioneering medical technology company dedicated to advancing reproductive medicine through innovation. We specialize in the integration of microfluidic technology, point-of-care testing (POCT), and AI-driven morphological analysis to deliver smart, efficient, and accessible fertility diagnostic solutions.
 
 Footer:
-iSperm Medical Ltd.
+iSperm Medical Limited
 is committed to delivering cutting-edge technology solutions in semen analysis..
 Contact Us:
 Email: market@isperm.com

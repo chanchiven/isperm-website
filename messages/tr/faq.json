@@ -1,4 +1,4 @@
-{
+﻿{
   "meta": {
     "title": "Bilgi Merkezi | CASA Sistemi SSS | iSperm Medical",
     "description": "Kapsamlı CASA sistemi SSS, WHO 6. baskı rehberleri ve semen analizi kaynakları. Sperm morfoloji analizörleri hakkında uzman görüşleri."
@@ -1798,13 +1798,13 @@
   },
   "footer": {
     "company": "iSperm Medical",
-    "description": "iSperm Medical Ltd., semen analizinde çığır açan teknoloji çözümleri sunmaya kararlıdır.",
+    "description": "iSperm Medical Limited, semen analizinde çığır açan teknoloji çözümleri sunmaya kararlıdır.",
     "quickLinks": "Hızlı Bağlantılar",
     "contact": "İletişim",
     "email": "E-posta:",
     "address": "Adres:",
     "fullAddress": "2F, Block B, Shenchengtou & Zhongcheng Life Science Park, Pingshan District, Shenzhen, Guangdong, Çin",
-    "rights": "© 2024 iSperm Medical Ltd. Tüm hakları saklıdır."
+    "rights": "© 2024 iSperm Medical Limited. Tüm hakları saklıdır."
   },
   "errors": {
     "articleNotFound": {

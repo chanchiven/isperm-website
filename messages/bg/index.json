@@ -1,4 +1,4 @@
-{
+﻿{
   "meta": {
     "title": "iSperm Анализатор на сперма - Революция в анализа на спермата",
     "description": "Напълно автоматизирана система за анализ на сперма, проектирана за клинично използване и развъждане на животни, с напреднали AI алгоритми."
@@ -60,13 +60,13 @@
   },
   "footer": {
     "company": "iSperm Medical",
-    "description": "iSperm Medical Ltd. се ангажира да доставя най-модерни технологични решения в анализа на сперма.",
+    "description": "iSperm Medical Limited се ангажира да доставя най-модерни технологични решения в анализа на сперма.",
     "quickLinks": "Бързи връзки",
     "contact": "Контакт",
     "email": "Имейл:",
     "address": "Адрес:",
     "fullAddress": "2F, Блок B, Shenchengtou & Zhongcheng Life Science Park, Район Пиншан, Шенжен, Гуандун, Китай",
-    "rights": "© 2024 iSperm Medical Ltd. Всички права запазени."
+    "rights": "© 2024 iSperm Medical Limited. Всички права запазени."
   },
   "notFound": {
     "title": "Страницата не е намерена",

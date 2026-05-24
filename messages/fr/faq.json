@@ -1,4 +1,4 @@
-{
+﻿{
   "meta": {
     "title": "Centre de Connaissances | FAQ Système CASA | iSperm Medical",
     "description": "FAQ complètes sur les systèmes CASA, guides de la 6e édition de l'OMS et ressources sur l'analyse du sperme. Perspectives d'experts sur les analyseurs de morphologie du sperme."
@@ -1798,13 +1798,13 @@
   },
   "footer": {
     "company": "iSperm Medical",
-    "description": "iSperm Medical Ltd. s'engage à fournir des solutions technologiques de pointe dans l'analyse du sperme.",
+    "description": "iSperm Medical Limited s'engage à fournir des solutions technologiques de pointe dans l'analyse du sperme.",
     "quickLinks": "Liens Rapides",
     "contact": "Contact",
     "email": "Email :",
     "address": "Adresse :",
     "fullAddress": "2F, Block B, Shenchengtou & Zhongcheng Life Science Park, Pingshan District, Shenzhen, Guangdong, China",
-    "rights": "© 2024 iSperm Medical Ltd. Tous droits réservés."
+    "rights": "© 2024 iSperm Medical Limited. Tous droits réservés."
   },
   "errors": {
     "articleNotFound": {

@@ -1,4 +1,4 @@
-{
+﻿{
   "meta": {
     "title": "Knowledge Hub | FAQ Sistema CASA | iSperm Medical",
     "description": "FAQ complete sul sistema CASA, guide della 6a edizione OMS e risorse per l'analisi dello sperma. Approfondimenti esperti sugli analizzatori di morfologia degli spermatozoi."
@@ -1790,13 +1790,13 @@
   },
   "footer": {
     "company": "iSperm Medical",
-    "description": "iSperm Medical Ltd. si impegna a fornire soluzioni tecnologiche all'avanguardia nell'analisi dello sperma.",
+    "description": "iSperm Medical Limited si impegna a fornire soluzioni tecnologiche all'avanguardia nell'analisi dello sperma.",
     "quickLinks": "Link Rapidi",
     "contact": "Contatti",
     "email": "Email:",
     "address": "Indirizzo:",
     "fullAddress": "2F, Block B, Shenchengtou & Zhongcheng Life Science Park, Pingshan District, Shenzhen, Guangdong, Cina",
-    "rights": "© 2024 iSperm Medical Ltd. Tutti i diritti riservati."
+    "rights": "© 2024 iSperm Medical Limited. Tutti i diritti riservati."
   },
   "errors": {
     "articleNotFound": {
