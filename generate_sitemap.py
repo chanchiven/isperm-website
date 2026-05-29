@@ -36,6 +36,9 @@ FAQ_SLUGS = [
     'iso-23162-2021-laboratory-competence-guide',
     'eshre-guidelines-clinical-semen-examination',
     'asrm-male-infertility-evaluation-protocols',
+    'article-what-is-spermmaxxing-2026',
+    'article-sperm-health-biomarker-2026',
+    'article-male-fertility-crisis-2026',
 ]
 
 def generate_hreflang_links(path: str) -> str:

@@ -4,7 +4,7 @@ import {Link} from '@/i18n/routing';
 import {Navigation} from '@/components/Navigation';
 import {Footer} from '@/components/Footer';
 import Image from 'next/image';
-import {generateHreflangAlternates} from '@/i18n/hreflang';
+import {buildPageMetadata} from '@/lib/seo/metadata';
 
 export async function generateMetadata({
   params
@@ -28,11 +28,16 @@ export async function generateMetadata({
     const {locale} = resolvedParams;
     const t = await getTranslations({locale, namespace: 'products'});
 
-    return {
-      title: t('products.msqaMeta.title'),
-      description: t('products.msqaMeta.description'),
-      alternates: generateHreflangAlternates('/products/msqa-100', locale),
-    };
+    const title = t('products.msqaMeta.title');
+    const description = t('products.msqaMeta.description');
+
+    return buildPageMetadata({
+      locale,
+      path: '/products/msqa-100',
+      title,
+      description,
+      imageUrl: '/MSQA-100/msqa-100-1.webp',
+    });
   } catch (error) {
     console.error('Error in msqa-100 generateMetadata:', error);
     return {

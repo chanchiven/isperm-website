@@ -4,7 +4,7 @@ import {Link} from '@/i18n/routing';
 import {Navigation} from '@/components/Navigation';
 import {Footer} from '@/components/Footer';
 import {FAQArticleCard} from '@/components/FAQArticleCard';
-import {generateHreflangAlternates} from '@/i18n/hreflang';
+import {buildPageMetadata} from '@/lib/seo/metadata';
 
 export async function generateMetadata({
   params
@@ -28,11 +28,15 @@ export async function generateMetadata({
     const {locale} = resolvedParams;
     const t = await getTranslations({locale, namespace: 'faq'});
 
-    return {
-      title: t('meta.title'),
-      description: t('meta.description'),
-      alternates: generateHreflangAlternates('/faq', locale),
-    };
+    const title = t('meta.title');
+    const description = t('meta.description');
+
+    return buildPageMetadata({
+      locale,
+      path: '/faq',
+      title,
+      description,
+    });
   } catch (error) {
     console.error('Error in faq generateMetadata:', error);
     return {

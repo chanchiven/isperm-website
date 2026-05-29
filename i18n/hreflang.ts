@@ -8,10 +8,19 @@ import {routing} from './routing';
  * @param locale - 当前页面语言，用于生成 canonical URL（自引用 canonical 防止权重分散）
  * @returns alternates 对象，包含 canonical 和所有语言的 hreflang 链接
  */
+/** Path suffix with trailing slash, aligned with next.config trailingSlash: true */
+function pathSuffix(currentPath: string): string {
+  if (currentPath === '/' || currentPath === '') {
+    return '/';
+  }
+  const path = currentPath.startsWith('/') ? currentPath : `/${currentPath}`;
+  const trimmed = path.replace(/\/$/, '');
+  return `${trimmed}/`;
+}
+
 export function generateHreflangAlternates(currentPath: string = '/', locale?: string) {
   const baseUrl = 'https://www.isperm.com';
-  const path = currentPath.startsWith('/') ? currentPath : `/${currentPath}`;
-  const cleanPath = path === '/' ? '' : path.replace(/\/$/, '');
+  const suffix = pathSuffix(currentPath);
 
   const alternates: {canonical?: string; languages: Record<string, string>} = {
     languages: {}
@@ -19,15 +28,15 @@ export function generateHreflangAlternates(currentPath: string = '/', locale?: s
 
   // 为所有支持的语言生成 hreflang 链接
   routing.locales.forEach((loc) => {
-    alternates.languages[loc] = `${baseUrl}/${loc}${cleanPath}`;
+    alternates.languages[loc] = `${baseUrl}/${loc}${suffix}`;
   });
 
   // 添加 x-default：当用户语言不匹配时显示的默认页面（指向默认语言）
-  alternates.languages['x-default'] = `${baseUrl}/${routing.defaultLocale}${cleanPath}`;
+  alternates.languages['x-default'] = `${baseUrl}/${routing.defaultLocale}${suffix}`;
 
   // 添加 canonical 标签：指向当前页面的 URL，防止多语言版本权重分散
   if (locale && routing.locales.includes(locale as (typeof routing.locales)[number])) {
-    alternates.canonical = `${baseUrl}/${locale}${cleanPath}`;
+    alternates.canonical = `${baseUrl}/${locale}${suffix}`;
   }
 
   return alternates;

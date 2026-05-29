@@ -2,10 +2,18 @@ import {getMessages, getTranslations, setRequestLocale} from 'next-intl/server';
 import {Metadata} from 'next';
 import {notFound} from 'next/navigation';
 import {Link} from '@/i18n/routing';
+import {routing} from '@/i18n/routing';
 import {Navigation} from '@/components/Navigation';
 import {Footer} from '@/components/Footer';
-import {generateHreflangAlternates} from '@/i18n/hreflang';
-import {routing} from '@/i18n/routing';
+import {
+  ARTICLE_TITLE_SUFFIX,
+  buildPageMetadata,
+  buildPageUrl,
+} from '@/lib/seo/metadata';
+import {
+  getArticlePublishedIso,
+  isInvalidPublishedValue,
+} from '@/lib/seo/articleDates';
 
 // Helper function to add internal links for CASA and Nexus DX1 in HTML content
 function processContentWithInternalLinks(content: string, locale: string): string {
@@ -142,6 +150,8 @@ export async function generateMetadata({
   let title = t(`articles.${slug}.title`, {default: null});
   let subtitle = t(`articles.${slug}.subtitle`, {default: null});
   let metaDescription = t(`articles.${slug}.metaDescription`, {default: null});
+  let image = t(`articles.${slug}.image`, {default: null});
+  let published = t(`articles.${slug}.published`, {default: null});
   
   // If not found or is a key path, try English
   if (isInvalidTranslationKey(title, 'title', slug)) {
@@ -155,17 +165,35 @@ export async function generateMetadata({
   if (isInvalidTranslationKey(metaDescription, 'metaDescription', slug)) {
     metaDescription = tEn(`articles.${slug}.metaDescription`, {default: null});
   }
+
+  if (isInvalidTranslationKey(image, 'image', slug)) {
+    image = tEn(`articles.${slug}.image`, {default: null});
+  }
+
+  if (isInvalidPublishedValue(published, slug)) {
+    published = tEn(`articles.${slug}.published`, {default: null});
+  }
   
   // If article doesn't exist in JSON, trigger 404
   if (isInvalidTranslationKey(title, 'title', slug) || isInvalidTranslationKey(subtitle, 'subtitle', slug)) {
     notFound();
   }
 
-    return {
-      title: `${title} | ${t('meta.title', {default: 'Knowledge Hub | CASA System FAQs | iSperm Medical'})}`,
-      description: !isInvalidTranslationKey(metaDescription, 'metaDescription', slug) ? metaDescription : subtitle,
-      alternates: generateHreflangAlternates(`/faq/${slug}`, locale),
-    };
+  const pageTitle = `${title} ${ARTICLE_TITLE_SUFFIX}`;
+  const description = !isInvalidTranslationKey(metaDescription, 'metaDescription', slug)
+    ? metaDescription
+    : subtitle;
+  const imageUrl =
+    !isInvalidTranslationKey(image, 'image', slug) && image ? image : undefined;
+
+    return buildPageMetadata({
+      locale,
+      path: `/faq/${slug}`,
+      title: pageTitle,
+      description,
+      imageUrl,
+      imageAlt: title,
+    });
   } catch (error) {
     console.error('Error in faq/[slug] generateMetadata:', error);
     return {
@@ -332,12 +360,16 @@ export default async function FAQArticlePage({
     getArticleField(faqMessages, slug, 'references') ??
     getArticleField(faqMessagesEn, slug, 'references');
   const references = Array.isArray(referencesField) ? referencesField : null;
+
+  let publishedRaw = t(`articles.${slug}.published`, {default: null});
+  if (isInvalidPublishedValue(publishedRaw, slug)) {
+    publishedRaw = tEn(`articles.${slug}.published`, {default: null});
+  }
+  const publishedIso = getArticlePublishedIso(publishedRaw, slug);
   
-  // Build canonical URL for structured data
-  const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || 'https://www.isperm.com';
-  const articleUrl = `${baseUrl}/${locale}/faq/${slug}`;
-  const breadcrumbUrl = `${baseUrl}/${locale}`;
-  const knowledgeHubUrl = `${baseUrl}/${locale}/faq`;
+  const articleUrl = buildPageUrl(locale, `/faq/${slug}`);
+  const breadcrumbUrl = buildPageUrl(locale, '/');
+  const knowledgeHubUrl = buildPageUrl(locale, '/faq');
 
   // Generate Article Schema JSON-LD
   const articleSchema = {
@@ -354,11 +386,11 @@ export default async function FAQArticlePage({
       "name": "iSperm Medical",
       "logo": {
         "@type": "ImageObject",
-        "url": `${baseUrl}/iSperm%20LOGO.svg`
+        "url": `${process.env.NEXT_PUBLIC_BASE_URL || 'https://www.isperm.com'}/iSperm%20LOGO.svg`
       }
     },
-    "datePublished": new Date().toISOString(),
-    "dateModified": new Date().toISOString(),
+    "datePublished": publishedIso,
+    "dateModified": publishedIso,
     "mainEntityOfPage": {
       "@type": "WebPage",
       "@id": articleUrl

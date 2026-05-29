@@ -5,7 +5,7 @@ import {Navigation} from '@/components/Navigation';
 import {Footer} from '@/components/Footer';
 import {HoverableDiv} from '@/components/HoverableDiv';
 import Image from 'next/image';
-import {generateHreflangAlternates} from '@/i18n/hreflang';
+import {buildPageMetadata} from '@/lib/seo/metadata';
 
 export async function generateMetadata({
   params
@@ -29,11 +29,16 @@ export async function generateMetadata({
     const {locale} = resolvedParams;
     const t = await getTranslations({locale, namespace: 'products'});
 
-    return {
-      title: t('products.nexusMeta.title'),
-      description: t('products.nexusMeta.description'),
-      alternates: generateHreflangAlternates('/products/nexus-dx1', locale),
-    };
+    const title = t('products.nexusMeta.title');
+    const description = t('products.nexusMeta.description');
+
+    return buildPageMetadata({
+      locale,
+      path: '/products/nexus-dx1',
+      title,
+      description,
+      imageUrl: '/nexus-dx1.webp',
+    });
   } catch (error) {
     console.error('Error in nexus-dx1 generateMetadata:', error);
     return {

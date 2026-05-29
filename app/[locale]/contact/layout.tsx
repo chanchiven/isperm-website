@@ -1,6 +1,6 @@
 import {getTranslations} from 'next-intl/server';
 import {Metadata} from 'next';
-import {generateHreflangAlternates} from '@/i18n/hreflang';
+import {buildPageMetadata} from '@/lib/seo/metadata';
 
 export async function generateMetadata({
   params
@@ -31,11 +31,15 @@ export async function generateMetadata({
     const {locale} = resolvedParams;
     const t = await getTranslations({locale, namespace: 'contact'});
 
-    return {
-      title: t('meta.title'),
-      description: t('meta.description'),
-      alternates: generateHreflangAlternates('/contact', locale),
-    };
+    const title = t('meta.title');
+    const description = t('meta.description');
+
+    return buildPageMetadata({
+      locale,
+      path: '/contact',
+      title,
+      description,
+    });
   } catch (error) {
     console.error('Error in contact generateMetadata:', error);
     return {

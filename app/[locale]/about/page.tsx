@@ -3,7 +3,7 @@ import {Metadata} from 'next';
 import {Link} from '@/i18n/routing';
 import {Navigation} from '@/components/Navigation';
 import {Footer} from '@/components/Footer';
-import {generateHreflangAlternates} from '@/i18n/hreflang';
+import {buildPageMetadata} from '@/lib/seo/metadata';
 
 export async function generateMetadata({
   params
@@ -27,11 +27,16 @@ export async function generateMetadata({
     const {locale} = resolvedParams;
     const t = await getTranslations({locale, namespace: 'about'});
 
-    return {
-      title: t('meta.title'),
-      description: t('meta.description'),
-      alternates: generateHreflangAlternates('/about', locale),
-    };
+    const title = t('meta.title');
+    const description = t('meta.description');
+
+    return buildPageMetadata({
+      locale,
+      path: '/about',
+      title,
+      description,
+      imageUrl: '/About%20us%20(1).webp',
+    });
   } catch (error) {
     console.error('Error in about generateMetadata:', error);
     return {

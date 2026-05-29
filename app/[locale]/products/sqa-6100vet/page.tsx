@@ -4,7 +4,7 @@ import {Link} from '@/i18n/routing';
 import {Navigation} from '@/components/Navigation';
 import {Footer} from '@/components/Footer';
 import Image from 'next/image';
-import {generateHreflangAlternates} from '@/i18n/hreflang';
+import {buildPageMetadata} from '@/lib/seo/metadata';
 
 export async function generateMetadata({
   params
@@ -28,11 +28,16 @@ export async function generateMetadata({
     const {locale} = resolvedParams;
     const t = await getTranslations({locale, namespace: 'products'});
 
-    return {
-      title: t('products.sqavetMeta.title'),
-      description: t('products.sqavetMeta.description'),
-      alternates: generateHreflangAlternates('/products/sqa-6100vet', locale),
-    };
+    const title = t('products.sqavetMeta.title');
+    const description = t('products.sqavetMeta.description');
+
+    return buildPageMetadata({
+      locale,
+      path: '/products/sqa-6100vet',
+      title,
+      description,
+      imageUrl: '/sqa-6100vet-1.webp',
+    });
   } catch (error) {
     console.error('Error in sqa-6100vet generateMetadata:', error);
     return {

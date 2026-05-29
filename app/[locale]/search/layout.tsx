@@ -1,45 +1,60 @@
 import {getTranslations} from 'next-intl/server';
 import {Metadata} from 'next';
-import {generateHreflangAlternates} from '@/i18n/hreflang';
+import {buildPageMetadata} from '@/lib/seo/metadata';
 
 export async function generateMetadata({
-  params
+  params,
 }: {
   params: Promise<{locale: string}>;
 }): Promise<Metadata> {
   try {
     if (!params) {
-      return {
+      return buildPageMetadata({
+        locale: 'en',
+        path: '/search',
         title: 'Search | iSperm Medical',
         description: 'Search CASA systems and semen analyzers.',
-      };
+        robots: {index: false, follow: true},
+        includeHreflang: false,
+      });
     }
     const resolvedParams = await params;
-    if (!resolvedParams || !resolvedParams.locale) {
-      return {
+    if (!resolvedParams?.locale) {
+      return buildPageMetadata({
+        locale: 'en',
+        path: '/search',
         title: 'Search | iSperm Medical',
         description: 'Search CASA systems and semen analyzers.',
-      };
+        robots: {index: false, follow: true},
+        includeHreflang: false,
+      });
     }
     const {locale} = resolvedParams;
     const t = await getTranslations({locale, namespace: 'search'});
 
-    return {
+    return buildPageMetadata({
+      locale,
+      path: '/search',
       title: t('meta.title'),
       description: t('meta.description'),
-      alternates: generateHreflangAlternates('/search', locale),
-    };
+      robots: {index: false, follow: true},
+      includeHreflang: false,
+    });
   } catch (error) {
     console.error('Error in search generateMetadata:', error);
-    return {
+    return buildPageMetadata({
+      locale: 'en',
+      path: '/search',
       title: 'Search | iSperm Medical',
       description: 'Search CASA systems and semen analyzers.',
-    };
+      robots: {index: false, follow: true},
+      includeHreflang: false,
+    });
   }
 }
 
 export default function SearchLayout({
-  children
+  children,
 }: {
   children: React.ReactNode;
 }) {

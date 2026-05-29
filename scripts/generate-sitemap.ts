@@ -26,6 +26,9 @@ const FAQ_SLUGS = [
   'iso-23162-2021-laboratory-competence-guide',
   'eshre-guidelines-clinical-semen-examination',
   'asrm-male-infertility-evaluation-protocols',
+  'article-what-is-spermmaxxing-2026',
+  'article-sperm-health-biomarker-2026',
+  'article-male-fertility-crisis-2026',
 ];
 
 type PageType = 'home' | 'about' | 'contact' | 'products' | 'product' | 'faq' | 'faq-article' | 'search';
@@ -42,7 +45,6 @@ function buildEntries(): SitemapEntry[] {
     { path: '/contact', type: 'contact' },
     { path: '/products', type: 'products' },
     { path: '/faq', type: 'faq' },
-    { path: '/search', type: 'search' },
   ];
 
   for (const slug of PRODUCT_SLUGS) {
