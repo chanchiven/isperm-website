@@ -26,5 +26,5 @@ CASA, Semen Analyzer, Sperm Analyzer, Reproduction, Fertility, Sperm morphology,
 
 Email: market@isperm.com
 
-Address: 2F, Block B, Shenchengtou & Zhongcheng Life Science Park, Pingshan District, Shenzhen, Guangdong, China
+Address: ROOM 101A, 1/F., GENPLAS INDUSTRIAL BUILDING, 56 HOI YUEN ROAD, KWUN TONG, HONG KONG, CHINA.
 

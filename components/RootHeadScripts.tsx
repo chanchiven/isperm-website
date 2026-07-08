@@ -14,9 +14,9 @@ const organizationSchema = {
   },
   address: {
     '@type': 'PostalAddress',
-    streetAddress: '2F, Block B, Shenchengtou & Zhongcheng Life Science Park',
-    addressLocality: 'Pingshan District',
-    addressRegion: 'Shenzhen',
+    streetAddress: 'ROOM 101A, 1/F., GENPLAS INDUSTRIAL BUILDING, 56 HOI YUEN ROAD',
+    addressLocality: 'Kwun Tong',
+    addressRegion: 'Hong Kong',
     addressCountry: 'CN',
   },
   sameAs: [
